@@ -1,0 +1,739 @@
+{
+  "sample_no": "sample7",
+  "pdf_file_name": "page_44.pdf",
+  "alltext": "43.\n54 INT. GOVARDHAN'S HOUSE-HALL - NIGHT\nANJI speaks to GOVARDHAN, correcting himself when GOVARDHAN\nstarts to say something\nANJI\nEnti Sir, mee problem enti?\nGOVARDHAN\nIllu antha baaga kadagaali. Ippudu\nnuvvu em chesthunaavu ante naa\ndabba naaku ready chesi naakivvu\nANJI\nSir, ippudu ekkadiki eltaarandi,\npoddunna naalugu ayyindi\nGOVARDHAN\nNenu office ki ellipotaanu\nANJI\nSir office ippudu tiyyaaru\nGOVARDHAN\nTeestaaru. Taalaalu naa daggara\nunnayi. Aa information neeku\nanawasaram.\nANJI gets him his tiffin box and his Milton water flask.\nGOVARDHAN leaves.\nCUT TO:",
+  "words_ids": {
+    "1000": "43.",
+    "1001": "54",
+    "1002": "INT.",
+    "1003": "GOVARDHAN'S",
+    "1004": "HOUSE-HALL",
+    "1005": "-",
+    "1006": "NIGHT",
+    "1007": "ANJI",
+    "1008": "speaks",
+    "1009": "to",
+    "1010": "GOVARDHAN,",
+    "1011": "correcting",
+    "1012": "himself",
+    "1013": "when",
+    "1014": "GOVARDHAN",
+    "1015": "starts",
+    "1016": "to",
+    "1017": "say",
+    "1018": "something",
+    "1019": "ANJI",
+    "1020": "Enti",
+    "1021": "Sir,",
+    "1022": "mee",
+    "1023": "problem",
+    "1024": "enti?",
+    "1025": "GOVARDHAN",
+    "1026": "Illu",
+    "1027": "antha",
+    "1028": "baaga",
+    "1029": "kadagaali.",
+    "1030": "Ippudu",
+    "1031": "nuvvu",
+    "1032": "em",
+    "1033": "chesthunaavu",
+    "1034": "ante",
+    "1035": "naa",
+    "1036": "dabba",
+    "1037": "naaku",
+    "1038": "ready",
+    "1039": "chesi",
+    "1040": "naakivvu",
+    "1041": "ANJI",
+    "1042": "Sir,",
+    "1043": "ippudu",
+    "1044": "ekkadiki",
+    "1045": "eltaarandi,",
+    "1046": "poddunna",
+    "1047": "naalugu",
+    "1048": "ayyindi",
+    "1049": "GOVARDHAN",
+    "1050": "Nenu",
+    "1051": "office",
+    "1052": "ki",
+    "1053": "ellipotaanu",
+    "1054": "ANJI",
+    "1055": "Sir",
+    "1056": "office",
+    "1057": "ippudu",
+    "1058": "tiyyaaru",
+    "1059": "GOVARDHAN",
+    "1060": "Teestaaru.",
+    "1061": "Taalaalu",
+    "1062": "naa",
+    "1063": "daggara",
+    "1064": "unnayi.",
+    "1065": "Aa",
+    "1066": "information",
+    "1067": "neeku",
+    "1068": "anawasaram.",
+    "1069": "ANJI",
+    "1070": "gets",
+    "1071": "him",
+    "1072": "his",
+    "1073": "tiffin",
+    "1074": "box",
+    "1075": "and",
+    "1076": "his",
+    "1077": "Milton",
+    "1078": "water",
+    "1079": "flask.",
+    "1080": "GOVARDHAN",
+    "1081": "leaves.",
+    "1082": "CUT",
+    "1083": "TO:"
+  },
+  "llm_response": {
+    "scene_number": [
+      "54"
+    ],
+    "slugline": {
+      "type": [
+        "INT."
+      ],
+      "location": [
+        "GOVARDHAN'S HOUSE-HALL"
+      ],
+      "time_of_day": [
+        "NIGHT"
+      ]
+    },
+    "action_lines": [
+      "ANJI speaks to GOVARDHAN, correcting himself when GOVARDHAN\nstarts to say something",
+      "ANJI gets him his tiffin box and his Milton water flask.",
+      "GOVARDHAN leaves."
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "ANJI"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Enti Sir, mee problem enti?"
+        ]
+      },
+      {
+        "character": [
+          "GOVARDHAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Illu antha baaga kadagaali. Ippudu\nnuvvu em chesthunaavu ante naa\ndabba naaku ready chesi naakivvu"
+        ]
+      },
+      {
+        "character": [
+          "ANJI"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Sir, ippudu ekkadiki eltaarandi,\npoddunna naalugu ayyindi"
+        ]
+      },
+      {
+        "character": [
+          "GOVARDHAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Nenu office ki ellipotaanu"
+        ]
+      },
+      {
+        "character": [
+          "ANJI"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Sir office ippudu tiyyaaru"
+        ]
+      },
+      {
+        "character": [
+          "GOVARDHAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Teestaaru. Taalaalu naa daggara\nunnayi. Aa information neeku\nanawasaram."
+        ]
+      }
+    ],
+    "transitions": [
+      "CUT TO:"
+    ],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      [
+        {
+          "value": "54",
+          "ids": [
+            "1001"
+          ]
+        }
+      ]
+    ],
+    "slugline": {
+      "type": [
+        [
+          {
+            "value": "INT.",
+            "ids": [
+              "1002"
+            ]
+          }
+        ]
+      ],
+      "location": [
+        [
+          {
+            "value": "GOVARDHAN'S HOUSE-HALL",
+            "ids": [
+              "1003",
+              "1004"
+            ]
+          }
+        ]
+      ],
+      "time_of_day": [
+        [
+          {
+            "value": "NIGHT",
+            "ids": [
+              "1006"
+            ]
+          }
+        ]
+      ]
+    },
+    "action_lines": [
+      [
+        {
+          "value": "ANJI speaks to GOVARDHAN, correcting himself when GOVARDHAN starts to say something",
+          "ids": [
+            "1007",
+            "1008",
+            "1009",
+            "1010",
+            "1011",
+            "1012",
+            "1013",
+            "1014",
+            "1015",
+            "1016",
+            "1017",
+            "1018"
+          ]
+        }
+      ],
+      [
+        {
+          "value": "ANJI gets him his tiffin box and his Milton water flask.",
+          "ids": [
+            "1069",
+            "1070",
+            "1071",
+            "1072",
+            "1073",
+            "1074",
+            "1075",
+            "1076",
+            "1077",
+            "1078",
+            "1079"
+          ]
+        }
+      ],
+      [
+        {
+          "value": "GOVARDHAN leaves.",
+          "ids": [
+            "1080",
+            "1081"
+          ]
+        }
+      ]
+    ],
+    "dialogue": [
+      {
+        "character": [
+          [
+            {
+              "value": "ANJI",
+              "ids": [
+                "1007"
+              ]
+            },
+            {
+              "value": "ANJI",
+              "ids": [
+                "1019"
+              ]
+            },
+            {
+              "value": "ANJI",
+              "ids": [
+                "1041"
+              ]
+            },
+            {
+              "value": "ANJI",
+              "ids": [
+                "1054"
+              ]
+            },
+            {
+              "value": "ANJI",
+              "ids": [
+                "1069"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Enti Sir, mee problem enti?",
+              "ids": [
+                "1020",
+                "1021",
+                "1022",
+                "1023",
+                "1024"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1014"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1025"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1049"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1059"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1080"
+              ]
+            },
+            {
+              "value": "GOVARDHAN,",
+              "ids": [
+                "1010"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Illu antha baaga kadagaali. Ippudu nuvvu em chesthunaavu ante naa dabba naaku ready chesi naakivvu",
+              "ids": [
+                "1026",
+                "1027",
+                "1028",
+                "1029",
+                "1030",
+                "1031",
+                "1032",
+                "1033",
+                "1034",
+                "1035",
+                "1036",
+                "1037",
+                "1038",
+                "1039",
+                "1040"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "ANJI",
+              "ids": [
+                "1007"
+              ]
+            },
+            {
+              "value": "ANJI",
+              "ids": [
+                "1019"
+              ]
+            },
+            {
+              "value": "ANJI",
+              "ids": [
+                "1041"
+              ]
+            },
+            {
+              "value": "ANJI",
+              "ids": [
+                "1054"
+              ]
+            },
+            {
+              "value": "ANJI",
+              "ids": [
+                "1069"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Sir, ippudu ekkadiki eltaarandi, poddunna naalugu ayyindi",
+              "ids": [
+                "1042",
+                "1043",
+                "1044",
+                "1045",
+                "1046",
+                "1047",
+                "1048"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1014"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1025"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1049"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1059"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1080"
+              ]
+            },
+            {
+              "value": "GOVARDHAN,",
+              "ids": [
+                "1010"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Nenu office ki ellipotaanu",
+              "ids": [
+                "1050",
+                "1051",
+                "1052",
+                "1053"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "ANJI",
+              "ids": [
+                "1007"
+              ]
+            },
+            {
+              "value": "ANJI",
+              "ids": [
+                "1019"
+              ]
+            },
+            {
+              "value": "ANJI",
+              "ids": [
+                "1041"
+              ]
+            },
+            {
+              "value": "ANJI",
+              "ids": [
+                "1054"
+              ]
+            },
+            {
+              "value": "ANJI",
+              "ids": [
+                "1069"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Sir office ippudu tiyyaaru",
+              "ids": [
+                "1055",
+                "1056",
+                "1057",
+                "1058"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1014"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1025"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1049"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1059"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1080"
+              ]
+            },
+            {
+              "value": "GOVARDHAN,",
+              "ids": [
+                "1010"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Teestaaru. Taalaalu naa daggara unnayi. Aa information neeku anawasaram.",
+              "ids": [
+                "1060",
+                "1061",
+                "1062",
+                "1063",
+                "1064",
+                "1065",
+                "1066",
+                "1067",
+                "1068"
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "transitions": [
+      [
+        {
+          "value": "CUT TO:",
+          "ids": [
+            "1082",
+            "1083"
+          ]
+        }
+      ]
+    ],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

@@ -1,0 +1,1011 @@
+{
+  "page_dict": {
+    "alltext": "28.\nKENNEL OWNER\nVaccination aa?\nVEDA\nEvariki?\nKENNEL OWNER\nMee kukka ki?\nVEDA\nAkkareledhu\nKENNEL OWNER\nMari unko kukka ni konaddaaniki\nochaara?\nVEDA\nKadhu ammadaaniki vachanu\nKENNEL OWNER\nEvariki?\nVEDA\nMeekey\nKENNEL OWNER\nAhh..\nVEDA\nadhi kadhu boss, maa vedhavokadu\ndheenni naaku antagattaadu. Nanu\nposhinchukovadame kashtamuga\nundhi..dheenni ekkada poshisthanu\nHe points at another pug\nVEDA\nsir ! adhi dheeni thalli laaga\nundhi...thalli biddalni veru\ncheyakudadhu sir.\nKENNEL OWNER\nnijameenandi, thallini kuda meere\nkonukkondi.\nThe PUG barks\nVEDA\nNuvvu normuye....dheenni em cheyalo\ntheliyaka chasthunna, chethulo\ndabbulu levu\nKENNEL OWNER\nSoftware aa?",
+    "words_ids": {
+      "9983": "28.",
+      "5253": "KENNEL",
+      "6330": "OWNER",
+      "2419": "Vaccination",
+      "2941": "aa?",
+      "3247": "VEDA",
+      "6954": "Evariki?",
+      "1841": "KENNEL",
+      "8927": "OWNER",
+      "1938": "Mee",
+      "3823": "kukka",
+      "7388": "ki?",
+      "3706": "VEDA",
+      "9648": "Akkareledhu",
+      "2393": "KENNEL",
+      "6750": "OWNER",
+      "9282": "Mari",
+      "9887": "unko",
+      "8868": "kukka",
+      "4715": "ni",
+      "8722": "konaddaaniki",
+      "8387": "ochaara?",
+      "2839": "VEDA",
+      "1775": "Kadhu",
+      "7245": "ammadaaniki",
+      "2495": "vachanu",
+      "8084": "KENNEL",
+      "4080": "OWNER",
+      "9033": "Evariki?",
+      "4421": "VEDA",
+      "6980": "Meekey",
+      "6550": "KENNEL",
+      "3531": "OWNER",
+      "4398": "Ahh..",
+      "8375": "VEDA",
+      "1929": "adhi",
+      "5454": "kadhu",
+      "7778": "boss,",
+      "1611": "maa",
+      "9345": "vedhavokadu",
+      "9827": "dheenni",
+      "2022": "naaku",
+      "9155": "antagattaadu.",
+      "5559": "Nanu",
+      "5884": "poshinchukovadame",
+      "7686": "kashtamuga",
+      "7442": "undhi..dheenni",
+      "1672": "ekkada",
+      "2893": "poshisthanu",
+      "9961": "He",
+      "7699": "points",
+      "9549": "at",
+      "5900": "another",
+      "3386": "pug",
+      "6008": "VEDA",
+      "1504": "sir",
+      "3655": "!",
+      "6976": "adhi",
+      "1715": "dheeni",
+      "4768": "thalli",
+      "9429": "laaga",
+      "3162": "undhi...thalli",
+      "8310": "biddalni",
+      "9442": "veru",
+      "6763": "cheyakudadhu",
+      "5746": "sir.",
+      "6985": "KENNEL",
+      "5823": "OWNER",
+      "7960": "nijameenandi,",
+      "3028": "thallini",
+      "3284": "kuda",
+      "8616": "meere",
+      "3774": "konukkondi.",
+      "8219": "The",
+      "1203": "PUG",
+      "1948": "barks",
+      "1851": "VEDA",
+      "1743": "Nuvvu",
+      "3094": "normuye....dheenni",
+      "6516": "em",
+      "9701": "cheyalo",
+      "3420": "theliyaka",
+      "9542": "chasthunna,",
+      "6657": "chethulo",
+      "2913": "dabbulu",
+      "7977": "levu",
+      "6417": "KENNEL",
+      "4612": "OWNER",
+      "4403": "Software",
+      "4849": "aa?"
+    }
+  },
+  "sample_no": "sample3",
+  "pdf_file_name": "page_29.pdf",
+  "llm_response": {
+    "scene_number": [
+      28
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      "He points at another pug",
+      "The PUG barks"
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "KENNEL OWNER"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Vaccination aa?"
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Evariki?"
+        ]
+      },
+      {
+        "character": [
+          "KENNEL OWNER"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Mee kukka ki?"
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Akkareledhu"
+        ]
+      },
+      {
+        "character": [
+          "KENNEL OWNER"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Mari unko kukka ni konaddaaniki\nochaara?"
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Kadhu ammadaaniki vachanu"
+        ]
+      },
+      {
+        "character": [
+          "KENNEL OWNER"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Evariki?"
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Meekey"
+        ]
+      },
+      {
+        "character": [
+          "KENNEL OWNER"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Ahh.."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "adhi kadhu boss, maa vedhavokadu\ndheenni naaku antagattaadu. Nanu\nposhinchukovadame kashtamuga\nundhi..dheenni ekkada poshisthanu"
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "sir ! adhi dheeni thalli laaga\nundhi...thalli biddalni veru\ncheyakudadhu sir."
+        ]
+      },
+      {
+        "character": [
+          "KENNEL OWNER"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "nijameenandi, thallini kuda meere\nkonukkondi."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Nuvvu normuye....dheenni em cheyalo\ntheliyaka chasthunna, chethulo\ndabbulu levu"
+        ]
+      },
+      {
+        "character": [
+          "KENNEL OWNER"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Software aa?"
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      {
+        "value": 28,
+        "ids": []
+      }
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      {
+        "value": "He points at another pug",
+        "ids": [
+          9961,
+          7699,
+          9549,
+          5900,
+          3386,
+          1203
+        ]
+      },
+      {
+        "value": "The PUG barks",
+        "ids": [
+          3386,
+          8219,
+          1203,
+          1948
+        ]
+      }
+    ],
+    "dialogue": [
+      {
+        "character": [
+          {
+            "value": "KENNEL OWNER",
+            "ids": [
+              5253,
+              6330,
+              1841,
+              8927,
+              2393,
+              6750,
+              8084,
+              4080,
+              6550,
+              3531,
+              6985,
+              5823,
+              6417,
+              4612
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Vaccination aa?",
+            "ids": [
+              2419
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              1851,
+              2839
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              3247,
+              3706
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              4421,
+              6008
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Evariki?",
+            "ids": [
+              6954,
+              9033
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "KENNEL OWNER",
+            "ids": [
+              5253,
+              6330,
+              1841,
+              8927,
+              2393,
+              6750,
+              8084,
+              4080,
+              6550,
+              3531,
+              6985,
+              5823,
+              6417,
+              4612
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Mee kukka ki?",
+            "ids": [
+              1938,
+              3823,
+              8868
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              1851,
+              2839
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              3247,
+              3706
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              4421,
+              6008
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Akkareledhu",
+            "ids": [
+              9648
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "KENNEL OWNER",
+            "ids": [
+              5253,
+              6330,
+              1841,
+              8927,
+              2393,
+              6750,
+              8084,
+              4080,
+              6550,
+              3531,
+              6985,
+              5823,
+              6417,
+              4612
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Mari unko kukka ni konaddaaniki\nochaara?",
+            "ids": [
+              3823,
+              9282,
+              9887,
+              8868,
+              4715,
+              8722
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              1851,
+              2839
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              3247,
+              3706
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              4421,
+              6008
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Kadhu ammadaaniki vachanu",
+            "ids": [
+              1775,
+              7245,
+              2495,
+              5454
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "KENNEL OWNER",
+            "ids": [
+              5253,
+              6330,
+              1841,
+              8927,
+              2393,
+              6750,
+              8084,
+              4080,
+              6550,
+              3531,
+              6985,
+              5823,
+              6417,
+              4612
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Evariki?",
+            "ids": [
+              6954,
+              9033
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              1851,
+              2839
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              3247,
+              3706
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              4421,
+              6008
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Meekey",
+            "ids": [
+              6980
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "KENNEL OWNER",
+            "ids": [
+              5253,
+              6330,
+              1841,
+              8927,
+              2393,
+              6750,
+              8084,
+              4080,
+              6550,
+              3531,
+              6985,
+              5823,
+              6417,
+              4612
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Ahh..",
+            "ids": [
+              4398
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              1851,
+              2839
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              3247,
+              3706
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              4421,
+              6008
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "adhi kadhu boss, maa vedhavokadu\ndheenni naaku antagattaadu. Nanu\nposhinchukovadame kashtamuga\nundhi..dheenni ekkada poshisthanu",
+            "ids": [
+              1775,
+              1929,
+              5454,
+              1611,
+              9345,
+              9827,
+              2022,
+              5559,
+              5884,
+              7686,
+              1672,
+              2893,
+              6976
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              1851,
+              2839
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              3247,
+              3706
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              4421,
+              6008
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "sir ! adhi dheeni thalli laaga\nundhi...thalli biddalni veru\ncheyakudadhu sir.",
+            "ids": [
+              1929,
+              1504,
+              6976,
+              1715,
+              4768,
+              9429,
+              8310,
+              9442,
+              6763
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "KENNEL OWNER",
+            "ids": [
+              5253,
+              6330,
+              1841,
+              8927,
+              2393,
+              6750,
+              8084,
+              4080,
+              6550,
+              3531,
+              6985,
+              5823,
+              6417,
+              4612
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "nijameenandi, thallini kuda meere\nkonukkondi.",
+            "ids": [
+              3028,
+              3284,
+              8616
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              1851,
+              2839
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              3247,
+              3706
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              4421,
+              6008
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Nuvvu normuye....dheenni em cheyalo\ntheliyaka chasthunna, chethulo\ndabbulu levu",
+            "ids": [
+              9827,
+              1743,
+              6516,
+              9701,
+              3420,
+              6657,
+              2913,
+              7977
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "KENNEL OWNER",
+            "ids": [
+              5253,
+              6330,
+              1841,
+              8927,
+              2393,
+              6750,
+              8084,
+              4080,
+              6550,
+              3531,
+              6985,
+              5823,
+              6417,
+              4612
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Software aa?",
+            "ids": [
+              4403
+            ]
+          }
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

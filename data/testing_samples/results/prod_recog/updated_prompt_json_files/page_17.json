@@ -1,0 +1,347 @@
+{
+  "page_dict": {
+    "alltext": "16.\nBHANU looks at VEDA blankly, not realizing the farcical\nnature of the situation. VEDA rolls his eyes and looks at\nHARSHA, who is asleep on VEDA's floor, half sitting, half\nresting against the wall. BHANU pulls out a pastry with a\ncandle on it and looks at VEDA.\nBHANU\nAbba cake koye.\nBHANU blows the candle and holds VEDA's hand and makes him\ncut the pastry. The rest of them sing the birthday song.\nhalf-broken, half-slurring. Suddenly, VEDA lifts his leg from\nthe floor, seeing a PUG trying to lick his foot. BHANU looks\ndown at the PUG, picks it up and shoves it onto VEDA's hands.\nBHANU\nAa macha! Marchipoya idhigo ne\nbirthday gift.\nVEDA\nIdhentra?\nBHANU\n(matter of fact response)\nKukkara, bochhu leni hutch kukka.\nNeeke.\nVISHAL\nMaku peggu niku puggu.\nVEDA\nAedho thayda koduthundhi\nBHANU straps out the baby sling from VISHAL's chest and gives\nit to VEDA\nBHANU\nIdhigo unkoka gift...\nVEDA\n(irritated)\nGet out rascals. Pani paata ledhu.\nRathirlu janaalni disturb\ncheyadaaniki baildherutharu\noorimeeda ki.\nBHANU\n(pissed)\nAntavu ra antavu..friends ani kuda\nchudakundaa..potham ra\npotham..randra...\nBHANU pacifies the crying VISHAL, and throws a credit card at\nVEDA.",
+    "words_ids": {
+      "3262": "16.",
+      "5988": "BHANU",
+      "3486": "looks",
+      "3856": "at",
+      "9341": "VEDA",
+      "5912": "blankly,",
+      "3540": "up",
+      "2861": "realizing",
+      "6897": "straps",
+      "7991": "farcical",
+      "9555": "nature",
+      "1221": "of",
+      "6502": "the",
+      "4375": "situation.",
+      "1196": "VEDA",
+      "7507": "rolls",
+      "3201": "his",
+      "9284": "eyes",
+      "7433": "and",
+      "3457": "looks",
+      "8049": "at",
+      "8465": "HARSHA,",
+      "9081": "who",
+      "3314": "is",
+      "5728": "asleep",
+      "7526": "on",
+      "1439": "VEDA's",
+      "7961": "floor,",
+      "2627": "half",
+      "3974": "sitting,",
+      "5466": "half",
+      "2719": "resting",
+      "8543": "against",
+      "1303": "the",
+      "3657": "wall.",
+      "9303": "BHANU",
+      "7914": "pulls",
+      "7256": "out",
+      "3042": "a",
+      "1228": "pastry",
+      "4004": "with",
+      "9534": "a",
+      "4450": "candle",
+      "9422": "on",
+      "7226": "it",
+      "8523": "and",
+      "7778": "looks",
+      "6932": "at",
+      "6606": "VEDA.",
+      "8992": "BHANU",
+      "4956": "Abba",
+      "5668": "cake",
+      "6965": "koye.",
+      "1821": "BHANU",
+      "9156": "blows",
+      "9392": "the",
+      "8165": "candle",
+      "5854": "and",
+      "6365": "holds",
+      "5552": "VEDA's",
+      "9374": "hand",
+      "7066": "and",
+      "1570": "makes",
+      "6839": "him",
+      "2481": "cut",
+      "6338": "the",
+      "2527": "pastry.",
+      "8625": "The",
+      "7957": "rest",
+      "5468": "of",
+      "1840": "them",
+      "3857": "sing",
+      "1732": "the",
+      "8403": "birthday",
+      "2111": "song.",
+      "1323": "half-broken,",
+      "9589": "half-slurring.",
+      "5480": "Suddenly,",
+      "6231": "VEDA",
+      "3242": "lifts",
+      "7616": "his",
+      "5499": "leg",
+      "9869": "from",
+      "4270": "the",
+      "8803": "floor,",
+      "3492": "seeing",
+      "8668": "a",
+      "5729": "PUG",
+      "9949": "trying",
+      "4148": "to",
+      "9820": "lick",
+      "7930": "his",
+      "9693": "foot.",
+      "4416": "BHANU",
+      "5947": "looks",
+      "7039": "down",
+      "5954": "at",
+      "4211": "the",
+      "3404": "PUG,",
+      "8619": "picks",
+      "5198": "it",
+      "2015": "and",
+      "9472": "shoves",
+      "1740": "it",
+      "6108": "onto",
+      "6313": "VEDA's",
+      "2776": "hands.",
+      "9639": "BHANU",
+      "8019": "Aa",
+      "6528": "macha!",
+      "7920": "Marchipoya",
+      "6937": "idhigo",
+      "5991": "ne",
+      "4736": "birthday",
+      "5785": "gift.",
+      "5507": "VEDA",
+      "5170": "(irritated)",
+      "5855": "BHANU",
+      "9580": "(matter",
+      "1776": "of",
+      "8898": "fact",
+      "7121": "response)",
+      "3827": "Kukkara,",
+      "8457": "bochhu",
+      "6674": "leni",
+      "6726": "hutch",
+      "9785": "kuda",
+      "7889": "Neeke.",
+      "1927": "VISHAL",
+      "6351": "Maku",
+      "8259": "peggu",
+      "5955": "niku",
+      "1117": "puggu.",
+      "8283": "VEDA",
+      "2390": "Aedho",
+      "5027": "thayda",
+      "1761": "koduthundhi",
+      "1073": "BHANU",
+      "4737": "out",
+      "6778": "the",
+      "2396": "baby",
+      "4244": "sling",
+      "8860": "from",
+      "8144": "VISHAL's",
+      "4745": "chest",
+      "1634": "and",
+      "9089": "gives",
+      "9768": "it",
+      "8426": "to",
+      "7915": "VEDA",
+      "8479": "BHANU",
+      "6279": "Idhigo",
+      "4345": "unkoka",
+      "5622": "gift...",
+      "5786": "VEDA",
+      "3937": "Get",
+      "7737": "out",
+      "4171": "rascals.",
+      "2458": "Pani",
+      "9271": "paata",
+      "8588": "ledhu.",
+      "1002": "Rathirlu",
+      "4323": "janaalni",
+      "5113": "disturb",
+      "9478": "cheyadaaniki",
+      "8777": "baildherutharu",
+      "8333": "oorimeeda",
+      "6685": "ki.",
+      "1353": "BHANU",
+      "9296": "(pissed)",
+      "4162": "Antavu",
+      "4688": "ra",
+      "7319": "antavu..friends",
+      "8942": "ani",
+      "1520": "chudakundaa..potham",
+      "4124": "ra",
+      "5206": "potham..randra...",
+      "4330": "BHANU",
+      "5356": "pacifies",
+      "6547": "the",
+      "6213": "crying",
+      "4036": "VISHAL,",
+      "5684": "and",
+      "7517": "throws",
+      "5383": "a",
+      "4868": "credit",
+      "6410": "card",
+      "5400": "at",
+      "7904": "VEDA."
+    }
+  },
+  "sample_no": "sample1",
+  "pdf_file_name": "page_17.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "BHANU",
+        "VEDA",
+        "HARSHA",
+        "VISHAL"
+      ],
+      "SET": [],
+      "PROPS": [
+        "pastry",
+        "candle",
+        "credit card",
+        "baby sling"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [
+        "PUG",
+        "Kukkara, bochhu leni hutch kukka"
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "BHANU",
+          "ids": [
+            1073,
+            1353
+          ]
+        },
+        {
+          "value": "BHANU",
+          "ids": [
+            1821,
+            4330
+          ]
+        },
+        {
+          "value": "BHANU",
+          "ids": [
+            4416,
+            5855
+          ]
+        },
+        {
+          "value": "BHANU",
+          "ids": [
+            5988,
+            8479
+          ]
+        },
+        {
+          "value": "BHANU",
+          "ids": [
+            8992,
+            9303
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            1196,
+            5507
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            5786,
+            6231
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            7915,
+            8283
+          ]
+        },
+        {
+          "value": "HARSHA",
+          "ids": []
+        },
+        {
+          "value": "VISHAL",
+          "ids": [
+            1927
+          ]
+        }
+      ],
+      "SET": [],
+      "PROPS": [
+        {
+          "value": "pastry",
+          "ids": [
+            1228
+          ]
+        },
+        {
+          "value": "candle",
+          "ids": [
+            4450,
+            8165
+          ]
+        },
+        {
+          "value": "credit card",
+          "ids": [
+            4868,
+            6410
+          ]
+        },
+        {
+          "value": "baby sling",
+          "ids": [
+            2396,
+            4244
+          ]
+        }
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [
+        {
+          "value": "PUG",
+          "ids": [
+            5729
+          ]
+        },
+        {
+          "value": "Kukkara, bochhu leni hutch kukka",
+          "ids": [
+            8457,
+            6674,
+            6726
+          ]
+        }
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

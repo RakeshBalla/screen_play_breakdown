@@ -1,0 +1,419 @@
+{
+  "page_dict": {
+    "alltext": "16.\nBHANU looks at VEDA blankly, not realizing the farcical\nnature of the situation. VEDA rolls his eyes and looks at\nHARSHA, who is asleep on VEDA's floor, half sitting, half\nresting against the wall. BHANU pulls out a pastry with a\ncandle on it and looks at VEDA.\nBHANU\nAbba cake koye.\nBHANU blows the candle and holds VEDA's hand and makes him\ncut the pastry. The rest of them sing the birthday song.\nhalf-broken, half-slurring. Suddenly, VEDA lifts his leg from\nthe floor, seeing a PUG trying to lick his foot. BHANU looks\ndown at the PUG, picks it up and shoves it onto VEDA's hands.\nBHANU\nAa macha! Marchipoya idhigo ne\nbirthday gift.\nVEDA\nIdhentra?\nBHANU\n(matter of fact response)\nKukkara, bochhu leni hutch kukka.\nNeeke.\nVISHAL\nMaku peggu niku puggu.\nVEDA\nAedho thayda koduthundhi\nBHANU straps out the baby sling from VISHAL's chest and gives\nit to VEDA\nBHANU\nIdhigo unkoka gift...\nVEDA\n(irritated)\nGet out rascals. Pani paata ledhu.\nRathirlu janaalni disturb\ncheyadaaniki baildherutharu\noorimeeda ki.\nBHANU\n(pissed)\nAntavu ra antavu..friends ani kuda\nchudakundaa..potham ra\npotham..randra...\nBHANU pacifies the crying VISHAL, and throws a credit card at\nVEDA.",
+    "words_ids": {
+      "3350": "16.",
+      "6507": "BHANU",
+      "2668": "looks",
+      "4126": "at",
+      "1355": "VEDA",
+      "2903": "blankly,",
+      "9205": "not",
+      "5953": "realizing",
+      "2842": "the",
+      "7017": "farcical",
+      "8652": "nature",
+      "3241": "of",
+      "7444": "the",
+      "4430": "situation.",
+      "5375": "VEDA",
+      "3960": "rolls",
+      "8216": "his",
+      "5006": "eyes",
+      "4129": "and",
+      "3895": "looks",
+      "4326": "at",
+      "8050": "HARSHA,",
+      "8757": "who",
+      "8748": "is",
+      "6903": "asleep",
+      "4898": "on",
+      "9319": "VEDA's",
+      "5342": "floor,",
+      "6030": "half",
+      "2280": "sitting,",
+      "7822": "half",
+      "1237": "resting",
+      "3007": "against",
+      "3257": "the",
+      "2215": "wall.",
+      "5355": "BHANU",
+      "6676": "pulls",
+      "9884": "out",
+      "4787": "a",
+      "8592": "pastry",
+      "6244": "with",
+      "9378": "a",
+      "2582": "candle",
+      "8267": "on",
+      "8862": "it",
+      "2393": "and",
+      "9233": "looks",
+      "6870": "at",
+      "3999": "VEDA.",
+      "5965": "BHANU",
+      "4942": "Abba",
+      "2697": "cake",
+      "6942": "koye.",
+      "8125": "BHANU",
+      "5559": "blows",
+      "8869": "the",
+      "7480": "candle",
+      "6303": "and",
+      "2929": "holds",
+      "7086": "VEDA's",
+      "9045": "hand",
+      "4218": "and",
+      "1190": "makes",
+      "2494": "him",
+      "5180": "cut",
+      "1515": "the",
+      "4692": "pastry.",
+      "7370": "The",
+      "8376": "rest",
+      "2824": "of",
+      "3628": "them",
+      "1840": "sing",
+      "8647": "the",
+      "8112": "birthday",
+      "2576": "song.",
+      "7299": "half-broken,",
+      "9602": "half-slurring.",
+      "1404": "Suddenly,",
+      "7075": "VEDA",
+      "3422": "lifts",
+      "3338": "his",
+      "7297": "leg",
+      "8352": "from",
+      "1159": "the",
+      "6450": "floor,",
+      "5683": "seeing",
+      "4810": "a",
+      "5401": "PUG",
+      "5297": "trying",
+      "5978": "to",
+      "6520": "lick",
+      "8754": "his",
+      "8502": "foot.",
+      "4090": "BHANU",
+      "6428": "looks",
+      "6328": "down",
+      "9344": "at",
+      "4433": "the",
+      "4405": "PUG,",
+      "5899": "picks",
+      "4236": "it",
+      "4482": "up",
+      "3230": "and",
+      "1543": "shoves",
+      "1463": "it",
+      "5466": "onto",
+      "7263": "VEDA's",
+      "1058": "hands.",
+      "6036": "BHANU",
+      "1915": "Aa",
+      "9095": "macha!",
+      "2009": "Marchipoya",
+      "1694": "idhigo",
+      "6973": "ne",
+      "1790": "birthday",
+      "8703": "gift.",
+      "7511": "VEDA",
+      "2305": "Idhentra?",
+      "1152": "BHANU",
+      "6283": "(matter",
+      "6644": "of",
+      "8149": "fact",
+      "1998": "response)",
+      "7127": "Kukkara,",
+      "2070": "bochhu",
+      "7976": "leni",
+      "5657": "hutch",
+      "3473": "kukka.",
+      "8797": "Neeke.",
+      "9830": "VISHAL",
+      "1201": "Maku",
+      "1651": "peggu",
+      "4494": "niku",
+      "2821": "puggu.",
+      "2839": "VEDA",
+      "3661": "Aedho",
+      "2286": "thayda",
+      "4308": "koduthundhi",
+      "4295": "BHANU",
+      "5767": "straps",
+      "8368": "out",
+      "3337": "the",
+      "4908": "baby",
+      "2296": "sling",
+      "9048": "from",
+      "4823": "VISHAL's",
+      "2940": "chest",
+      "3946": "and",
+      "1769": "gives",
+      "9651": "it",
+      "1701": "to",
+      "1471": "VEDA",
+      "2448": "BHANU",
+      "4706": "Idhigo",
+      "7470": "unkoka",
+      "6586": "gift...",
+      "5012": "VEDA",
+      "6866": "(irritated)",
+      "6660": "Get",
+      "8676": "out",
+      "7908": "rascals.",
+      "6380": "Pani",
+      "3555": "paata",
+      "1786": "ledhu.",
+      "7750": "Rathirlu",
+      "6789": "janaalni",
+      "7162": "disturb",
+      "6685": "cheyadaaniki",
+      "6949": "baildherutharu",
+      "9179": "oorimeeda",
+      "5577": "ki.",
+      "1493": "BHANU",
+      "9228": "(pissed)",
+      "1116": "Antavu",
+      "6329": "ra",
+      "4570": "antavu..friends",
+      "3859": "ani",
+      "4360": "kuda",
+      "9529": "chudakundaa..potham",
+      "6825": "ra",
+      "1617": "potham..randra...",
+      "5854": "BHANU",
+      "6900": "pacifies",
+      "8337": "the",
+      "6538": "crying",
+      "2781": "VISHAL,",
+      "7889": "and",
+      "5716": "throws",
+      "4187": "a",
+      "8213": "credit",
+      "9100": "card",
+      "5729": "at",
+      "2327": "VEDA."
+    }
+  },
+  "sample_no": "sample1",
+  "pdf_file_name": "page_17.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "BHANU",
+        "VEDA",
+        "HARSHA",
+        "VISHAL"
+      ],
+      "CAST_INFO": [
+        "asleep",
+        "crying"
+      ],
+      "EXTRAS": [],
+      "PROPS": [
+        "pastry with a candle",
+        "credit card",
+        "baby sling"
+      ],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [],
+      "CAMERA": [],
+      "SOUND": [
+        "birthday song"
+      ],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [
+        "birthday song"
+      ],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [
+        "PUG"
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "BHANU",
+          "ids": [
+            1152,
+            1493
+          ]
+        },
+        {
+          "value": "BHANU",
+          "ids": [
+            2448,
+            4090
+          ]
+        },
+        {
+          "value": "BHANU",
+          "ids": [
+            4295,
+            5355
+          ]
+        },
+        {
+          "value": "BHANU",
+          "ids": [
+            5854,
+            5965
+          ]
+        },
+        {
+          "value": "BHANU",
+          "ids": [
+            6036,
+            6507
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            1355,
+            1471
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            2839,
+            5012
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            5375,
+            7075
+          ]
+        },
+        {
+          "value": "HARSHA",
+          "ids": []
+        },
+        {
+          "value": "VISHAL",
+          "ids": [
+            9830
+          ]
+        }
+      ],
+      "CAST_INFO": [
+        {
+          "value": "asleep",
+          "ids": [
+            6903
+          ]
+        },
+        {
+          "value": "crying",
+          "ids": [
+            6538
+          ]
+        }
+      ],
+      "EXTRAS": [],
+      "PROPS": [
+        {
+          "value": "pastry with a candle",
+          "ids": [
+            4787,
+            8592,
+            6244,
+            9378,
+            2582,
+            7480,
+            4810,
+            4187
+          ]
+        },
+        {
+          "value": "credit card",
+          "ids": [
+            8213,
+            9100
+          ]
+        },
+        {
+          "value": "baby sling",
+          "ids": [
+            4908,
+            2296
+          ]
+        }
+      ],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [],
+      "CAMERA": [],
+      "SOUND": [
+        {
+          "value": "birthday song",
+          "ids": [
+            8112,
+            1790
+          ]
+        }
+      ],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [
+        {
+          "value": "birthday song",
+          "ids": [
+            8112,
+            1790
+          ]
+        }
+      ],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [
+        {
+          "value": "PUG",
+          "ids": [
+            5401
+          ]
+        }
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  }
+}

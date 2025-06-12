@@ -1,0 +1,163 @@
+{
+  "ALL_TEXT": "50 INT. GOVARDHAN'S HOUSE-GUEST ROOM - NIGHT \nGOVARDHAN drags MARILYN to the guest room. GOVARDHAN tries to \nput her to bed. MARILYN pukes, and then crashes. GOVARDHAN \nfreezes at the thought her puking. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "50",
+    "1001": "INT.",
+    "1002": "GOVARDHAN'S",
+    "1003": "HOUSE-GUEST",
+    "1004": "ROOM",
+    "1005": "-",
+    "1006": "NIGHT",
+    "1007": "GOVARDHAN",
+    "1008": "drags",
+    "1009": "MARILYN",
+    "1010": "to",
+    "1011": "the",
+    "1012": "guest",
+    "1013": "room.",
+    "1014": "GOVARDHAN",
+    "1015": "tries",
+    "1016": "to",
+    "1017": "put",
+    "1018": "her",
+    "1019": "to",
+    "1020": "bed.",
+    "1021": "MARILYN",
+    "1022": "pukes,",
+    "1023": "and",
+    "1024": "then",
+    "1025": "crashes.",
+    "1026": "GOVARDHAN",
+    "1027": "freezes",
+    "1028": "at",
+    "1029": "the",
+    "1030": "thought",
+    "1031": "her",
+    "1032": "puking.",
+    "1033": "CUT",
+    "1034": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "GOVARDHAN",
+        "MARILYN"
+      ],
+      "SET": [
+        "INT. GOVARDHAN'S HOUSE-GUEST ROOM - NIGHT"
+      ],
+      "PROPS": [
+        "bed"
+      ],
+      "STUNTS": [
+        "drags MARILYN",
+        "crashes"
+      ],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        "pukes"
+      ]
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1007"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1014"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1026"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "MARILYN",
+            "ids": [
+              "1009"
+            ]
+          },
+          {
+            "value": "MARILYN",
+            "ids": [
+              "1021"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "INT. GOVARDHAN'S HOUSE-GUEST ROOM - NIGHT",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005",
+              "1006"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "bed.",
+            "ids": [
+              "1020"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [
+        [
+          {
+            "value": "drags MARILYN",
+            "ids": [
+              "1008",
+              "1009"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "crashes.",
+            "ids": [
+              "1025"
+            ]
+          }
+        ]
+      ],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        [
+          {
+            "value": "pukes,",
+            "ids": [
+              "1022"
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}

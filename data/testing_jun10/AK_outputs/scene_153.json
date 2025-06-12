@@ -1,0 +1,296 @@
+{
+  "ALL_TEXT": "153 INT. GOVARDHAN'S BUILDING - DAY \nA TV screen airs footage from the truck and DCM accident. \nTV VOICE \n..taaja vaartha...oka gurthu telini \nvyakthi addam raavadam valla oka \nkhaali DCM mariyu vividha rakhaala \naina mandu seesaalu ravaana \nchestunna truck deekhoni truck \ntiragapadipoindi...daggarilo unna \noori janaalaki samachaaram andadam \ntoh ooranta akkadiki cherukoni nadi \nroad ni bar kindha \nmaarchesaaru...police yantrangam \nsamasya ni adupuloki teesukoni \nraavadam lo vipalam ayyaaru... \nThe sleeping INUMAYYA rises up sharply on hearing this, and \nstarts running. The TV continues \nTV VOICE \nKotthaga andhina \nvaartha...\u201dChinthan Baba\u201d aney oka \nnakili Baba nu policelu ivaal Goa \nlo arrest chesaaru...tana pai \ndabbula havaala chargu undi Goa \nCalangute beach lo foreigners ni \nayina oka kotha vyaapaaram lo ki \nrammani namminchi mosam chesadu. Aa \nkottha vyaapaaram enti antaara? \nTV VOICE \n\u201cOka prapancham ne maarcheese \nmatham...adhi mee vayasu nu 1000 \nsamvatsaraalu ki penchutundhi \nanta...adhi kuda utti 20,000 rs oka \nnela ki\u201d...Chinthan Baba 7 \nsamvatsaraalu Cherlapalli central \njail lo gaduputaaru...vyavasaayam \nduty apacheppaaru ayina lo \nparvarthanam thesukoni \nraavadaaniki... \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "153",
+    "1001": "INT.",
+    "1002": "GOVARDHAN'S",
+    "1003": "BUILDING",
+    "1004": "-",
+    "1005": "DAY",
+    "1006": "A",
+    "1007": "TV",
+    "1008": "screen",
+    "1009": "airs",
+    "1010": "footage",
+    "1011": "from",
+    "1012": "the",
+    "1013": "truck",
+    "1014": "and",
+    "1015": "DCM",
+    "1016": "accident.",
+    "1017": "TV",
+    "1018": "VOICE",
+    "1019": "..taaja",
+    "1020": "vaartha...oka",
+    "1021": "gurthu",
+    "1022": "telini",
+    "1023": "vyakthi",
+    "1024": "addam",
+    "1025": "raavadam",
+    "1026": "valla",
+    "1027": "oka",
+    "1028": "khaali",
+    "1029": "DCM",
+    "1030": "mariyu",
+    "1031": "vividha",
+    "1032": "rakhaala",
+    "1033": "aina",
+    "1034": "mandu",
+    "1035": "seesaalu",
+    "1036": "ravaana",
+    "1037": "chestunna",
+    "1038": "truck",
+    "1039": "deekhoni",
+    "1040": "truck",
+    "1041": "tiragapadipoindi...daggarilo",
+    "1042": "unna",
+    "1043": "oori",
+    "1044": "janaalaki",
+    "1045": "samachaaram",
+    "1046": "andadam",
+    "1047": "toh",
+    "1048": "ooranta",
+    "1049": "akkadiki",
+    "1050": "cherukoni",
+    "1051": "nadi",
+    "1052": "road",
+    "1053": "ni",
+    "1054": "bar",
+    "1055": "kindha",
+    "1056": "maarchesaaru...police",
+    "1057": "yantrangam",
+    "1058": "samasya",
+    "1059": "ni",
+    "1060": "adupuloki",
+    "1061": "teesukoni",
+    "1062": "raavadam",
+    "1063": "lo",
+    "1064": "vipalam",
+    "1065": "ayyaaru...",
+    "1066": "The",
+    "1067": "sleeping",
+    "1068": "INUMAYYA",
+    "1069": "rises",
+    "1070": "up",
+    "1071": "sharply",
+    "1072": "on",
+    "1073": "hearing",
+    "1074": "this,",
+    "1075": "and",
+    "1076": "starts",
+    "1077": "running.",
+    "1078": "The",
+    "1079": "TV",
+    "1080": "continues",
+    "1081": "TV",
+    "1082": "VOICE",
+    "1083": "Kotthaga",
+    "1084": "andhina",
+    "1085": "vaartha...\u201dChinthan",
+    "1086": "Baba\u201d",
+    "1087": "aney",
+    "1088": "oka",
+    "1089": "nakili",
+    "1090": "Baba",
+    "1091": "nu",
+    "1092": "policelu",
+    "1093": "ivaal",
+    "1094": "Goa",
+    "1095": "lo",
+    "1096": "arrest",
+    "1097": "chesaaru...tana",
+    "1098": "pai",
+    "1099": "dabbula",
+    "1100": "havaala",
+    "1101": "chargu",
+    "1102": "undi",
+    "1103": "Goa",
+    "1104": "Calangute",
+    "1105": "beach",
+    "1106": "lo",
+    "1107": "foreigners",
+    "1108": "ni",
+    "1109": "ayina",
+    "1110": "oka",
+    "1111": "kotha",
+    "1112": "vyaapaaram",
+    "1113": "lo",
+    "1114": "ki",
+    "1115": "rammani",
+    "1116": "namminchi",
+    "1117": "mosam",
+    "1118": "chesadu.",
+    "1119": "Aa",
+    "1120": "kottha",
+    "1121": "vyaapaaram",
+    "1122": "enti",
+    "1123": "antaara?",
+    "1124": "TV",
+    "1125": "VOICE",
+    "1126": "\u201cOka",
+    "1127": "prapancham",
+    "1128": "ne",
+    "1129": "maarcheese",
+    "1130": "matham...adhi",
+    "1131": "mee",
+    "1132": "vayasu",
+    "1133": "nu",
+    "1134": "1000",
+    "1135": "samvatsaraalu",
+    "1136": "ki",
+    "1137": "penchutundhi",
+    "1138": "anta...adhi",
+    "1139": "kuda",
+    "1140": "utti",
+    "1141": "20,000",
+    "1142": "rs",
+    "1143": "oka",
+    "1144": "nela",
+    "1145": "ki\u201d...Chinthan",
+    "1146": "Baba",
+    "1147": "7",
+    "1148": "samvatsaraalu",
+    "1149": "Cherlapalli",
+    "1150": "central",
+    "1151": "jail",
+    "1152": "lo",
+    "1153": "gaduputaaru...vyavasaayam",
+    "1154": "duty",
+    "1155": "apacheppaaru",
+    "1156": "ayina",
+    "1157": "lo",
+    "1158": "parvarthanam",
+    "1159": "thesukoni",
+    "1160": "raavadaaniki...",
+    "1161": "CUT",
+    "1162": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "INUMAYYA"
+      ],
+      "SET": [
+        "INT. GOVARDHAN'S BUILDING - DAY"
+      ],
+      "PROPS": [
+        "TV screen"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        "truck",
+        "DCM"
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        "TV VOICE"
+      ]
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "INUMAYYA",
+            "ids": [
+              "1068"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "INT. GOVARDHAN'S BUILDING - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "TV screen",
+            "ids": [
+              "1007",
+              "1008"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        [
+          {
+            "value": "truck",
+            "ids": [
+              "1013"
+            ]
+          },
+          {
+            "value": "truck",
+            "ids": [
+              "1038"
+            ]
+          },
+          {
+            "value": "truck",
+            "ids": [
+              "1040"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "DCM",
+            "ids": [
+              "1015"
+            ]
+          },
+          {
+            "value": "DCM",
+            "ids": [
+              "1029"
+            ]
+          }
+        ]
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        [
+          {
+            "value": "TV VOICE",
+            "ids": [
+              "1017",
+              "1018"
+            ]
+          },
+          {
+            "value": "TV VOICE",
+            "ids": [
+              "1081",
+              "1082"
+            ]
+          },
+          {
+            "value": "TV VOICE",
+            "ids": [
+              "1124",
+              "1125"
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}

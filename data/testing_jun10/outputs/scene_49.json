@@ -1,0 +1,164 @@
+{
+    "ALL_TEXT": "49 INT. PUB - NIGHT\nVEDA calls the bartender and orders another drink for\nhimself. By the end of the song, SULOCHANA leaves the place\nwith her friends after VEDA and her exchange some looks.\nGOVARDHAN realizes he is stuck in the ladies toilet. MARILYN\nis having loads of fun and is almost sloshed - by the end of\nthe song she is dragged along grudgingly by GOVARDHAN. SUBBA\nRAJU is confounded when he realizes SHAM GOPAL VERMA has\nleft. VEDA is happy to have made the sale and is having a\ngood time; he is thrown out of the pub because he doesn\u2019t\nhave money to pay up.\nCUT TO:",
+    "WORDS_ID": "{\n\"1000\": \"49\",\n\"1001\": \"INT.\",\n\"1002\": \"PUB\",\n\"1003\": \"-\",\n\"1004\": \"NIGHT\",\n\"1005\": \"VEDA\",\n\"1006\": \"calls\",\n\"1007\": \"the\",\n\"1008\": \"bartender\",\n\"1009\": \"and\",\n\"1010\": \"orders\",\n\"1011\": \"another\",\n\"1012\": \"drink\",\n\"1013\": \"for\",\n\"1014\": \"himself.\",\n\"1015\": \"By\",\n\"1016\": \"the\",\n\"1017\": \"end\",\n\"1018\": \"of\",\n\"1019\": \"the\",\n\"1020\": \"song,\",\n\"1021\": \"SULOCHANA\",\n\"1022\": \"leaves\",\n\"1023\": \"the\",\n\"1024\": \"place\",\n\"1025\": \"with\",\n\"1026\": \"her\",\n\"1027\": \"friends\",\n\"1028\": \"after\",\n\"1029\": \"VEDA\",\n\"1030\": \"and\",\n\"1031\": \"her\",\n\"1032\": \"exchange\",\n\"1033\": \"some\",\n\"1034\": \"looks.\",\n\"1035\": \"GOVARDHAN\",\n\"1036\": \"realizes\",\n\"1037\": \"he\",\n\"1038\": \"is\",\n\"1039\": \"stuck\",\n\"1040\": \"in\",\n\"1041\": \"the\",\n\"1042\": \"ladies\",\n\"1043\": \"toilet.\",\n\"1044\": \"MARILYN\",\n\"1045\": \"is\",\n\"1046\": \"having\",\n\"1047\": \"loads\",\n\"1048\": \"of\",\n\"1049\": \"fun\",\n\"1050\": \"and\",\n\"1051\": \"is\",\n\"1052\": \"almost\",\n\"1053\": \"sloshed\",\n\"1054\": \"-\",\n\"1055\": \"by\",\n\"1056\": \"the\",\n\"1057\": \"end\",\n\"1058\": \"of\",\n\"1059\": \"the\",\n\"1060\": \"song\",\n\"1061\": \"she\",\n\"1062\": \"is\",\n\"1063\": \"dragged\",\n\"1064\": \"along\",\n\"1065\": \"grudgingly\",\n\"1066\": \"by\",\n\"1067\": \"GOVARDHAN.\",\n\"1068\": \"SUBBA\",\n\"1069\": \"RAJU\",\n\"1070\": \"is\",\n\"1071\": \"confounded\",\n\"1072\": \"when\",\n\"1073\": \"he\",\n\"1074\": \"realizes\",\n\"1075\": \"SHAM\",\n\"1076\": \"GOPAL\",\n\"1077\": \"VERMA\",\n\"1078\": \"has\",\n\"1079\": \"left.\",\n\"1080\": \"VEDA\",\n\"1081\": \"is\",\n\"1082\": \"happy\",\n\"1083\": \"to\",\n\"1084\": \"have\",\n\"1085\": \"made\",\n\"1086\": \"the\",\n\"1087\": \"sale\",\n\"1088\": \"and\",\n\"1089\": \"is\",\n\"1090\": \"having\",\n\"1091\": \"a\",\n\"1092\": \"good\",\n\"1093\": \"time;\",\n\"1094\": \"he\",\n\"1095\": \"is\",\n\"1096\": \"thrown\",\n\"1097\": \"out\",\n\"1098\": \"of\",\n\"1099\": \"the\",\n\"1100\": \"pub\",\n\"1101\": \"because\",\n\"1102\": \"he\",\n\"1103\": \"doesn\\u2019t\",\n\"1104\": \"have\",\n\"1105\": \"money\",\n\"1106\": \"to\",\n\"1107\": \"pay\",\n\"1108\": \"up.\",\n\"1109\": \"CUT\",\n\"1110\": \"TO:\"\n}",
+    "llm_result": {
+        "production_categories": {
+            "CAST": [
+                "VEDA",
+                "SULOCHANA",
+                "GOVARDHAN",
+                "MARILYN",
+                "SUBBA RAJU",
+                "SHAM GOPAL VERMA"
+            ],
+            "SET": [
+                "INT. PUB - NIGHT"
+            ],
+            "PROPS": [
+                "drink"
+            ],
+            "STUNTS": [
+                "thrown out of the pub"
+            ],
+            "VEHICLES": [],
+            "ANIMALS": [],
+            "NUDITY": [],
+            "GREENERY": [],
+            "SOUND": [
+                "song"
+            ]
+        }
+    },
+    "predicted_word_ids": {
+        "production_categories": {
+            "CAST": [
+                [
+                    {
+                        "value": "VEDA",
+                        "ids": [
+                            "1005"
+                        ]
+                    },
+                    {
+                        "value": "VEDA",
+                        "ids": [
+                            "1029"
+                        ]
+                    },
+                    {
+                        "value": "VEDA",
+                        "ids": [
+                            "1080"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "value": "SULOCHANA",
+                        "ids": [
+                            "1021"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "value": "GOVARDHAN",
+                        "ids": [
+                            "1035"
+                        ]
+                    },
+                    {
+                        "value": "GOVARDHAN.",
+                        "ids": [
+                            "1067"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "value": "MARILYN",
+                        "ids": [
+                            "1044"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "value": "SUBBA RAJU",
+                        "ids": [
+                            "1068",
+                            "1069"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "value": "SHAM GOPAL VERMA",
+                        "ids": [
+                            "1075",
+                            "1076",
+                            "1077"
+                        ]
+                    }
+                ]
+            ],
+            "SET": [
+                [
+                    {
+                        "value": "INT. PUB - NIGHT",
+                        "ids": [
+                            "1001",
+                            "1002",
+                            "1003",
+                            "1004"
+                        ]
+                    }
+                ]
+            ],
+            "PROPS": [
+                [
+                    {
+                        "value": "drink",
+                        "ids": [
+                            "1012"
+                        ]
+                    }
+                ]
+            ],
+            "STUNTS": [
+                [
+                    {
+                        "value": "thrown out of the pub",
+                        "ids": [
+                            "1096",
+                            "1097",
+                            "1098",
+                            "1099",
+                            "1100"
+                        ]
+                    }
+                ]
+            ],
+            "VEHICLES": [],
+            "ANIMALS": [],
+            "NUDITY": [],
+            "GREENERY": [],
+            "SOUND": [
+                [
+                    {
+                        "value": "song",
+                        "ids": [
+                            "1060"
+                        ]
+                    },
+                    {
+                        "value": "song,",
+                        "ids": [
+                            "1020"
+                        ]
+                    }
+                ]
+            ]
+        }
+    }
+}

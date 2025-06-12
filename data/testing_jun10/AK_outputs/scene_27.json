@@ -1,0 +1,440 @@
+{
+  "ALL_TEXT": "27 EXT. A BUSY TRAFFIC SIGNAL - DAY \nAn old beetle ragtop stands still at a busy traffic signal. \nSULOCHANA, a young hipster looking woman, is driving the car. \nHer cell phone rings. \nSULOCHANA \nHello \nMARKETEER (O.S.) \nHello Madam! Neenu BDBI bank ninchi \ncall chesthunnaanu madam. Meeru maa \nprivileged customer avaddam valla \nlow interest rate loans ki meeru \neligible madam. \nSULOCHANA \nLoan aa... \nMARKETEER (O.S.) \nAvunu madam home loan, vehicle \nloan, education loan, EMI... \nThe signal turns green, but SULOCHANA is still on the phone, \nnot driving. \nSULOCHANA \nNaaku meeru chepinavi anni unnaayi \nkaani shopping ke dabbulu levu... \noka naalugu lakshalu shopping loan \nisthaara? \nThe line goes dead. \nSULOCHANA \nHello...hello \nShe dials the number back. The screen splits into two \nshowing the marketeer on one side of the screen and SULOCHANA \non the other. \nSULOCHANA \nHello! Naa peru SULOCHANA. Nenu \nTV99 lo journalist ni. Naaku loan \nkavali... \nAnother executive points at the marketeer\u2019s screen - \"don\u2019t \nanswer!\" \nMARKETEER \nWrong number. \nThe MARKETEER hangs up. The traffic around SULOCHANA cuss her \nout; all of it has come to a standstill because of her. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "27",
+    "1001": "EXT.",
+    "1002": "A",
+    "1003": "BUSY",
+    "1004": "TRAFFIC",
+    "1005": "SIGNAL",
+    "1006": "-",
+    "1007": "DAY",
+    "1008": "An",
+    "1009": "old",
+    "1010": "beetle",
+    "1011": "ragtop",
+    "1012": "stands",
+    "1013": "still",
+    "1014": "at",
+    "1015": "a",
+    "1016": "busy",
+    "1017": "traffic",
+    "1018": "signal.",
+    "1019": "SULOCHANA,",
+    "1020": "a",
+    "1021": "young",
+    "1022": "hipster",
+    "1023": "looking",
+    "1024": "woman,",
+    "1025": "is",
+    "1026": "driving",
+    "1027": "the",
+    "1028": "car.",
+    "1029": "Her",
+    "1030": "cell",
+    "1031": "phone",
+    "1032": "rings.",
+    "1033": "SULOCHANA",
+    "1034": "Hello",
+    "1035": "MARKETEER",
+    "1036": "(O.S.)",
+    "1037": "Hello",
+    "1038": "Madam!",
+    "1039": "Neenu",
+    "1040": "BDBI",
+    "1041": "bank",
+    "1042": "ninchi",
+    "1043": "call",
+    "1044": "chesthunnaanu",
+    "1045": "madam.",
+    "1046": "Meeru",
+    "1047": "maa",
+    "1048": "privileged",
+    "1049": "customer",
+    "1050": "avaddam",
+    "1051": "valla",
+    "1052": "low",
+    "1053": "interest",
+    "1054": "rate",
+    "1055": "loans",
+    "1056": "ki",
+    "1057": "meeru",
+    "1058": "eligible",
+    "1059": "madam.",
+    "1060": "SULOCHANA",
+    "1061": "Loan",
+    "1062": "aa...",
+    "1063": "MARKETEER",
+    "1064": "(O.S.)",
+    "1065": "Avunu",
+    "1066": "madam",
+    "1067": "home",
+    "1068": "loan,",
+    "1069": "vehicle",
+    "1070": "loan,",
+    "1071": "education",
+    "1072": "loan,",
+    "1073": "EMI...",
+    "1074": "The",
+    "1075": "signal",
+    "1076": "turns",
+    "1077": "green,",
+    "1078": "but",
+    "1079": "SULOCHANA",
+    "1080": "is",
+    "1081": "still",
+    "1082": "on",
+    "1083": "the",
+    "1084": "phone,",
+    "1085": "not",
+    "1086": "driving.",
+    "1087": "SULOCHANA",
+    "1088": "Naaku",
+    "1089": "meeru",
+    "1090": "chepinavi",
+    "1091": "anni",
+    "1092": "unnaayi",
+    "1093": "kaani",
+    "1094": "shopping",
+    "1095": "ke",
+    "1096": "dabbulu",
+    "1097": "levu...",
+    "1098": "oka",
+    "1099": "naalugu",
+    "1100": "lakshalu",
+    "1101": "shopping",
+    "1102": "loan",
+    "1103": "isthaara?",
+    "1104": "The",
+    "1105": "line",
+    "1106": "goes",
+    "1107": "dead.",
+    "1108": "SULOCHANA",
+    "1109": "Hello...hello",
+    "1110": "She",
+    "1111": "dials",
+    "1112": "the",
+    "1113": "number",
+    "1114": "back.",
+    "1115": "The",
+    "1116": "screen",
+    "1117": "splits",
+    "1118": "into",
+    "1119": "two",
+    "1120": "showing",
+    "1121": "the",
+    "1122": "marketeer",
+    "1123": "on",
+    "1124": "one",
+    "1125": "side",
+    "1126": "of",
+    "1127": "the",
+    "1128": "screen",
+    "1129": "and",
+    "1130": "SULOCHANA",
+    "1131": "on",
+    "1132": "the",
+    "1133": "other.",
+    "1134": "SULOCHANA",
+    "1135": "Hello!",
+    "1136": "Naa",
+    "1137": "peru",
+    "1138": "SULOCHANA.",
+    "1139": "Nenu",
+    "1140": "TV99",
+    "1141": "lo",
+    "1142": "journalist",
+    "1143": "ni.",
+    "1144": "Naaku",
+    "1145": "loan",
+    "1146": "kavali...",
+    "1147": "Another",
+    "1148": "executive",
+    "1149": "points",
+    "1150": "at",
+    "1151": "the",
+    "1152": "marketeer\u2019s",
+    "1153": "screen",
+    "1154": "-",
+    "1155": "\"don\u2019t",
+    "1156": "answer!\"",
+    "1157": "MARKETEER",
+    "1158": "Wrong",
+    "1159": "number.",
+    "1160": "The",
+    "1161": "MARKETEER",
+    "1162": "hangs",
+    "1163": "up.",
+    "1164": "The",
+    "1165": "traffic",
+    "1166": "around",
+    "1167": "SULOCHANA",
+    "1168": "cuss",
+    "1169": "her",
+    "1170": "out;",
+    "1171": "all",
+    "1172": "of",
+    "1173": "it",
+    "1174": "has",
+    "1175": "come",
+    "1176": "to",
+    "1177": "a",
+    "1178": "standstill",
+    "1179": "because",
+    "1180": "of",
+    "1181": "her.",
+    "1182": "CUT",
+    "1183": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "SULOCHANA",
+        "MARKETEER",
+        "Another executive",
+        "traffic"
+      ],
+      "SET": [
+        "EXT. A BUSY TRAFFIC SIGNAL - DAY"
+      ],
+      "PROPS": [
+        "cell phone",
+        "screen",
+        "marketeer\u2019s screen"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        "old beetle ragtop"
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        "rings",
+        "The line goes dead"
+      ]
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1033"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1060"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1079"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1087"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1108"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1130"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1134"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1167"
+            ]
+          },
+          {
+            "value": "SULOCHANA,",
+            "ids": [
+              "1019"
+            ]
+          },
+          {
+            "value": "SULOCHANA.",
+            "ids": [
+              "1138"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "MARKETEER",
+            "ids": [
+              "1035"
+            ]
+          },
+          {
+            "value": "MARKETEER",
+            "ids": [
+              "1063"
+            ]
+          },
+          {
+            "value": "MARKETEER",
+            "ids": [
+              "1157"
+            ]
+          },
+          {
+            "value": "MARKETEER",
+            "ids": [
+              "1161"
+            ]
+          },
+          {
+            "value": "marketeer",
+            "ids": [
+              "1122"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "Another executive",
+            "ids": [
+              "1147",
+              "1148"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "traffic",
+            "ids": [
+              "1017"
+            ]
+          },
+          {
+            "value": "traffic",
+            "ids": [
+              "1165"
+            ]
+          },
+          {
+            "value": "TRAFFIC",
+            "ids": [
+              "1004"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. A BUSY TRAFFIC SIGNAL - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005",
+              "1006",
+              "1007"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "cell phone",
+            "ids": [
+              "1030",
+              "1031"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "screen",
+            "ids": [
+              "1116"
+            ]
+          },
+          {
+            "value": "screen",
+            "ids": [
+              "1128"
+            ]
+          },
+          {
+            "value": "screen",
+            "ids": [
+              "1153"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "marketeer\u2019s screen",
+            "ids": [
+              "1152",
+              "1153"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        [
+          {
+            "value": "old beetle ragtop",
+            "ids": [
+              "1009",
+              "1010",
+              "1011"
+            ]
+          }
+        ]
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        [
+          {
+            "value": "rings.",
+            "ids": [
+              "1032"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "The line goes dead.",
+            "ids": [
+              "1104",
+              "1105",
+              "1106",
+              "1107"
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}

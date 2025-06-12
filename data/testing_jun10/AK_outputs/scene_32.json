@@ -1,0 +1,569 @@
+{
+  "ALL_TEXT": "32 INT. BABA'S ASHRAM-PRODUCT STOREROOM - DAY \nCHINTHAN BABA is surrounded by his men. The FOREST MINISTER \nwalks up to him and slaps him. CHINTHAN BABA and his men \ndon\u2019t say a word. The FOREST MINISTER then calmly washes his \nhands with dettol. The FOREST MINISTER walks back to CHINTHAN \nBABA. \nFOREST MINISTER \nenni saarlu cheppaanu raa....kaalla \nmeeda pade lopullo lepamani \nCHINTHAN BABA \nMinister anakaa vaardhanaalu baba \nanakaa aashirwaadalu ivaakunda ela \nuntaaru raa. \nFOREST MINISTER \nEnti raa annaavu? \nCHINTHAN BABA \nAde, ishtam lekapote shake hand \nivvali, leda foreigners la peck \nivvaali anthe kaani kodtaara? \nilaage kottaarante indaake ichina \nashirvaadamu cut, neeku \ndorakaalsina vigraham fatt correct \ncheppinchaanu ante neeku padavi \nkuda aamfattu. \nFOREST MINISTER \nNee bonda lee kaani, naa vigraham \nsangethenti \nCHINTHAN BABA \nSangatemundhi, naa daggara inka \nraaledu..aina oorilo dabbulu \npaadeste enno puraaturaalla \nvigrahaalu konukkovachu kadaa \nFOREST MINISTER \nAnni vigrahaalu to aayushu peragadu \nkadaa... \nCHINTHAN BABA \nOh ee vishayam eppudo \ncheppalsindhi. Manadagara oka nitya \nYaavana cream undi. Nuvvu kaabatti \n20% discount lo ista. Roju \nrasukunte musali vaadilaa \nkanapadavu \nFOREST MINISTER \n(disgusted) \nAsalu em anukuntunnaavu raa nee \ngurinchi...ninnu baba ni chesindhi \nnenu. Malli nee maayalu naa \nmeedhiki prayogistunnaava? \nCHINTHAN BABA \nAde kaadu ee nitya yavana cream \nnijamgaane baaga panichestundi nenu \nkudaa vaaduta \nFOREST MINISTER \nNooru mooyi vedavaa. Naaku \nkaavalsindi \"Kalpa Aayushmaan \nVigraham\" Daanini neetilo vesthe, \nvigraham karigipoyi neeti ki shakti \nni istundi. Aa neelani thaagithe \nthombai samvatsaraalodikaina inko \nyaabai samvatsaraalu ayushu \nperugutundi \nCHINTHAN BABA \nSare, neeku aa vigraham iste nee \ndabbanta naade naa \nFOREST MINISTER \nNinnu pudcheyana \nCHINTHAN BABA stays quite for a beat \nFOREST MINISTER \n(annoyed, talks slowly) \nFOREST MINISTER \nNenu cheppedidhi jaagrattagaa \nvinu...repu India lo oka adbutham \njaragabothundhi...mana daggara unna \nblack money anthaa container ki \nekkinchu...naa manushulu iddaru \nvasthaaru, vaalaki aa container \nhandover cheyyi...ardhamainda... \nCHINTHAN BABA \nInta clear ga cheppaaru, ardham \nkaakunda untundaa...Kaani aa \nadbuthame artham kaaledu \nFOREST MINISTER \nNeeku ardam avalsina avasaram \nledu... \nCUT TO: ",
+  "WORDS_ID": {
+    "1000": "32",
+    "1001": "INT.",
+    "1002": "BABA'S",
+    "1003": "ASHRAM-PRODUCT",
+    "1004": "STOREROOM",
+    "1005": "-",
+    "1006": "DAY",
+    "1007": "CHINTHAN",
+    "1008": "BABA",
+    "1009": "is",
+    "1010": "surrounded",
+    "1011": "by",
+    "1012": "his",
+    "1013": "men.",
+    "1014": "The",
+    "1015": "FOREST",
+    "1016": "MINISTER",
+    "1017": "walks",
+    "1018": "up",
+    "1019": "to",
+    "1020": "him",
+    "1021": "and",
+    "1022": "slaps",
+    "1023": "him.",
+    "1024": "CHINTHAN",
+    "1025": "BABA",
+    "1026": "and",
+    "1027": "his",
+    "1028": "men",
+    "1029": "don\u2019t",
+    "1030": "say",
+    "1031": "a",
+    "1032": "word.",
+    "1033": "The",
+    "1034": "FOREST",
+    "1035": "MINISTER",
+    "1036": "then",
+    "1037": "calmly",
+    "1038": "washes",
+    "1039": "his",
+    "1040": "hands",
+    "1041": "with",
+    "1042": "dettol.",
+    "1043": "The",
+    "1044": "FOREST",
+    "1045": "MINISTER",
+    "1046": "walks",
+    "1047": "back",
+    "1048": "to",
+    "1049": "CHINTHAN",
+    "1050": "BABA.",
+    "1051": "FOREST",
+    "1052": "MINISTER",
+    "1053": "enni",
+    "1054": "saarlu",
+    "1055": "cheppaanu",
+    "1056": "raa....kaalla",
+    "1057": "meeda",
+    "1058": "pade",
+    "1059": "lopullo",
+    "1060": "lepamani",
+    "1061": "CHINTHAN",
+    "1062": "BABA",
+    "1063": "Minister",
+    "1064": "anakaa",
+    "1065": "vaardhanaalu",
+    "1066": "baba",
+    "1067": "anakaa",
+    "1068": "aashirwaadalu",
+    "1069": "ivaakunda",
+    "1070": "ela",
+    "1071": "untaaru",
+    "1072": "raa.",
+    "1073": "FOREST",
+    "1074": "MINISTER",
+    "1075": "Enti",
+    "1076": "raa",
+    "1077": "annaavu?",
+    "1078": "CHINTHAN",
+    "1079": "BABA",
+    "1080": "Ade,",
+    "1081": "ishtam",
+    "1082": "lekapote",
+    "1083": "shake",
+    "1084": "hand",
+    "1085": "ivvali,",
+    "1086": "leda",
+    "1087": "foreigners",
+    "1088": "la",
+    "1089": "peck",
+    "1090": "ivvaali",
+    "1091": "anthe",
+    "1092": "kaani",
+    "1093": "kodtaara?",
+    "1094": "ilaage",
+    "1095": "kottaarante",
+    "1096": "indaake",
+    "1097": "ichina",
+    "1098": "ashirvaadamu",
+    "1099": "cut,",
+    "1100": "neeku",
+    "1101": "dorakaalsina",
+    "1102": "vigraham",
+    "1103": "fatt",
+    "1104": "correct",
+    "1105": "cheppinchaanu",
+    "1106": "ante",
+    "1107": "neeku",
+    "1108": "padavi",
+    "1109": "kuda",
+    "1110": "aamfattu.",
+    "1111": "FOREST",
+    "1112": "MINISTER",
+    "1113": "Nee",
+    "1114": "bonda",
+    "1115": "lee",
+    "1116": "kaani,",
+    "1117": "naa",
+    "1118": "vigraham",
+    "1119": "sangethenti",
+    "1120": "CHINTHAN",
+    "1121": "BABA",
+    "1122": "Sangatemundhi,",
+    "1123": "naa",
+    "1124": "daggara",
+    "1125": "inka",
+    "1126": "raaledu..aina",
+    "1127": "oorilo",
+    "1128": "dabbulu",
+    "1129": "paadeste",
+    "1130": "enno",
+    "1131": "puraaturaalla",
+    "1132": "vigrahaalu",
+    "1133": "konukkovachu",
+    "1134": "kadaa",
+    "1135": "FOREST",
+    "1136": "MINISTER",
+    "1137": "Anni",
+    "1138": "vigrahaalu",
+    "1139": "to",
+    "1140": "aayushu",
+    "1141": "peragadu",
+    "1142": "kadaa...",
+    "1143": "CHINTHAN",
+    "1144": "BABA",
+    "1145": "Oh",
+    "1146": "ee",
+    "1147": "vishayam",
+    "1148": "eppudo",
+    "1149": "cheppalsindhi.",
+    "1150": "Manadagara",
+    "1151": "oka",
+    "1152": "nitya",
+    "1153": "Yaavana",
+    "1154": "cream",
+    "1155": "undi.",
+    "1156": "Nuvvu",
+    "1157": "kaabatti",
+    "1158": "20%",
+    "1159": "discount",
+    "1160": "lo",
+    "1161": "ista.",
+    "1162": "Roju",
+    "1163": "rasukunte",
+    "1164": "musali",
+    "1165": "vaadilaa",
+    "1166": "kanapadavu",
+    "1167": "FOREST",
+    "1168": "MINISTER",
+    "1169": "(disgusted)",
+    "1170": "Asalu",
+    "1171": "em",
+    "1172": "anukuntunnaavu",
+    "1173": "raa",
+    "1174": "nee",
+    "1175": "gurinchi...ninnu",
+    "1176": "baba",
+    "1177": "ni",
+    "1178": "chesindhi",
+    "1179": "nenu.",
+    "1180": "Malli",
+    "1181": "nee",
+    "1182": "maayalu",
+    "1183": "naa",
+    "1184": "meedhiki",
+    "1185": "prayogistunnaava?",
+    "1186": "CHINTHAN",
+    "1187": "BABA",
+    "1188": "Ade",
+    "1189": "kaadu",
+    "1190": "ee",
+    "1191": "nitya",
+    "1192": "yavana",
+    "1193": "cream",
+    "1194": "nijamgaane",
+    "1195": "baaga",
+    "1196": "panichestundi",
+    "1197": "nenu",
+    "1198": "kudaa",
+    "1199": "vaaduta",
+    "1200": "FOREST",
+    "1201": "MINISTER",
+    "1202": "Nooru",
+    "1203": "mooyi",
+    "1204": "vedavaa.",
+    "1205": "Naaku",
+    "1206": "kaavalsindi",
+    "1207": "\"Kalpa",
+    "1208": "Aayushmaan",
+    "1209": "Vigraham\"",
+    "1210": "Daanini",
+    "1211": "neetilo",
+    "1212": "vesthe,",
+    "1213": "vigraham",
+    "1214": "karigipoyi",
+    "1215": "neeti",
+    "1216": "ki",
+    "1217": "shakti",
+    "1218": "ni",
+    "1219": "istundi.",
+    "1220": "Aa",
+    "1221": "neelani",
+    "1222": "thaagithe",
+    "1223": "thombai",
+    "1224": "samvatsaraalodikaina",
+    "1225": "inko",
+    "1226": "yaabai",
+    "1227": "samvatsaraalu",
+    "1228": "ayushu",
+    "1229": "perugutundi",
+    "1230": "CHINTHAN",
+    "1231": "BABA",
+    "1232": "Sare,",
+    "1233": "neeku",
+    "1234": "aa",
+    "1235": "vigraham",
+    "1236": "iste",
+    "1237": "nee",
+    "1238": "dabbanta",
+    "1239": "naade",
+    "1240": "naa",
+    "1241": "FOREST",
+    "1242": "MINISTER",
+    "1243": "Ninnu",
+    "1244": "pudcheyana",
+    "1245": "CHINTHAN",
+    "1246": "BABA",
+    "1247": "stays",
+    "1248": "quite",
+    "1249": "for",
+    "1250": "a",
+    "1251": "beat",
+    "1252": "FOREST",
+    "1253": "MINISTER",
+    "1254": "(annoyed,",
+    "1255": "talks",
+    "1256": "slowly)",
+    "1257": "FOREST",
+    "1258": "MINISTER",
+    "1259": "Nenu",
+    "1260": "cheppedidhi",
+    "1261": "jaagrattagaa",
+    "1262": "vinu...repu",
+    "1263": "India",
+    "1264": "lo",
+    "1265": "oka",
+    "1266": "adbutham",
+    "1267": "jaragabothundhi...mana",
+    "1268": "daggara",
+    "1269": "unna",
+    "1270": "black",
+    "1271": "money",
+    "1272": "anthaa",
+    "1273": "container",
+    "1274": "ki",
+    "1275": "ekkinchu...naa",
+    "1276": "manushulu",
+    "1277": "iddaru",
+    "1278": "vasthaaru,",
+    "1279": "vaalaki",
+    "1280": "aa",
+    "1281": "container",
+    "1282": "handover",
+    "1283": "cheyyi...ardhamainda...",
+    "1284": "CHINTHAN",
+    "1285": "BABA",
+    "1286": "Inta",
+    "1287": "clear",
+    "1288": "ga",
+    "1289": "cheppaaru,",
+    "1290": "ardham",
+    "1291": "kaakunda",
+    "1292": "untundaa...Kaani",
+    "1293": "aa",
+    "1294": "adbuthame",
+    "1295": "artham",
+    "1296": "kaaledu",
+    "1297": "FOREST",
+    "1298": "MINISTER",
+    "1299": "Neeku",
+    "1300": "ardam",
+    "1301": "avalsina",
+    "1302": "avasaram",
+    "1303": "ledu...",
+    "1304": "CUT",
+    "1305": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "CHINTHAN BABA",
+        "his men",
+        "FOREST MINISTER"
+      ],
+      "SET": [
+        "INT. BABA'S ASHRAM-PRODUCT STOREROOM - DAY"
+      ],
+      "PROPS": [
+        "dettol"
+      ],
+      "STUNTS": [
+        "slaps him"
+      ],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1007",
+              "1008"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1024",
+              "1025"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1061",
+              "1062"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1078",
+              "1079"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1120",
+              "1121"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1143",
+              "1144"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1186",
+              "1187"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1230",
+              "1231"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1245",
+              "1246"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1284",
+              "1285"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA.",
+            "ids": [
+              "1049",
+              "1050"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "his men",
+            "ids": [
+              "1027",
+              "1028"
+            ]
+          },
+          {
+            "value": "his men.",
+            "ids": [
+              "1012",
+              "1013"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              "1015",
+              "1016"
+            ]
+          },
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              "1034",
+              "1035"
+            ]
+          },
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              "1044",
+              "1045"
+            ]
+          },
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              "1051",
+              "1052"
+            ]
+          },
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              "1073",
+              "1074"
+            ]
+          },
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              "1111",
+              "1112"
+            ]
+          },
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              "1135",
+              "1136"
+            ]
+          },
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              "1167",
+              "1168"
+            ]
+          },
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              "1200",
+              "1201"
+            ]
+          },
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              "1241",
+              "1242"
+            ]
+          },
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              "1252",
+              "1253"
+            ]
+          },
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              "1257",
+              "1258"
+            ]
+          },
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              "1297",
+              "1298"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "INT. BABA'S ASHRAM-PRODUCT STOREROOM - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005",
+              "1006"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "dettol.",
+            "ids": [
+              "1042"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [
+        [
+          {
+            "value": "slaps him.",
+            "ids": [
+              "1022",
+              "1023"
+            ]
+          }
+        ]
+      ],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

@@ -1,0 +1,935 @@
+{
+  "page_dict": {
+    "alltext": "71.\nVEDA\n...Nene Baba... mee tho koncham\npani padindhi Baba.. Peddhadhi\nkaadhu... Chinnadhe...\nCHINTHAN BABA\nPani cheppu VEDA. Peddadha\nchinnadha taravaatha\naalochiddhaam...\nVEDA\nEeyana peru GOVARDHAN\nVEDA pulls out GOVARDHAN, who has been hiding behind him.\nCHINTHAN BABA\n(slowly)\nAhh telusu Govardhan Anandam\nSharma.... hmmm.... cheppu.\nGOVARDHAN is extremely uncomfortable, and has his own doubts\nabout CHINTHAN BABA. He notices the little finger's nail of\nCHINTHAN BABA's left hand is painted light pink.\nVEDA\nPoddunna chinna godava ayyindi\nBaba...\nVEDA trails off explaining things. GOVARDHAN looks on in\nfear.\nVEDA\n...aithe maa thappu lekunda memu\nirukkupoyi...\nCHINTHAN BABA\nIppudu maa tho em pani?\nVEDA\n. Baba meeru thaluchukuntey\naedhaina saadhyame...\nCHINTHAN BABA looks towards GOVARDHAN, who is fidgeting next\nto VEDA.\nCHINTHAN BABA\nVEDA mammalni maatlaadanisthaava?\nGOVARDHAN\nAaynani maatlaadani ayya!.\nThondaragaa ayipogottukuni veldaam\nCHINTHAN BABA is surprised by GOVARDHAN being rude. He looks\nat VEDA and smiles.",
+    "words_ids": {
+      "7123": "71.",
+      "1277": "VEDA",
+      "3872": "...Nene",
+      "8659": "Baba...",
+      "5709": "mee",
+      "6703": "tho",
+      "3497": "koncham",
+      "4586": "pani",
+      "3851": "padindhi",
+      "6721": "Baba..",
+      "6858": "Peddhadhi",
+      "9310": "kaadhu...",
+      "2177": "Chinnadhe...",
+      "5740": "CHINTHAN",
+      "8013": "BABA",
+      "7130": "Pani",
+      "2988": "cheppu",
+      "1026": "VEDA.",
+      "2636": "Peddadha",
+      "5940": "chinnadha",
+      "6319": "taravaatha",
+      "8533": "aalochiddhaam...",
+      "8634": "VEDA",
+      "1799": "Eeyana",
+      "9998": "peru",
+      "7264": "GOVARDHAN",
+      "9375": "VEDA",
+      "7772": "pulls",
+      "7821": "out",
+      "8355": "GOVARDHAN,",
+      "8370": "who",
+      "6927": "has",
+      "7435": "been",
+      "8265": "hiding",
+      "5913": "behind",
+      "8975": "him.",
+      "3247": "CHINTHAN",
+      "4462": "BABA",
+      "3535": "(slowly)",
+      "9007": "Ahh",
+      "8159": "telusu",
+      "5236": "Govardhan",
+      "8271": "Anandam",
+      "2677": "Sharma....",
+      "1806": "hmmm....",
+      "2622": "cheppu.",
+      "3803": "GOVARDHAN",
+      "3358": "is",
+      "8277": "extremely",
+      "5229": "uncomfortable,",
+      "9161": "and",
+      "2238": "has",
+      "4236": "his",
+      "8561": "own",
+      "5837": "doubts",
+      "1382": "about",
+      "6177": "CHINTHAN",
+      "3133": "BABA.",
+      "1266": "He",
+      "1737": "notices",
+      "9568": "the",
+      "8865": "little",
+      "3200": "finger's",
+      "9988": "nail",
+      "7907": "of",
+      "1782": "CHINTHAN",
+      "6510": "BABA's",
+      "4346": "left",
+      "9816": "hand",
+      "8180": "is",
+      "6701": "painted",
+      "9749": "light",
+      "6016": "pink.",
+      "7124": "VEDA",
+      "7250": "Poddunna",
+      "6734": "chinna",
+      "5215": "godava",
+      "5605": "ayyindi",
+      "7559": "Baba...",
+      "2700": "VEDA",
+      "1657": "trails",
+      "4390": "off",
+      "8210": "explaining",
+      "8356": "things.",
+      "2995": "GOVARDHAN",
+      "3606": "looks",
+      "8087": "on",
+      "2904": "in",
+      "3225": "fear.",
+      "9433": "VEDA",
+      "8341": "...aithe",
+      "9831": "maa",
+      "9256": "thappu",
+      "8704": "lekunda",
+      "2868": "memu",
+      "2642": "irukkupoyi...",
+      "2380": "CHINTHAN",
+      "7247": "BABA",
+      "4968": "Ippudu",
+      "6691": "maa",
+      "4608": "tho",
+      "4373": "em",
+      "9805": "pani?",
+      "3243": "VEDA",
+      "9288": ".",
+      "5878": "Baba",
+      "1074": "meeru",
+      "8953": "thaluchukuntey",
+      "6174": "aedhaina",
+      "7377": "saadhyame...",
+      "8772": "CHINTHAN",
+      "6502": "BABA",
+      "4642": "looks",
+      "5871": "towards",
+      "1222": "GOVARDHAN,",
+      "1301": "who",
+      "2683": "is",
+      "2009": "fidgeting",
+      "7478": "next",
+      "1849": "to",
+      "1339": "VEDA.",
+      "6384": "CHINTHAN",
+      "9301": "BABA",
+      "1880": "VEDA",
+      "2198": "mammalni",
+      "4263": "maatlaadanisthaava?",
+      "1057": "GOVARDHAN",
+      "4391": "Aaynani",
+      "3784": "maatlaadani",
+      "1778": "ayya!.",
+      "7732": "Thondaragaa",
+      "4228": "ayipogottukuni",
+      "9151": "veldaam",
+      "4420": "CHINTHAN",
+      "6504": "BABA",
+      "5635": "is",
+      "3611": "surprised",
+      "9534": "by",
+      "4304": "GOVARDHAN",
+      "6751": "being",
+      "9759": "rude.",
+      "1047": "He",
+      "5396": "looks",
+      "9159": "at",
+      "8612": "VEDA",
+      "6922": "and",
+      "8365": "smiles."
+    }
+  },
+  "sample_no": "sample2",
+  "pdf_file_name": "page_72.pdf",
+  "llm_response": {
+    "scene_number": [
+      "71"
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      "VEDA pulls out GOVARDHAN, who has been hiding behind him.",
+      "GOVARDHAN is extremely uncomfortable, and has his own doubts\nabout CHINTHAN BABA. He notices the little finger's nail of\nCHINTHAN BABA's left hand is painted light pink.",
+      "VEDA trails off explaining things. GOVARDHAN looks on in\nfear.",
+      "CHINTHAN BABA looks towards GOVARDHAN, who is fidgeting next\nto VEDA.",
+      "CHINTHAN BABA is surprised by GOVARDHAN being rude. He looks\nat VEDA and smiles."
+    ],
+    "dialogue": [
+      {
+        "character": "VEDA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "...Nene Baba... mee tho koncham\npani padindhi Baba.. Peddhadhi\nkaadhu... Chinnadhe..."
+      },
+      {
+        "character": "CHINTHAN BABA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "Pani cheppu VEDA. Peddadha\nchinnadha taravaatha\naalochiddhaam..."
+      },
+      {
+        "character": "VEDA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "Eeyana peru GOVARDHAN"
+      },
+      {
+        "character": "CHINTHAN BABA",
+        "extension": null,
+        "parenthetical": "(slowly)",
+        "text": "Ahh telusu Govardhan Anandam\nSharma.... hmmm.... cheppu."
+      },
+      {
+        "character": "VEDA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "Poddunna chinna godava ayyindi\nBaba..."
+      },
+      {
+        "character": "VEDA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "...aithe maa thappu lekunda memu\nirukkupoyi..."
+      },
+      {
+        "character": "CHINTHAN BABA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "Ippudu maa tho em pani?"
+      },
+      {
+        "character": "VEDA",
+        "extension": null,
+        "parenthetical": null,
+        "text": ". Baba meeru thaluchukuntey\naedhaina saadhyame..."
+      },
+      {
+        "character": "CHINTHAN BABA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "VEDA mammalni maatlaadanisthaava?"
+      },
+      {
+        "character": "GOVARDHAN",
+        "extension": null,
+        "parenthetical": null,
+        "text": "Aaynani maatlaadani ayya!.\nThondaragaa ayipogottukuni veldaam"
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      {
+        "value": "71",
+        "ids": []
+      }
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      {
+        "value": "VEDA pulls out GOVARDHAN, who has been hiding behind him.",
+        "ids": [
+          1277,
+          8634,
+          7264,
+          9375,
+          7772,
+          7821,
+          8370,
+          6927,
+          7435,
+          8265,
+          5913,
+          5236,
+          3803,
+          2238,
+          7124,
+          2700,
+          2995,
+          9433,
+          3243,
+          1301,
+          1880,
+          1057,
+          4304,
+          8612
+        ]
+      },
+      {
+        "value": "GOVARDHAN is extremely uncomfortable, and has his own doubts\nabout CHINTHAN BABA. He notices the little finger's nail of\nCHINTHAN BABA's left hand is painted light pink.",
+        "ids": [
+          5740,
+          8013,
+          7264,
+          6927,
+          3247,
+          4462,
+          5236,
+          3803,
+          3358,
+          8277,
+          9161,
+          2238,
+          4236,
+          8561,
+          5837,
+          1382,
+          6177,
+          1266,
+          1737,
+          9568,
+          8865,
+          9988,
+          7907,
+          1782,
+          4346,
+          9816,
+          8180,
+          6701,
+          9749,
+          2995,
+          2380,
+          7247,
+          5878,
+          8772,
+          6502,
+          2683,
+          6384,
+          9301,
+          1057,
+          4420,
+          6504,
+          5635,
+          4304,
+          1047,
+          6922
+        ]
+      },
+      {
+        "value": "VEDA trails off explaining things. GOVARDHAN looks on in\nfear.",
+        "ids": [
+          1277,
+          8634,
+          7264,
+          9375,
+          5236,
+          3803,
+          7124,
+          2700,
+          1657,
+          4390,
+          8210,
+          2995,
+          3606,
+          8087,
+          2904,
+          9433,
+          3243,
+          4642,
+          1880,
+          1057,
+          4304,
+          5396,
+          8612
+        ]
+      },
+      {
+        "value": "CHINTHAN BABA looks towards GOVARDHAN, who is fidgeting next\nto VEDA.",
+        "ids": [
+          1277,
+          5740,
+          8013,
+          8634,
+          7264,
+          9375,
+          8370,
+          3247,
+          4462,
+          5236,
+          3803,
+          3358,
+          6177,
+          1782,
+          8180,
+          7124,
+          2700,
+          2995,
+          3606,
+          9433,
+          2380,
+          7247,
+          3243,
+          5878,
+          8772,
+          6502,
+          4642,
+          5871,
+          1301,
+          2683,
+          2009,
+          7478,
+          1849,
+          6384,
+          9301,
+          1880,
+          1057,
+          4420,
+          6504,
+          5635,
+          4304,
+          5396,
+          8612
+        ]
+      },
+      {
+        "value": "CHINTHAN BABA is surprised by GOVARDHAN being rude. He looks\nat VEDA and smiles.",
+        "ids": [
+          1277,
+          5740,
+          8013,
+          8634,
+          7264,
+          9375,
+          3247,
+          4462,
+          5236,
+          3803,
+          3358,
+          9161,
+          6177,
+          1266,
+          1782,
+          8180,
+          7124,
+          2700,
+          2995,
+          3606,
+          9433,
+          2380,
+          7247,
+          3243,
+          5878,
+          8772,
+          6502,
+          4642,
+          2683,
+          6384,
+          9301,
+          1880,
+          1057,
+          4420,
+          6504,
+          5635,
+          3611,
+          9534,
+          4304,
+          6751,
+          1047,
+          5396,
+          9159,
+          8612,
+          6922
+        ]
+      }
+    ],
+    "dialogue": [
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              1277,
+              1880
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              2700,
+              3243
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              7124,
+              8612
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              8634,
+              9375
+            ]
+          }
+        ],
+        "extension": {
+          "value": null,
+          "ids": []
+        },
+        "parenthetical": {
+          "value": null,
+          "ids": []
+        },
+        "text": {
+          "value": "...Nene Baba... mee tho koncham\npani padindhi Baba.. Peddhadhi\nkaadhu... Chinnadhe...",
+          "ids": [
+            2177
+          ]
+        }
+      },
+      {
+        "character": [
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              1782,
+              2380
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              3247,
+              4420
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              5740,
+              6177
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              6384,
+              8772
+            ]
+          }
+        ],
+        "extension": {
+          "value": null,
+          "ids": []
+        },
+        "parenthetical": {
+          "value": null,
+          "ids": []
+        },
+        "text": {
+          "value": "Pani cheppu VEDA. Peddadha\nchinnadha taravaatha\naalochiddhaam...",
+          "ids": [
+            8533
+          ]
+        }
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              1277,
+              1880
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              2700,
+              3243
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              7124,
+              8612
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              8634,
+              9375
+            ]
+          }
+        ],
+        "extension": {
+          "value": null,
+          "ids": []
+        },
+        "parenthetical": {
+          "value": null,
+          "ids": []
+        },
+        "text": [
+          {
+            "value": "Eeyana peru GOVARDHAN",
+            "ids": [
+              1057,
+              2995
+            ]
+          },
+          {
+            "value": "Eeyana peru GOVARDHAN",
+            "ids": [
+              3803,
+              4304
+            ]
+          },
+          {
+            "value": "Eeyana peru GOVARDHAN",
+            "ids": [
+              5236,
+              7264
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              1782,
+              2380
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              3247,
+              4420
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              5740,
+              6177
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              6384,
+              8772
+            ]
+          }
+        ],
+        "extension": {
+          "value": null,
+          "ids": []
+        },
+        "parenthetical": {
+          "value": "(slowly)",
+          "ids": [
+            3535
+          ]
+        },
+        "text": {
+          "value": "Ahh telusu Govardhan Anandam\nSharma.... hmmm.... cheppu.",
+          "ids": [
+            2677
+          ]
+        }
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              1277,
+              1880
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              2700,
+              3243
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              7124,
+              8612
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              8634,
+              9375
+            ]
+          }
+        ],
+        "extension": {
+          "value": null,
+          "ids": []
+        },
+        "parenthetical": {
+          "value": null,
+          "ids": []
+        },
+        "text": {
+          "value": "Poddunna chinna godava ayyindi\nBaba...",
+          "ids": [
+            7250
+          ]
+        }
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              1277,
+              1880
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              2700,
+              3243
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              7124,
+              8612
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              8634,
+              9375
+            ]
+          }
+        ],
+        "extension": {
+          "value": null,
+          "ids": []
+        },
+        "parenthetical": {
+          "value": null,
+          "ids": []
+        },
+        "text": {
+          "value": "...aithe maa thappu lekunda memu\nirukkupoyi...",
+          "ids": [
+            2642
+          ]
+        }
+      },
+      {
+        "character": [
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              1782,
+              2380
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              3247,
+              4420
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              5740,
+              6177
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              6384,
+              8772
+            ]
+          }
+        ],
+        "extension": {
+          "value": null,
+          "ids": []
+        },
+        "parenthetical": {
+          "value": null,
+          "ids": []
+        },
+        "text": {
+          "value": "Ippudu maa tho em pani?",
+          "ids": [
+            4968
+          ]
+        }
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              1277,
+              1880
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              2700,
+              3243
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              7124,
+              8612
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              8634,
+              9375
+            ]
+          }
+        ],
+        "extension": {
+          "value": null,
+          "ids": []
+        },
+        "parenthetical": {
+          "value": null,
+          "ids": []
+        },
+        "text": {
+          "value": ". Baba meeru thaluchukuntey\naedhaina saadhyame...",
+          "ids": [
+            8953
+          ]
+        }
+      },
+      {
+        "character": [
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              1782,
+              2380
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              3247,
+              4420
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              5740,
+              6177
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              6384,
+              8772
+            ]
+          }
+        ],
+        "extension": {
+          "value": null,
+          "ids": []
+        },
+        "parenthetical": {
+          "value": null,
+          "ids": []
+        },
+        "text": {
+          "value": "VEDA mammalni maatlaadanisthaava?",
+          "ids": [
+            4263
+          ]
+        }
+      },
+      {
+        "character": [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              1057,
+              2995
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              3803,
+              4304
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              5236,
+              7264
+            ]
+          }
+        ],
+        "extension": {
+          "value": null,
+          "ids": []
+        },
+        "parenthetical": {
+          "value": null,
+          "ids": []
+        },
+        "text": {
+          "value": "Aaynani maatlaadani ayya!.\nThondaragaa ayipogottukuni veldaam",
+          "ids": [
+            4228
+          ]
+        }
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

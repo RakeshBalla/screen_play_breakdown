@@ -1,0 +1,166 @@
+{
+  "ALL_TEXT": "122 EXT. MINISTER'S HOUSE-DINGY ROOM - NIGHT \nThe CULTURAL MINISTER shuts the door in frustration and \nthrows down the monkey cap. \nTRANSPORT MINISTER \nCheppaara? \nCULTURAL MINISTER \nVaalaki teledhu anta \nThe CULTURAL MINISTER walks off. The TRANSPORT MINISTER now \ndoubts if he is being left out by the other two. He pulls on \nthe monkey cap. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "122",
+    "1001": "EXT.",
+    "1002": "MINISTER'S",
+    "1003": "HOUSE-DINGY",
+    "1004": "ROOM",
+    "1005": "-",
+    "1006": "NIGHT",
+    "1007": "The",
+    "1008": "CULTURAL",
+    "1009": "MINISTER",
+    "1010": "shuts",
+    "1011": "the",
+    "1012": "door",
+    "1013": "in",
+    "1014": "frustration",
+    "1015": "and",
+    "1016": "throws",
+    "1017": "down",
+    "1018": "the",
+    "1019": "monkey",
+    "1020": "cap.",
+    "1021": "TRANSPORT",
+    "1022": "MINISTER",
+    "1023": "Cheppaara?",
+    "1024": "CULTURAL",
+    "1025": "MINISTER",
+    "1026": "Vaalaki",
+    "1027": "teledhu",
+    "1028": "anta",
+    "1029": "The",
+    "1030": "CULTURAL",
+    "1031": "MINISTER",
+    "1032": "walks",
+    "1033": "off.",
+    "1034": "The",
+    "1035": "TRANSPORT",
+    "1036": "MINISTER",
+    "1037": "now",
+    "1038": "doubts",
+    "1039": "if",
+    "1040": "he",
+    "1041": "is",
+    "1042": "being",
+    "1043": "left",
+    "1044": "out",
+    "1045": "by",
+    "1046": "the",
+    "1047": "other",
+    "1048": "two.",
+    "1049": "He",
+    "1050": "pulls",
+    "1051": "on",
+    "1052": "the",
+    "1053": "monkey",
+    "1054": "cap.",
+    "1055": "CUT",
+    "1056": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "CULTURAL MINISTER",
+        "TRANSPORT MINISTER"
+      ],
+      "SET": [
+        "EXT. MINISTER'S HOUSE-DINGY ROOM - NIGHT"
+      ],
+      "PROPS": [
+        "monkey cap"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "CULTURAL MINISTER",
+            "ids": [
+              "1008",
+              "1009"
+            ]
+          },
+          {
+            "value": "CULTURAL MINISTER",
+            "ids": [
+              "1024",
+              "1025"
+            ]
+          },
+          {
+            "value": "CULTURAL MINISTER",
+            "ids": [
+              "1030",
+              "1031"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "TRANSPORT MINISTER",
+            "ids": [
+              "1021",
+              "1022"
+            ]
+          },
+          {
+            "value": "TRANSPORT MINISTER",
+            "ids": [
+              "1035",
+              "1036"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. MINISTER'S HOUSE-DINGY ROOM - NIGHT",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005",
+              "1006"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "monkey cap.",
+            "ids": [
+              "1019",
+              "1020"
+            ]
+          },
+          {
+            "value": "monkey cap.",
+            "ids": [
+              "1053",
+              "1054"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

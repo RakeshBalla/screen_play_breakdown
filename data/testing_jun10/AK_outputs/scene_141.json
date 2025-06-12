@@ -1,0 +1,284 @@
+{
+  "ALL_TEXT": "141 EXT. GRAVEYARD - NIGHT \nThe giant container is open. SULOCHANA is reporting on the \ncontainer along with her news crew, covering the container \nand its contents. VEDA and GOVARDHAN notice SUBBA RAJU coming \nin with ANTHONY in handcuffs. A beat later, a rush of press \nreporters arrive to the scene. SUBBA RAJU walks up to VEDA. \nThey are face to face, staring each other in the eye. \nVEDA \nNee game aipoindi \nSUBBA RAJU \nGame inka avvaledu, picture abhi \nbaaki hain mere dost. Veedini \napprover ga present cheste ne \nminister ni arrest chestaaru, and \nmeeru safe. Leda emavuddi...na \nmeeda department enquiry untundhi, \ndaani taravaata anni \nmaamoole...meeru matram malli \nparagetthadam start \ncheyaali...aalochinchu... \nVEDA thinks for a while. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "141",
+    "1001": "EXT.",
+    "1002": "GRAVEYARD",
+    "1003": "-",
+    "1004": "NIGHT",
+    "1005": "The",
+    "1006": "giant",
+    "1007": "container",
+    "1008": "is",
+    "1009": "open.",
+    "1010": "SULOCHANA",
+    "1011": "is",
+    "1012": "reporting",
+    "1013": "on",
+    "1014": "the",
+    "1015": "container",
+    "1016": "along",
+    "1017": "with",
+    "1018": "her",
+    "1019": "news",
+    "1020": "crew,",
+    "1021": "covering",
+    "1022": "the",
+    "1023": "container",
+    "1024": "and",
+    "1025": "its",
+    "1026": "contents.",
+    "1027": "VEDA",
+    "1028": "and",
+    "1029": "GOVARDHAN",
+    "1030": "notice",
+    "1031": "SUBBA",
+    "1032": "RAJU",
+    "1033": "coming",
+    "1034": "in",
+    "1035": "with",
+    "1036": "ANTHONY",
+    "1037": "in",
+    "1038": "handcuffs.",
+    "1039": "A",
+    "1040": "beat",
+    "1041": "later,",
+    "1042": "a",
+    "1043": "rush",
+    "1044": "of",
+    "1045": "press",
+    "1046": "reporters",
+    "1047": "arrive",
+    "1048": "to",
+    "1049": "the",
+    "1050": "scene.",
+    "1051": "SUBBA",
+    "1052": "RAJU",
+    "1053": "walks",
+    "1054": "up",
+    "1055": "to",
+    "1056": "VEDA.",
+    "1057": "They",
+    "1058": "are",
+    "1059": "face",
+    "1060": "to",
+    "1061": "face,",
+    "1062": "staring",
+    "1063": "each",
+    "1064": "other",
+    "1065": "in",
+    "1066": "the",
+    "1067": "eye.",
+    "1068": "VEDA",
+    "1069": "Nee",
+    "1070": "game",
+    "1071": "aipoindi",
+    "1072": "SUBBA",
+    "1073": "RAJU",
+    "1074": "Game",
+    "1075": "inka",
+    "1076": "avvaledu,",
+    "1077": "picture",
+    "1078": "abhi",
+    "1079": "baaki",
+    "1080": "hain",
+    "1081": "mere",
+    "1082": "dost.",
+    "1083": "Veedini",
+    "1084": "approver",
+    "1085": "ga",
+    "1086": "present",
+    "1087": "cheste",
+    "1088": "ne",
+    "1089": "minister",
+    "1090": "ni",
+    "1091": "arrest",
+    "1092": "chestaaru,",
+    "1093": "and",
+    "1094": "meeru",
+    "1095": "safe.",
+    "1096": "Leda",
+    "1097": "emavuddi...na",
+    "1098": "meeda",
+    "1099": "department",
+    "1100": "enquiry",
+    "1101": "untundhi,",
+    "1102": "daani",
+    "1103": "taravaata",
+    "1104": "anni",
+    "1105": "maamoole...meeru",
+    "1106": "matram",
+    "1107": "malli",
+    "1108": "paragetthadam",
+    "1109": "start",
+    "1110": "cheyaali...aalochinchu...",
+    "1111": "VEDA",
+    "1112": "thinks",
+    "1113": "for",
+    "1114": "a",
+    "1115": "while.",
+    "1116": "CUT",
+    "1117": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "SULOCHANA",
+        "news crew",
+        "VEDA",
+        "GOVARDHAN",
+        "SUBBA RAJU",
+        "ANTHONY",
+        "press reporters"
+      ],
+      "SET": [
+        "EXT. GRAVEYARD - NIGHT"
+      ],
+      "PROPS": [
+        "giant container",
+        "handcuffs"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1010"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "news crew,",
+            "ids": [
+              "1019",
+              "1020"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1027"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1068"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1111"
+            ]
+          },
+          {
+            "value": "VEDA.",
+            "ids": [
+              "1056"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1029"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1031",
+              "1032"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1051",
+              "1052"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1072",
+              "1073"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1036"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "press reporters",
+            "ids": [
+              "1045",
+              "1046"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. GRAVEYARD - NIGHT",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "giant container",
+            "ids": [
+              "1006",
+              "1007"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "handcuffs.",
+            "ids": [
+              "1038"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

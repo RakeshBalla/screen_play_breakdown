@@ -1,0 +1,1 @@
+ python counter_based.py --pdf /home/ntlpt19/Downloads/Ak_For_Testing-current_draft_2024-07-23_5_26pm.pdf --output /home/ntlpt19/personal_projects/screen_play_breakdown/data/debug

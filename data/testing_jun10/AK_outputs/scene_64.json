@@ -1,0 +1,252 @@
+{
+  "ALL_TEXT": "64 EXT. BANK - DAY \nVEDA seems relieved. They walk across a large queue, hordes \nof frustrated people with their now-devalued currency. \nGOVARDHAN strides fast, with an uncomfortable energy, holding \nthe burqha in his hand. \nVEDA \nThanks GOVARDHAN! Nuvu lekapothey \nee line lo nincholeyka \nchacheyvaadini \nGOVARDHAN \n(Flattered) \nChusav kada Bank lo nenu antey \nentha bhayapadtharo. \nVEDA cuts GOVARDHAN off. \nVEDA \nSare padha SULOCHANA office ki \nveldhaam. \nGOVARDHAN \nNenu dress marchukokunda ekkadiki \nraanu \nVEDA \nIppatiki ippudante vere dress \nekkadaninchi vasthundi \nGOVARDHAN \nNaa intikeldam edhurugane kada na \nillu. \nVEDA \nSere pada, tikka kudurtundi neeku \nkuda. Ah Burqha vesuko. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "64",
+    "1001": "EXT.",
+    "1002": "BANK",
+    "1003": "-",
+    "1004": "DAY",
+    "1005": "VEDA",
+    "1006": "seems",
+    "1007": "relieved.",
+    "1008": "They",
+    "1009": "walk",
+    "1010": "across",
+    "1011": "a",
+    "1012": "large",
+    "1013": "queue,",
+    "1014": "hordes",
+    "1015": "of",
+    "1016": "frustrated",
+    "1017": "people",
+    "1018": "with",
+    "1019": "their",
+    "1020": "now-devalued",
+    "1021": "currency.",
+    "1022": "GOVARDHAN",
+    "1023": "strides",
+    "1024": "fast,",
+    "1025": "with",
+    "1026": "an",
+    "1027": "uncomfortable",
+    "1028": "energy,",
+    "1029": "holding",
+    "1030": "the",
+    "1031": "burqha",
+    "1032": "in",
+    "1033": "his",
+    "1034": "hand.",
+    "1035": "VEDA",
+    "1036": "Thanks",
+    "1037": "GOVARDHAN!",
+    "1038": "Nuvu",
+    "1039": "lekapothey",
+    "1040": "ee",
+    "1041": "line",
+    "1042": "lo",
+    "1043": "nincholeyka",
+    "1044": "chacheyvaadini",
+    "1045": "GOVARDHAN",
+    "1046": "(Flattered)",
+    "1047": "Chusav",
+    "1048": "kada",
+    "1049": "Bank",
+    "1050": "lo",
+    "1051": "nenu",
+    "1052": "antey",
+    "1053": "entha",
+    "1054": "bhayapadtharo.",
+    "1055": "VEDA",
+    "1056": "cuts",
+    "1057": "GOVARDHAN",
+    "1058": "off.",
+    "1059": "VEDA",
+    "1060": "Sare",
+    "1061": "padha",
+    "1062": "SULOCHANA",
+    "1063": "office",
+    "1064": "ki",
+    "1065": "veldhaam.",
+    "1066": "GOVARDHAN",
+    "1067": "Nenu",
+    "1068": "dress",
+    "1069": "marchukokunda",
+    "1070": "ekkadiki",
+    "1071": "raanu",
+    "1072": "VEDA",
+    "1073": "Ippatiki",
+    "1074": "ippudante",
+    "1075": "vere",
+    "1076": "dress",
+    "1077": "ekkadaninchi",
+    "1078": "vasthundi",
+    "1079": "GOVARDHAN",
+    "1080": "Naa",
+    "1081": "intikeldam",
+    "1082": "edhurugane",
+    "1083": "kada",
+    "1084": "na",
+    "1085": "illu.",
+    "1086": "VEDA",
+    "1087": "Sere",
+    "1088": "pada,",
+    "1089": "tikka",
+    "1090": "kudurtundi",
+    "1091": "neeku",
+    "1092": "kuda.",
+    "1093": "Ah",
+    "1094": "Burqha",
+    "1095": "vesuko.",
+    "1096": "CUT",
+    "1097": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "VEDA",
+        "GOVARDHAN",
+        "hordes of frustrated people"
+      ],
+      "SET": [
+        "EXT. BANK - DAY"
+      ],
+      "PROPS": [
+        "burqha"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1005"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1035"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1055"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1059"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1072"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1086"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1022"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1045"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1057"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1066"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1079"
+            ]
+          },
+          {
+            "value": "GOVARDHAN!",
+            "ids": [
+              "1037"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "hordes of frustrated people",
+            "ids": [
+              "1014",
+              "1015",
+              "1016",
+              "1017"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. BANK - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "burqha",
+            "ids": [
+              "1031"
+            ]
+          },
+          {
+            "value": "Burqha",
+            "ids": [
+              "1094"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

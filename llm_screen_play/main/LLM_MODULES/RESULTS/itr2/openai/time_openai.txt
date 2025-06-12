@@ -1,0 +1,30 @@
+2025-06-03 01:45:56,588 - INFO - Loading PDF...
+2025-06-03 01:45:56,691 - INFO - NumExpr defaulting to 8 threads.
+2025-06-03 01:45:58,539 - INFO - Loaded 148 documents
+2025-06-03 01:45:58,539 - INFO - Chunking documents...
+2025-06-03 01:45:58,541 - INFO - Created 3 chunks
+2025-06-03 01:45:58,541 - INFO - Generating summary for chunk 1/3...
+generate_summary >>>>>>>>>>>
+2025-06-03 01:46:15,555 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-06-03 01:46:15.728573] Time taken ==> 17.19 seconds.
+2025-06-03 01:46:15,728 - INFO - Generated summary for chunk 1
+2025-06-03 01:46:15,728 - INFO - Generating summary for chunk 2/3...
+generate_summary >>>>>>>>>>>
+2025-06-03 01:46:28,561 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-06-03 01:46:28.563563] Time taken ==> 12.83 seconds.
+2025-06-03 01:46:28,563 - INFO - Generated summary for chunk 2
+2025-06-03 01:46:28,563 - INFO - Generating summary for chunk 3/3...
+generate_summary >>>>>>>>>>>
+2025-06-03 01:46:38,099 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-06-03 01:46:38.103696] Time taken ==> 9.54 seconds.
+2025-06-03 01:46:38,103 - INFO - Generated summary for chunk 3
+2025-06-03 01:46:38,104 - INFO - Generating combined coverage report...
+generate_coverage_report >>>>>>>>>>>
+2025-06-03 01:46:57,348 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-06-03 01:46:57.351267] Time taken ==> 19.25 seconds.
+2025-06-03 01:46:57,351 - INFO - Generating combined plot hole report...
+generate_plot_hole_report >>>>>>>>>>>
+2025-06-03 01:47:15,369 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-06-03 01:47:15.372226] Time taken ==> 18.02 seconds.
+2025-06-03 01:47:15,372 - INFO - Final report saved to final_screenplay_coverage_report.txt
+2025-06-03 01:47:15,373 - INFO - Final report saved to final_screenplay_plot_hole_report.txt

@@ -1,0 +1,192 @@
+{
+  "ALL_TEXT": "3 EXT. SEA - DAY \nA group of men rise from the water. In the middle a female \npriest holds the idol up high. When she does this, she gets \nshot by an arrow. The box falls into the water and reaches \nthe bottom of the sea. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "3",
+    "1001": "EXT.",
+    "1002": "SEA",
+    "1003": "-",
+    "1004": "DAY",
+    "1005": "A",
+    "1006": "group",
+    "1007": "of",
+    "1008": "men",
+    "1009": "rise",
+    "1010": "from",
+    "1011": "the",
+    "1012": "water.",
+    "1013": "In",
+    "1014": "the",
+    "1015": "middle",
+    "1016": "a",
+    "1017": "female",
+    "1018": "priest",
+    "1019": "holds",
+    "1020": "the",
+    "1021": "idol",
+    "1022": "up",
+    "1023": "high.",
+    "1024": "When",
+    "1025": "she",
+    "1026": "does",
+    "1027": "this,",
+    "1028": "she",
+    "1029": "gets",
+    "1030": "shot",
+    "1031": "by",
+    "1032": "an",
+    "1033": "arrow.",
+    "1034": "The",
+    "1035": "box",
+    "1036": "falls",
+    "1037": "into",
+    "1038": "the",
+    "1039": "water",
+    "1040": "and",
+    "1041": "reaches",
+    "1042": "the",
+    "1043": "bottom",
+    "1044": "of",
+    "1045": "the",
+    "1046": "sea.",
+    "1047": "CUT",
+    "1048": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "men",
+        "female priest"
+      ],
+      "SET": [
+        "EXT. SEA - DAY"
+      ],
+      "PROPS": [
+        "idol",
+        "arrow",
+        "box"
+      ],
+      "STUNTS": [
+        "she gets shot by an arrow"
+      ],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        "sea",
+        "water"
+      ],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "men",
+            "ids": [
+              "1008"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "female priest",
+            "ids": [
+              "1017",
+              "1018"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. SEA - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "idol",
+            "ids": [
+              "1021"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "arrow.",
+            "ids": [
+              "1033"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "box",
+            "ids": [
+              "1035"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [
+        [
+          {
+            "value": "she gets shot by an arrow.",
+            "ids": [
+              "1028",
+              "1029",
+              "1030",
+              "1031",
+              "1032",
+              "1033"
+            ]
+          }
+        ]
+      ],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        [
+          {
+            "value": "SEA",
+            "ids": [
+              "1002"
+            ]
+          },
+          {
+            "value": "sea.",
+            "ids": [
+              "1046"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "water",
+            "ids": [
+              "1039"
+            ]
+          },
+          {
+            "value": "water.",
+            "ids": [
+              "1012"
+            ]
+          }
+        ]
+      ],
+      "SOUND": []
+    }
+  }
+}

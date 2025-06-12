@@ -1,0 +1,389 @@
+{
+  "page_dict": {
+    "alltext": "75.\nSULOCHANA runs in, not knowing quite what to do. In\ndesperation, she looks around for a way to make them both\ncome to their senses. She turns on the tap to fill an empty\nbucket. The bucket fills slowly with a thin stream of water.\nShe helplessly looks at them wrestling on the floor, biting\neach other. She takes the filled bucket, waits for a second,\nhoping they will realize what she is about to do. When they\ndon't, with a sigh, she pours the whole bucket of water on\nthem. They come to their senses and stare at SULOCHANA for a\nfew seconds. GOVARDHAN lets go of VEDA's arm from his mouth\nand wrings his kerchief dry. The three look at each other,\nthe situation slowly sinking into their heads.\nSULOCHANA\nayymaindi?\nGOVARDHAN does not butt in this time.\nVEDA\nSULOCHANA neeku thelsa!? GOVARDHAN\ninka baba chaaala close...GOVARDHAN\ninka baba kalisi...\nSULOCHANA\nKalisi?\nVEDA\nEmo GOVARDHAN ne adugu...\nGOVARDHAN\nTholutheestha malli aa maatante.\nSULOCHANA\nBha!... Aaputhaara!...\nLooking at GOVARDHAN\nSULOCHANA\nAsalu em chesochhaaru iddaru\nlopala???\nGOVARDHAN\nEmchesi ravatam enti? vaadu\nprasadam antunnadu aashirwaadam\nantunnadu\nSULOCHANA\nNaaku eppudu ivvaledu.. baba neeku\nichara? teeskovachu kada\nGOVARDHAN\nNeeku ela cheppaali..",
+    "words_ids": {
+      "1258": "75.",
+      "6586": "SULOCHANA",
+      "3965": "runs",
+      "4582": "come",
+      "3760": "not",
+      "9584": "knowing",
+      "6801": "quite",
+      "4434": "what",
+      "4743": "to",
+      "6918": "do.",
+      "3015": "In",
+      "9736": "desperation,",
+      "7298": "she",
+      "1611": "looks",
+      "5280": "around",
+      "1135": "for",
+      "9543": "a",
+      "7444": "way",
+      "6866": "to",
+      "6829": "make",
+      "9765": "them",
+      "8684": "both",
+      "7434": "to",
+      "7204": "their",
+      "6846": "senses.",
+      "7167": "She",
+      "2775": "turns",
+      "8266": "on",
+      "5735": "the",
+      "4459": "tap",
+      "7924": "to",
+      "2423": "fill",
+      "4039": "an",
+      "6092": "empty",
+      "1606": "bucket.",
+      "1519": "The",
+      "6221": "bucket",
+      "2299": "fills",
+      "7588": "slowly",
+      "3662": "with",
+      "4060": "a",
+      "1049": "thin",
+      "1068": "stream",
+      "1810": "of",
+      "7104": "water.",
+      "5089": "She",
+      "1445": "helplessly",
+      "8031": "looks",
+      "9333": "at",
+      "5791": "them",
+      "9282": "wrestling",
+      "1581": "on",
+      "5107": "the",
+      "4206": "floor,",
+      "3865": "biting",
+      "8697": "each",
+      "8823": "other.",
+      "6270": "She",
+      "5477": "takes",
+      "7847": "the",
+      "3179": "filled",
+      "9304": "bucket,",
+      "9339": "waits",
+      "2806": "for",
+      "7251": "a",
+      "7346": "second,",
+      "9211": "hoping",
+      "3827": "they",
+      "8907": "will",
+      "7925": "realize",
+      "9963": "what",
+      "3403": "she",
+      "2582": "is",
+      "9758": "about",
+      "6542": "to",
+      "3196": "do.",
+      "7891": "When",
+      "1693": "they",
+      "6512": "don't,",
+      "4026": "with",
+      "1263": "a",
+      "4231": "sigh,",
+      "2411": "she",
+      "7103": "pours",
+      "1685": "the",
+      "7740": "whole",
+      "2388": "bucket",
+      "6713": "of",
+      "9537": "water",
+      "9366": "on",
+      "5174": "them.",
+      "2787": "They",
+      "9325": "come",
+      "5895": "to",
+      "7113": "their",
+      "3379": "senses",
+      "6363": "and",
+      "9177": "stare",
+      "4443": "at",
+      "6193": "SULOCHANA",
+      "7603": "for",
+      "2129": "a",
+      "8510": "few",
+      "8829": "seconds.",
+      "4195": "GOVARDHAN",
+      "3675": "lets",
+      "3970": "go",
+      "4838": "of",
+      "4387": "VEDA's",
+      "2652": "arm",
+      "5455": "from",
+      "2663": "his",
+      "5670": "mouth",
+      "3640": "and",
+      "1526": "wrings",
+      "3973": "his",
+      "8524": "kerchief",
+      "1972": "dry.",
+      "3362": "The",
+      "3142": "three",
+      "7093": "look",
+      "8119": "at",
+      "1495": "each",
+      "8271": "other,",
+      "1081": "the",
+      "8079": "situation",
+      "2921": "slowly",
+      "9276": "sinking",
+      "5401": "into",
+      "9847": "their",
+      "2008": "heads.",
+      "7771": "SULOCHANA",
+      "5807": "ayymaindi?",
+      "1803": "GOVARDHAN",
+      "8996": "does",
+      "9069": "not",
+      "1776": "butt",
+      "4948": "in",
+      "3977": "this",
+      "3752": "time.",
+      "1538": "VEDA",
+      "9109": "SULOCHANA",
+      "1798": "neeku",
+      "8235": "Neeku",
+      "2039": "GOVARDHAN",
+      "7827": "inka",
+      "6070": "baba",
+      "1626": "chaaala",
+      "3434": "close...GOVARDHAN",
+      "9979": "inka",
+      "7288": "baba",
+      "4555": "kalisi...",
+      "6860": "SULOCHANA",
+      "3117": "Kalisi?",
+      "9160": "VEDA",
+      "5536": "Emo",
+      "5375": "GOVARDHAN",
+      "4983": "ne",
+      "5810": "adugu...",
+      "1084": "GOVARDHAN",
+      "4279": "Tholutheestha",
+      "4306": "malli",
+      "2669": "aa",
+      "4479": "maatante.",
+      "6274": "SULOCHANA",
+      "1637": "Bha!...",
+      "6941": "Aaputhaara!...",
+      "4638": "Looking",
+      "4704": "at",
+      "6063": "GOVARDHAN",
+      "5204": "SULOCHANA",
+      "9873": "Asalu",
+      "9711": "em",
+      "4732": "chesochhaaru",
+      "7246": "iddaru",
+      "4768": "lopala???",
+      "5758": "GOVARDHAN",
+      "2284": "Emchesi",
+      "7762": "ravatam",
+      "5639": "enti?",
+      "4741": "vaadu",
+      "1246": "prasadam",
+      "4198": "antunnadu",
+      "9054": "aashirwaadam",
+      "9856": "antunnadu",
+      "7667": "SULOCHANA",
+      "3337": "Naaku",
+      "4500": "eppudu",
+      "5339": "ivvaledu..",
+      "6104": "baba",
+      "9074": "neeku",
+      "6061": "ichara?",
+      "9921": "teeskovachu",
+      "8578": "kada",
+      "5421": "GOVARDHAN",
+      "3390": "ela",
+      "4745": "cheppaali.."
+    }
+  },
+  "sample_no": "sample5",
+  "pdf_file_name": "page_76.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "SULOCHANA",
+        "GOVARDHAN",
+        "VEDA"
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [],
+      "PROPS": [
+        "bucket",
+        "water",
+        "kerchief"
+      ],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [],
+      "CAMERA": [],
+      "SOUND": [],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [
+        "wrestling",
+        "biting",
+        "pouring water"
+      ],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            5204,
+            6193
+          ]
+        },
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            6274,
+            6586
+          ]
+        },
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            6860,
+            7667
+          ]
+        },
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            7771,
+            9109
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            1084,
+            1803
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            2039,
+            4195
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            5375,
+            5421
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            5758,
+            6063
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            1538,
+            9160
+          ]
+        }
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [],
+      "PROPS": [
+        {
+          "value": "bucket",
+          "ids": [
+            2388,
+            6221
+          ]
+        },
+        {
+          "value": "water",
+          "ids": [
+            9537
+          ]
+        },
+        {
+          "value": "kerchief",
+          "ids": [
+            8524
+          ]
+        }
+      ],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [],
+      "CAMERA": [],
+      "SOUND": [],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [
+        {
+          "value": "wrestling",
+          "ids": [
+            9282
+          ]
+        },
+        {
+          "value": "biting",
+          "ids": [
+            3865
+          ]
+        },
+        {
+          "value": "pouring water",
+          "ids": [
+            9537
+          ]
+        }
+      ],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  }
+}

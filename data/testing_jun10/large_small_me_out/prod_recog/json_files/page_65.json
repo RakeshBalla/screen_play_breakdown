@@ -1,0 +1,315 @@
+{
+  "page_dict": {
+    "alltext": "64. GOVARDHAN is visibly flattered and falls for it. The trio walk towards SULOCHANA’s car, which is parked nearby in the lot. GOVARDHAN opens the passenger door and gets inside. SULOCHANA Digu, meemu ekkaali GOVARDHAN Atu vaipu oka door undi kadhaa SULOCHANA Bha! Digu, adhi open avvadhu GOVARDHAN Anduke puraavasthu shaaka nunchi car konnnaru SULOCHANA stares down GOVARDHAN, after which GOVARDHAN climbs off. SULOCHANA gets in; VEDA and GOVARDHAN stand, waiting for the other to get in. GOVARDHAN Ekku VEDA Nenekkute nuvvu ela ekkutaavu GOVARDHAN Ekki lopala kurcho. Mundu nenu kurchuntaanu. VEDA Nuvvu lopala elli kurcho, nenu mundu kurchuntaanu GOVARDHAN Rei, nee gurinchi naaku telusu kaani, poi lopala kurcho, ellu. VEDA reluctantly gets in the back. The trio leaves. CUT TO:",
+    "words_ids": {
+      "1000": "64.",
+      "1001": "GOVARDHAN",
+      "1002": "is",
+      "1003": "visibly",
+      "1004": "flattered",
+      "1005": "and",
+      "1006": "falls",
+      "1007": "for",
+      "1008": "it.",
+      "1009": "The",
+      "1010": "trio",
+      "1011": "walk",
+      "1012": "towards",
+      "1013": "SULOCHANA’s",
+      "1014": "car,",
+      "1015": "which",
+      "1016": "is",
+      "1017": "parked",
+      "1018": "nearby",
+      "1019": "in",
+      "1020": "the",
+      "1021": "lot.",
+      "1022": "GOVARDHAN",
+      "1023": "opens",
+      "1024": "the",
+      "1025": "passenger",
+      "1026": "door",
+      "1027": "and",
+      "1028": "gets",
+      "1029": "inside.",
+      "1030": "SULOCHANA",
+      "1031": "Digu,",
+      "1032": "meemu",
+      "1033": "ekkaali",
+      "1034": "GOVARDHAN",
+      "1035": "Atu",
+      "1036": "vaipu",
+      "1037": "oka",
+      "1038": "door",
+      "1039": "undi",
+      "1040": "kadhaa",
+      "1041": "SULOCHANA",
+      "1042": "Bha!",
+      "1043": "Digu,",
+      "1044": "adhi",
+      "1045": "open",
+      "1046": "avvadhu",
+      "1047": "GOVARDHAN",
+      "1048": "Anduke",
+      "1049": "puraavasthu",
+      "1050": "shaaka",
+      "1051": "nunchi",
+      "1052": "car",
+      "1053": "konnnaru",
+      "1054": "SULOCHANA",
+      "1055": "stares",
+      "1056": "down",
+      "1057": "GOVARDHAN,",
+      "1058": "after",
+      "1059": "which",
+      "1060": "GOVARDHAN",
+      "1061": "climbs",
+      "1062": "off.",
+      "1063": "SULOCHANA",
+      "1064": "gets",
+      "1065": "in;",
+      "1066": "VEDA",
+      "1067": "and",
+      "1068": "GOVARDHAN",
+      "1069": "stand,",
+      "1070": "waiting",
+      "1071": "for",
+      "1072": "the",
+      "1073": "other",
+      "1074": "to",
+      "1075": "get",
+      "1076": "in.",
+      "1077": "GOVARDHAN",
+      "1078": "Ekku",
+      "1079": "VEDA",
+      "1080": "Nenekkute",
+      "1081": "nuvvu",
+      "1082": "ela",
+      "1083": "ekkutaavu",
+      "1084": "GOVARDHAN",
+      "1085": "Ekki",
+      "1086": "lopala",
+      "1087": "kurcho.",
+      "1088": "Mundu",
+      "1089": "nenu",
+      "1090": "kurchuntaanu.",
+      "1091": "VEDA",
+      "1092": "Nuvvu",
+      "1093": "lopala",
+      "1094": "elli",
+      "1095": "kurcho,",
+      "1096": "nenu",
+      "1097": "mundu",
+      "1098": "kurchuntaanu",
+      "1099": "GOVARDHAN",
+      "1100": "Rei,",
+      "1101": "nee",
+      "1102": "gurinchi",
+      "1103": "naaku",
+      "1104": "telusu",
+      "1105": "kaani,",
+      "1106": "poi",
+      "1107": "lopala",
+      "1108": "kurcho,",
+      "1109": "ellu.",
+      "1110": "VEDA",
+      "1111": "reluctantly",
+      "1112": "gets",
+      "1113": "in",
+      "1114": "the",
+      "1115": "back.",
+      "1116": "The",
+      "1117": "trio",
+      "1118": "leaves.",
+      "1119": "CUT",
+      "1120": "TO:"
+    }
+  },
+  "sample_no": "sample6",
+  "pdf_file_name": "page_65.pdf",
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "GOVARDHAN",
+        "SULOCHANA",
+        "VEDA"
+      ],
+      "SET": [
+        "lot"
+      ],
+      "PROPS": [
+        "passenger door"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        "car"
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1001"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1022"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1034"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1047"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1060"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1068"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1077"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1084"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1099"
+            ]
+          },
+          {
+            "value": "GOVARDHAN,",
+            "ids": [
+              "1057"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1030"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1041"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1054"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1063"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1066"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1079"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1091"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1110"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "lot.",
+            "ids": [
+              "1021"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "passenger door",
+            "ids": [
+              "1025",
+              "1026"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        [
+          {
+            "value": "car",
+            "ids": [
+              "1052"
+            ]
+          },
+          {
+            "value": "car,",
+            "ids": [
+              "1014"
+            ]
+          }
+        ]
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "ALL_TEXT": "147 INT. GOVARDHAN\u2019S HOUSE - KITCHEN - NIGHT \nGOVARDHAN is talking to ANJI.. \nGOVARDHAN \nAa milton bottle lo water paadesi \npodunna office ki kadigina neellani \nnimpu.. \nANJI leaves the bottle somewhere in the kitchen by the \nwindow. \nTIMELAPSE of night-to-day \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "147",
+    "1001": "INT.",
+    "1002": "GOVARDHAN\u2019S",
+    "1003": "HOUSE",
+    "1004": "-",
+    "1005": "KITCHEN",
+    "1006": "-",
+    "1007": "NIGHT",
+    "1008": "GOVARDHAN",
+    "1009": "is",
+    "1010": "talking",
+    "1011": "to",
+    "1012": "ANJI..",
+    "1013": "GOVARDHAN",
+    "1014": "Aa",
+    "1015": "milton",
+    "1016": "bottle",
+    "1017": "lo",
+    "1018": "water",
+    "1019": "paadesi",
+    "1020": "podunna",
+    "1021": "office",
+    "1022": "ki",
+    "1023": "kadigina",
+    "1024": "neellani",
+    "1025": "nimpu..",
+    "1026": "ANJI",
+    "1027": "leaves",
+    "1028": "the",
+    "1029": "bottle",
+    "1030": "somewhere",
+    "1031": "in",
+    "1032": "the",
+    "1033": "kitchen",
+    "1034": "by",
+    "1035": "the",
+    "1036": "window.",
+    "1037": "TIMELAPSE",
+    "1038": "of",
+    "1039": "night-to-day",
+    "1040": "CUT",
+    "1041": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "GOVARDHAN",
+        "ANJI"
+      ],
+      "SET": [
+        "INT. GOVARDHAN\u2019S HOUSE - KITCHEN - NIGHT"
+      ],
+      "PROPS": [
+        "milton bottle"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1008"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1013"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "ANJI",
+            "ids": [
+              "1026"
+            ]
+          },
+          {
+            "value": "ANJI..",
+            "ids": [
+              "1012"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "INT. GOVARDHAN\u2019S HOUSE - KITCHEN - NIGHT",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005",
+              "1006",
+              "1007"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "milton bottle",
+            "ids": [
+              "1015",
+              "1016"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

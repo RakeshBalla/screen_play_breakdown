@@ -1,0 +1,560 @@
+{
+  "ALL_TEXT": "60 EXT. ACCIDENT SPOT - DAY \nVEDA walks from the crowd. ANTHONY is being interrogated by \nthe police. He observes VEDA passing by. INUMAYYA walks into \nthe crowd and brushes past VEDA, taking note of VEDA. VEDA \nreaches GOVARDHAN, who is fidgeting uncontrollably. \nGOVARDHAN \nYe raa, dabba enduku tayledu! \nVEDA \nBhaiyya, nee dabba ... \nGOVARDHAN \nEnduku tayledu raa!!! Dani meeda \nnaa peru, full address, information \nanta complete ga untudi pakkaaga \nekkada poyina naa dabba naa \ndaggariki vastundi \nVEDA \npassport size photo \nantichalsindi....vaalu aa rendu \nmurderlu nuvve chesaru \nanukuntunaaru \nGOVARDHAN \n(Flustered) \nAdenti passport size pedite nannu \nenduku murderer anukuntunaaru... \nVEDA \nVaallu alaage anukuntaaru \nbhaiyya... \nGOVARDHAN \nNenelli chepta cigarette nuvve \nkalchaavu ani... \nVEDA \nAla aita ninnu first teeskelli, \nbaaga kummesi, appude report \nrayinchkuntaaru... \nGOVARDHAN is baffled. He pauses for a beat. \nGOVARDHAN \nSare, nenu intiki velli dress \nchange chesukoni vasta. \nVEDA \nAddress dorikaaka intiki velli \nready avadam enti? \nGOVARDHAN \nNaaku ee battal lo irritation gaa \nundhi... \nVEDA \nNuvvu ippudu intikelte ninnu \nmoosestaaru... Kaani nee costume \nchange avvaali... adento nenu \nchoopista... \nVEDA and GOVARDHAN leave on the bike. This is seen by \nANTHONY, who leaves soon after in his \u201cVaikuntha Ratham\u201d, a \nfuneral service hearse. Behind the Vaikuntha Ratham is parked \na DCM run by the Baba\u2019s ashram. The BUM, is wandering around, \ngreen briefcase in hand. He is stopped by a MAN INSIDE DCM. \nMAN INSIDE DCM \nBandi ekkute potlam pulihora, kotta \nbattalu istaaru. Vastaaava? \nThe BUM climbs in the back. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "60",
+    "1001": "EXT.",
+    "1002": "ACCIDENT",
+    "1003": "SPOT",
+    "1004": "-",
+    "1005": "DAY",
+    "1006": "VEDA",
+    "1007": "walks",
+    "1008": "from",
+    "1009": "the",
+    "1010": "crowd.",
+    "1011": "ANTHONY",
+    "1012": "is",
+    "1013": "being",
+    "1014": "interrogated",
+    "1015": "by",
+    "1016": "the",
+    "1017": "police.",
+    "1018": "He",
+    "1019": "observes",
+    "1020": "VEDA",
+    "1021": "passing",
+    "1022": "by.",
+    "1023": "INUMAYYA",
+    "1024": "walks",
+    "1025": "into",
+    "1026": "the",
+    "1027": "crowd",
+    "1028": "and",
+    "1029": "brushes",
+    "1030": "past",
+    "1031": "VEDA,",
+    "1032": "taking",
+    "1033": "note",
+    "1034": "of",
+    "1035": "VEDA.",
+    "1036": "VEDA",
+    "1037": "reaches",
+    "1038": "GOVARDHAN,",
+    "1039": "who",
+    "1040": "is",
+    "1041": "fidgeting",
+    "1042": "uncontrollably.",
+    "1043": "GOVARDHAN",
+    "1044": "Ye",
+    "1045": "raa,",
+    "1046": "dabba",
+    "1047": "enduku",
+    "1048": "tayledu!",
+    "1049": "VEDA",
+    "1050": "Bhaiyya,",
+    "1051": "nee",
+    "1052": "dabba",
+    "1053": "...",
+    "1054": "GOVARDHAN",
+    "1055": "Enduku",
+    "1056": "tayledu",
+    "1057": "raa!!!",
+    "1058": "Dani",
+    "1059": "meeda",
+    "1060": "naa",
+    "1061": "peru,",
+    "1062": "full",
+    "1063": "address,",
+    "1064": "information",
+    "1065": "anta",
+    "1066": "complete",
+    "1067": "ga",
+    "1068": "untudi",
+    "1069": "pakkaaga",
+    "1070": "ekkada",
+    "1071": "poyina",
+    "1072": "naa",
+    "1073": "dabba",
+    "1074": "naa",
+    "1075": "daggariki",
+    "1076": "vastundi",
+    "1077": "VEDA",
+    "1078": "passport",
+    "1079": "size",
+    "1080": "photo",
+    "1081": "antichalsindi....vaalu",
+    "1082": "aa",
+    "1083": "rendu",
+    "1084": "murderlu",
+    "1085": "nuvve",
+    "1086": "chesaru",
+    "1087": "anukuntunaaru",
+    "1088": "GOVARDHAN",
+    "1089": "(Flustered)",
+    "1090": "Adenti",
+    "1091": "passport",
+    "1092": "size",
+    "1093": "pedite",
+    "1094": "nannu",
+    "1095": "enduku",
+    "1096": "murderer",
+    "1097": "anukuntunaaru...",
+    "1098": "VEDA",
+    "1099": "Vaallu",
+    "1100": "alaage",
+    "1101": "anukuntaaru",
+    "1102": "bhaiyya...",
+    "1103": "GOVARDHAN",
+    "1104": "Nenelli",
+    "1105": "chepta",
+    "1106": "cigarette",
+    "1107": "nuvve",
+    "1108": "kalchaavu",
+    "1109": "ani...",
+    "1110": "VEDA",
+    "1111": "Ala",
+    "1112": "aita",
+    "1113": "ninnu",
+    "1114": "first",
+    "1115": "teeskelli,",
+    "1116": "baaga",
+    "1117": "kummesi,",
+    "1118": "appude",
+    "1119": "report",
+    "1120": "rayinchkuntaaru...",
+    "1121": "GOVARDHAN",
+    "1122": "is",
+    "1123": "baffled.",
+    "1124": "He",
+    "1125": "pauses",
+    "1126": "for",
+    "1127": "a",
+    "1128": "beat.",
+    "1129": "GOVARDHAN",
+    "1130": "Sare,",
+    "1131": "nenu",
+    "1132": "intiki",
+    "1133": "velli",
+    "1134": "dress",
+    "1135": "change",
+    "1136": "chesukoni",
+    "1137": "vasta.",
+    "1138": "VEDA",
+    "1139": "Address",
+    "1140": "dorikaaka",
+    "1141": "intiki",
+    "1142": "velli",
+    "1143": "ready",
+    "1144": "avadam",
+    "1145": "enti?",
+    "1146": "GOVARDHAN",
+    "1147": "Naaku",
+    "1148": "ee",
+    "1149": "battal",
+    "1150": "lo",
+    "1151": "irritation",
+    "1152": "gaa",
+    "1153": "undhi...",
+    "1154": "VEDA",
+    "1155": "Nuvvu",
+    "1156": "ippudu",
+    "1157": "intikelte",
+    "1158": "ninnu",
+    "1159": "moosestaaru...",
+    "1160": "Kaani",
+    "1161": "nee",
+    "1162": "costume",
+    "1163": "change",
+    "1164": "avvaali...",
+    "1165": "adento",
+    "1166": "nenu",
+    "1167": "choopista...",
+    "1168": "VEDA",
+    "1169": "and",
+    "1170": "GOVARDHAN",
+    "1171": "leave",
+    "1172": "on",
+    "1173": "the",
+    "1174": "bike.",
+    "1175": "This",
+    "1176": "is",
+    "1177": "seen",
+    "1178": "by",
+    "1179": "ANTHONY,",
+    "1180": "who",
+    "1181": "leaves",
+    "1182": "soon",
+    "1183": "after",
+    "1184": "in",
+    "1185": "his",
+    "1186": "\u201cVaikuntha",
+    "1187": "Ratham\u201d,",
+    "1188": "a",
+    "1189": "funeral",
+    "1190": "service",
+    "1191": "hearse.",
+    "1192": "Behind",
+    "1193": "the",
+    "1194": "Vaikuntha",
+    "1195": "Ratham",
+    "1196": "is",
+    "1197": "parked",
+    "1198": "a",
+    "1199": "DCM",
+    "1200": "run",
+    "1201": "by",
+    "1202": "the",
+    "1203": "Baba\u2019s",
+    "1204": "ashram.",
+    "1205": "The",
+    "1206": "BUM,",
+    "1207": "is",
+    "1208": "wandering",
+    "1209": "around,",
+    "1210": "green",
+    "1211": "briefcase",
+    "1212": "in",
+    "1213": "hand.",
+    "1214": "He",
+    "1215": "is",
+    "1216": "stopped",
+    "1217": "by",
+    "1218": "a",
+    "1219": "MAN",
+    "1220": "INSIDE",
+    "1221": "DCM.",
+    "1222": "MAN",
+    "1223": "INSIDE",
+    "1224": "DCM",
+    "1225": "Bandi",
+    "1226": "ekkute",
+    "1227": "potlam",
+    "1228": "pulihora,",
+    "1229": "kotta",
+    "1230": "battalu",
+    "1231": "istaaru.",
+    "1232": "Vastaaava?",
+    "1233": "The",
+    "1234": "BUM",
+    "1235": "climbs",
+    "1236": "in",
+    "1237": "the",
+    "1238": "back.",
+    "1239": "CUT",
+    "1240": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "VEDA",
+        "ANTHONY",
+        "police",
+        "INUMAYYA",
+        "GOVARDHAN",
+        "BUM",
+        "MAN INSIDE DCM"
+      ],
+      "SET": [
+        "EXT. ACCIDENT SPOT - DAY"
+      ],
+      "PROPS": [
+        "green briefcase"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        "bike",
+        "Vaikuntha Ratham",
+        "funeral service hearse",
+        "DCM"
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1006"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1020"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1036"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1049"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1077"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1098"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1110"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1138"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1154"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1168"
+            ]
+          },
+          {
+            "value": "VEDA,",
+            "ids": [
+              "1031"
+            ]
+          },
+          {
+            "value": "VEDA.",
+            "ids": [
+              "1035"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1011"
+            ]
+          },
+          {
+            "value": "ANTHONY,",
+            "ids": [
+              "1179"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "police.",
+            "ids": [
+              "1017"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "INUMAYYA",
+            "ids": [
+              "1023"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1043"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1054"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1088"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1103"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1121"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1129"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1146"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1170"
+            ]
+          },
+          {
+            "value": "GOVARDHAN,",
+            "ids": [
+              "1038"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "BUM",
+            "ids": [
+              "1234"
+            ]
+          },
+          {
+            "value": "BUM,",
+            "ids": [
+              "1206"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "MAN INSIDE DCM",
+            "ids": [
+              "1222",
+              "1223",
+              "1224"
+            ]
+          },
+          {
+            "value": "MAN INSIDE DCM.",
+            "ids": [
+              "1219",
+              "1220",
+              "1221"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. ACCIDENT SPOT - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "green briefcase",
+            "ids": [
+              "1210",
+              "1211"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        [
+          {
+            "value": "bike.",
+            "ids": [
+              "1174"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "Vaikuntha Ratham",
+            "ids": [
+              "1194",
+              "1195"
+            ]
+          },
+          {
+            "value": "\u201cVaikuntha Ratham\u201d,",
+            "ids": [
+              "1186",
+              "1187"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "funeral service hearse.",
+            "ids": [
+              "1189",
+              "1190",
+              "1191"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "DCM",
+            "ids": [
+              "1199"
+            ]
+          },
+          {
+            "value": "DCM",
+            "ids": [
+              "1224"
+            ]
+          },
+          {
+            "value": "DCM.",
+            "ids": [
+              "1221"
+            ]
+          }
+        ]
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

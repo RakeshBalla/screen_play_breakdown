@@ -1,0 +1,981 @@
+{
+  "page_dict": {
+    "alltext": "15.\n30 INT. VEDA'S HOUSE - NIGHT\nWe hear someone's steady breath in the dark, the jingle of\nkeys and some barely audible whispers. Someone opens the door\nstealthily; three men tip-toe in. They go to the bedside. One\nof them switches off the fan, another pulls out a knife and a\nlighter. We hear slurping and licking noises. VEDA, in his\n20s, wakes up. The lights are turned on, three people scream\n“Happy Birthday raa Mama”. VEDA stares at them for five whole\nseconds, blinking, trying to make sense of the situation. One\nof the three is BHANU, his roommate, wearing torn clothes,\nwith an empty bottle of whiskey in his hand.\nVEDA\nNaa birthday aypoyi six months\nayyindhi\nBHANU\nNee chetha cake cut cheyisthe maa\ncelebrations aipoyinatte.\nVISHAL, also in his 20s, is wearing a baby sling (without a\nbaby) across his chest.\nVISHAL\nMamma idhigo chaaku, adhigo cake-u\ncut chey.\nVEDA looks at VISHAL and asks\nVEDA\nVeedevadura?\nBHANU\nNaa best friend raa...\nVEDA\nPaerenti?\nBHANU calmly turns to VISHAL and asks\nBHANU\nPaerenti mama?\nVISHAL\nVISHAL raa\nBHANU\nAha, VISHAL gadu. Nuvvu koye.",
+    "words_ids": {
+      "4172": "15.",
+      "1774": "30",
+      "6338": "INT.",
+      "6166": "VEDA'S",
+      "9553": "HOUSE",
+      "4521": "-",
+      "9594": "NIGHT",
+      "4699": "We",
+      "4743": "hear",
+      "8394": "someone's",
+      "9078": "steady",
+      "8381": "breath",
+      "1120": "in",
+      "8202": "the",
+      "5128": "dark,",
+      "8856": "the",
+      "1142": "jingle",
+      "7050": "of",
+      "1296": "keys",
+      "4378": "and",
+      "4292": "up.",
+      "8419": "barely",
+      "9975": "audible",
+      "7536": "whispers.",
+      "8027": "Someone",
+      "8067": "opens",
+      "1970": "the",
+      "2226": "door",
+      "2095": "stealthily;",
+      "7176": "three",
+      "5954": "men",
+      "3110": "tip-toe",
+      "3576": "in.",
+      "7750": "They",
+      "5879": "go",
+      "7664": "to",
+      "2602": "the",
+      "6950": "bedside.",
+      "9330": "One",
+      "8599": "of",
+      "8988": "them",
+      "4934": "switches",
+      "8675": "off",
+      "8741": "the",
+      "1921": "fan,",
+      "2271": "another",
+      "8612": "pulls",
+      "9469": "out",
+      "3440": "a",
+      "8755": "knife",
+      "2009": "and",
+      "7432": "a",
+      "9517": "lighter.",
+      "8233": "We",
+      "5564": "hear",
+      "5839": "slurping",
+      "4744": "and",
+      "9538": "licking",
+      "4464": "noises.",
+      "2850": "VEDA,",
+      "4656": "in",
+      "5998": "his",
+      "1741": "20s,",
+      "8023": "wakes",
+      "6093": "The",
+      "5653": "lights",
+      "2643": "are",
+      "2357": "turned",
+      "3544": "on,",
+      "9828": "three",
+      "9681": "people",
+      "7218": "scream",
+      "5812": "“Happy",
+      "8017": "Birthday",
+      "4451": "raa",
+      "6716": "VISHAL",
+      "2599": "VEDA",
+      "5888": "stares",
+      "9542": "at",
+      "3230": "them",
+      "8239": "for",
+      "6733": "a",
+      "5832": "whole",
+      "3775": "seconds,",
+      "1081": "blinking,",
+      "8749": "trying",
+      "5892": "to",
+      "9687": "make",
+      "3699": "sense",
+      "8873": "of",
+      "8860": "the",
+      "7143": "situation.",
+      "4923": "One",
+      "7316": "of",
+      "7091": "the",
+      "7357": "three",
+      "9763": "is",
+      "8986": "BHANU,",
+      "8701": "his",
+      "1983": "roommate,",
+      "3047": "wearing",
+      "6056": "torn",
+      "2012": "clothes,",
+      "1040": "with",
+      "7144": "an",
+      "9128": "empty",
+      "1790": "bottle",
+      "1133": "of",
+      "1938": "whiskey",
+      "1609": "in",
+      "2923": "his",
+      "6827": "hand.",
+      "9057": "VEDA",
+      "7172": "Naa",
+      "9260": "birthday",
+      "4218": "aypoyi",
+      "4849": "six",
+      "9655": "months",
+      "8592": "ayyindhi",
+      "2974": "BHANU",
+      "2575": "Nee",
+      "8177": "chetha",
+      "1516": "cake",
+      "4580": "cut",
+      "5985": "cheyisthe",
+      "2676": "maa",
+      "1694": "celebrations",
+      "5548": "aipoyinatte.",
+      "9319": "VISHAL,",
+      "1362": "also",
+      "1382": "in",
+      "8037": "his",
+      "6358": "20s,",
+      "1579": "is",
+      "6434": "wearing",
+      "6691": "baby",
+      "5073": "sling",
+      "5761": "(without",
+      "1933": "a",
+      "8000": "baby)",
+      "8725": "across",
+      "3143": "his",
+      "5307": "chest.",
+      "6233": "VISHAL",
+      "4568": "Mamma",
+      "5016": "idhigo",
+      "7775": "chaaku,",
+      "1888": "adhigo",
+      "5633": "cake-u",
+      "4462": "cut",
+      "2437": "chey.",
+      "4715": "VEDA",
+      "5662": "looks",
+      "2234": "at",
+      "4197": "and",
+      "4152": "asks",
+      "6223": "VEDA",
+      "5993": "Veedevadura?",
+      "4703": "BHANU",
+      "7602": "Naa",
+      "3887": "best",
+      "8147": "friend",
+      "8154": "raa...",
+      "3014": "VEDA",
+      "1797": "Paerenti?",
+      "5838": "BHANU",
+      "3843": "calmly",
+      "5596": "turns",
+      "2444": "to",
+      "2029": "VISHAL",
+      "8439": "and",
+      "1786": "asks",
+      "2800": "BHANU",
+      "6060": "Paerenti",
+      "1614": "mama?",
+      "2260": "VISHAL",
+      "1705": "VISHAL",
+      "8727": "raa",
+      "2518": "BHANU",
+      "3960": "Aha,",
+      "5555": "VISHAL",
+      "6009": "gadu.",
+      "1366": "Nuvvu",
+      "5843": "koye."
+    }
+  },
+  "sample_no": "sample1",
+  "pdf_file_name": "page_16.pdf",
+  "llm_response": {
+    "scene_number": [
+      "30"
+    ],
+    "slugline": {
+      "type": [
+        "INT."
+      ],
+      "location": [
+        "VEDA'S HOUSE"
+      ],
+      "time_of_day": [
+        "NIGHT"
+      ]
+    },
+    "action_lines": [
+      "We hear someone's steady breath in the dark, the jingle of\nkeys and some barely audible whispers. Someone opens the door\nstealthily; three men tip-toe in. They go to the bedside. One\nof them switches off the fan, another pulls out a knife and a\nlighter. We hear slurping and licking noises. VEDA, in his\n20s, wakes up. The lights are turned on, three people scream\n“Happy Birthday raa Mama”. VEDA stares at them for five whole\nseconds, blinking, trying to make sense of the situation. One\nof the three is BHANU, his roommate, wearing torn clothes,\nwith an empty bottle of whiskey in his hand.",
+      "VISHAL, also in his 20s, is wearing a baby sling (without a\nbaby) across his chest.",
+      "VEDA looks at VISHAL and asks",
+      "BHANU calmly turns to VISHAL and asks"
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Naa birthday aypoyi six months\nayyindhi"
+        ]
+      },
+      {
+        "character": [
+          "BHANU"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Nee chetha cake cut cheyisthe maa\ncelebrations aipoyinatte."
+        ]
+      },
+      {
+        "character": [
+          "VISHAL"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Mamma idhigo chaaku, adhigo cake-u\ncut chey."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Veedevadura?"
+        ]
+      },
+      {
+        "character": [
+          "BHANU"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Naa best friend raa..."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Paerenti?"
+        ]
+      },
+      {
+        "character": [
+          "BHANU"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Paerenti mama?"
+        ]
+      },
+      {
+        "character": [
+          "VISHAL"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "VISHAL raa"
+        ]
+      },
+      {
+        "character": [
+          "BHANU"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Aha, VISHAL gadu. Nuvvu koye."
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      {
+        "value": "30",
+        "ids": [
+          1774
+        ]
+      }
+    ],
+    "slugline": {
+      "type": [
+        {
+          "value": "INT.",
+          "ids": [
+            6338
+          ]
+        }
+      ],
+      "location": [
+        {
+          "value": "VEDA'S HOUSE",
+          "ids": [
+            9553,
+            2599,
+            9057,
+            4715,
+            6223,
+            3014
+          ]
+        }
+      ],
+      "time_of_day": [
+        {
+          "value": "NIGHT",
+          "ids": [
+            9594
+          ]
+        }
+      ]
+    },
+    "action_lines": [
+      {
+        "value": "We hear someone's steady breath in the dark, the jingle of\nkeys and some barely audible whispers. Someone opens the door\nstealthily; three men tip-toe in. They go to the bedside. One\nof them switches off the fan, another pulls out a knife and a\nlighter. We hear slurping and licking noises. VEDA, in his\n20s, wakes up. The lights are turned on, three people scream\n“Happy Birthday raa Mama”. VEDA stares at them for five whole\nseconds, blinking, trying to make sense of the situation. One\nof the three is BHANU, his roommate, wearing torn clothes,\nwith an empty bottle of whiskey in his hand.",
+        "ids": [
+          4699,
+          4743,
+          9078,
+          8381,
+          1120,
+          8202,
+          8856,
+          1142,
+          7050,
+          1296,
+          4378,
+          8419,
+          9975,
+          8027,
+          8067,
+          1970,
+          2226,
+          7176,
+          5954,
+          7750,
+          5879,
+          7664,
+          2602,
+          9330,
+          8599,
+          8988,
+          4934,
+          8675,
+          8741,
+          2271,
+          8612,
+          9469,
+          3440,
+          8755,
+          2009,
+          7432,
+          8233,
+          5564,
+          5839,
+          4744,
+          9538,
+          4656,
+          5998,
+          8023,
+          6093,
+          5653,
+          2643,
+          2357,
+          9828,
+          9681,
+          7218,
+          8017,
+          4451,
+          2599,
+          5888,
+          9542,
+          3230,
+          8239,
+          6733,
+          5832,
+          8749,
+          5892,
+          9687,
+          3699,
+          8873,
+          8860,
+          4923,
+          7316,
+          7091,
+          7357,
+          9763,
+          8701,
+          3047,
+          6056,
+          1040,
+          7144,
+          9128,
+          1790,
+          1133,
+          1938,
+          1609,
+          2923,
+          9057,
+          9260,
+          2974,
+          1382,
+          8037,
+          1579,
+          6434,
+          1933,
+          3143,
+          4715,
+          2234,
+          4197,
+          6223,
+          4703,
+          3014,
+          5838,
+          2444,
+          8439,
+          2800,
+          8727,
+          2518
+        ]
+      },
+      {
+        "value": "VISHAL, also in his 20s, is wearing a baby sling (without a\nbaby) across his chest.",
+        "ids": [
+          1120,
+          3440,
+          7432,
+          4656,
+          5998,
+          6716,
+          6733,
+          9763,
+          8701,
+          3047,
+          1609,
+          2923,
+          1362,
+          1382,
+          8037,
+          1579,
+          6434,
+          6691,
+          5073,
+          1933,
+          8725,
+          3143,
+          6233,
+          2029,
+          2260,
+          1705,
+          5555
+        ]
+      },
+      {
+        "value": "VEDA looks at VISHAL and asks",
+        "ids": [
+          4378,
+          2009,
+          4744,
+          6716,
+          2599,
+          9542,
+          9057,
+          6233,
+          4715,
+          5662,
+          2234,
+          4197,
+          4152,
+          6223,
+          3014,
+          2029,
+          8439,
+          1786,
+          2260,
+          1705,
+          5555
+        ]
+      },
+      {
+        "value": "BHANU calmly turns to VISHAL and asks",
+        "ids": [
+          4378,
+          7664,
+          2009,
+          4744,
+          6716,
+          5892,
+          2974,
+          6233,
+          4197,
+          4152,
+          4703,
+          5838,
+          3843,
+          5596,
+          2444,
+          2029,
+          8439,
+          1786,
+          2800,
+          2260,
+          1705,
+          2518,
+          5555
+        ]
+      }
+    ],
+    "dialogue": [
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              2599,
+              3014
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              4715,
+              6223
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Naa birthday aypoyi six months\nayyindhi",
+            "ids": [
+              8017,
+              7172,
+              9260,
+              4218,
+              4849,
+              9655,
+              8592,
+              7602
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "BHANU",
+            "ids": [
+              2518,
+              2800
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              2974,
+              4703
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Nee chetha cake cut cheyisthe maa\ncelebrations aipoyinatte.",
+            "ids": [
+              2575,
+              8177,
+              1516,
+              4580,
+              5985,
+              2676,
+              1694,
+              4462
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VISHAL",
+            "ids": [
+              1705,
+              2029
+            ]
+          },
+          {
+            "value": "VISHAL",
+            "ids": [
+              2260,
+              5555
+            ]
+          },
+          {
+            "value": "VISHAL",
+            "ids": [
+              6233,
+              6716
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Mamma idhigo chaaku, adhigo cake-u\ncut chey.",
+            "ids": [
+              1516,
+              4580,
+              4568,
+              5016,
+              1888,
+              4462
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              2599,
+              3014
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              4715,
+              6223
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Veedevadura?",
+            "ids": [
+              5993
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "BHANU",
+            "ids": [
+              2518,
+              2800
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              2974,
+              4703
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Naa best friend raa...",
+            "ids": [
+              4451,
+              7172,
+              7602,
+              3887,
+              8147,
+              8727
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              2599,
+              3014
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              4715,
+              6223
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Paerenti?",
+            "ids": [
+              1797
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "BHANU",
+            "ids": [
+              2518,
+              2800
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              2974,
+              4703
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Paerenti mama?",
+            "ids": [
+              6060
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VISHAL",
+            "ids": [
+              1705,
+              2029
+            ]
+          },
+          {
+            "value": "VISHAL",
+            "ids": [
+              2260,
+              5555
+            ]
+          },
+          {
+            "value": "VISHAL",
+            "ids": [
+              6233,
+              6716
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "VISHAL raa",
+            "ids": [
+              4451,
+              6716,
+              6233,
+              2029,
+              2260,
+              1705,
+              8727,
+              5555
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "BHANU",
+            "ids": [
+              2518,
+              2800
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              2974,
+              4703
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Aha, VISHAL gadu. Nuvvu koye.",
+            "ids": [
+              6716,
+              6233,
+              2029,
+              2260,
+              1705,
+              5555,
+              1366
+            ]
+          }
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

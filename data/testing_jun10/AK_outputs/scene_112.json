@@ -1,0 +1,153 @@
+{
+  "ALL_TEXT": "112 EXT. GRAVEYARD - DAY \nSUBBA RAJU and VEERAYYA are burying VASU and RAJU. BHANU, who \nis drinking at the graveyard, sees this from a distance. He \nslowly slips out of the graveyard\u2019s back exit among the woods \nand calls VEDA. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "112",
+    "1001": "EXT.",
+    "1002": "GRAVEYARD",
+    "1003": "-",
+    "1004": "DAY",
+    "1005": "SUBBA",
+    "1006": "RAJU",
+    "1007": "and",
+    "1008": "VEERAYYA",
+    "1009": "are",
+    "1010": "burying",
+    "1011": "VASU",
+    "1012": "and",
+    "1013": "RAJU.",
+    "1014": "BHANU,",
+    "1015": "who",
+    "1016": "is",
+    "1017": "drinking",
+    "1018": "at",
+    "1019": "the",
+    "1020": "graveyard,",
+    "1021": "sees",
+    "1022": "this",
+    "1023": "from",
+    "1024": "a",
+    "1025": "distance.",
+    "1026": "He",
+    "1027": "slowly",
+    "1028": "slips",
+    "1029": "out",
+    "1030": "of",
+    "1031": "the",
+    "1032": "graveyard\u2019s",
+    "1033": "back",
+    "1034": "exit",
+    "1035": "among",
+    "1036": "the",
+    "1037": "woods",
+    "1038": "and",
+    "1039": "calls",
+    "1040": "VEDA.",
+    "1041": "CUT",
+    "1042": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "SUBBA RAJU",
+        "VEERAYYA",
+        "VASU",
+        "RAJU",
+        "BHANU"
+      ],
+      "SET": [
+        "EXT. GRAVEYARD - DAY"
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        "woods"
+      ],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1005",
+              "1006"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VEERAYYA",
+            "ids": [
+              "1008"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VASU",
+            "ids": [
+              "1011"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "RAJU",
+            "ids": [
+              "1006"
+            ]
+          },
+          {
+            "value": "RAJU.",
+            "ids": [
+              "1013"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "BHANU,",
+            "ids": [
+              "1014"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. GRAVEYARD - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        [
+          {
+            "value": "woods",
+            "ids": [
+              "1037"
+            ]
+          }
+        ]
+      ],
+      "SOUND": []
+    }
+  }
+}

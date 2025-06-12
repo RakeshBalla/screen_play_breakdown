@@ -1,0 +1,214 @@
+{
+  "page_dict": {
+    "alltext": "34 INT. BANK-GENERAL AREA - DAY GOVARDHAN walks into the bank, to see his desk occupied by a MARILYN, a sharply dressed Caucasian woman, tall, early 30s. Seeing her occupying his desk, GOVARDHAN looses his shit. He creates a big ruckus over it. The bank’s MANAGER, also a woman, exits her cabin and walks up to them. MANAGER GOVARDHAN garu oka sari na cabin ki vosthaara? GOVARDHAN Nenu raanu The MANAGER stares him down, like talking to a child. MANAGER GOVARDHAN GOVARDHAN Aa sarey vosthuna. CUT TO:",
+    "words_ids": {
+      "1000": "34",
+      "1001": "INT.",
+      "1002": "BANK-GENERAL",
+      "1003": "AREA",
+      "1004": "-",
+      "1005": "DAY",
+      "1006": "GOVARDHAN",
+      "1007": "walks",
+      "1008": "into",
+      "1009": "the",
+      "1010": "bank,",
+      "1011": "to",
+      "1012": "see",
+      "1013": "his",
+      "1014": "desk",
+      "1015": "occupied",
+      "1016": "by",
+      "1017": "a",
+      "1018": "MARILYN,",
+      "1019": "a",
+      "1020": "sharply",
+      "1021": "dressed",
+      "1022": "Caucasian",
+      "1023": "woman,",
+      "1024": "tall,",
+      "1025": "early",
+      "1026": "30s.",
+      "1027": "Seeing",
+      "1028": "her",
+      "1029": "occupying",
+      "1030": "his",
+      "1031": "desk,",
+      "1032": "GOVARDHAN",
+      "1033": "looses",
+      "1034": "his",
+      "1035": "shit.",
+      "1036": "He",
+      "1037": "creates",
+      "1038": "a",
+      "1039": "big",
+      "1040": "ruckus",
+      "1041": "over",
+      "1042": "it.",
+      "1043": "The",
+      "1044": "bank’s",
+      "1045": "MANAGER,",
+      "1046": "also",
+      "1047": "a",
+      "1048": "woman,",
+      "1049": "exits",
+      "1050": "her",
+      "1051": "cabin",
+      "1052": "and",
+      "1053": "walks",
+      "1054": "up",
+      "1055": "to",
+      "1056": "them.",
+      "1057": "MANAGER",
+      "1058": "GOVARDHAN",
+      "1059": "garu",
+      "1060": "oka",
+      "1061": "sari",
+      "1062": "na",
+      "1063": "cabin",
+      "1064": "ki",
+      "1065": "vosthaara?",
+      "1066": "GOVARDHAN",
+      "1067": "Nenu",
+      "1068": "raanu",
+      "1069": "The",
+      "1070": "MANAGER",
+      "1071": "stares",
+      "1072": "him",
+      "1073": "down,",
+      "1074": "like",
+      "1075": "talking",
+      "1076": "to",
+      "1077": "a",
+      "1078": "child.",
+      "1079": "MANAGER",
+      "1080": "GOVARDHAN",
+      "1081": "GOVARDHAN",
+      "1082": "Aa",
+      "1083": "sarey",
+      "1084": "vosthuna.",
+      "1085": "CUT",
+      "1086": "TO:"
+    }
+  },
+  "sample_no": "sample3",
+  "pdf_file_name": "page_24.pdf",
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "GOVARDHAN",
+        "MARILYN",
+        "MANAGER"
+      ],
+      "SET": [
+        "INT. BANK-GENERAL AREA - DAY"
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1006"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1032"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1058"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1066"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1080"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1081"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "MARILYN,",
+            "ids": [
+              "1018"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "MANAGER",
+            "ids": [
+              "1057"
+            ]
+          },
+          {
+            "value": "MANAGER",
+            "ids": [
+              "1070"
+            ]
+          },
+          {
+            "value": "MANAGER",
+            "ids": [
+              "1079"
+            ]
+          },
+          {
+            "value": "MANAGER,",
+            "ids": [
+              "1045"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "INT. BANK-GENERAL AREA - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

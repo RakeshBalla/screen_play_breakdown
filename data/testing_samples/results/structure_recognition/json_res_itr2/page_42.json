@@ -1,0 +1,883 @@
+{
+  "sample_no": "sample4",
+  "pdf_file_name": "page_42.pdf",
+  "alltext": "41.\nGOVARDHAN\nPeace kaavali raa! ekaada untudhu\ncheppu\nWAITER\nRestroom lo untudhi Sir\nA disgusted GOVARDHAN waves the WAITER away. A group of noisy\nteenagers occupy the table next to him and create a ruckus.\nIn their excitement, one of them spills their drink - it\nfalls on GOVARDHAN.\nTEENAGER SPILLER\nSorry dude!!\nGOVARDHAN\nKadupuku annam thintunnaava gaddi\nthintunnaava? Kadupulo posukune\ndrink pakkodi meedha posthava?\nTEENAGER SPILLER\nAe Uncle!.. I said I\u2019m sorry.\nChill.\nGOVARDHAN\nEnti Sorry? Sorry anagaane\naipothada? Intlo thanni sarigga\nchesevaallu leka!!!\nTEENAGER INSTIGATOR\nHit him dude... Budda\u2019s goin' on\nand on...\nGOVARDHAN\nKodathaara??? Thandri vayasu ra\nnaadi... paapatmullara!\nAs the teenagers advance towards him, his anger turns into\nfear. He rushes into a corner of the pub looking for a place\nto hide. He finds a door and runs in - it is the women's\ntoilet.",
+  "words_ids": {
+    "1000": "41.",
+    "1001": "GOVARDHAN",
+    "1002": "Peace",
+    "1003": "kaavali",
+    "1004": "raa!",
+    "1005": "ekaada",
+    "1006": "untudhu",
+    "1007": "cheppu",
+    "1008": "WAITER",
+    "1009": "Restroom",
+    "1010": "lo",
+    "1011": "untudhi",
+    "1012": "Sir",
+    "1013": "A",
+    "1014": "disgusted",
+    "1015": "GOVARDHAN",
+    "1016": "waves",
+    "1017": "the",
+    "1018": "WAITER",
+    "1019": "away.",
+    "1020": "A",
+    "1021": "group",
+    "1022": "of",
+    "1023": "noisy",
+    "1024": "teenagers",
+    "1025": "occupy",
+    "1026": "the",
+    "1027": "table",
+    "1028": "next",
+    "1029": "to",
+    "1030": "him",
+    "1031": "and",
+    "1032": "create",
+    "1033": "a",
+    "1034": "ruckus.",
+    "1035": "In",
+    "1036": "their",
+    "1037": "excitement,",
+    "1038": "one",
+    "1039": "of",
+    "1040": "them",
+    "1041": "spills",
+    "1042": "their",
+    "1043": "drink",
+    "1044": "-",
+    "1045": "it",
+    "1046": "falls",
+    "1047": "on",
+    "1048": "GOVARDHAN.",
+    "1049": "TEENAGER",
+    "1050": "SPILLER",
+    "1051": "Sorry",
+    "1052": "dude!!",
+    "1053": "GOVARDHAN",
+    "1054": "Kadupuku",
+    "1055": "annam",
+    "1056": "thintunnaava",
+    "1057": "gaddi",
+    "1058": "thintunnaava?",
+    "1059": "Kadupulo",
+    "1060": "posukune",
+    "1061": "drink",
+    "1062": "pakkodi",
+    "1063": "meedha",
+    "1064": "posthava?",
+    "1065": "TEENAGER",
+    "1066": "SPILLER",
+    "1067": "Ae",
+    "1068": "Uncle!..",
+    "1069": "I",
+    "1070": "said",
+    "1071": "I\u2019m",
+    "1072": "sorry.",
+    "1073": "Chill.",
+    "1074": "GOVARDHAN",
+    "1075": "Enti",
+    "1076": "Sorry?",
+    "1077": "Sorry",
+    "1078": "anagaane",
+    "1079": "aipothada?",
+    "1080": "Intlo",
+    "1081": "thanni",
+    "1082": "sarigga",
+    "1083": "chesevaallu",
+    "1084": "leka!!!",
+    "1085": "TEENAGER",
+    "1086": "INSTIGATOR",
+    "1087": "Hit",
+    "1088": "him",
+    "1089": "dude...",
+    "1090": "Budda\u2019s",
+    "1091": "goin'",
+    "1092": "on",
+    "1093": "and",
+    "1094": "on...",
+    "1095": "GOVARDHAN",
+    "1096": "Kodathaara???",
+    "1097": "Thandri",
+    "1098": "vayasu",
+    "1099": "ra",
+    "1100": "naadi...",
+    "1101": "paapatmullara!",
+    "1102": "As",
+    "1103": "the",
+    "1104": "teenagers",
+    "1105": "advance",
+    "1106": "towards",
+    "1107": "him,",
+    "1108": "his",
+    "1109": "anger",
+    "1110": "turns",
+    "1111": "into",
+    "1112": "fear.",
+    "1113": "He",
+    "1114": "rushes",
+    "1115": "into",
+    "1116": "a",
+    "1117": "corner",
+    "1118": "of",
+    "1119": "the",
+    "1120": "pub",
+    "1121": "looking",
+    "1122": "for",
+    "1123": "a",
+    "1124": "place",
+    "1125": "to",
+    "1126": "hide.",
+    "1127": "He",
+    "1128": "finds",
+    "1129": "a",
+    "1130": "door",
+    "1131": "and",
+    "1132": "runs",
+    "1133": "in",
+    "1134": "-",
+    "1135": "it",
+    "1136": "is",
+    "1137": "the",
+    "1138": "women's",
+    "1139": "toilet."
+  },
+  "llm_response": {
+    "scene_number": [
+      41
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      "A disgusted GOVARDHAN waves the WAITER away. A group of noisy\nteenagers occupy the table next to him and create a ruckus.\nIn their excitement, one of them spills their drink - it\nfalls on GOVARDHAN.",
+      "As the teenagers advance towards him, his anger turns into\nfear. He rushes into a corner of the pub looking for a place\nto hide. He finds a door and runs in - it is the women's\ntoilet."
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "GOVARDHAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Peace kaavali raa! ekaada untudhu\ncheppu"
+        ]
+      },
+      {
+        "character": [
+          "WAITER"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Restroom lo untudhi Sir"
+        ]
+      },
+      {
+        "character": [
+          "TEENAGER SPILLER"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Sorry dude!!"
+        ]
+      },
+      {
+        "character": [
+          "GOVARDHAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Kadupuku annam thintunnaava gaddi\nthintunnaava? Kadupulo posukune\ndrink pakkodi meedha posthava?"
+        ]
+      },
+      {
+        "character": [
+          "TEENAGER SPILLER"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Ae Uncle!.. I said I\u2019m sorry.\nChill."
+        ]
+      },
+      {
+        "character": [
+          "GOVARDHAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Enti Sorry? Sorry anagaane\naipothada? Intlo thanni sarigga\nchesevaallu leka!!!"
+        ]
+      },
+      {
+        "character": [
+          "TEENAGER INSTIGATOR"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Hit him dude... Budda\u2019s goin' on\nand on..."
+        ]
+      },
+      {
+        "character": [
+          "GOVARDHAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Kodathaara??? Thandri vayasu ra\nnaadi... paapatmullara!"
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      [
+        {
+          "value": "41.",
+          "ids": [
+            "1000"
+          ]
+        }
+      ]
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      [
+        {
+          "value": "A disgusted GOVARDHAN waves the WAITER away. A group of noisy teenagers occupy the table next to him and create a ruckus. In their excitement, one of them spills their drink - it falls on GOVARDHAN.",
+          "ids": [
+            "1013",
+            "1014",
+            "1015",
+            "1016",
+            "1017",
+            "1018",
+            "1019",
+            "1020",
+            "1021",
+            "1022",
+            "1023",
+            "1024",
+            "1025",
+            "1026",
+            "1027",
+            "1028",
+            "1029",
+            "1030",
+            "1031",
+            "1032",
+            "1033",
+            "1034",
+            "1035",
+            "1036",
+            "1037",
+            "1038",
+            "1039",
+            "1040",
+            "1041",
+            "1042",
+            "1043",
+            "1044",
+            "1045",
+            "1046",
+            "1047",
+            "1048"
+          ]
+        }
+      ],
+      [
+        {
+          "value": "As the teenagers advance towards him, his anger turns into fear. He rushes into a corner of the pub looking for a place to hide. He finds a door and runs in - it is the women's toilet.",
+          "ids": [
+            "1102",
+            "1103",
+            "1104",
+            "1105",
+            "1106",
+            "1107",
+            "1108",
+            "1109",
+            "1110",
+            "1111",
+            "1112",
+            "1113",
+            "1114",
+            "1115",
+            "1116",
+            "1117",
+            "1118",
+            "1119",
+            "1120",
+            "1121",
+            "1122",
+            "1123",
+            "1124",
+            "1125",
+            "1126",
+            "1127",
+            "1128",
+            "1129",
+            "1130",
+            "1131",
+            "1132",
+            "1133",
+            "1134",
+            "1135",
+            "1136",
+            "1137",
+            "1138",
+            "1139"
+          ]
+        }
+      ]
+    ],
+    "dialogue": [
+      {
+        "character": [
+          [
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1001"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1015"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1053"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1074"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1095"
+              ]
+            },
+            {
+              "value": "GOVARDHAN.",
+              "ids": [
+                "1048"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Peace kaavali raa! ekaada untudhu cheppu",
+              "ids": [
+                "1002",
+                "1003",
+                "1004",
+                "1005",
+                "1006",
+                "1007"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "WAITER",
+              "ids": [
+                "1008"
+              ]
+            },
+            {
+              "value": "WAITER",
+              "ids": [
+                "1018"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Restroom lo untudhi Sir",
+              "ids": [
+                "1009",
+                "1010",
+                "1011",
+                "1012"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "TEENAGER SPILLER",
+              "ids": [
+                "1049",
+                "1050"
+              ]
+            },
+            {
+              "value": "TEENAGER SPILLER",
+              "ids": [
+                "1065",
+                "1066"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Sorry dude!!",
+              "ids": [
+                "1051",
+                "1052"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1001"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1015"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1053"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1074"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1095"
+              ]
+            },
+            {
+              "value": "GOVARDHAN.",
+              "ids": [
+                "1048"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Kadupuku annam thintunnaava gaddi thintunnaava? Kadupulo posukune drink pakkodi meedha posthava?",
+              "ids": [
+                "1054",
+                "1055",
+                "1056",
+                "1057",
+                "1058",
+                "1059",
+                "1060",
+                "1061",
+                "1062",
+                "1063",
+                "1064"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "TEENAGER SPILLER",
+              "ids": [
+                "1049",
+                "1050"
+              ]
+            },
+            {
+              "value": "TEENAGER SPILLER",
+              "ids": [
+                "1065",
+                "1066"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Ae Uncle!.. I said I\u2019m sorry. Chill.",
+              "ids": [
+                "1067",
+                "1068",
+                "1069",
+                "1070",
+                "1071",
+                "1072",
+                "1073"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1001"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1015"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1053"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1074"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1095"
+              ]
+            },
+            {
+              "value": "GOVARDHAN.",
+              "ids": [
+                "1048"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Enti Sorry? Sorry anagaane aipothada? Intlo thanni sarigga chesevaallu leka!!!",
+              "ids": [
+                "1075",
+                "1076",
+                "1077",
+                "1078",
+                "1079",
+                "1080",
+                "1081",
+                "1082",
+                "1083",
+                "1084"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "TEENAGER INSTIGATOR",
+              "ids": [
+                "1085",
+                "1086"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Hit him dude... Budda\u2019s goin' on and on...",
+              "ids": [
+                "1087",
+                "1088",
+                "1089",
+                "1090",
+                "1091",
+                "1092",
+                "1093",
+                "1094"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1001"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1015"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1053"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1074"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1095"
+              ]
+            },
+            {
+              "value": "GOVARDHAN.",
+              "ids": [
+                "1048"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Kodathaara??? Thandri vayasu ra naadi... paapatmullara!",
+              "ids": [
+                "1096",
+                "1097",
+                "1098",
+                "1099",
+                "1100",
+                "1101"
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

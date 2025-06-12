@@ -1,0 +1,103 @@
+{
+  "ALL_TEXT": "11 INT. CIA OFFICE, USA - NIGHT \nThe chest is open. There is nothing inside it. Alarms go off, \nred lights everywhere buzzing.",
+  "WORDS_ID": {
+    "1000": "11",
+    "1001": "INT.",
+    "1002": "CIA",
+    "1003": "OFFICE,",
+    "1004": "USA",
+    "1005": "-",
+    "1006": "NIGHT",
+    "1007": "The",
+    "1008": "chest",
+    "1009": "is",
+    "1010": "open.",
+    "1011": "There",
+    "1012": "is",
+    "1013": "nothing",
+    "1014": "inside",
+    "1015": "it.",
+    "1016": "Alarms",
+    "1017": "go",
+    "1018": "off,",
+    "1019": "red",
+    "1020": "lights",
+    "1021": "everywhere",
+    "1022": "buzzing."
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [],
+      "SET": [
+        "INT. CIA OFFICE, USA - NIGHT"
+      ],
+      "PROPS": [
+        "chest"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        "Alarms go off",
+        "buzzing"
+      ]
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [],
+      "SET": [
+        [
+          {
+            "value": "INT. CIA OFFICE, USA - NIGHT",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005",
+              "1006"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "chest",
+            "ids": [
+              "1008"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        [
+          {
+            "value": "Alarms go off,",
+            "ids": [
+              "1016",
+              "1017",
+              "1018"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "buzzing.",
+            "ids": [
+              "1022"
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}

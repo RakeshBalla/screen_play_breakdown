@@ -1,0 +1,464 @@
+{
+  "page_dict": {
+    "alltext": "3.\n13 EXT. RUINED TEMPLE - NIGHTFADE IN.\nSUPERIMPOSE: 2009. On the edge of a platform in tattered,\ndishevelled rags, two bums, SURESH and a mute BUM, are\nsmoking up using chillams and listening to the Gita on the\nradio. The mute BUM is slow-dancing against a female\nmannequin torso stuck in the middle of a tree.\nRADIO (V.O.)\nJaatasya hi dhruvo martyurdhruvaam\njanma martasya cha\ntasmaadaparihaaryerthe na tvam\nsochitumarhasi. Puttina vaaniki\nmaranamu tappadhu. Maraninchina\nvaaniki janmamu tappadhu.\nAnivaaryamagu ee vishayamunu\ngoorchi Sokimpa tagadhu.\nSURESH takes the radio and opens a compartment in the back.\nHe takes out some weed from it, puts it in his chillam, and\ncontinues smoking up.\nCUT TO:",
+    "words_ids": {
+      "7062": "3.",
+      "8569": "13",
+      "4678": "EXT.",
+      "3350": "RUINED",
+      "3039": "TEMPLE",
+      "5856": "-",
+      "4988": "NIGHTFADE",
+      "1055": "IN.",
+      "8581": "SUPERIMPOSE:",
+      "5571": "2009.",
+      "6806": "On",
+      "1024": "the",
+      "1768": "edge",
+      "1201": "of",
+      "5719": "a",
+      "1512": "platform",
+      "8093": "vaaniki",
+      "5336": "tattered,",
+      "6260": "dishevelled",
+      "8070": "rags,",
+      "2901": "two",
+      "6854": "bums,",
+      "7733": "SURESH",
+      "9887": "and",
+      "8845": "a",
+      "1767": "mute",
+      "7264": "BUM,",
+      "5496": "are",
+      "2263": "smoking",
+      "2506": "up",
+      "4947": "using",
+      "8512": "chillams",
+      "7296": "and",
+      "3692": "listening",
+      "1035": "to",
+      "3865": "the",
+      "2693": "Gita",
+      "3798": "on",
+      "9157": "the",
+      "5912": "radio.",
+      "5261": "The",
+      "7541": "mute",
+      "6168": "BUM",
+      "6298": "is",
+      "2836": "slow-dancing",
+      "2941": "against",
+      "9105": "a",
+      "3151": "female",
+      "4433": "mannequin",
+      "9512": "torso",
+      "3359": "stuck",
+      "2035": "in",
+      "1169": "the",
+      "9204": "middle",
+      "3834": "of",
+      "9642": "a",
+      "3955": "tree.",
+      "6472": "RADIO",
+      "6289": "(V.O.)",
+      "8598": "Jaatasya",
+      "2977": "hi",
+      "9031": "He",
+      "6770": "martyurdhruvaam",
+      "4158": "janma",
+      "2451": "martasya",
+      "6200": "cha",
+      "1691": "tasmaadaparihaaryerthe",
+      "9020": "na",
+      "5772": "tvam",
+      "7040": "sochitumarhasi.",
+      "1109": "Puttina",
+      "9149": "maranamu",
+      "8466": "tappadhu.",
+      "5938": "Maraninchina",
+      "2306": "vaaniki",
+      "4015": "janmamu",
+      "2106": "tappadhu.",
+      "1555": "Anivaaryamagu",
+      "4403": "ee",
+      "8727": "vishayamunu",
+      "2286": "goorchi",
+      "1979": "Sokimpa",
+      "7450": "tagadhu.",
+      "1567": "SURESH",
+      "2678": "takes",
+      "5277": "the",
+      "1458": "radio",
+      "9793": "and",
+      "7536": "opens",
+      "2078": "a",
+      "4417": "compartment",
+      "2965": "in",
+      "6114": "the",
+      "3803": "back.",
+      "2482": "takes",
+      "8695": "out",
+      "4943": "some",
+      "7603": "weed",
+      "1566": "from",
+      "3297": "it,",
+      "2089": "puts",
+      "7306": "it",
+      "6274": "in",
+      "8572": "his",
+      "9485": "chillam,",
+      "2352": "and",
+      "2634": "continues",
+      "5386": "smoking",
+      "2862": "up.",
+      "7360": "CUT",
+      "1533": "TO:"
+    }
+  },
+  "sample_no": "sample2",
+  "pdf_file_name": "page_4.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "SURESH",
+        "BUM"
+      ],
+      "CAST_INFO": [
+        "two bums",
+        "mute"
+      ],
+      "EXTRAS": [],
+      "PROPS": [
+        "chillams",
+        "radio",
+        "weed",
+        "chillam",
+        "female mannequin torso"
+      ],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [
+        "EXT. RUINED TEMPLE - NIGHT"
+      ],
+      "CAMERA": [
+        "CUT TO:"
+      ],
+      "SOUND": [
+        "RADIO (V.O.)",
+        "Jaatasya hi dhruvo martyurdhruvaam\njanma martasya cha\ntasmaadaparihaaryerthe na tvam\nsochitumarhasi. Puttina vaaniki\nmaranamu tappadhu. Maraninchina\nvaaniki janmamu tappadhu.\nAnivaaryamagu ee vishayamunu\ngoorchi Sokimpa tagadhu."
+      ],
+      "LIGHTS": [
+        "NIGHTFADE"
+      ],
+      "ELECTRICS": [
+        "radio"
+      ],
+      "STUNTS": [],
+      "MUSIC": [
+        "Gita"
+      ],
+      "COSTUMES": [
+        "tattered, dishevelled rags"
+      ],
+      "MAKEUP": [
+        "dishevelled"
+      ],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        "tree"
+      ],
+      "SET": [
+        "Ruined Temple",
+        "platform"
+      ],
+      "SET_DRESSING": [
+        "female mannequin torso stuck in the middle of a tree"
+      ],
+      "CONSTRUCTION": [
+        "ruins"
+      ],
+      "SCENE_DETAILS": [
+        "smoking up",
+        "listening to the Gita",
+        "slow-dancing"
+      ],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": [
+        "SUPERIMPOSE: 2009"
+      ]
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "SURESH",
+          "ids": [
+            1567,
+            7733
+          ]
+        },
+        {
+          "value": "BUM",
+          "ids": [
+            6168
+          ]
+        }
+      ],
+      "CAST_INFO": [
+        {
+          "value": "two bums",
+          "ids": [
+            2901
+          ]
+        },
+        {
+          "value": "mute",
+          "ids": [
+            1767,
+            7541
+          ]
+        }
+      ],
+      "EXTRAS": [],
+      "PROPS": [
+        {
+          "value": "chillams",
+          "ids": [
+            8512
+          ]
+        },
+        {
+          "value": "radio",
+          "ids": [
+            1458,
+            6472
+          ]
+        },
+        {
+          "value": "weed",
+          "ids": [
+            7603
+          ]
+        },
+        {
+          "value": "chillam",
+          "ids": []
+        },
+        {
+          "value": "female mannequin torso",
+          "ids": [
+            3151,
+            4433,
+            9512
+          ]
+        }
+      ],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [
+        {
+          "value": "EXT. RUINED TEMPLE - NIGHT",
+          "ids": [
+            3350,
+            3039
+          ]
+        }
+      ],
+      "CAMERA": [
+        {
+          "value": "CUT TO:",
+          "ids": [
+            1035,
+            7360
+          ]
+        }
+      ],
+      "SOUND": [
+        {
+          "value": "RADIO (V.O.)",
+          "ids": [
+            6472,
+            1458
+          ]
+        },
+        {
+          "value": "Jaatasya hi dhruvo martyurdhruvaam\njanma martasya cha\ntasmaadaparihaaryerthe na tvam\nsochitumarhasi. Puttina vaaniki\nmaranamu tappadhu. Maraninchina\nvaaniki janmamu tappadhu.\nAnivaaryamagu ee vishayamunu\ngoorchi Sokimpa tagadhu.",
+          "ids": [
+            8093,
+            8598,
+            2977,
+            6770,
+            4158,
+            2451,
+            6200,
+            1691,
+            9020,
+            5772,
+            1109,
+            9149,
+            5938,
+            2306,
+            4015,
+            1555,
+            4403,
+            8727,
+            2286,
+            1979
+          ]
+        }
+      ],
+      "LIGHTS": [
+        {
+          "value": "NIGHTFADE",
+          "ids": [
+            4988
+          ]
+        }
+      ],
+      "ELECTRICS": [
+        {
+          "value": "radio",
+          "ids": [
+            1458,
+            6472
+          ]
+        }
+      ],
+      "STUNTS": [],
+      "MUSIC": [
+        {
+          "value": "Gita",
+          "ids": [
+            2693
+          ]
+        }
+      ],
+      "COSTUMES": [
+        {
+          "value": "tattered, dishevelled rags",
+          "ids": [
+            6260
+          ]
+        }
+      ],
+      "MAKEUP": [
+        {
+          "value": "dishevelled",
+          "ids": [
+            6260
+          ]
+        }
+      ],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        {
+          "value": "tree",
+          "ids": []
+        }
+      ],
+      "SET": [
+        {
+          "value": "Ruined Temple",
+          "ids": [
+            3350,
+            3039
+          ]
+        },
+        {
+          "value": "platform",
+          "ids": [
+            1512
+          ]
+        }
+      ],
+      "SET_DRESSING": [
+        {
+          "value": "female mannequin torso stuck in the middle of a tree",
+          "ids": [
+            1024,
+            1201,
+            5719,
+            8845,
+            3865,
+            9157,
+            5261,
+            9105,
+            3151,
+            4433,
+            9512,
+            3359,
+            2035,
+            1169,
+            9204,
+            3834,
+            9642,
+            5277,
+            2078,
+            2965,
+            6114,
+            6274
+          ]
+        }
+      ],
+      "CONSTRUCTION": [
+        {
+          "value": "ruins",
+          "ids": []
+        }
+      ],
+      "SCENE_DETAILS": [
+        {
+          "value": "smoking up",
+          "ids": [
+            2263,
+            2506,
+            5386
+          ]
+        },
+        {
+          "value": "listening to the Gita",
+          "ids": [
+            1024,
+            3692,
+            1035,
+            3865,
+            2693,
+            9157,
+            5261,
+            1169,
+            5277,
+            6114
+          ]
+        },
+        {
+          "value": "slow-dancing",
+          "ids": [
+            2836
+          ]
+        }
+      ],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": [
+        {
+          "value": "SUPERIMPOSE: 2009",
+          "ids": []
+        }
+      ]
+    }
+  }
+}

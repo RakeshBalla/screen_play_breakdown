@@ -1,0 +1,509 @@
+{
+  "page_dict": {
+    "alltext": "52.\nGOVARDHAN\nSare, nenu intiki velli dress\nchange chesukoni vasta.\nVEDA\nAddress dorikaaka intiki velli\nready avadam enti?\nGOVARDHAN\nNaaku ee battal lo irritation gaa\nundhi...\nVEDA\nNuvvu ippudu intikelte ninnu\nmoosestaaru... Kaani nee costume\nchange avvaali... adento nenu\nchoopista...\nVEDA and GOVARDHAN leave on the bike. This is seen by\nANTHONY, who leaves soon after in his “Vaikuntha Ratham”, a\nfuneral service hearse. Behind the Vaikuntha Ratham is parked\na DCM run by the Baba’s ashram. The BUM, is wandering around,\ngreen briefcase in hand. He is stopped by a MAN INSIDE DCM.\nMAN INSIDE DCM\nBandi ekkute potlam pulihora, kotta\nbattalu istaaru. Vastaaava?\nThe BUM climbs in the back.\nCUT TO:",
+    "words_ids": {
+      "6714": "52.",
+      "7149": "GOVARDHAN",
+      "1625": "Sare,",
+      "3856": "nenu",
+      "4183": "intiki",
+      "9882": "velli",
+      "8555": "dress",
+      "1220": "change",
+      "1032": "chesukoni",
+      "2724": "vasta.",
+      "8296": "VEDA",
+      "3587": "Address",
+      "8143": "dorikaaka",
+      "7065": "intiki",
+      "6860": "velli",
+      "4139": "ready",
+      "7446": "avadam",
+      "1495": "enti?",
+      "7212": "GOVARDHAN",
+      "6168": "Naaku",
+      "4004": "ee",
+      "9827": "battal",
+      "4094": "lo",
+      "7230": "irritation",
+      "3450": "gaa",
+      "9113": "undhi...",
+      "6506": "VEDA",
+      "9772": "Nuvvu",
+      "1261": "ippudu",
+      "6687": "intikelte",
+      "4989": "ninnu",
+      "2588": "stopped",
+      "9547": "Kaani",
+      "7740": "nee",
+      "6965": "costume",
+      "3181": "change",
+      "6387": "avvaali...",
+      "3558": "adento",
+      "6716": "nenu",
+      "1690": "choopista...",
+      "7866": "VEDA",
+      "2529": "and",
+      "6436": "GOVARDHAN",
+      "3284": "leave",
+      "6412": "on",
+      "3735": "the",
+      "3190": "bike.",
+      "1196": "This",
+      "7778": "is",
+      "7499": "seen",
+      "2555": "by",
+      "8530": "ANTHONY,",
+      "6875": "who",
+      "3267": "leaves",
+      "7744": "soon",
+      "4522": "after",
+      "1966": "in",
+      "7687": "his",
+      "2223": "“Vaikuntha",
+      "4325": "Ratham”,",
+      "5355": "a",
+      "3783": "funeral",
+      "4053": "service",
+      "8976": "hearse.",
+      "1713": "Behind",
+      "4564": "the",
+      "4031": "Vaikuntha",
+      "5808": "Ratham",
+      "1419": "is",
+      "5971": "parked",
+      "9361": "a",
+      "1722": "DCM",
+      "7535": "run",
+      "7252": "by",
+      "9947": "the",
+      "6780": "Baba’s",
+      "5708": "ashram.",
+      "7879": "The",
+      "7821": "BUM,",
+      "2931": "is",
+      "9811": "wandering",
+      "7414": "around,",
+      "6235": "green",
+      "4245": "briefcase",
+      "2561": "in",
+      "8340": "hand.",
+      "8894": "He",
+      "9446": "is",
+      "2837": "by",
+      "3310": "a",
+      "8144": "MAN",
+      "8430": "INSIDE",
+      "9962": "DCM.",
+      "4718": "MAN",
+      "4789": "INSIDE",
+      "7907": "DCM",
+      "4145": "Bandi",
+      "3838": "ekkute",
+      "1753": "potlam",
+      "5264": "pulihora,",
+      "7409": "kotta",
+      "3666": "battalu",
+      "8380": "istaaru.",
+      "1171": "Vastaaava?",
+      "4110": "The",
+      "2638": "BUM",
+      "5969": "climbs",
+      "4123": "in",
+      "9098": "the",
+      "6530": "back.",
+      "2634": "CUT",
+      "6283": "TO:"
+    }
+  },
+  "sample_no": "sample7",
+  "pdf_file_name": "page_53.pdf",
+  "llm_response": {
+    "scene_number": [
+      "52"
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      "VEDA and GOVARDHAN leave on the bike. This is seen by\nANTHONY, who leaves soon after in his “Vaikuntha Ratham”, a\nfuneral service hearse. Behind the Vaikuntha Ratham is parked\na DCM run by the Baba’s ashram. The BUM, is wandering around,\ngreen briefcase in hand. He is stopped by a MAN INSIDE DCM.",
+      "The BUM climbs in the back."
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "GOVARDHAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Sare, nenu intiki velli dress\nchange chesukoni vasta."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Address dorikaaka intiki velli\nready avadam enti?"
+        ]
+      },
+      {
+        "character": [
+          "GOVARDHAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Naaku ee battal lo irritation gaa\nundhi..."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Nuvvu ippudu intikelte ninnu\nmoosestaaru... Kaani nee costume\nchange avvaali... adento nenu\nchoopista..."
+        ]
+      },
+      {
+        "character": [
+          "MAN INSIDE DCM"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Bandi ekkute potlam pulihora, kotta\nbattalu istaaru. Vastaaava?"
+        ]
+      }
+    ],
+    "transitions": [
+      "CUT TO:"
+    ],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      {
+        "value": "52",
+        "ids": []
+      }
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      {
+        "value": "VEDA and GOVARDHAN leave on the bike. This is seen by\nANTHONY, who leaves soon after in his “Vaikuntha Ratham”, a\nfuneral service hearse. Behind the Vaikuntha Ratham is parked\na DCM run by the Baba’s ashram. The BUM, is wandering around,\ngreen briefcase in hand. He is stopped by a MAN INSIDE DCM.",
+        "ids": [
+          7149,
+          8296,
+          7212,
+          6506,
+          2588,
+          7866,
+          2529,
+          6436,
+          3284,
+          6412,
+          3735,
+          1196,
+          7778,
+          7499,
+          2555,
+          6875,
+          3267,
+          7744,
+          4522,
+          1966,
+          7687,
+          5355,
+          3783,
+          4053,
+          1713,
+          4564,
+          4031,
+          5808,
+          1419,
+          5971,
+          9361,
+          1722,
+          7535,
+          7252,
+          9947,
+          7879,
+          2931,
+          9811,
+          6235,
+          4245,
+          2561,
+          8894,
+          9446,
+          2837,
+          3310,
+          8144,
+          8430,
+          4718,
+          4789,
+          7907,
+          4110,
+          2638,
+          4123,
+          9098
+        ]
+      },
+      {
+        "value": "The BUM climbs in the back.",
+        "ids": [
+          3735,
+          1966,
+          4564,
+          9947,
+          7879,
+          2561,
+          4110,
+          2638,
+          5969,
+          4123,
+          9098
+        ]
+      }
+    ],
+    "dialogue": [
+      {
+        "character": [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              6436,
+              7149
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Sare, nenu intiki velli dress\nchange chesukoni vasta.",
+            "ids": [
+              3856,
+              4183,
+              9882,
+              8555,
+              1220,
+              1032,
+              7065,
+              6860,
+              3181,
+              6716
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              6506,
+              7866
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Address dorikaaka intiki velli\nready avadam enti?",
+            "ids": [
+              4183,
+              9882,
+              3587,
+              8143,
+              7065,
+              6860,
+              4139,
+              7446
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              6436,
+              7149
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Naaku ee battal lo irritation gaa\nundhi...",
+            "ids": [
+              6168,
+              4004,
+              9827,
+              4094,
+              7230,
+              3450
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              6506,
+              7866
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Nuvvu ippudu intikelte ninnu\nmoosestaaru... Kaani nee costume\nchange avvaali... adento nenu\nchoopista...",
+            "ids": [
+              3856,
+              1220,
+              9772,
+              1261,
+              6687,
+              4989,
+              9547,
+              7740,
+              6965,
+              3181,
+              3558,
+              6716
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "MAN INSIDE DCM",
+            "ids": [
+              1722,
+              8144,
+              8430,
+              4718,
+              4789,
+              7907
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Bandi ekkute potlam pulihora, kotta\nbattalu istaaru. Vastaaava?",
+            "ids": [
+              4145,
+              3838,
+              1753,
+              7409,
+              3666
+            ]
+          }
+        ]
+      }
+    ],
+    "transitions": [
+      {
+        "value": "CUT TO:",
+        "ids": [
+          2634
+        ]
+      }
+    ],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

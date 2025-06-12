@@ -1,0 +1,348 @@
+{
+  "ALL_TEXT": "155 EXT. CHERLAPALLY JAIL - WEED FARM - DAY \nThe SOUND RECORDIST enters through a bunch of high maize \nstalk and sees a vast field of hemp shrubs covered with small \nglass greenhouses, a small army of four male inmates watering \nthe hemp and checking the buds. CHINTHAN BABA is sitting on \nthe floor, cross-legged, as he stuffs his chillum with weed. \nHe spots the SOUND RECORDIST and calls him over \nCHINTHAN BABA \nHello!!Kotha anukuntha ikkada...itu \nraa.. \nThe SOUND RECORDIST does not respond. \nCHINTHAN BABA \nNee perenti abbayi? \nSOUND RECORDIST \n(hesitates) \nGovardhan...Govardhan Sharma \nLighting strikes CHINTHAN BABA. His clothes have disappeared. \nHe covers his crotch. \nFADE TO BLACK. ",
+  "WORDS_ID": {
+    "1000": "155",
+    "1001": "EXT.",
+    "1002": "CHERLAPALLY",
+    "1003": "JAIL",
+    "1004": "-",
+    "1005": "WEED",
+    "1006": "FARM",
+    "1007": "-",
+    "1008": "DAY",
+    "1009": "The",
+    "1010": "SOUND",
+    "1011": "RECORDIST",
+    "1012": "enters",
+    "1013": "through",
+    "1014": "a",
+    "1015": "bunch",
+    "1016": "of",
+    "1017": "high",
+    "1018": "maize",
+    "1019": "stalk",
+    "1020": "and",
+    "1021": "sees",
+    "1022": "a",
+    "1023": "vast",
+    "1024": "field",
+    "1025": "of",
+    "1026": "hemp",
+    "1027": "shrubs",
+    "1028": "covered",
+    "1029": "with",
+    "1030": "small",
+    "1031": "glass",
+    "1032": "greenhouses,",
+    "1033": "a",
+    "1034": "small",
+    "1035": "army",
+    "1036": "of",
+    "1037": "four",
+    "1038": "male",
+    "1039": "inmates",
+    "1040": "watering",
+    "1041": "the",
+    "1042": "hemp",
+    "1043": "and",
+    "1044": "checking",
+    "1045": "the",
+    "1046": "buds.",
+    "1047": "CHINTHAN",
+    "1048": "BABA",
+    "1049": "is",
+    "1050": "sitting",
+    "1051": "on",
+    "1052": "the",
+    "1053": "floor,",
+    "1054": "cross-legged,",
+    "1055": "as",
+    "1056": "he",
+    "1057": "stuffs",
+    "1058": "his",
+    "1059": "chillum",
+    "1060": "with",
+    "1061": "weed.",
+    "1062": "He",
+    "1063": "spots",
+    "1064": "the",
+    "1065": "SOUND",
+    "1066": "RECORDIST",
+    "1067": "and",
+    "1068": "calls",
+    "1069": "him",
+    "1070": "over",
+    "1071": "CHINTHAN",
+    "1072": "BABA",
+    "1073": "Hello!!Kotha",
+    "1074": "anukuntha",
+    "1075": "ikkada...itu",
+    "1076": "raa..",
+    "1077": "The",
+    "1078": "SOUND",
+    "1079": "RECORDIST",
+    "1080": "does",
+    "1081": "not",
+    "1082": "respond.",
+    "1083": "CHINTHAN",
+    "1084": "BABA",
+    "1085": "Nee",
+    "1086": "perenti",
+    "1087": "abbayi?",
+    "1088": "SOUND",
+    "1089": "RECORDIST",
+    "1090": "(hesitates)",
+    "1091": "Govardhan...Govardhan",
+    "1092": "Sharma",
+    "1093": "Lighting",
+    "1094": "strikes",
+    "1095": "CHINTHAN",
+    "1096": "BABA.",
+    "1097": "His",
+    "1098": "clothes",
+    "1099": "have",
+    "1100": "disappeared.",
+    "1101": "He",
+    "1102": "covers",
+    "1103": "his",
+    "1104": "crotch.",
+    "1105": "FADE",
+    "1106": "TO",
+    "1107": "BLACK."
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "SOUND RECORDIST",
+        "four male inmates",
+        "CHINTHAN BABA"
+      ],
+      "SET": [
+        "EXT. CHERLAPALLY JAIL - WEED FARM - DAY"
+      ],
+      "PROPS": [
+        "chillum",
+        "weed"
+      ],
+      "STUNTS": [
+        "Lighting strikes CHINTHAN BABA"
+      ],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [
+        "His clothes have disappeared",
+        "He covers his crotch"
+      ],
+      "GREENERY": [
+        "high maize stalk",
+        "vast field of hemp shrubs",
+        "hemp",
+        "buds"
+      ],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "SOUND RECORDIST",
+            "ids": [
+              "1010",
+              "1011"
+            ]
+          },
+          {
+            "value": "SOUND RECORDIST",
+            "ids": [
+              "1065",
+              "1066"
+            ]
+          },
+          {
+            "value": "SOUND RECORDIST",
+            "ids": [
+              "1078",
+              "1079"
+            ]
+          },
+          {
+            "value": "SOUND RECORDIST",
+            "ids": [
+              "1088",
+              "1089"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "four male inmates",
+            "ids": [
+              "1037",
+              "1038",
+              "1039"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1047",
+              "1048"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1071",
+              "1072"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1083",
+              "1084"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA.",
+            "ids": [
+              "1095",
+              "1096"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. CHERLAPALLY JAIL - WEED FARM - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005",
+              "1006",
+              "1007",
+              "1008"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "chillum",
+            "ids": [
+              "1059"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "WEED",
+            "ids": [
+              "1005"
+            ]
+          },
+          {
+            "value": "weed.",
+            "ids": [
+              "1061"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [
+        [
+          {
+            "value": "Lighting strikes CHINTHAN BABA.",
+            "ids": [
+              "1093",
+              "1094",
+              "1095",
+              "1096"
+            ]
+          }
+        ]
+      ],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [
+        [
+          {
+            "value": "His clothes have disappeared.",
+            "ids": [
+              "1097",
+              "1098",
+              "1099",
+              "1100"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "He covers his crotch.",
+            "ids": [
+              "1101",
+              "1102",
+              "1103",
+              "1104"
+            ]
+          }
+        ]
+      ],
+      "GREENERY": [
+        [
+          {
+            "value": "high maize stalk",
+            "ids": [
+              "1017",
+              "1018",
+              "1019"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "vast field of hemp shrubs",
+            "ids": [
+              "1023",
+              "1024",
+              "1025",
+              "1026",
+              "1027"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "hemp",
+            "ids": [
+              "1026"
+            ]
+          },
+          {
+            "value": "hemp",
+            "ids": [
+              "1042"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "buds.",
+            "ids": [
+              "1046"
+            ]
+          }
+        ]
+      ],
+      "SOUND": []
+    }
+  }
+}

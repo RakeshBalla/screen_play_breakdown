@@ -1,0 +1,255 @@
+{
+  "page_dict": {
+    "alltext": "71.\nVEDA\n...Nene Baba... mee tho koncham\npani padindhi Baba.. Peddhadhi\nkaadhu... Chinnadhe...\nCHINTHAN BABA\nPani cheppu VEDA. Peddadha\nchinnadha taravaatha\naalochiddhaam...\nVEDA\nEeyana peru GOVARDHAN\nVEDA pulls out GOVARDHAN, who has been hiding behind him.\nCHINTHAN BABA\n(slowly)\nAhh telusu Govardhan Anandam\nSharma.... hmmm.... cheppu.\nGOVARDHAN is extremely uncomfortable, and has his own doubts\nabout CHINTHAN BABA. He notices the little finger's nail of\nCHINTHAN BABA's left hand is painted light pink.\nVEDA\nPoddunna chinna godava ayyindi\nBaba...\nVEDA trails off explaining things. GOVARDHAN looks on in\nfear.\nVEDA\n...aithe maa thappu lekunda memu\nirukkupoyi...\nCHINTHAN BABA\nIppudu maa tho em pani?\nVEDA\n. Baba meeru thaluchukuntey\naedhaina saadhyame...\nCHINTHAN BABA looks towards GOVARDHAN, who is fidgeting next\nto VEDA.\nCHINTHAN BABA\nVEDA mammalni maatlaadanisthaava?\nGOVARDHAN\nAaynani maatlaadani ayya!.\nThondaragaa ayipogottukuni veldaam\nCHINTHAN BABA is surprised by GOVARDHAN being rude. He looks\nat VEDA and smiles.",
+    "words_ids": {
+      "7447": "71.",
+      "9716": "VEDA",
+      "9889": "...Nene",
+      "9047": "Baba...",
+      "3226": "mee",
+      "3349": "tho",
+      "9698": "koncham",
+      "3733": "pani",
+      "9408": "padindhi",
+      "4893": "Baba..",
+      "3543": "Peddhadhi",
+      "1683": "kaadhu...",
+      "6667": "Chinnadhe...",
+      "8594": "CHINTHAN",
+      "4359": "BABA",
+      "5654": "Pani",
+      "3650": "cheppu",
+      "9497": "VEDA.",
+      "9102": "Peddadha",
+      "7702": "chinnadha",
+      "1785": "taravaatha",
+      "2436": "aalochiddhaam...",
+      "4192": "VEDA",
+      "1591": "Eeyana",
+      "1738": "peru",
+      "4277": "GOVARDHAN",
+      "1026": "VEDA",
+      "5642": "pulls",
+      "1012": "out",
+      "5427": "GOVARDHAN,",
+      "2650": "who",
+      "8167": "has",
+      "7945": "been",
+      "2943": "hiding",
+      "9483": "behind",
+      "8247": "him.",
+      "5671": "CHINTHAN",
+      "4022": "BABA",
+      "3429": "(slowly)",
+      "7258": "Ahh",
+      "9550": "telusu",
+      "1832": "Govardhan",
+      "4916": "Anandam",
+      "6048": "Sharma....",
+      "6350": "hmmm....",
+      "5528": "cheppu.",
+      "7260": "GOVARDHAN",
+      "8684": "is",
+      "6543": "extremely",
+      "5286": "uncomfortable,",
+      "8870": "and",
+      "3615": "has",
+      "4900": "his",
+      "8786": "own",
+      "8201": "doubts",
+      "6903": "about",
+      "7118": "CHINTHAN",
+      "9314": "BABA.",
+      "2520": "He",
+      "4467": "notices",
+      "6031": "the",
+      "3876": "meeru",
+      "4246": "finger's",
+      "6522": "nail",
+      "5241": "of",
+      "1321": "CHINTHAN",
+      "3029": "BABA's",
+      "7285": "left",
+      "6600": "hand",
+      "8340": "is",
+      "9447": "painted",
+      "5579": "light",
+      "3431": "pink.",
+      "7471": "VEDA",
+      "2546": "Poddunna",
+      "4619": "chinna",
+      "1216": "godava",
+      "4537": "ayyindi",
+      "4625": "Baba...",
+      "4548": "VEDA",
+      "7441": "trails",
+      "7660": "off",
+      "3414": "explaining",
+      "7982": "things.",
+      "2854": "GOVARDHAN",
+      "3148": "looks",
+      "6416": "on",
+      "3957": "in",
+      "8612": "fear.",
+      "8023": "VEDA",
+      "5500": "...aithe",
+      "4039": "maa",
+      "9774": "thappu",
+      "2988": "lekunda",
+      "9526": "memu",
+      "6267": "irukkupoyi...",
+      "5422": "CHINTHAN",
+      "7354": "BABA",
+      "4764": "Ippudu",
+      "8512": "maa",
+      "4088": "tho",
+      "9232": "em",
+      "9583": "pani?",
+      "9592": "VEDA",
+      "2208": ".",
+      "6005": "Baba",
+      "7324": "thaluchukuntey",
+      "4677": "aedhaina",
+      "5923": "saadhyame...",
+      "8460": "CHINTHAN",
+      "3640": "BABA",
+      "4883": "looks",
+      "6803": "towards",
+      "6198": "GOVARDHAN,",
+      "3682": "who",
+      "4190": "is",
+      "4504": "fidgeting",
+      "5061": "next",
+      "3813": "to",
+      "1962": "VEDA.",
+      "8423": "CHINTHAN",
+      "8253": "BABA",
+      "1273": "VEDA",
+      "1574": "mammalni",
+      "8186": "maatlaadanisthaava?",
+      "3684": "GOVARDHAN",
+      "8949": "Aaynani",
+      "6153": "maatlaadani",
+      "4376": "ayya!.",
+      "9126": "Thondaragaa",
+      "6138": "ayipogottukuni",
+      "5460": "veldaam",
+      "8114": "CHINTHAN",
+      "6696": "BABA",
+      "1967": "is",
+      "8060": "surprised",
+      "7860": "by",
+      "2635": "GOVARDHAN",
+      "4824": "being",
+      "4669": "rude.",
+      "8484": "He",
+      "2922": "looks",
+      "2357": "at",
+      "9546": "VEDA",
+      "3010": "and",
+      "2700": "smiles."
+    }
+  },
+  "sample_no": "sample2",
+  "pdf_file_name": "page_72.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "VEDA",
+        "CHINTHAN BABA",
+        "GOVARDHAN"
+      ],
+      "SET": [],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "VEDA",
+          "ids": [
+            1026,
+            1273
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            4192,
+            4548
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            7471,
+            8023
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            9546,
+            9592
+          ]
+        },
+        {
+          "value": "CHINTHAN BABA",
+          "ids": [
+            8594,
+            4359,
+            5671,
+            4022,
+            7118,
+            1321,
+            5422,
+            7354,
+            6005,
+            8460,
+            3640,
+            8423,
+            8253,
+            8114,
+            6696
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            1832,
+            2635
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            2854,
+            3684
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            4277,
+            7260
+          ]
+        }
+      ],
+      "SET": [],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

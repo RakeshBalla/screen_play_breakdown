@@ -1,0 +1,106 @@
+{
+  "ALL_TEXT": "53 INT. GOVARDHAN'S HOUSE - HALLWAY - NIGHT \nANJI rushes angrily to the call. \nANJI \nenti raa nee problem enti raa \nINT. GOVARDHAN'S HOUSE-HALL - NIGHT \nCUT TO: ",
+  "WORDS_ID": {
+    "1000": "53",
+    "1001": "INT.",
+    "1002": "GOVARDHAN'S",
+    "1003": "HOUSE",
+    "1004": "-",
+    "1005": "HALLWAY",
+    "1006": "-",
+    "1007": "NIGHT",
+    "1008": "ANJI",
+    "1009": "rushes",
+    "1010": "angrily",
+    "1011": "to",
+    "1012": "the",
+    "1013": "call.",
+    "1014": "ANJI",
+    "1015": "enti",
+    "1016": "raa",
+    "1017": "nee",
+    "1018": "problem",
+    "1019": "enti",
+    "1020": "raa",
+    "1021": "INT.",
+    "1022": "GOVARDHAN'S",
+    "1023": "HOUSE-HALL",
+    "1024": "-",
+    "1025": "NIGHT",
+    "1026": "CUT",
+    "1027": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "ANJI"
+      ],
+      "SET": [
+        "INT. GOVARDHAN'S HOUSE - HALLWAY - NIGHT",
+        "INT. GOVARDHAN'S HOUSE-HALL - NIGHT"
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "ANJI",
+            "ids": [
+              "1008"
+            ]
+          },
+          {
+            "value": "ANJI",
+            "ids": [
+              "1014"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "INT. GOVARDHAN'S HOUSE - HALLWAY - NIGHT",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005",
+              "1006",
+              "1007"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "INT. GOVARDHAN'S HOUSE-HALL - NIGHT",
+            "ids": [
+              "1021",
+              "1022",
+              "1023",
+              "1024",
+              "1025"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

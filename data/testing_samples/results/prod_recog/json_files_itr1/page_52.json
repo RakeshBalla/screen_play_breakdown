@@ -1,0 +1,318 @@
+{
+  "page_dict": {
+    "alltext": "51.\n60 EXT. ACCIDENT SPOT - DAY\nVEDA walks from the crowd. ANTHONY is being interrogated by\nthe police. He observes VEDA passing by. INUMAYYA walks into\nthe crowd and brushes past VEDA, taking note of VEDA. VEDA\nreaches GOVARDHAN, who is fidgeting uncontrollably.\nGOVARDHAN\nYe raa, dabba enduku tayledu!\nVEDA\nBhaiyya, nee dabba ...\nGOVARDHAN\nEnduku tayledu raa!!! Dani meeda\nnaa peru, full address, information\nanta complete ga untudi pakkaaga\nekkada poyina naa dabba naa\ndaggariki vastundi\nVEDA\npassport size photo\nantichalsindi....vaalu aa rendu\nmurderlu nuvve chesaru\nanukuntunaaru\nGOVARDHAN\n(Flustered)\nAdenti passport size pedite nannu\nenduku murderer anukuntunaaru...\nVEDA\nVaallu alaage anukuntaaru\nbhaiyya...\nGOVARDHAN\nNenelli chepta cigarette nuvve\nkalchaavu ani...\nVEDA\nAla aita ninnu first teeskelli,\nbaaga kummesi, appude report\nrayinchkuntaaru...\nGOVARDHAN is baffled. He pauses for a beat.",
+    "words_ids": {
+      "5844": "51.",
+      "7433": "60",
+      "4560": "EXT.",
+      "7450": "ACCIDENT",
+      "5036": "SPOT",
+      "7721": "-",
+      "5255": "DAY",
+      "2103": "VEDA",
+      "1740": "walks",
+      "3252": "from",
+      "9837": "the",
+      "3297": "crowd.",
+      "8277": "ANTHONY",
+      "4864": "is",
+      "4312": "being",
+      "1653": "interrogated",
+      "6579": "by",
+      "5583": "full",
+      "1349": "police.",
+      "4912": "He",
+      "1436": "observes",
+      "2440": "VEDA",
+      "7960": "passing",
+      "2449": "by.",
+      "4600": "INUMAYYA",
+      "9395": "walks",
+      "4437": "into",
+      "8820": "the",
+      "7605": "crowd",
+      "6182": "and",
+      "2679": "brushes",
+      "7436": "past",
+      "8208": "VEDA,",
+      "6634": "taking",
+      "6408": "note",
+      "8583": "of",
+      "9476": "VEDA.",
+      "8766": "VEDA",
+      "4242": "GOVARDHAN",
+      "8558": "GOVARDHAN,",
+      "8655": "who",
+      "4125": "is",
+      "9536": "fidgeting",
+      "2148": "uncontrollably.",
+      "6786": "GOVARDHAN",
+      "1086": "Ye",
+      "1743": "raa,",
+      "5162": "dabba",
+      "5990": "enduku",
+      "7515": "tayledu!",
+      "4375": "VEDA",
+      "6854": "Bhaiyya,",
+      "1681": "nee",
+      "5160": "dabba",
+      "8805": "...",
+      "9448": "GOVARDHAN",
+      "6109": "Enduku",
+      "8567": "tayledu",
+      "9146": "raa!!!",
+      "3415": "Dani",
+      "9717": "meeda",
+      "5800": "naa",
+      "4583": "peru,",
+      "5218": "address,",
+      "5369": "information",
+      "1454": "anta",
+      "4669": "complete",
+      "6464": "ga",
+      "5305": "untudi",
+      "2727": "pakkaaga",
+      "5715": "ekkada",
+      "7897": "poyina",
+      "3506": "naa",
+      "4808": "dabba",
+      "8292": "naa",
+      "6112": "daggariki",
+      "9084": "vastundi",
+      "1533": "VEDA",
+      "3187": "passport",
+      "6343": "size",
+      "4926": "photo",
+      "6589": "antichalsindi....vaalu",
+      "3119": "aa",
+      "2258": "rendu",
+      "2958": "murderlu",
+      "8273": "nuvve",
+      "5999": "chesaru",
+      "9135": "anukuntunaaru",
+      "7739": "GOVARDHAN",
+      "1110": "(Flustered)",
+      "9131": "Adenti",
+      "2375": "passport",
+      "4491": "size",
+      "1068": "pedite",
+      "7257": "nannu",
+      "9098": "enduku",
+      "9927": "murderer",
+      "3563": "anukuntunaaru...",
+      "7621": "VEDA",
+      "7457": "Vaallu",
+      "8594": "alaage",
+      "9202": "anukuntaaru",
+      "8207": "bhaiyya...",
+      "9620": "Nenelli",
+      "6871": "chepta",
+      "2494": "cigarette",
+      "3753": "nuvve",
+      "7611": "kalchaavu",
+      "1330": "ani...",
+      "8017": "VEDA",
+      "2942": "Ala",
+      "5007": "aita",
+      "7248": "ninnu",
+      "8373": "first",
+      "2108": "teeskelli,",
+      "2827": "baaga",
+      "4611": "kummesi,",
+      "4627": "appude",
+      "4011": "report",
+      "1074": "rayinchkuntaaru...",
+      "5111": "GOVARDHAN",
+      "2498": "is",
+      "4399": "baffled.",
+      "7449": "He",
+      "3374": "pauses",
+      "3876": "for",
+      "3973": "a",
+      "6558": "beat."
+    }
+  },
+  "sample_no": "sample7",
+  "pdf_file_name": "page_52.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "VEDA",
+        "ANTHONY",
+        "INUMAYYA",
+        "GOVARDHAN"
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [
+        "crowd",
+        "police"
+      ],
+      "PROPS": [
+        "dabba",
+        "passport size photo",
+        "cigarette"
+      ],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [
+        "EXT. ACCIDENT SPOT - DAY"
+      ],
+      "CAMERA": [],
+      "SOUND": [],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [
+        "interrogation"
+      ],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "VEDA",
+          "ids": [
+            1533,
+            2103
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            2440,
+            4375
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            7621,
+            8017
+          ]
+        },
+        {
+          "value": "ANTHONY",
+          "ids": [
+            8277
+          ]
+        },
+        {
+          "value": "INUMAYYA",
+          "ids": [
+            4600
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            4242,
+            5111
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            6786,
+            7739
+          ]
+        }
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [
+        {
+          "value": "crowd",
+          "ids": [
+            7605
+          ]
+        },
+        {
+          "value": "police",
+          "ids": []
+        }
+      ],
+      "PROPS": [
+        {
+          "value": "dabba",
+          "ids": [
+            4808,
+            5160
+          ]
+        },
+        {
+          "value": "passport size photo",
+          "ids": [
+            3187,
+            6343,
+            4926,
+            2375,
+            4491
+          ]
+        },
+        {
+          "value": "cigarette",
+          "ids": [
+            2494
+          ]
+        }
+      ],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [
+        {
+          "value": "EXT. ACCIDENT SPOT - DAY",
+          "ids": [
+            7450,
+            5036,
+            5255
+          ]
+        }
+      ],
+      "CAMERA": [],
+      "SOUND": [],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [
+        {
+          "value": "interrogation",
+          "ids": []
+        }
+      ],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  }
+}

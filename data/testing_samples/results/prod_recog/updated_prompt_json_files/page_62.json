@@ -1,0 +1,214 @@
+{
+  "page_dict": {
+    "alltext": "61.\nVEDA\nAy lokamlo bathukuthunnaavu?\nDemonitisation vinaledha? Ippudu\nbank queue lo ninchuntey naaku\nthella gaddam vosthadhi. Istha le\nmanalo manaki enti. Sare photos\nayvi?\nSULOCHANA\nLevu... inka raaledu... kaani case\nkoncham serious.\nVEDA\nSerious ante?\nSULOCHANA\nDouble murder. Police laki inka\nteleedu yevaru chesaaro. Kaani\nkanukkomani pressure chaala undi...\nchanipoindi FOREST MINISTER ki\ndeggara manushulanta.\nVEDA\nFOREST MINISTER ki deggara\nvaalla...\nSULOCHANA\nEye witnesses pakkane unde oka\nbuilding watchman... inka road\nmeeda aa time ki unna evaro manishi\nni batti Police investigate\nchesthunnaaru\nVEDA\nEm cheppaaru vaallu?\nSULOCHANA\nClear ga naaku theleedu... naaku\nthelisinantha varaku, chanipoindi\niddaru... champinidii iddaru,\nchusindi kuda iddare...\nVEDA is frowning now, thinking about all of what has been\ntold.\nSULOCHANA\nNijam cheppu VEDA... naa deggara em\ndaachatledhu gaa...\nVEDA\nAyooo!!!... Ledu SULOCHANA...\nchampinodinaithe ikkadikenduku\nvastha... I swear...",
+    "words_ids": {
+      "4070": "61.",
+      "3538": "VEDA",
+      "1208": "Ay",
+      "1862": "lokamlo",
+      "9405": "bathukuthunnaavu?",
+      "5045": "Demonitisation",
+      "4046": "vinaledha?",
+      "1080": "Ippudu",
+      "5095": "bank",
+      "7960": "queue",
+      "7055": "lo",
+      "1166": "ninchuntey",
+      "2468": "naaku",
+      "6639": "thella",
+      "5101": "gaddam",
+      "7859": "vosthadhi.",
+      "7435": "Istha",
+      "3620": "le",
+      "6643": "manalo",
+      "1349": "manaki",
+      "7438": "enti.",
+      "2036": "Sare",
+      "9198": "photos",
+      "6187": "ayvi?",
+      "5066": "SULOCHANA",
+      "1933": "Levu...",
+      "3676": "inka",
+      "2282": "raaledu...",
+      "2183": "kaani",
+      "8918": "case",
+      "1301": "koncham",
+      "1406": "serious.",
+      "1061": "VEDA",
+      "7677": "Serious",
+      "3247": "ante?",
+      "9578": "SULOCHANA",
+      "3054": "Double",
+      "7966": "murder.",
+      "3352": "Police",
+      "2649": "laki",
+      "3732": "inka",
+      "2779": "teleedu",
+      "5510": "yevaru",
+      "3769": "chesaaro.",
+      "9648": "Kaani",
+      "1843": "kanukkomani",
+      "9390": "pressure",
+      "8603": "chaala",
+      "5003": "undi...",
+      "9507": "chanipoindi",
+      "4357": "FOREST",
+      "4826": "MINISTER",
+      "5233": "ki",
+      "8835": "deggara",
+      "4779": "manushulanta.",
+      "4051": "VEDA",
+      "6078": "FOREST",
+      "9398": "MINISTER",
+      "9269": "ki",
+      "4117": "deggara",
+      "7853": "vaalla...",
+      "2411": "SULOCHANA",
+      "4664": "Eye",
+      "3623": "witnesses",
+      "8075": "pakkane",
+      "3615": "unde",
+      "3716": "oka",
+      "8602": "building",
+      "9600": "watchman...",
+      "7299": "inka",
+      "2628": "road",
+      "6900": "meeda",
+      "7083": "aa",
+      "6013": "time",
+      "8566": "ki",
+      "4773": "unna",
+      "3174": "evaro",
+      "3400": "chanipoindi",
+      "4339": "ni",
+      "7793": "batti",
+      "1438": "Police",
+      "6622": "investigate",
+      "8975": "chesthunnaaru",
+      "3084": "VEDA",
+      "7130": "Em",
+      "5869": "cheppaaru",
+      "1009": "vaallu?",
+      "3466": "SULOCHANA",
+      "9958": "Clear",
+      "7237": "ga",
+      "3148": "naaku",
+      "3641": "theleedu...",
+      "9534": "naaku",
+      "1045": "thelisinantha",
+      "7194": "varaku,",
+      "8390": "iddaru...",
+      "5254": "champinidii",
+      "2067": "iddaru,",
+      "2265": "chusindi",
+      "4533": "kuda",
+      "2864": "iddare...",
+      "3293": "VEDA",
+      "3428": "is",
+      "5215": "frowning",
+      "7086": "now,",
+      "8544": "thinking",
+      "7123": "about",
+      "4404": "all",
+      "9881": "of",
+      "6233": "what",
+      "3590": "has",
+      "5134": "been",
+      "6702": "told.",
+      "4074": "SULOCHANA",
+      "4180": "Nijam",
+      "2040": "cheppu",
+      "4264": "VEDA...",
+      "7729": "naa",
+      "6211": "deggara",
+      "2640": "em",
+      "3894": "daachatledhu",
+      "4458": "gaa...",
+      "9433": "VEDA",
+      "8589": "Ayooo!!!...",
+      "4769": "Ledu",
+      "6590": "SULOCHANA...",
+      "7544": "champinodinaithe",
+      "2683": "ikkadikenduku",
+      "5584": "vastha...",
+      "5804": "I",
+      "1964": "swear..."
+    }
+  },
+  "sample_no": "sample8",
+  "pdf_file_name": "page_62.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "VEDA",
+        "SULOCHANA"
+      ],
+      "SET": [],
+      "PROPS": [
+        "photos"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "VEDA",
+          "ids": [
+            1061,
+            3084
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            3293,
+            3538
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            4051,
+            9433
+          ]
+        },
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            2411,
+            3466
+          ]
+        },
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            4074,
+            5066
+          ]
+        }
+      ],
+      "SET": [],
+      "PROPS": [
+        {
+          "value": "photos",
+          "ids": [
+            9198
+          ]
+        }
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

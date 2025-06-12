@@ -1,0 +1,32 @@
+{
+  "ALL_TEXT": "INTERMISSION",
+  "WORDS_ID": {
+    "1000": "INTERMISSION"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [],
+      "SET": [],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [],
+      "SET": [],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+    "ALL_TEXT": "42 EXT. PUB-BACKSIDE - NIGHT\nVASU swaps the number plates on a container truck parked. He\ntakes sticks the number plate on an identical container\ntruck.\nVASU\nNakko thokkani thokaddam antey\nidhey nemo...number plate marchadam\ntho laksha kotlu kottesaam\nRAJU is seated in this truck. VASU climbs on and the two\ndrive off.\nCUT TO:",
+    "WORDS_ID": "{\n\"1000\": \"42\",\n\"1001\": \"EXT.\",\n\"1002\": \"PUB-BACKSIDE\",\n\"1003\": \"-\",\n\"1004\": \"NIGHT\",\n\"1005\": \"VASU\",\n\"1006\": \"swaps\",\n\"1007\": \"the\",\n\"1008\": \"number\",\n\"1009\": \"plates\",\n\"1010\": \"on\",\n\"1011\": \"a\",\n\"1012\": \"container\",\n\"1013\": \"truck\",\n\"1014\": \"parked.\",\n\"1015\": \"He\",\n\"1016\": \"takes\",\n\"1017\": \"sticks\",\n\"1018\": \"the\",\n\"1019\": \"number\",\n\"1020\": \"plate\",\n\"1021\": \"on\",\n\"1022\": \"an\",\n\"1023\": \"identical\",\n\"1024\": \"container\",\n\"1025\": \"truck.\",\n\"1026\": \"VASU\",\n\"1027\": \"Nakko\",\n\"1028\": \"thokkani\",\n\"1029\": \"thokaddam\",\n\"1030\": \"antey\",\n\"1031\": \"idhey\",\n\"1032\": \"nemo...number\",\n\"1033\": \"plate\",\n\"1034\": \"marchadam\",\n\"1035\": \"tho\",\n\"1036\": \"laksha\",\n\"1037\": \"kotlu\",\n\"1038\": \"kottesaam\",\n\"1039\": \"RAJU\",\n\"1040\": \"is\",\n\"1041\": \"seated\",\n\"1042\": \"in\",\n\"1043\": \"this\",\n\"1044\": \"truck.\",\n\"1045\": \"VASU\",\n\"1046\": \"climbs\",\n\"1047\": \"on\",\n\"1048\": \"and\",\n\"1049\": \"the\",\n\"1050\": \"two\",\n\"1051\": \"drive\",\n\"1052\": \"off.\",\n\"1053\": \"CUT\",\n\"1054\": \"TO:\"\n}",
+    "llm_result": {
+        "production_categories": {
+            "CAST": [
+                "VASU",
+                "RAJU"
+            ],
+            "SET": [
+                "EXT. PUB-BACKSIDE - NIGHT"
+            ],
+            "PROPS": [
+                "number plates"
+            ],
+            "STUNTS": [],
+            "VEHICLES": [
+                "container truck"
+            ],
+            "ANIMALS": [],
+            "NUDITY": [],
+            "GREENERY": [],
+            "SOUND": []
+        }
+    },
+    "predicted_word_ids": {
+        "production_categories": {
+            "CAST": [
+                [
+                    {
+                        "value": "VASU",
+                        "ids": [
+                            "1005"
+                        ]
+                    },
+                    {
+                        "value": "VASU",
+                        "ids": [
+                            "1026"
+                        ]
+                    },
+                    {
+                        "value": "VASU",
+                        "ids": [
+                            "1045"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "value": "RAJU",
+                        "ids": [
+                            "1039"
+                        ]
+                    }
+                ]
+            ],
+            "SET": [
+                [
+                    {
+                        "value": "EXT. PUB-BACKSIDE - NIGHT",
+                        "ids": [
+                            "1001",
+                            "1002",
+                            "1003",
+                            "1004"
+                        ]
+                    }
+                ]
+            ],
+            "PROPS": [
+                [
+                    {
+                        "value": "number plates",
+                        "ids": [
+                            "1008",
+                            "1009"
+                        ]
+                    }
+                ]
+            ],
+            "STUNTS": [],
+            "VEHICLES": [
+                [
+                    {
+                        "value": "container truck",
+                        "ids": [
+                            "1012",
+                            "1013"
+                        ]
+                    },
+                    {
+                        "value": "container truck.",
+                        "ids": [
+                            "1024",
+                            "1025"
+                        ]
+                    }
+                ]
+            ],
+            "ANIMALS": [],
+            "NUDITY": [],
+            "GREENERY": [],
+            "SOUND": []
+        }
+    }
+}

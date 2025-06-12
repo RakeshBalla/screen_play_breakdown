@@ -1,0 +1,122 @@
+Summary Evaluation Scores
+==================================================
+
+Logline
+------------------------------
+METEOR Score: 0.0750
+BERTScore Precision: 0.8621
+BERTScore Recall: 0.8471
+BERTScore F1: 0.8545
+
+Overall_Impression
+------------------------------
+METEOR Score: 0.2043
+BERTScore Precision: 0.8395
+BERTScore Recall: 0.8584
+BERTScore F1: 0.8488
+
+Synopsis
+------------------------------
+METEOR Score: 0.1625
+BERTScore Precision: 0.8469
+BERTScore Recall: 0.8335
+BERTScore F1: 0.8402
+
+Comments
+------------------------------
+METEOR Score: 0.1356
+BERTScore Precision: 0.8697
+BERTScore Recall: 0.8400
+BERTScore F1: 0.8546
+
+Character_development
+------------------------------
+METEOR Score: 0.0710
+BERTScore Precision: 0.8596
+BERTScore Recall: 0.7460
+BERTScore F1: 0.7987
+
+Conflict
+------------------------------
+METEOR Score: 0.0617
+BERTScore Precision: 0.8728
+BERTScore Recall: 0.8343
+BERTScore F1: 0.8531
+
+Structure_Pacing
+------------------------------
+METEOR Score: 0.0677
+BERTScore Precision: 0.8675
+BERTScore Recall: 0.7606
+BERTScore F1: 0.8106
+
+plot_holes_logic_gaps
+------------------------------
+METEOR Score: 0.0639
+BERTScore Precision: 0.8696
+BERTScore Recall: 0.7954
+BERTScore F1: 0.8309
+
+tonal_Consistency_Dialogue
+------------------------------
+METEOR Score: 0.0815
+BERTScore Precision: 0.8776
+BERTScore Recall: 0.8542
+BERTScore F1: 0.8657
+
+thematic_coherence
+------------------------------
+METEOR Score: 0.0799
+BERTScore Precision: 0.8595
+BERTScore Recall: 0.8352
+BERTScore F1: 0.8472
+
+well_roundedness
+------------------------------
+METEOR Score: 0.1352
+BERTScore Precision: 0.8856
+BERTScore Recall: 0.8557
+BERTScore F1: 0.8704
+
+cinematic_quality
+------------------------------
+METEOR Score: 0.0783
+BERTScore Precision: 0.8681
+BERTScore Recall: 0.8259
+BERTScore F1: 0.8465
+
+Formatting
+------------------------------
+METEOR Score: 0.0653
+BERTScore Precision: 0.8889
+BERTScore Recall: 0.8211
+BERTScore F1: 0.8537
+
+Action_lines_externalization
+------------------------------
+METEOR Score: 0.0469
+BERTScore Precision: 0.8702
+BERTScore Recall: 0.8539
+BERTScore F1: 0.8619
+
+Tense
+------------------------------
+METEOR Score: 0.2616
+BERTScore Precision: 0.8663
+BERTScore Recall: 0.8823
+BERTScore F1: 0.8743
+
+market_potential_genre_fidelity
+------------------------------
+METEOR Score: 0.1884
+BERTScore Precision: 0.8561
+BERTScore Recall: 0.8608
+BERTScore F1: 0.8584
+
+final_thoughts_suggestions
+------------------------------
+METEOR Score: 0.1682
+BERTScore Precision: 0.8278
+BERTScore Recall: 0.8345
+BERTScore F1: 0.8311
+

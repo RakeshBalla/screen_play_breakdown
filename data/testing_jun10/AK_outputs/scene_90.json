@@ -1,0 +1,488 @@
+{
+  "ALL_TEXT": "90 EXT. POLICE STATION - DAY \nOutside the station, VEDA and BHANU walk away, when they are \nstopped by a fast-walking INUMAYYA \nINUMAYYA \nSaar Saar aagu \nBHANU \nEnti? \nINUMAYYA \nPoddunninchi sukka padaka \nsachchipothunna. Mee pant jobbey lo \nuna ah sara packet naku isthara? \nBHANU looks at VEDA who gives him a disgusted look. \nINUMAYYA \nBaab baab emanukokunda ivvu, \nsaksham chepinapapaniki podhuninchi \nkusopettaru. \nVEDA and BHANU ask at once. \nVEDA \nPeru enti? \nPeru enti? \nBHANU \nINUMAYYA \nINUMAYYA \nVEDA sighs in relief. \nVEDA \nneetho patu saksham cheppina \ninkokadu evvarru... \nINUMAYYA \nAh! saaru nee kaalmoktha...mundhu \naa packet eivu cheptha. \nBHANU pulls out a liquor packet from his pocket and hands it \nover to INUMAYYA, who drinks it in no time. \nINUMAYYA \nANTHONY. Inkokati undha? \nVEDA \nMundhu cheppu ANTHONY ekkada \nuntaadu? ANTHONY evvaru? \nINUMAYYA \nOsmania hospital mortuary lo pani \nchesthaadu anta. \nVEDA nudges BHANU \nPadha ra \nVEDA \nINUMAYYA \nMari naa unko packet? \nVEDA and BHANU leave, not listening to INUMAYYA \nINUMAYYA \nInko packet isthey cheppe vaadini \nkadha...indhaka peddha saar toh \nmaatladaadu kadha vade ANTHONY ani. \nINUMAYYA peeps into the station. ANTHONY is signing off on a \nregister. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "90",
+    "1001": "EXT.",
+    "1002": "POLICE",
+    "1003": "STATION",
+    "1004": "-",
+    "1005": "DAY",
+    "1006": "Outside",
+    "1007": "the",
+    "1008": "station,",
+    "1009": "VEDA",
+    "1010": "and",
+    "1011": "BHANU",
+    "1012": "walk",
+    "1013": "away,",
+    "1014": "when",
+    "1015": "they",
+    "1016": "are",
+    "1017": "stopped",
+    "1018": "by",
+    "1019": "a",
+    "1020": "fast-walking",
+    "1021": "INUMAYYA",
+    "1022": "INUMAYYA",
+    "1023": "Saar",
+    "1024": "Saar",
+    "1025": "aagu",
+    "1026": "BHANU",
+    "1027": "Enti?",
+    "1028": "INUMAYYA",
+    "1029": "Poddunninchi",
+    "1030": "sukka",
+    "1031": "padaka",
+    "1032": "sachchipothunna.",
+    "1033": "Mee",
+    "1034": "pant",
+    "1035": "jobbey",
+    "1036": "lo",
+    "1037": "una",
+    "1038": "ah",
+    "1039": "sara",
+    "1040": "packet",
+    "1041": "naku",
+    "1042": "isthara?",
+    "1043": "BHANU",
+    "1044": "looks",
+    "1045": "at",
+    "1046": "VEDA",
+    "1047": "who",
+    "1048": "gives",
+    "1049": "him",
+    "1050": "a",
+    "1051": "disgusted",
+    "1052": "look.",
+    "1053": "INUMAYYA",
+    "1054": "Baab",
+    "1055": "baab",
+    "1056": "emanukokunda",
+    "1057": "ivvu,",
+    "1058": "saksham",
+    "1059": "chepinapapaniki",
+    "1060": "podhuninchi",
+    "1061": "kusopettaru.",
+    "1062": "VEDA",
+    "1063": "and",
+    "1064": "BHANU",
+    "1065": "ask",
+    "1066": "at",
+    "1067": "once.",
+    "1068": "VEDA",
+    "1069": "Peru",
+    "1070": "enti?",
+    "1071": "Peru",
+    "1072": "enti?",
+    "1073": "BHANU",
+    "1074": "INUMAYYA",
+    "1075": "INUMAYYA",
+    "1076": "VEDA",
+    "1077": "sighs",
+    "1078": "in",
+    "1079": "relief.",
+    "1080": "VEDA",
+    "1081": "neetho",
+    "1082": "patu",
+    "1083": "saksham",
+    "1084": "cheppina",
+    "1085": "inkokadu",
+    "1086": "evvarru...",
+    "1087": "INUMAYYA",
+    "1088": "Ah!",
+    "1089": "saaru",
+    "1090": "nee",
+    "1091": "kaalmoktha...mundhu",
+    "1092": "aa",
+    "1093": "packet",
+    "1094": "eivu",
+    "1095": "cheptha.",
+    "1096": "BHANU",
+    "1097": "pulls",
+    "1098": "out",
+    "1099": "a",
+    "1100": "liquor",
+    "1101": "packet",
+    "1102": "from",
+    "1103": "his",
+    "1104": "pocket",
+    "1105": "and",
+    "1106": "hands",
+    "1107": "it",
+    "1108": "over",
+    "1109": "to",
+    "1110": "INUMAYYA,",
+    "1111": "who",
+    "1112": "drinks",
+    "1113": "it",
+    "1114": "in",
+    "1115": "no",
+    "1116": "time.",
+    "1117": "INUMAYYA",
+    "1118": "ANTHONY.",
+    "1119": "Inkokati",
+    "1120": "undha?",
+    "1121": "VEDA",
+    "1122": "Mundhu",
+    "1123": "cheppu",
+    "1124": "ANTHONY",
+    "1125": "ekkada",
+    "1126": "untaadu?",
+    "1127": "ANTHONY",
+    "1128": "evvaru?",
+    "1129": "INUMAYYA",
+    "1130": "Osmania",
+    "1131": "hospital",
+    "1132": "mortuary",
+    "1133": "lo",
+    "1134": "pani",
+    "1135": "chesthaadu",
+    "1136": "anta.",
+    "1137": "VEDA",
+    "1138": "nudges",
+    "1139": "BHANU",
+    "1140": "Padha",
+    "1141": "ra",
+    "1142": "VEDA",
+    "1143": "INUMAYYA",
+    "1144": "Mari",
+    "1145": "naa",
+    "1146": "unko",
+    "1147": "packet?",
+    "1148": "VEDA",
+    "1149": "and",
+    "1150": "BHANU",
+    "1151": "leave,",
+    "1152": "not",
+    "1153": "listening",
+    "1154": "to",
+    "1155": "INUMAYYA",
+    "1156": "INUMAYYA",
+    "1157": "Inko",
+    "1158": "packet",
+    "1159": "isthey",
+    "1160": "cheppe",
+    "1161": "vaadini",
+    "1162": "kadha...indhaka",
+    "1163": "peddha",
+    "1164": "saar",
+    "1165": "toh",
+    "1166": "maatladaadu",
+    "1167": "kadha",
+    "1168": "vade",
+    "1169": "ANTHONY",
+    "1170": "ani.",
+    "1171": "INUMAYYA",
+    "1172": "peeps",
+    "1173": "into",
+    "1174": "the",
+    "1175": "station.",
+    "1176": "ANTHONY",
+    "1177": "is",
+    "1178": "signing",
+    "1179": "off",
+    "1180": "on",
+    "1181": "a",
+    "1182": "register.",
+    "1183": "CUT",
+    "1184": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "VEDA",
+        "BHANU",
+        "INUMAYYA",
+        "ANTHONY"
+      ],
+      "SET": [
+        "EXT. POLICE STATION - DAY"
+      ],
+      "PROPS": [
+        "liquor packet",
+        "register"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1009"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1046"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1062"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1068"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1076"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1080"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1121"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1137"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1142"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1148"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "BHANU",
+            "ids": [
+              "1011"
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              "1026"
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              "1043"
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              "1064"
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              "1073"
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              "1096"
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              "1139"
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              "1150"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "INUMAYYA",
+            "ids": [
+              "1021"
+            ]
+          },
+          {
+            "value": "INUMAYYA",
+            "ids": [
+              "1022"
+            ]
+          },
+          {
+            "value": "INUMAYYA",
+            "ids": [
+              "1028"
+            ]
+          },
+          {
+            "value": "INUMAYYA",
+            "ids": [
+              "1053"
+            ]
+          },
+          {
+            "value": "INUMAYYA",
+            "ids": [
+              "1074"
+            ]
+          },
+          {
+            "value": "INUMAYYA",
+            "ids": [
+              "1075"
+            ]
+          },
+          {
+            "value": "INUMAYYA",
+            "ids": [
+              "1087"
+            ]
+          },
+          {
+            "value": "INUMAYYA",
+            "ids": [
+              "1117"
+            ]
+          },
+          {
+            "value": "INUMAYYA",
+            "ids": [
+              "1129"
+            ]
+          },
+          {
+            "value": "INUMAYYA",
+            "ids": [
+              "1143"
+            ]
+          },
+          {
+            "value": "INUMAYYA",
+            "ids": [
+              "1155"
+            ]
+          },
+          {
+            "value": "INUMAYYA",
+            "ids": [
+              "1156"
+            ]
+          },
+          {
+            "value": "INUMAYYA",
+            "ids": [
+              "1171"
+            ]
+          },
+          {
+            "value": "INUMAYYA,",
+            "ids": [
+              "1110"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1124"
+            ]
+          },
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1127"
+            ]
+          },
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1169"
+            ]
+          },
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1176"
+            ]
+          },
+          {
+            "value": "ANTHONY.",
+            "ids": [
+              "1118"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. POLICE STATION - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "liquor packet",
+            "ids": [
+              "1100",
+              "1101"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "register.",
+            "ids": [
+              "1182"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

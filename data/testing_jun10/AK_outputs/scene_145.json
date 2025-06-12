@@ -1,0 +1,205 @@
+{
+  "ALL_TEXT": "145 EXT. GOVARDHAN\u2019S BUILDING - NIGHT \nNow GOVARDHAN gets off the bike, VEDA and the BUM on it. \nVEDA \nMalli kalustaara \nGOVARDHAN \nIndaaka aa ammaiyito ante romance \nanukunna ippudu identi... \nVEDA \nNuvvu nee tikka..ee janma ila ne \nbathikey \nGOVARDHAN leaves for home. VEDA turns around and looks at the \nBUM \nVEDA \nNuvvekkadiki raa, digu nuvvu kuda \nThe BUM doesn\u2019t move \nSare padaa \nVEDA \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "145",
+    "1001": "EXT.",
+    "1002": "GOVARDHAN\u2019S",
+    "1003": "BUILDING",
+    "1004": "-",
+    "1005": "NIGHT",
+    "1006": "Now",
+    "1007": "GOVARDHAN",
+    "1008": "gets",
+    "1009": "off",
+    "1010": "the",
+    "1011": "bike,",
+    "1012": "VEDA",
+    "1013": "and",
+    "1014": "the",
+    "1015": "BUM",
+    "1016": "on",
+    "1017": "it.",
+    "1018": "VEDA",
+    "1019": "Malli",
+    "1020": "kalustaara",
+    "1021": "GOVARDHAN",
+    "1022": "Indaaka",
+    "1023": "aa",
+    "1024": "ammaiyito",
+    "1025": "ante",
+    "1026": "romance",
+    "1027": "anukunna",
+    "1028": "ippudu",
+    "1029": "identi...",
+    "1030": "VEDA",
+    "1031": "Nuvvu",
+    "1032": "nee",
+    "1033": "tikka..ee",
+    "1034": "janma",
+    "1035": "ila",
+    "1036": "ne",
+    "1037": "bathikey",
+    "1038": "GOVARDHAN",
+    "1039": "leaves",
+    "1040": "for",
+    "1041": "home.",
+    "1042": "VEDA",
+    "1043": "turns",
+    "1044": "around",
+    "1045": "and",
+    "1046": "looks",
+    "1047": "at",
+    "1048": "the",
+    "1049": "BUM",
+    "1050": "VEDA",
+    "1051": "Nuvvekkadiki",
+    "1052": "raa,",
+    "1053": "digu",
+    "1054": "nuvvu",
+    "1055": "kuda",
+    "1056": "The",
+    "1057": "BUM",
+    "1058": "doesn\u2019t",
+    "1059": "move",
+    "1060": "Sare",
+    "1061": "padaa",
+    "1062": "VEDA",
+    "1063": "CUT",
+    "1064": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "GOVARDHAN",
+        "VEDA",
+        "BUM"
+      ],
+      "SET": [
+        "EXT. GOVARDHAN\u2019S BUILDING - NIGHT"
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [
+        "bike"
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1007"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1021"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1038"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1012"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1018"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1030"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1042"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1050"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1062"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "BUM",
+            "ids": [
+              "1015"
+            ]
+          },
+          {
+            "value": "BUM",
+            "ids": [
+              "1049"
+            ]
+          },
+          {
+            "value": "BUM",
+            "ids": [
+              "1057"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. GOVARDHAN\u2019S BUILDING - NIGHT",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [
+        [
+          {
+            "value": "bike,",
+            "ids": [
+              "1011"
+            ]
+          }
+        ]
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

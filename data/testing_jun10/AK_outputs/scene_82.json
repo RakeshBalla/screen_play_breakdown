@@ -1,0 +1,578 @@
+{
+  "ALL_TEXT": "82 EXT. ROADSIDE DHABA - DAY \nVEDA and SULOCHANA continue to look at the TV, shell-shocked. \nGOVARDHAN is not pleased. Repeated footage of the burning \nashram airs, the burning container also in the footage. \nThe TV report continues to say that CHINTHAN BABA is presumed \ndead, but the police have not been able to recover his body \nyet. SUBBA RAJU's press statement is a part of the TV report. \nSUBBA RAJU \nMorning jarigina murders ki \ndheeniki similarity vundhi. Morning \nfuel tank blast ayyindhi...stock \nchesina fuel barrel peladam vallaa \nashram main vibhaagaalu \nkalipoyinnaai... Babani fire lo \nkaavaalani irikincharo. \nThe TV report cuts to footage of frenzied masses crying over \nthe loss of CHINTHAN BABA. The report cuts back to GANAPATHI. \nGANAPATHI \nCrime journalist ae crime cheste? \n....kundanappu bomma laaga kanapade \naa moham venekaala kutralu \nkutantraalu untaayi...SULOCHANA maa \nchannel lo panchestu crime \nchestundi ani evaru oohinchaleni \nparinaamam...Inspector SUBBA RAJU \ngaaru kaalipoga migilina CCTV \nfootage aadaaranamu to SULOCHANA \nmariyu GOVARDHAN ani BDBI bank \nemployee mariyu oka gurtu telini \nvyakthi paalgunnaaru ani \nsamaachaaram ichaaru \nThe trio are silent, dead still. VEDA looks at the two and is \ntrying to absorb what he has just heard. Tears start welling \nin SULOCHANA's eyes. She is staring blankly at the screen, \nwhich has started showing ads now. VEDA looks around to see \nif anyone has seen the TV. There is no one else except for \nthe old lady, who is still engrossed in her dish washing. \nVEDA changes the channel to a music channel. \nSULOCHANA \nMaa editor ki enta help \nchesaa...aina kuda ila TRP la \ngurinchi nannu irikinchaaru..Em \nchesaaru akkada?? Podduna champindi \nevvaruu?? Naa photo enduku undi?? \nGOVARDHAN \nDurmarguda!.... Nuvvu safe ga undi \nmaa iddarini irikisthaava!!? \nVEDA \nNaakem thelusu??? Iddaru naa meeda \npadithe etla?? Nenem chesaanu... \nGOVARDHAN \nMarinkevarini adagamantaav?? Maa \nphotos bayatapadi, neevenduku \npadaledu... \nVEDA \nNaaku theleedu... \nDuring the argument, the BUM walks in with the briefcase, \nwondering what the fight is about. VEDA notices the BUM \nstaring at them. \nVEDA \nPanchusuko! \nThe BUM shrugs and leaves. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "82",
+    "1001": "EXT.",
+    "1002": "ROADSIDE",
+    "1003": "DHABA",
+    "1004": "-",
+    "1005": "DAY",
+    "1006": "VEDA",
+    "1007": "and",
+    "1008": "SULOCHANA",
+    "1009": "continue",
+    "1010": "to",
+    "1011": "look",
+    "1012": "at",
+    "1013": "the",
+    "1014": "TV,",
+    "1015": "shell-shocked.",
+    "1016": "GOVARDHAN",
+    "1017": "is",
+    "1018": "not",
+    "1019": "pleased.",
+    "1020": "Repeated",
+    "1021": "footage",
+    "1022": "of",
+    "1023": "the",
+    "1024": "burning",
+    "1025": "ashram",
+    "1026": "airs,",
+    "1027": "the",
+    "1028": "burning",
+    "1029": "container",
+    "1030": "also",
+    "1031": "in",
+    "1032": "the",
+    "1033": "footage.",
+    "1034": "The",
+    "1035": "TV",
+    "1036": "report",
+    "1037": "continues",
+    "1038": "to",
+    "1039": "say",
+    "1040": "that",
+    "1041": "CHINTHAN",
+    "1042": "BABA",
+    "1043": "is",
+    "1044": "presumed",
+    "1045": "dead,",
+    "1046": "but",
+    "1047": "the",
+    "1048": "police",
+    "1049": "have",
+    "1050": "not",
+    "1051": "been",
+    "1052": "able",
+    "1053": "to",
+    "1054": "recover",
+    "1055": "his",
+    "1056": "body",
+    "1057": "yet.",
+    "1058": "SUBBA",
+    "1059": "RAJU's",
+    "1060": "press",
+    "1061": "statement",
+    "1062": "is",
+    "1063": "a",
+    "1064": "part",
+    "1065": "of",
+    "1066": "the",
+    "1067": "TV",
+    "1068": "report.",
+    "1069": "SUBBA",
+    "1070": "RAJU",
+    "1071": "Morning",
+    "1072": "jarigina",
+    "1073": "murders",
+    "1074": "ki",
+    "1075": "dheeniki",
+    "1076": "similarity",
+    "1077": "vundhi.",
+    "1078": "Morning",
+    "1079": "fuel",
+    "1080": "tank",
+    "1081": "blast",
+    "1082": "ayyindhi...stock",
+    "1083": "chesina",
+    "1084": "fuel",
+    "1085": "barrel",
+    "1086": "peladam",
+    "1087": "vallaa",
+    "1088": "ashram",
+    "1089": "main",
+    "1090": "vibhaagaalu",
+    "1091": "kalipoyinnaai...",
+    "1092": "Babani",
+    "1093": "fire",
+    "1094": "lo",
+    "1095": "kaavaalani",
+    "1096": "irikincharo.",
+    "1097": "The",
+    "1098": "TV",
+    "1099": "report",
+    "1100": "cuts",
+    "1101": "to",
+    "1102": "footage",
+    "1103": "of",
+    "1104": "frenzied",
+    "1105": "masses",
+    "1106": "crying",
+    "1107": "over",
+    "1108": "the",
+    "1109": "loss",
+    "1110": "of",
+    "1111": "CHINTHAN",
+    "1112": "BABA.",
+    "1113": "The",
+    "1114": "report",
+    "1115": "cuts",
+    "1116": "back",
+    "1117": "to",
+    "1118": "GANAPATHI.",
+    "1119": "GANAPATHI",
+    "1120": "Crime",
+    "1121": "journalist",
+    "1122": "ae",
+    "1123": "crime",
+    "1124": "cheste?",
+    "1125": "....kundanappu",
+    "1126": "bomma",
+    "1127": "laaga",
+    "1128": "kanapade",
+    "1129": "aa",
+    "1130": "moham",
+    "1131": "venekaala",
+    "1132": "kutralu",
+    "1133": "kutantraalu",
+    "1134": "untaayi...SULOCHANA",
+    "1135": "maa",
+    "1136": "channel",
+    "1137": "lo",
+    "1138": "panchestu",
+    "1139": "crime",
+    "1140": "chestundi",
+    "1141": "ani",
+    "1142": "evaru",
+    "1143": "oohinchaleni",
+    "1144": "parinaamam...Inspector",
+    "1145": "SUBBA",
+    "1146": "RAJU",
+    "1147": "gaaru",
+    "1148": "kaalipoga",
+    "1149": "migilina",
+    "1150": "CCTV",
+    "1151": "footage",
+    "1152": "aadaaranamu",
+    "1153": "to",
+    "1154": "SULOCHANA",
+    "1155": "mariyu",
+    "1156": "GOVARDHAN",
+    "1157": "ani",
+    "1158": "BDBI",
+    "1159": "bank",
+    "1160": "employee",
+    "1161": "mariyu",
+    "1162": "oka",
+    "1163": "gurtu",
+    "1164": "telini",
+    "1165": "vyakthi",
+    "1166": "paalgunnaaru",
+    "1167": "ani",
+    "1168": "samaachaaram",
+    "1169": "ichaaru",
+    "1170": "The",
+    "1171": "trio",
+    "1172": "are",
+    "1173": "silent,",
+    "1174": "dead",
+    "1175": "still.",
+    "1176": "VEDA",
+    "1177": "looks",
+    "1178": "at",
+    "1179": "the",
+    "1180": "two",
+    "1181": "and",
+    "1182": "is",
+    "1183": "trying",
+    "1184": "to",
+    "1185": "absorb",
+    "1186": "what",
+    "1187": "he",
+    "1188": "has",
+    "1189": "just",
+    "1190": "heard.",
+    "1191": "Tears",
+    "1192": "start",
+    "1193": "welling",
+    "1194": "in",
+    "1195": "SULOCHANA's",
+    "1196": "eyes.",
+    "1197": "She",
+    "1198": "is",
+    "1199": "staring",
+    "1200": "blankly",
+    "1201": "at",
+    "1202": "the",
+    "1203": "screen,",
+    "1204": "which",
+    "1205": "has",
+    "1206": "started",
+    "1207": "showing",
+    "1208": "ads",
+    "1209": "now.",
+    "1210": "VEDA",
+    "1211": "looks",
+    "1212": "around",
+    "1213": "to",
+    "1214": "see",
+    "1215": "if",
+    "1216": "anyone",
+    "1217": "has",
+    "1218": "seen",
+    "1219": "the",
+    "1220": "TV.",
+    "1221": "There",
+    "1222": "is",
+    "1223": "no",
+    "1224": "one",
+    "1225": "else",
+    "1226": "except",
+    "1227": "for",
+    "1228": "the",
+    "1229": "old",
+    "1230": "lady,",
+    "1231": "who",
+    "1232": "is",
+    "1233": "still",
+    "1234": "engrossed",
+    "1235": "in",
+    "1236": "her",
+    "1237": "dish",
+    "1238": "washing.",
+    "1239": "VEDA",
+    "1240": "changes",
+    "1241": "the",
+    "1242": "channel",
+    "1243": "to",
+    "1244": "a",
+    "1245": "music",
+    "1246": "channel.",
+    "1247": "SULOCHANA",
+    "1248": "Maa",
+    "1249": "editor",
+    "1250": "ki",
+    "1251": "enta",
+    "1252": "help",
+    "1253": "chesaa...aina",
+    "1254": "kuda",
+    "1255": "ila",
+    "1256": "TRP",
+    "1257": "la",
+    "1258": "gurinchi",
+    "1259": "nannu",
+    "1260": "irikinchaaru..Em",
+    "1261": "chesaaru",
+    "1262": "akkada??",
+    "1263": "Podduna",
+    "1264": "champindi",
+    "1265": "evvaruu??",
+    "1266": "Naa",
+    "1267": "photo",
+    "1268": "enduku",
+    "1269": "undi??",
+    "1270": "GOVARDHAN",
+    "1271": "Durmarguda!....",
+    "1272": "Nuvvu",
+    "1273": "safe",
+    "1274": "ga",
+    "1275": "undi",
+    "1276": "maa",
+    "1277": "iddarini",
+    "1278": "irikisthaava!!?",
+    "1279": "VEDA",
+    "1280": "Naakem",
+    "1281": "thelusu???",
+    "1282": "Iddaru",
+    "1283": "naa",
+    "1284": "meeda",
+    "1285": "padithe",
+    "1286": "etla??",
+    "1287": "Nenem",
+    "1288": "chesaanu...",
+    "1289": "GOVARDHAN",
+    "1290": "Marinkevarini",
+    "1291": "adagamantaav??",
+    "1292": "Maa",
+    "1293": "photos",
+    "1294": "bayatapadi,",
+    "1295": "neevenduku",
+    "1296": "padaledu...",
+    "1297": "VEDA",
+    "1298": "Naaku",
+    "1299": "theleedu...",
+    "1300": "During",
+    "1301": "the",
+    "1302": "argument,",
+    "1303": "the",
+    "1304": "BUM",
+    "1305": "walks",
+    "1306": "in",
+    "1307": "with",
+    "1308": "the",
+    "1309": "briefcase,",
+    "1310": "wondering",
+    "1311": "what",
+    "1312": "the",
+    "1313": "fight",
+    "1314": "is",
+    "1315": "about.",
+    "1316": "VEDA",
+    "1317": "notices",
+    "1318": "the",
+    "1319": "BUM",
+    "1320": "staring",
+    "1321": "at",
+    "1322": "them.",
+    "1323": "VEDA",
+    "1324": "Panchusuko!",
+    "1325": "The",
+    "1326": "BUM",
+    "1327": "shrugs",
+    "1328": "and",
+    "1329": "leaves.",
+    "1330": "CUT",
+    "1331": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "VEDA",
+        "SULOCHANA",
+        "GOVARDHAN",
+        "GANAPATHI",
+        "old lady",
+        "BUM"
+      ],
+      "SET": [
+        "EXT. ROADSIDE DHABA - DAY"
+      ],
+      "PROPS": [
+        "TV",
+        "dish",
+        "briefcase"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1006"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1176"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1210"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1239"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1279"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1297"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1316"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1323"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1008"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1154"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1247"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1016"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1156"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1270"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1289"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "GANAPATHI",
+            "ids": [
+              "1119"
+            ]
+          },
+          {
+            "value": "GANAPATHI.",
+            "ids": [
+              "1118"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "old lady,",
+            "ids": [
+              "1229",
+              "1230"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "BUM",
+            "ids": [
+              "1304"
+            ]
+          },
+          {
+            "value": "BUM",
+            "ids": [
+              "1319"
+            ]
+          },
+          {
+            "value": "BUM",
+            "ids": [
+              "1326"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. ROADSIDE DHABA - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "TV",
+            "ids": [
+              "1035"
+            ]
+          },
+          {
+            "value": "TV",
+            "ids": [
+              "1067"
+            ]
+          },
+          {
+            "value": "TV",
+            "ids": [
+              "1098"
+            ]
+          },
+          {
+            "value": "TV,",
+            "ids": [
+              "1014"
+            ]
+          },
+          {
+            "value": "TV.",
+            "ids": [
+              "1220"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "dish",
+            "ids": [
+              "1237"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "briefcase,",
+            "ids": [
+              "1309"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

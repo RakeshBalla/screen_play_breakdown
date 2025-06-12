@@ -1,0 +1,225 @@
+{
+  "ALL_TEXT": "120 EXT. MINISTER'S HOUSE-DINGY ROOM - NIGHT\nThe CULTURAL MINISTER and TRANSPORT MINISTER are waiting. As\nsoon as the door opens, the anxiously jump to question the\nFOREST MINISTER.\nCULTURAL MINISTER\nEmanna cheppaara\nFOREST MINISTER\nLedhu\nThe FOREST MINISTER walks off.\nCULTURAL MINISTER\nMana daggara edho daasthunnaadu.\nContainer ani adakkunda briefcase\nantunnaadu...vaallu cheppey\nunduntaru...veedu dasthunnaadu.\nTRANSPORT MINISTER\nMari em chedam\nThe CULTURAL MINISTER thinks for a while and pulls the monkey\ncap he was wearing till his nose.\nCULTURAL MINISTER\nNenu velli adugutha.\nCUT TO:",
+  "WORDS_ID": {
+    "1000": "120",
+    "1001": "EXT.",
+    "1002": "MINISTER'S",
+    "1003": "HOUSE-DINGY",
+    "1004": "ROOM",
+    "1005": "-",
+    "1006": "NIGHT",
+    "1007": "The",
+    "1008": "CULTURAL",
+    "1009": "MINISTER",
+    "1010": "and",
+    "1011": "TRANSPORT",
+    "1012": "MINISTER",
+    "1013": "are",
+    "1014": "waiting.",
+    "1015": "As",
+    "1016": "soon",
+    "1017": "as",
+    "1018": "the",
+    "1019": "door",
+    "1020": "opens,",
+    "1021": "the",
+    "1022": "anxiously",
+    "1023": "jump",
+    "1024": "to",
+    "1025": "question",
+    "1026": "the",
+    "1027": "FOREST",
+    "1028": "MINISTER.",
+    "1029": "CULTURAL",
+    "1030": "MINISTER",
+    "1031": "Emanna",
+    "1032": "cheppaara",
+    "1033": "FOREST",
+    "1034": "MINISTER",
+    "1035": "Ledhu",
+    "1036": "The",
+    "1037": "FOREST",
+    "1038": "MINISTER",
+    "1039": "walks",
+    "1040": "off.",
+    "1041": "CULTURAL",
+    "1042": "MINISTER",
+    "1043": "Mana",
+    "1044": "daggara",
+    "1045": "edho",
+    "1046": "daasthunnaadu.",
+    "1047": "Container",
+    "1048": "ani",
+    "1049": "adakkunda",
+    "1050": "briefcase",
+    "1051": "antunnaadu...vaallu",
+    "1052": "cheppey",
+    "1053": "unduntaru...veedu",
+    "1054": "dasthunnaadu.",
+    "1055": "TRANSPORT",
+    "1056": "MINISTER",
+    "1057": "Mari",
+    "1058": "em",
+    "1059": "chedam",
+    "1060": "The",
+    "1061": "CULTURAL",
+    "1062": "MINISTER",
+    "1063": "thinks",
+    "1064": "for",
+    "1065": "a",
+    "1066": "while",
+    "1067": "and",
+    "1068": "pulls",
+    "1069": "the",
+    "1070": "monkey",
+    "1071": "cap",
+    "1072": "he",
+    "1073": "was",
+    "1074": "wearing",
+    "1075": "till",
+    "1076": "his",
+    "1077": "nose.",
+    "1078": "CULTURAL",
+    "1079": "MINISTER",
+    "1080": "Nenu",
+    "1081": "velli",
+    "1082": "adugutha.",
+    "1083": "CUT",
+    "1084": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "CULTURAL MINISTER",
+        "TRANSPORT MINISTER",
+        "FOREST MINISTER"
+      ],
+      "SET": [
+        "EXT. MINISTER'S HOUSE-DINGY ROOM - NIGHT"
+      ],
+      "PROPS": [
+        "monkey cap"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "CULTURAL MINISTER",
+            "ids": [
+              "1008",
+              "1009"
+            ]
+          },
+          {
+            "value": "CULTURAL MINISTER",
+            "ids": [
+              "1029",
+              "1030"
+            ]
+          },
+          {
+            "value": "CULTURAL MINISTER",
+            "ids": [
+              "1041",
+              "1042"
+            ]
+          },
+          {
+            "value": "CULTURAL MINISTER",
+            "ids": [
+              "1061",
+              "1062"
+            ]
+          },
+          {
+            "value": "CULTURAL MINISTER",
+            "ids": [
+              "1078",
+              "1079"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "TRANSPORT MINISTER",
+            "ids": [
+              "1011",
+              "1012"
+            ]
+          },
+          {
+            "value": "TRANSPORT MINISTER",
+            "ids": [
+              "1055",
+              "1056"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              "1033",
+              "1034"
+            ]
+          },
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              "1037",
+              "1038"
+            ]
+          },
+          {
+            "value": "FOREST MINISTER.",
+            "ids": [
+              "1027",
+              "1028"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. MINISTER'S HOUSE-DINGY ROOM - NIGHT",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005",
+              "1006"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "monkey cap",
+            "ids": [
+              "1070",
+              "1071"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

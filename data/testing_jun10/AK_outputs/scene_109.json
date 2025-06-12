@@ -1,0 +1,139 @@
+{
+  "ALL_TEXT": "109 EXT. QUARRY - DAY\nSUBBA RAJU looks bamboozled as the realization dawns on him.\nVEERAYYA looks to him, contemplating.\nSUBBA RAJU\nAmma na ANTHONY ga sariga dinchav\nra. evvi kuda vellu print\nchesinive.\nHe pulls out his phone and calls ANTHONY.\nCUT TO:",
+  "WORDS_ID": {
+    "1000": "109",
+    "1001": "EXT.",
+    "1002": "QUARRY",
+    "1003": "-",
+    "1004": "DAY",
+    "1005": "SUBBA",
+    "1006": "RAJU",
+    "1007": "looks",
+    "1008": "bamboozled",
+    "1009": "as",
+    "1010": "the",
+    "1011": "realization",
+    "1012": "dawns",
+    "1013": "on",
+    "1014": "him.",
+    "1015": "VEERAYYA",
+    "1016": "looks",
+    "1017": "to",
+    "1018": "him,",
+    "1019": "contemplating.",
+    "1020": "SUBBA",
+    "1021": "RAJU",
+    "1022": "Amma",
+    "1023": "na",
+    "1024": "ANTHONY",
+    "1025": "ga",
+    "1026": "sariga",
+    "1027": "dinchav",
+    "1028": "ra.",
+    "1029": "evvi",
+    "1030": "kuda",
+    "1031": "vellu",
+    "1032": "print",
+    "1033": "chesinive.",
+    "1034": "He",
+    "1035": "pulls",
+    "1036": "out",
+    "1037": "his",
+    "1038": "phone",
+    "1039": "and",
+    "1040": "calls",
+    "1041": "ANTHONY.",
+    "1042": "CUT",
+    "1043": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "SUBBA RAJU",
+        "VEERAYYA"
+      ],
+      "SET": [
+        "EXT. QUARRY - DAY"
+      ],
+      "PROPS": [
+        "phone"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        "QUARRY"
+      ],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1005",
+              "1006"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1020",
+              "1021"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VEERAYYA",
+            "ids": [
+              "1015"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. QUARRY - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "phone",
+            "ids": [
+              "1038"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        [
+          {
+            "value": "QUARRY",
+            "ids": [
+              "1002"
+            ]
+          }
+        ]
+      ],
+      "SOUND": []
+    }
+  }
+}

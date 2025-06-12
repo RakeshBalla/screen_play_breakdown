@@ -1,0 +1,224 @@
+{
+  "page_dict": {
+    "alltext": "42.\n49 INT. PUB - NIGHT\nVEDA calls the bartender and orders another drink for\nhimself. By the end of the song, SULOCHANA leaves the place\nwith her friends after VEDA and her exchange some looks.\nGOVARDHAN realizes he is stuck in the ladies toilet. MARILYN\nis having loads of fun and is almost sloshed - by the end of\nthe song she is dragged along grudgingly by GOVARDHAN. SUBBA\nRAJU is confounded when he realizes SHAM GOPAL VERMA has\nleft. VEDA is happy to have made the sale and is having a\ngood time; he is thrown out of the pub because he doesn’t\nhave money to pay up.\nCUT TO:",
+    "words_ids": {
+      "4576": "42.",
+      "2143": "49",
+      "6869": "INT.",
+      "9152": "PUB",
+      "1777": "-",
+      "8044": "NIGHT",
+      "1600": "VEDA",
+      "2165": "calls",
+      "3751": "the",
+      "4122": "bartender",
+      "4348": "and",
+      "1897": "orders",
+      "5063": "another",
+      "7617": "drink",
+      "5190": "for",
+      "9609": "himself.",
+      "4810": "By",
+      "8432": "the",
+      "6843": "end",
+      "6173": "of",
+      "6417": "the",
+      "2442": "song,",
+      "9640": "SULOCHANA",
+      "2113": "leaves",
+      "3669": "the",
+      "4355": "place",
+      "5872": "with",
+      "9582": "her",
+      "1580": "friends",
+      "6496": "after",
+      "2340": "VEDA",
+      "2049": "and",
+      "3762": "her",
+      "9950": "exchange",
+      "5886": "some",
+      "1423": "looks.",
+      "5688": "GOVARDHAN",
+      "1542": "realizes",
+      "1406": "he",
+      "4054": "is",
+      "8602": "stuck",
+      "6940": "in",
+      "5834": "the",
+      "9969": "ladies",
+      "9377": "toilet.",
+      "7167": "MARILYN",
+      "6770": "is",
+      "1487": "having",
+      "7547": "loads",
+      "2910": "of",
+      "7176": "fun",
+      "2997": "and",
+      "1876": "is",
+      "9806": "almost",
+      "2768": "sloshed",
+      "1033": "-",
+      "1851": "by",
+      "1395": "the",
+      "8107": "end",
+      "2901": "of",
+      "7613": "the",
+      "2913": "song",
+      "7066": "she",
+      "2403": "is",
+      "3985": "dragged",
+      "9213": "along",
+      "9840": "grudgingly",
+      "2581": "the",
+      "7835": "GOVARDHAN.",
+      "2663": "SUBBA",
+      "1490": "RAJU",
+      "6500": "is",
+      "8037": "confounded",
+      "5937": "when",
+      "4741": "he",
+      "5989": "realizes",
+      "9062": "SHAM",
+      "5898": "GOPAL",
+      "7278": "VERMA",
+      "4224": "has",
+      "4982": "left.",
+      "1169": "VEDA",
+      "7269": "is",
+      "9046": "happy",
+      "3258": "to",
+      "5364": "have",
+      "2891": "made",
+      "4016": "sale",
+      "7039": "and",
+      "7868": "is",
+      "7924": "having",
+      "1072": "a",
+      "6783": "good",
+      "8696": "time;",
+      "1120": "he",
+      "1299": "is",
+      "7479": "thrown",
+      "7938": "out",
+      "1294": "of",
+      "3630": "the",
+      "3151": "pub",
+      "4931": "because",
+      "1157": "he",
+      "5241": "doesn’t",
+      "9607": "have",
+      "9524": "money",
+      "6188": "to",
+      "7152": "pay",
+      "2464": "up.",
+      "9758": "CUT",
+      "5878": "TO:"
+    }
+  },
+  "sample_no": "sample6",
+  "pdf_file_name": "page_43.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "VEDA",
+        "SULOCHANA",
+        "GOVARDHAN",
+        "MARILYN",
+        "SUBBA RAJU",
+        "SHAM GOPAL VERMA"
+      ],
+      "SET": [
+        "INT. PUB - NIGHT"
+      ],
+      "PROPS": [
+        "drink"
+      ],
+      "STUNTS": [
+        "thrown out"
+      ],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "VEDA",
+          "ids": [
+            1169,
+            1600
+          ]
+        },
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            9640
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            5688
+          ]
+        },
+        {
+          "value": "MARILYN",
+          "ids": [
+            7167
+          ]
+        },
+        {
+          "value": "SUBBA RAJU",
+          "ids": [
+            2663,
+            1490
+          ]
+        },
+        {
+          "value": "SHAM GOPAL VERMA",
+          "ids": [
+            9062,
+            5898,
+            7278
+          ]
+        }
+      ],
+      "SET": [
+        {
+          "value": "INT. PUB - NIGHT",
+          "ids": [
+            9152,
+            8044,
+            3151
+          ]
+        }
+      ],
+      "PROPS": [
+        {
+          "value": "drink",
+          "ids": [
+            7617
+          ]
+        }
+      ],
+      "STUNTS": [
+        {
+          "value": "thrown out",
+          "ids": [
+            7479,
+            7938
+          ]
+        }
+      ],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

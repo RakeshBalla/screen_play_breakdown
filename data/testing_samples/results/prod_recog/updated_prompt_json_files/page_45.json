@@ -1,0 +1,170 @@
+{
+  "page_dict": {
+    "alltext": "44.\n55 EXT. GOVARDHAN'S BUILDING-GATE - NIGHT\nINUMAYYA is sleeping at the gate, drunk, when GOVARDHAN\napproaches.\nGOVARDHAN\nRey gate theey\nINUMAYYA doesn't wake up. GOVARDHAN kicks him.\nINUMAYYA\nYevadu raa ee time lo vachaadu\nGOVARDHAN\nRaledhu raa.. Pothunnaa...Gate\ntheey\nDespite being mad at GOVARDHAN, INUMAYYA unlocks the gate.\nGOVARDHAN\nAe raa ala chustunaavu, malli naa\nmeeda emaina kada odultaava.\nNaaluka kostaanu, vedhava.\nCUT TO:",
+    "words_ids": {
+      "8684": "44.",
+      "1707": "55",
+      "9245": "EXT.",
+      "9307": "GOVARDHAN'S",
+      "6705": "BUILDING-GATE",
+      "4717": "-",
+      "6502": "NIGHT",
+      "4849": "INUMAYYA",
+      "5665": "is",
+      "2292": "sleeping",
+      "9346": "at",
+      "4056": "the",
+      "5517": "gate,",
+      "7891": "drunk,",
+      "4304": "when",
+      "4186": "GOVARDHAN",
+      "9241": "approaches.",
+      "2793": "GOVARDHAN",
+      "2314": "Rey",
+      "3547": "gate",
+      "2383": "theey",
+      "8034": "INUMAYYA",
+      "6302": "doesn't",
+      "5157": "wake",
+      "6048": "up.",
+      "7198": "GOVARDHAN",
+      "6317": "kicks",
+      "1344": "him.",
+      "7558": "INUMAYYA",
+      "4497": "Yevadu",
+      "9497": "raa",
+      "5129": "ee",
+      "7334": "time",
+      "2940": "lo",
+      "7114": "vachaadu",
+      "2724": "GOVARDHAN",
+      "8748": "Raledhu",
+      "5337": "raa..",
+      "3034": "Pothunnaa...Gate",
+      "4175": "theey",
+      "6585": "Despite",
+      "2220": "being",
+      "9515": "mad",
+      "1591": "at",
+      "8180": "GOVARDHAN,",
+      "2304": "INUMAYYA",
+      "6857": "unlocks",
+      "9356": "the",
+      "4563": "gate.",
+      "4195": "GOVARDHAN",
+      "5767": "Ae",
+      "5349": "raa",
+      "8630": "ala",
+      "5982": "chustunaavu,",
+      "8386": "malli",
+      "7265": "naa",
+      "2044": "meeda",
+      "2799": "emaina",
+      "2945": "kada",
+      "6078": "odultaava.",
+      "6450": "Naaluka",
+      "1963": "kostaanu,",
+      "5779": "vedhava.",
+      "8039": "CUT",
+      "6657": "TO:"
+    }
+  },
+  "sample_no": "sample8",
+  "pdf_file_name": "page_45.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "INUMAYYA",
+        "GOVARDHAN"
+      ],
+      "SET": [
+        "EXT. GOVARDHAN'S BUILDING-GATE - NIGHT"
+      ],
+      "PROPS": [
+        "gate",
+        "key"
+      ],
+      "STUNTS": [
+        "kicks"
+      ],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "INUMAYYA",
+          "ids": [
+            2304,
+            4849
+          ]
+        },
+        {
+          "value": "INUMAYYA",
+          "ids": [
+            7558,
+            8034
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            2724,
+            2793
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            4186,
+            4195
+          ]
+        }
+      ],
+      "SET": [
+        {
+          "value": "EXT. GOVARDHAN'S BUILDING-GATE - NIGHT",
+          "ids": [
+            6502,
+            4186,
+            2793,
+            3547,
+            7198,
+            2724,
+            4195
+          ]
+        }
+      ],
+      "PROPS": [
+        {
+          "value": "gate",
+          "ids": [
+            3547
+          ]
+        },
+        {
+          "value": "key",
+          "ids": []
+        }
+      ],
+      "STUNTS": [
+        {
+          "value": "kicks",
+          "ids": [
+            6317
+          ]
+        }
+      ],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

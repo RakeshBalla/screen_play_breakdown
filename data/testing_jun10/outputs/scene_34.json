@@ -1,0 +1,165 @@
+{
+    "ALL_TEXT": "34 INT. BANK-GENERAL AREA - DAY\nGOVARDHAN walks into the bank, to see his desk occupied by a\nMARILYN, a sharply dressed Caucasian woman, tall, early 30s.\nSeeing her occupying his desk, GOVARDHAN looses his shit. He\ncreates a big ruckus over it. The bank\u2019s MANAGER, also a\nwoman, exits her cabin and walks up to them.\nMANAGER\nGOVARDHAN garu oka sari na cabin ki\nvosthaara?\nGOVARDHAN\nNenu raanu\nThe MANAGER stares him down, like talking to a child.\nMANAGER\nGOVARDHAN\nGOVARDHAN\nAa sarey vosthuna.\nCUT TO:",
+    "WORDS_ID": "{\n\"1000\": \"34\",\n\"1001\": \"INT.\",\n\"1002\": \"BANK-GENERAL\",\n\"1003\": \"AREA\",\n\"1004\": \"-\",\n\"1005\": \"DAY\",\n\"1006\": \"GOVARDHAN\",\n\"1007\": \"walks\",\n\"1008\": \"into\",\n\"1009\": \"the\",\n\"1010\": \"bank,\",\n\"1011\": \"to\",\n\"1012\": \"see\",\n\"1013\": \"his\",\n\"1014\": \"desk\",\n\"1015\": \"occupied\",\n\"1016\": \"by\",\n\"1017\": \"a\",\n\"1018\": \"MARILYN,\",\n\"1019\": \"a\",\n\"1020\": \"sharply\",\n\"1021\": \"dressed\",\n\"1022\": \"Caucasian\",\n\"1023\": \"woman,\",\n\"1024\": \"tall,\",\n\"1025\": \"early\",\n\"1026\": \"30s.\",\n\"1027\": \"Seeing\",\n\"1028\": \"her\",\n\"1029\": \"occupying\",\n\"1030\": \"his\",\n\"1031\": \"desk,\",\n\"1032\": \"GOVARDHAN\",\n\"1033\": \"looses\",\n\"1034\": \"his\",\n\"1035\": \"shit.\",\n\"1036\": \"He\",\n\"1037\": \"creates\",\n\"1038\": \"a\",\n\"1039\": \"big\",\n\"1040\": \"ruckus\",\n\"1041\": \"over\",\n\"1042\": \"it.\",\n\"1043\": \"The\",\n\"1044\": \"bank\\u2019s\",\n\"1045\": \"MANAGER,\",\n\"1046\": \"also\",\n\"1047\": \"a\",\n\"1048\": \"woman,\",\n\"1049\": \"exits\",\n\"1050\": \"her\",\n\"1051\": \"cabin\",\n\"1052\": \"and\",\n\"1053\": \"walks\",\n\"1054\": \"up\",\n\"1055\": \"to\",\n\"1056\": \"them.\",\n\"1057\": \"MANAGER\",\n\"1058\": \"GOVARDHAN\",\n\"1059\": \"garu\",\n\"1060\": \"oka\",\n\"1061\": \"sari\",\n\"1062\": \"na\",\n\"1063\": \"cabin\",\n\"1064\": \"ki\",\n\"1065\": \"vosthaara?\",\n\"1066\": \"GOVARDHAN\",\n\"1067\": \"Nenu\",\n\"1068\": \"raanu\",\n\"1069\": \"The\",\n\"1070\": \"MANAGER\",\n\"1071\": \"stares\",\n\"1072\": \"him\",\n\"1073\": \"down,\",\n\"1074\": \"like\",\n\"1075\": \"talking\",\n\"1076\": \"to\",\n\"1077\": \"a\",\n\"1078\": \"child.\",\n\"1079\": \"MANAGER\",\n\"1080\": \"GOVARDHAN\",\n\"1081\": \"GOVARDHAN\",\n\"1082\": \"Aa\",\n\"1083\": \"sarey\",\n\"1084\": \"vosthuna.\",\n\"1085\": \"CUT\",\n\"1086\": \"TO:\"\n}",
+    "llm_result": {
+        "production_categories": {
+            "CAST": [
+                "GOVARDHAN",
+                "MARILYN",
+                "MANAGER"
+            ],
+            "SET": [
+                "INT. BANK-GENERAL AREA - DAY"
+            ],
+            "PROPS": [
+                "desk",
+                "cabin"
+            ],
+            "STUNTS": [],
+            "VEHICLES": [],
+            "ANIMALS": [],
+            "NUDITY": [],
+            "GREENERY": [],
+            "SOUND": [
+                "Ruckus"
+            ]
+        }
+    },
+    "predicted_word_ids": {
+        "production_categories": {
+            "CAST": [
+                [
+                    {
+                        "value": "GOVARDHAN",
+                        "ids": [
+                            "1006"
+                        ]
+                    },
+                    {
+                        "value": "GOVARDHAN",
+                        "ids": [
+                            "1032"
+                        ]
+                    },
+                    {
+                        "value": "GOVARDHAN",
+                        "ids": [
+                            "1058"
+                        ]
+                    },
+                    {
+                        "value": "GOVARDHAN",
+                        "ids": [
+                            "1066"
+                        ]
+                    },
+                    {
+                        "value": "GOVARDHAN",
+                        "ids": [
+                            "1080"
+                        ]
+                    },
+                    {
+                        "value": "GOVARDHAN",
+                        "ids": [
+                            "1081"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "value": "MARILYN,",
+                        "ids": [
+                            "1018"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "value": "MANAGER",
+                        "ids": [
+                            "1057"
+                        ]
+                    },
+                    {
+                        "value": "MANAGER",
+                        "ids": [
+                            "1070"
+                        ]
+                    },
+                    {
+                        "value": "MANAGER",
+                        "ids": [
+                            "1079"
+                        ]
+                    },
+                    {
+                        "value": "MANAGER,",
+                        "ids": [
+                            "1045"
+                        ]
+                    }
+                ]
+            ],
+            "SET": [
+                [
+                    {
+                        "value": "INT. BANK-GENERAL AREA - DAY",
+                        "ids": [
+                            "1001",
+                            "1002",
+                            "1003",
+                            "1004",
+                            "1005"
+                        ]
+                    }
+                ]
+            ],
+            "PROPS": [
+                [
+                    {
+                        "value": "desk",
+                        "ids": [
+                            "1014"
+                        ]
+                    },
+                    {
+                        "value": "desk,",
+                        "ids": [
+                            "1031"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "value": "cabin",
+                        "ids": [
+                            "1051"
+                        ]
+                    },
+                    {
+                        "value": "cabin",
+                        "ids": [
+                            "1063"
+                        ]
+                    }
+                ]
+            ],
+            "STUNTS": [],
+            "VEHICLES": [],
+            "ANIMALS": [],
+            "NUDITY": [],
+            "GREENERY": [],
+            "SOUND": [
+                [
+                    {
+                        "value": "ruckus",
+                        "ids": [
+                            "1040"
+                        ]
+                    }
+                ]
+            ]
+        }
+    }
+}

@@ -1,0 +1,835 @@
+{
+  "page_dict": {
+    "alltext": "21.\nFOREST MINISTER\n(disgusted)\nAsalu em anukuntunnaavu raa nee\ngurinchi...ninnu baba ni chesindhi\nnenu. Malli nee maayalu naa\nmeedhiki prayogistunnaava?\nCHINTHAN BABA\nAde kaadu ee nitya yavana cream\nnijamgaane baaga panichestundi nenu\nkudaa vaaduta\nFOREST MINISTER\nNooru mooyi vedavaa. Naaku\nkaavalsindi \"Kalpa Aayushmaan\nVigraham\" Daanini neetilo vesthe,\nvigraham karigipoyi neeti ki shakti\nni istundi. Aa neelani thaagithe\nthombai samvatsaraalodikaina inko\nyaabai samvatsaraalu ayushu\nperugutundi\nCHINTHAN BABA\nSare, neeku aa vigraham iste nee\ndabbanta naade naa\nFOREST MINISTER\nNinnu pudcheyana\nCHINTHAN BABA stays quite for a beat\nFOREST MINISTER\n(annoyed, talks slowly)\nFOREST MINISTER\nNenu cheppedidhi jaagrattagaa\nvinu...repu India lo oka adbutham\njaragabothundhi...mana daggara unna\nblack money anthaa container ki\nekkinchu...naa manushulu iddaru\nvasthaaru, vaalaki aa container\nhandover cheyyi...ardhamainda...\nCHINTHAN BABA\nInta clear ga cheppaaru, ardham\nkaakunda untundaa...Kaani aa\nadbuthame artham kaaledu\nFOREST MINISTER\nNeeku ardam avalsina avasaram\nledu...\nCUT TO:",
+    "words_ids": {
+      "5974": "21.",
+      "2406": "FOREST",
+      "7902": "MINISTER",
+      "3478": "(disgusted)",
+      "2678": "Asalu",
+      "7921": "em",
+      "5493": "anukuntunnaavu",
+      "1306": "raa",
+      "9322": "nee",
+      "8850": "gurinchi...ninnu",
+      "2029": "baba",
+      "3088": "ni",
+      "6420": "chesindhi",
+      "9299": "nenu.",
+      "8103": "Malli",
+      "4326": "nee",
+      "7604": "maayalu",
+      "8809": "naa",
+      "1800": "meedhiki",
+      "8140": "prayogistunnaava?",
+      "7634": "CHINTHAN",
+      "2119": "BABA",
+      "9933": "Ade",
+      "3579": "kaadu",
+      "9356": "ee",
+      "9953": "nitya",
+      "4786": "yavana",
+      "6316": "cream",
+      "9552": "nijamgaane",
+      "3710": "baaga",
+      "1338": "panichestundi",
+      "8959": "nenu",
+      "4842": "kudaa",
+      "9483": "vaaduta",
+      "2438": "FOREST",
+      "2909": "MINISTER",
+      "7414": "Nooru",
+      "3870": "mooyi",
+      "1377": "vedavaa.",
+      "1143": "Naaku",
+      "5011": "kaavalsindi",
+      "3157": "\"Kalpa",
+      "5046": "Aayushmaan",
+      "3839": "Vigraham\"",
+      "9279": "Daanini",
+      "1020": "neetilo",
+      "8970": "vesthe,",
+      "2186": "vigraham",
+      "6794": "karigipoyi",
+      "7658": "neeti",
+      "4079": "ki",
+      "4368": "shakti",
+      "5076": "ni",
+      "4966": "istundi.",
+      "6868": "Aa",
+      "6237": "neelani",
+      "6575": "thaagithe",
+      "7732": "thombai",
+      "1697": "samvatsaraalodikaina",
+      "9535": "inko",
+      "2795": "yaabai",
+      "8302": "samvatsaraalu",
+      "7586": "ayushu",
+      "8419": "perugutundi",
+      "9478": "CHINTHAN",
+      "1076": "BABA",
+      "2455": "Sare,",
+      "9729": "neeku",
+      "8760": "aa",
+      "4611": "vigraham",
+      "8156": "iste",
+      "7315": "nee",
+      "7179": "dabbanta",
+      "8840": "naade",
+      "8885": "naa",
+      "2626": "FOREST",
+      "2535": "MINISTER",
+      "7150": "Ninnu",
+      "2441": "pudcheyana",
+      "4996": "CHINTHAN",
+      "9656": "BABA",
+      "1656": "stays",
+      "9836": "quite",
+      "8814": "for",
+      "6067": "a",
+      "7761": "beat",
+      "6291": "FOREST",
+      "7502": "MINISTER",
+      "7579": "(annoyed,",
+      "2413": "talks",
+      "2281": "slowly)",
+      "8782": "FOREST",
+      "2996": "MINISTER",
+      "1138": "Nenu",
+      "1973": "cheppedidhi",
+      "5997": "jaagrattagaa",
+      "2121": "vinu...repu",
+      "3051": "India",
+      "9477": "lo",
+      "1296": "oka",
+      "6433": "adbutham",
+      "1894": "jaragabothundhi...mana",
+      "2463": "daggara",
+      "3751": "unna",
+      "2967": "black",
+      "5826": "money",
+      "3048": "anthaa",
+      "8616": "container",
+      "6355": "ki",
+      "7257": "ekkinchu...naa",
+      "5476": "manushulu",
+      "6907": "iddaru",
+      "8137": "vasthaaru,",
+      "1316": "vaalaki",
+      "9027": "aa",
+      "2825": "container",
+      "8799": "handover",
+      "4340": "cheyyi...ardhamainda...",
+      "9487": "CHINTHAN",
+      "5550": "BABA",
+      "6348": "Inta",
+      "4994": "clear",
+      "5915": "ga",
+      "3123": "cheppaaru,",
+      "6047": "ardham",
+      "1167": "kaakunda",
+      "6051": "untundaa...Kaani",
+      "7036": "aa",
+      "4111": "adbuthame",
+      "6584": "artham",
+      "1724": "kaaledu",
+      "5891": "FOREST",
+      "5800": "MINISTER",
+      "7245": "Neeku",
+      "3588": "ardam",
+      "1501": "avalsina",
+      "5448": "avasaram",
+      "2446": "ledu...",
+      "5779": "CUT",
+      "2326": "TO:"
+    }
+  },
+  "sample_no": "sample2",
+  "pdf_file_name": "page_22.pdf",
+  "llm_response": {
+    "scene_number": [
+      21
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      "CHINTHAN BABA stays quite for a beat"
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "FOREST MINISTER"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          "(disgusted)"
+        ],
+        "text": [
+          "Asalu em anukuntunnaavu raa nee\ngurinchi...ninnu baba ni chesindhi\nnenu. Malli nee maayalu naa\nmeedhiki prayogistunnaava?"
+        ]
+      },
+      {
+        "character": [
+          "CHINTHAN BABA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Ade kaadu ee nitya yavana cream\nnijamgaane baaga panichestundi nenu\nkudaa vaaduta"
+        ]
+      },
+      {
+        "character": [
+          "FOREST MINISTER"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Nooru mooyi vedavaa. Naaku\nkaavalsindi \"Kalpa Aayushmaan\nVigraham\" Daanini neetilo vesthe,\nvigraham karigipoyi neeti ki shakti\nni istundi. Aa neelani thaagithe\nthombai samvatsaraalodikaina inko\nyaabai samvatsaraalu ayushu\nperugutundi"
+        ]
+      },
+      {
+        "character": [
+          "CHINTHAN BABA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Sare, neeku aa vigraham iste nee\ndabbanta naade naa"
+        ]
+      },
+      {
+        "character": [
+          "FOREST MINISTER"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Ninnu pudcheyana"
+        ]
+      },
+      {
+        "character": [
+          "FOREST MINISTER"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          "(annoyed, talks slowly)"
+        ],
+        "text": [
+          "FOREST MINISTER"
+        ]
+      },
+      {
+        "character": [
+          "FOREST MINISTER"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Nenu cheppedidhi jaagrattagaa\nvinu...repu India lo oka adbutham\njaragabothundhi...mana daggara unna\nblack money anthaa container ki\nekkinchu...naa manushulu iddaru\nvasthaaru, vaalaki aa container\nhandover cheyyi...ardhamainda..."
+        ]
+      },
+      {
+        "character": [
+          "CHINTHAN BABA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Inta clear ga cheppaaru, ardham\nkaakunda untundaa...Kaani aa\nadbuthame artham kaaledu"
+        ]
+      },
+      {
+        "character": [
+          "FOREST MINISTER"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Neeku ardam avalsina avasaram\nledu..."
+        ]
+      }
+    ],
+    "transitions": [
+      "CUT TO:"
+    ],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      {
+        "value": 21,
+        "ids": []
+      }
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      {
+        "value": "CHINTHAN BABA stays quite for a beat",
+        "ids": [
+          2029,
+          7634,
+          2119,
+          9478,
+          1076,
+          4996,
+          9656,
+          1656,
+          9836,
+          8814,
+          6067,
+          7761,
+          9487,
+          5550
+        ]
+      }
+    ],
+    "dialogue": [
+      {
+        "character": [
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              2406,
+              7902,
+              2438,
+              2909,
+              2626,
+              2535,
+              6291,
+              7502,
+              8782,
+              2996,
+              5891,
+              5800
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "(disgusted)",
+            "ids": [
+              3478
+            ]
+          }
+        ],
+        "text": [
+          {
+            "value": "Asalu em anukuntunnaavu raa nee\ngurinchi...ninnu baba ni chesindhi\nnenu. Malli nee maayalu naa\nmeedhiki prayogistunnaava?",
+            "ids": [
+              2678,
+              7921,
+              5493,
+              1306,
+              9322,
+              2029,
+              3088,
+              6420,
+              8103,
+              4326,
+              7604,
+              8809,
+              1800,
+              2119,
+              8959,
+              5076,
+              1076,
+              7315,
+              8885,
+              7150,
+              9656,
+              1138,
+              5550
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              2029,
+              7634,
+              2119,
+              9478,
+              1076,
+              4996,
+              9656,
+              9487,
+              5550
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Ade kaadu ee nitya yavana cream\nnijamgaane baaga panichestundi nenu\nkudaa vaaduta",
+            "ids": [
+              9933,
+              3579,
+              9356,
+              9953,
+              4786,
+              6316,
+              9552,
+              3710,
+              1338,
+              8959,
+              4842,
+              9483,
+              1138
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              2406,
+              7902,
+              2438,
+              2909,
+              2626,
+              2535,
+              6291,
+              7502,
+              8782,
+              2996,
+              5891,
+              5800
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Nooru mooyi vedavaa. Naaku\nkaavalsindi \"Kalpa Aayushmaan\nVigraham\" Daanini neetilo vesthe,\nvigraham karigipoyi neeti ki shakti\nni istundi. Aa neelani thaagithe\nthombai samvatsaraalodikaina inko\nyaabai samvatsaraalu ayushu\nperugutundi",
+            "ids": [
+              3088,
+              7414,
+              3870,
+              1143,
+              5011,
+              5046,
+              9279,
+              1020,
+              2186,
+              6794,
+              7658,
+              4079,
+              4368,
+              5076,
+              6868,
+              6237,
+              6575,
+              7732,
+              1697,
+              9535,
+              2795,
+              8302,
+              7586,
+              8419,
+              8760,
+              4611,
+              6355,
+              9027,
+              7036
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              2029,
+              7634,
+              2119,
+              9478,
+              1076,
+              4996,
+              9656,
+              9487,
+              5550
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Sare, neeku aa vigraham iste nee\ndabbanta naade naa",
+            "ids": [
+              9322,
+              4326,
+              8809,
+              2186,
+              6868,
+              9729,
+              8760,
+              4611,
+              8156,
+              7315,
+              7179,
+              8840,
+              8885,
+              9027,
+              7036,
+              7245
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              2406,
+              7902,
+              2438,
+              2909,
+              2626,
+              2535,
+              6291,
+              7502,
+              8782,
+              2996,
+              5891,
+              5800
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Ninnu pudcheyana",
+            "ids": [
+              7150,
+              2441
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              2406,
+              7902,
+              2438,
+              2909,
+              2626,
+              2535,
+              6291,
+              7502,
+              8782,
+              2996,
+              5891,
+              5800
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "(annoyed, talks slowly)",
+            "ids": [
+              2413
+            ]
+          }
+        ],
+        "text": [
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              2406,
+              7902,
+              2438,
+              2909,
+              2626,
+              2535,
+              6291,
+              7502,
+              8782,
+              2996,
+              5891,
+              5800
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              2406,
+              7902,
+              2438,
+              2909,
+              2626,
+              2535,
+              6291,
+              7502,
+              8782,
+              2996,
+              5891,
+              5800
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Nenu cheppedidhi jaagrattagaa\nvinu...repu India lo oka adbutham\njaragabothundhi...mana daggara unna\nblack money anthaa container ki\nekkinchu...naa manushulu iddaru\nvasthaaru, vaalaki aa container\nhandover cheyyi...ardhamainda...",
+            "ids": [
+              8809,
+              8959,
+              4079,
+              6868,
+              8760,
+              8885,
+              1138,
+              1973,
+              5997,
+              3051,
+              9477,
+              1296,
+              6433,
+              2463,
+              3751,
+              2967,
+              5826,
+              3048,
+              8616,
+              6355,
+              5476,
+              6907,
+              1316,
+              9027,
+              2825,
+              8799,
+              7036
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              2029,
+              7634,
+              2119,
+              9478,
+              1076,
+              4996,
+              9656,
+              9487,
+              5550
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Inta clear ga cheppaaru, ardham\nkaakunda untundaa...Kaani aa\nadbuthame artham kaaledu",
+            "ids": [
+              6868,
+              8760,
+              9027,
+              6348,
+              4994,
+              5915,
+              6047,
+              1167,
+              7036,
+              4111,
+              6584,
+              1724
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              2406,
+              7902,
+              2438,
+              2909,
+              2626,
+              2535,
+              6291,
+              7502,
+              8782,
+              2996,
+              5891,
+              5800
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Neeku ardam avalsina avasaram\nledu...",
+            "ids": [
+              9729,
+              7245,
+              3588,
+              1501,
+              5448
+            ]
+          }
+        ]
+      }
+    ],
+    "transitions": [
+      {
+        "value": "CUT TO:",
+        "ids": [
+          5779
+        ]
+      }
+    ],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

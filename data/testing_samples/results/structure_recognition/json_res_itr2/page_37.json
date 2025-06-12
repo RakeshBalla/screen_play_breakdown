@@ -1,0 +1,1055 @@
+{
+  "sample_no": "sample4",
+  "pdf_file_name": "page_37.pdf",
+  "alltext": "36.\n44 INT. PUB-BAR TABLE - NIGHT\nVEDA is sitting at the bar counter, holding a glass of beer.\nThere are empty bottles lying next to the PUG. The PUG puts\nhis paw into the glass and licks it, lies down again and\nbarks.\nVEDA\nChaalivaaltiki... naa kanna ekkuva\nthaagava?\nThe PUG barks again\nVEDA\nNormuye. Beer bottleantha levu.\nPosthe peepa lepesettattunnaavu...\nThe PUG looks at him with his big brown eyes and then turns\nhis head away.\nVEDA\nabbo....alaaka, neeku thindi\npettadame ekkuva. Mandhu kuda\nadiginantha poyaalaa..dishti\npettakunda gammuna paduko.\nVEDA leans and whispers in the PUG\u2019s ear\nVEDA\nArdham chesukove........naa\ndhaggarinka dabbulu levu. Unnaa ee\nkaastha neeke posthe ela cheppu.\nNeni konchem thaagesthanu.\nChakkagaa intikelli podaam.\nThe PUG barks at him and moves a few feet away and lies on\nthe bar counter.\nVEDA\nChee...... nuvvu kukka jaathike\nkalamkame, assalu vishvaasam\nledu...Idhigo thaagu\nSULOCHANA who has been watching of all of this, comes\ncharging at VEDA.\nSULOCHANA\nManishiva pasuvvaa?.. Evadanna\nkukkapilla ki mandhu posthaara??..\nAdi antha glassa... chasthe?\nVEDA looks at her wondering why she is bothered. They\nsuddenly see each other properly.",
+  "words_ids": {
+    "1000": "36.",
+    "1001": "44",
+    "1002": "INT.",
+    "1003": "PUB-BAR",
+    "1004": "TABLE",
+    "1005": "-",
+    "1006": "NIGHT",
+    "1007": "VEDA",
+    "1008": "is",
+    "1009": "sitting",
+    "1010": "at",
+    "1011": "the",
+    "1012": "bar",
+    "1013": "counter,",
+    "1014": "holding",
+    "1015": "a",
+    "1016": "glass",
+    "1017": "of",
+    "1018": "beer.",
+    "1019": "There",
+    "1020": "are",
+    "1021": "empty",
+    "1022": "bottles",
+    "1023": "lying",
+    "1024": "next",
+    "1025": "to",
+    "1026": "the",
+    "1027": "PUG.",
+    "1028": "The",
+    "1029": "PUG",
+    "1030": "puts",
+    "1031": "his",
+    "1032": "paw",
+    "1033": "into",
+    "1034": "the",
+    "1035": "glass",
+    "1036": "and",
+    "1037": "licks",
+    "1038": "it,",
+    "1039": "lies",
+    "1040": "down",
+    "1041": "again",
+    "1042": "and",
+    "1043": "barks.",
+    "1044": "VEDA",
+    "1045": "Chaalivaaltiki...",
+    "1046": "naa",
+    "1047": "kanna",
+    "1048": "ekkuva",
+    "1049": "thaagava?",
+    "1050": "The",
+    "1051": "PUG",
+    "1052": "barks",
+    "1053": "again",
+    "1054": "VEDA",
+    "1055": "Normuye.",
+    "1056": "Beer",
+    "1057": "bottleantha",
+    "1058": "levu.",
+    "1059": "Posthe",
+    "1060": "peepa",
+    "1061": "lepesettattunnaavu...",
+    "1062": "The",
+    "1063": "PUG",
+    "1064": "looks",
+    "1065": "at",
+    "1066": "him",
+    "1067": "with",
+    "1068": "his",
+    "1069": "big",
+    "1070": "brown",
+    "1071": "eyes",
+    "1072": "and",
+    "1073": "then",
+    "1074": "turns",
+    "1075": "his",
+    "1076": "head",
+    "1077": "away.",
+    "1078": "VEDA",
+    "1079": "abbo....alaaka,",
+    "1080": "neeku",
+    "1081": "thindi",
+    "1082": "pettadame",
+    "1083": "ekkuva.",
+    "1084": "Mandhu",
+    "1085": "kuda",
+    "1086": "adiginantha",
+    "1087": "poyaalaa..dishti",
+    "1088": "pettakunda",
+    "1089": "gammuna",
+    "1090": "paduko.",
+    "1091": "VEDA",
+    "1092": "leans",
+    "1093": "and",
+    "1094": "whispers",
+    "1095": "in",
+    "1096": "the",
+    "1097": "PUG\u2019s",
+    "1098": "ear",
+    "1099": "VEDA",
+    "1100": "Ardham",
+    "1101": "chesukove........naa",
+    "1102": "dhaggarinka",
+    "1103": "dabbulu",
+    "1104": "levu.",
+    "1105": "Unnaa",
+    "1106": "ee",
+    "1107": "kaastha",
+    "1108": "neeke",
+    "1109": "posthe",
+    "1110": "ela",
+    "1111": "cheppu.",
+    "1112": "Neni",
+    "1113": "konchem",
+    "1114": "thaagesthanu.",
+    "1115": "Chakkagaa",
+    "1116": "intikelli",
+    "1117": "podaam.",
+    "1118": "The",
+    "1119": "PUG",
+    "1120": "barks",
+    "1121": "at",
+    "1122": "him",
+    "1123": "and",
+    "1124": "moves",
+    "1125": "a",
+    "1126": "few",
+    "1127": "feet",
+    "1128": "away",
+    "1129": "and",
+    "1130": "lies",
+    "1131": "on",
+    "1132": "the",
+    "1133": "bar",
+    "1134": "counter.",
+    "1135": "VEDA",
+    "1136": "Chee......",
+    "1137": "nuvvu",
+    "1138": "kukka",
+    "1139": "jaathike",
+    "1140": "kalamkame,",
+    "1141": "assalu",
+    "1142": "vishvaasam",
+    "1143": "ledu...Idhigo",
+    "1144": "thaagu",
+    "1145": "SULOCHANA",
+    "1146": "who",
+    "1147": "has",
+    "1148": "been",
+    "1149": "watching",
+    "1150": "of",
+    "1151": "all",
+    "1152": "of",
+    "1153": "this,",
+    "1154": "comes",
+    "1155": "charging",
+    "1156": "at",
+    "1157": "VEDA.",
+    "1158": "SULOCHANA",
+    "1159": "Manishiva",
+    "1160": "pasuvvaa?..",
+    "1161": "Evadanna",
+    "1162": "kukkapilla",
+    "1163": "ki",
+    "1164": "mandhu",
+    "1165": "posthaara??..",
+    "1166": "Adi",
+    "1167": "antha",
+    "1168": "glassa...",
+    "1169": "chasthe?",
+    "1170": "VEDA",
+    "1171": "looks",
+    "1172": "at",
+    "1173": "her",
+    "1174": "wondering",
+    "1175": "why",
+    "1176": "she",
+    "1177": "is",
+    "1178": "bothered.",
+    "1179": "They",
+    "1180": "suddenly",
+    "1181": "see",
+    "1182": "each",
+    "1183": "other",
+    "1184": "properly."
+  },
+  "llm_response": {
+    "scene_number": [
+      "44"
+    ],
+    "slugline": {
+      "type": [
+        "INT."
+      ],
+      "location": [
+        "PUB-BAR TABLE"
+      ],
+      "time_of_day": [
+        "NIGHT"
+      ]
+    },
+    "action_lines": [
+      "VEDA is sitting at the bar counter, holding a glass of beer.",
+      "There are empty bottles lying next to the PUG. The PUG puts\nhis paw into the glass and licks it, lies down again and\nbarks.",
+      "The PUG barks again",
+      "The PUG looks at him with his big brown eyes and then turns\nhis head away.",
+      "VEDA leans and whispers in the PUG\u2019s ear",
+      "The PUG barks at him and moves a few feet away and lies on\nthe bar counter.",
+      "SULOCHANA who has been watching of all of this, comes\ncharging at VEDA.",
+      "VEDA looks at her wondering why she is bothered. They\nsuddenly see each other properly."
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Chaalivaaltiki... naa kanna ekkuva\nthaagava?"
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Normuye. Beer bottleantha levu.\nPosthe peepa lepesettattunnaavu..."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "abbo....alaaka, neeku thindi\npettadame ekkuva. Mandhu kuda\nadiginantha poyaalaa..dishti\npettakunda gammuna paduko."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Ardham chesukove........naa\ndhaggarinka dabbulu levu. Unnaa ee\nkaastha neeke posthe ela cheppu.\nNeni konchem thaagesthanu.\nChakkagaa intikelli podaam."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Chee...... nuvvu kukka jaathike\nkalamkame, assalu vishvaasam\nledu...Idhigo thaagu"
+        ]
+      },
+      {
+        "character": [
+          "SULOCHANA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Manishiva pasuvvaa?.. Evadanna\nkukkapilla ki mandhu posthaara??..\nAdi antha glassa... chasthe?"
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      [
+        {
+          "value": "44",
+          "ids": [
+            "1001"
+          ]
+        }
+      ]
+    ],
+    "slugline": {
+      "type": [
+        [
+          {
+            "value": "INT.",
+            "ids": [
+              "1002"
+            ]
+          }
+        ]
+      ],
+      "location": [
+        [
+          {
+            "value": "PUB-BAR TABLE",
+            "ids": [
+              "1003",
+              "1004"
+            ]
+          }
+        ]
+      ],
+      "time_of_day": [
+        [
+          {
+            "value": "NIGHT",
+            "ids": [
+              "1006"
+            ]
+          }
+        ]
+      ]
+    },
+    "action_lines": [
+      [
+        {
+          "value": "VEDA is sitting at the bar counter, holding a glass of beer.",
+          "ids": [
+            "1007",
+            "1008",
+            "1009",
+            "1010",
+            "1011",
+            "1012",
+            "1013",
+            "1014",
+            "1015",
+            "1016",
+            "1017",
+            "1018"
+          ]
+        }
+      ],
+      [
+        {
+          "value": "There are empty bottles lying next to the PUG. The PUG puts his paw into the glass and licks it, lies down again and barks.",
+          "ids": [
+            "1019",
+            "1020",
+            "1021",
+            "1022",
+            "1023",
+            "1024",
+            "1025",
+            "1026",
+            "1027",
+            "1028",
+            "1029",
+            "1030",
+            "1031",
+            "1032",
+            "1033",
+            "1034",
+            "1035",
+            "1036",
+            "1037",
+            "1038",
+            "1039",
+            "1040",
+            "1041",
+            "1042",
+            "1043"
+          ]
+        }
+      ],
+      [
+        {
+          "value": "The PUG barks again",
+          "ids": [
+            "1050",
+            "1051",
+            "1052",
+            "1053"
+          ]
+        }
+      ],
+      [
+        {
+          "value": "The PUG looks at him with his big brown eyes and then turns his head away.",
+          "ids": [
+            "1062",
+            "1063",
+            "1064",
+            "1065",
+            "1066",
+            "1067",
+            "1068",
+            "1069",
+            "1070",
+            "1071",
+            "1072",
+            "1073",
+            "1074",
+            "1075",
+            "1076",
+            "1077"
+          ]
+        }
+      ],
+      [
+        {
+          "value": "VEDA leans and whispers in the PUG\u2019s ear",
+          "ids": [
+            "1091",
+            "1092",
+            "1093",
+            "1094",
+            "1095",
+            "1096",
+            "1097",
+            "1098"
+          ]
+        }
+      ],
+      [
+        {
+          "value": "The PUG barks at him and moves a few feet away and lies on the bar counter.",
+          "ids": [
+            "1118",
+            "1119",
+            "1120",
+            "1121",
+            "1122",
+            "1123",
+            "1124",
+            "1125",
+            "1126",
+            "1127",
+            "1128",
+            "1129",
+            "1130",
+            "1131",
+            "1132",
+            "1133",
+            "1134"
+          ]
+        }
+      ],
+      [
+        {
+          "value": "SULOCHANA who has been watching of all of this, comes charging at VEDA.",
+          "ids": [
+            "1145",
+            "1146",
+            "1147",
+            "1148",
+            "1149",
+            "1150",
+            "1151",
+            "1152",
+            "1153",
+            "1154",
+            "1155",
+            "1156",
+            "1157"
+          ]
+        }
+      ],
+      [
+        {
+          "value": "VEDA looks at her wondering why she is bothered. They suddenly see each other properly.",
+          "ids": [
+            "1170",
+            "1171",
+            "1172",
+            "1173",
+            "1174",
+            "1175",
+            "1176",
+            "1177",
+            "1178",
+            "1179",
+            "1180",
+            "1181",
+            "1182",
+            "1183",
+            "1184"
+          ]
+        }
+      ]
+    ],
+    "dialogue": [
+      {
+        "character": [
+          [
+            {
+              "value": "VEDA",
+              "ids": [
+                "1007"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1044"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1054"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1078"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1091"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1099"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1135"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1170"
+              ]
+            },
+            {
+              "value": "VEDA.",
+              "ids": [
+                "1157"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Chaalivaaltiki... naa kanna ekkuva thaagava?",
+              "ids": [
+                "1045",
+                "1046",
+                "1047",
+                "1048",
+                "1049"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "VEDA",
+              "ids": [
+                "1007"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1044"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1054"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1078"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1091"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1099"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1135"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1170"
+              ]
+            },
+            {
+              "value": "VEDA.",
+              "ids": [
+                "1157"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Normuye. Beer bottleantha levu. Posthe peepa lepesettattunnaavu...",
+              "ids": [
+                "1055",
+                "1056",
+                "1057",
+                "1058",
+                "1059",
+                "1060",
+                "1061"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "VEDA",
+              "ids": [
+                "1007"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1044"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1054"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1078"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1091"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1099"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1135"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1170"
+              ]
+            },
+            {
+              "value": "VEDA.",
+              "ids": [
+                "1157"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "abbo....alaaka, neeku thindi pettadame ekkuva. Mandhu kuda adiginantha poyaalaa..dishti pettakunda gammuna paduko.",
+              "ids": [
+                "1079",
+                "1080",
+                "1081",
+                "1082",
+                "1083",
+                "1084",
+                "1085",
+                "1086",
+                "1087",
+                "1088",
+                "1089",
+                "1090"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "VEDA",
+              "ids": [
+                "1007"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1044"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1054"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1078"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1091"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1099"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1135"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1170"
+              ]
+            },
+            {
+              "value": "VEDA.",
+              "ids": [
+                "1157"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Ardham chesukove........naa dhaggarinka dabbulu levu. Unnaa ee kaastha neeke posthe ela cheppu. Neni konchem thaagesthanu. Chakkagaa intikelli podaam.",
+              "ids": [
+                "1100",
+                "1101",
+                "1102",
+                "1103",
+                "1104",
+                "1105",
+                "1106",
+                "1107",
+                "1108",
+                "1109",
+                "1110",
+                "1111",
+                "1112",
+                "1113",
+                "1114",
+                "1115",
+                "1116",
+                "1117"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "VEDA",
+              "ids": [
+                "1007"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1044"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1054"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1078"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1091"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1099"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1135"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1170"
+              ]
+            },
+            {
+              "value": "VEDA.",
+              "ids": [
+                "1157"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Chee...... nuvvu kukka jaathike kalamkame, assalu vishvaasam ledu...Idhigo thaagu",
+              "ids": [
+                "1136",
+                "1137",
+                "1138",
+                "1139",
+                "1140",
+                "1141",
+                "1142",
+                "1143",
+                "1144"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1145"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1158"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Manishiva pasuvvaa?.. Evadanna kukkapilla ki mandhu posthaara??.. Adi antha glassa... chasthe?",
+              "ids": [
+                "1159",
+                "1160",
+                "1161",
+                "1162",
+                "1163",
+                "1164",
+                "1165",
+                "1166",
+                "1167",
+                "1168",
+                "1169"
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

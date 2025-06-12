@@ -1,0 +1,193 @@
+{
+  "ALL_TEXT": "16 EXT. ROAD - NIGHT \nSURESH and the mute BUM are surveying the accident spot - the \ntwo men from the front of the car are dead. The car's \nblinking sidelight lights up SURI's bleeding face, who lay on \nthe road almost dead. SURI barely musters the strength to ask \nthem for help. The mute BUM wants to, but SURESH stops him, \nand points at SURI...or rather his gold ring. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "16",
+    "1001": "EXT.",
+    "1002": "ROAD",
+    "1003": "-",
+    "1004": "NIGHT",
+    "1005": "SURESH",
+    "1006": "and",
+    "1007": "the",
+    "1008": "mute",
+    "1009": "BUM",
+    "1010": "are",
+    "1011": "surveying",
+    "1012": "the",
+    "1013": "accident",
+    "1014": "spot",
+    "1015": "-",
+    "1016": "the",
+    "1017": "two",
+    "1018": "men",
+    "1019": "from",
+    "1020": "the",
+    "1021": "front",
+    "1022": "of",
+    "1023": "the",
+    "1024": "car",
+    "1025": "are",
+    "1026": "dead.",
+    "1027": "The",
+    "1028": "car's",
+    "1029": "blinking",
+    "1030": "sidelight",
+    "1031": "lights",
+    "1032": "up",
+    "1033": "SURI's",
+    "1034": "bleeding",
+    "1035": "face,",
+    "1036": "who",
+    "1037": "lay",
+    "1038": "on",
+    "1039": "the",
+    "1040": "road",
+    "1041": "almost",
+    "1042": "dead.",
+    "1043": "SURI",
+    "1044": "barely",
+    "1045": "musters",
+    "1046": "the",
+    "1047": "strength",
+    "1048": "to",
+    "1049": "ask",
+    "1050": "them",
+    "1051": "for",
+    "1052": "help.",
+    "1053": "The",
+    "1054": "mute",
+    "1055": "BUM",
+    "1056": "wants",
+    "1057": "to,",
+    "1058": "but",
+    "1059": "SURESH",
+    "1060": "stops",
+    "1061": "him,",
+    "1062": "and",
+    "1063": "points",
+    "1064": "at",
+    "1065": "SURI...or",
+    "1066": "rather",
+    "1067": "his",
+    "1068": "gold",
+    "1069": "ring.",
+    "1070": "CUT",
+    "1071": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "SURESH",
+        "mute BUM",
+        "two men",
+        "SURI"
+      ],
+      "SET": [
+        "EXT. ROAD - NIGHT"
+      ],
+      "PROPS": [
+        "gold ring"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        "car"
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "SURESH",
+            "ids": [
+              "1005"
+            ]
+          },
+          {
+            "value": "SURESH",
+            "ids": [
+              "1059"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "mute BUM",
+            "ids": [
+              "1008",
+              "1009"
+            ]
+          },
+          {
+            "value": "mute BUM",
+            "ids": [
+              "1054",
+              "1055"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "two men",
+            "ids": [
+              "1017",
+              "1018"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "SURI",
+            "ids": [
+              "1043"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. ROAD - NIGHT",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "gold ring.",
+            "ids": [
+              "1068",
+              "1069"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        [
+          {
+            "value": "car",
+            "ids": [
+              "1024"
+            ]
+          }
+        ]
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

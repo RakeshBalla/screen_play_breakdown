@@ -1,0 +1,142 @@
+{
+  "ALL_TEXT": "4 EXT. DESERT - DAY \nA religious man picks up the box from the desert sand and \nshows it to the man standing next to him. He hands it to \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "4",
+    "1001": "EXT.",
+    "1002": "DESERT",
+    "1003": "-",
+    "1004": "DAY",
+    "1005": "A",
+    "1006": "religious",
+    "1007": "man",
+    "1008": "picks",
+    "1009": "up",
+    "1010": "the",
+    "1011": "box",
+    "1012": "from",
+    "1013": "the",
+    "1014": "desert",
+    "1015": "sand",
+    "1016": "and",
+    "1017": "shows",
+    "1018": "it",
+    "1019": "to",
+    "1020": "the",
+    "1021": "man",
+    "1022": "standing",
+    "1023": "next",
+    "1024": "to",
+    "1025": "him.",
+    "1026": "He",
+    "1027": "hands",
+    "1028": "it",
+    "1029": "to",
+    "1030": "CUT",
+    "1031": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "religious man",
+        "man"
+      ],
+      "SET": [
+        "EXT. DESERT - DAY"
+      ],
+      "PROPS": [
+        "box"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        "DESERT",
+        "desert sand"
+      ],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "religious man",
+            "ids": [
+              "1006",
+              "1007"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "man",
+            "ids": [
+              "1007"
+            ]
+          },
+          {
+            "value": "man",
+            "ids": [
+              "1021"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. DESERT - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "box",
+            "ids": [
+              "1011"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        [
+          {
+            "value": "DESERT",
+            "ids": [
+              "1002"
+            ]
+          },
+          {
+            "value": "desert",
+            "ids": [
+              "1014"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "desert sand",
+            "ids": [
+              "1014",
+              "1015"
+            ]
+          }
+        ]
+      ],
+      "SOUND": []
+    }
+  }
+}

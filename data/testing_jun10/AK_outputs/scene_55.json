@@ -1,0 +1,214 @@
+{
+  "ALL_TEXT": "55 EXT. GOVARDHAN'S BUILDING-GATE - NIGHT \nINUMAYYA is sleeping at the gate, drunk, when GOVARDHAN \napproaches. \nGOVARDHAN \nRey gate theey \nINUMAYYA doesn't wake up. GOVARDHAN kicks him. \nINUMAYYA \nYevadu raa ee time lo vachaadu \nGOVARDHAN \nRaledhu raa.. Pothunnaa...Gate \ntheey \nDespite being mad at GOVARDHAN, INUMAYYA unlocks the gate. \nGOVARDHAN \nAe raa ala chustunaavu, malli naa \nmeeda emaina kada odultaava. \nNaaluka kostaanu, vedhava. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "55",
+    "1001": "EXT.",
+    "1002": "GOVARDHAN'S",
+    "1003": "BUILDING-GATE",
+    "1004": "-",
+    "1005": "NIGHT",
+    "1006": "INUMAYYA",
+    "1007": "is",
+    "1008": "sleeping",
+    "1009": "at",
+    "1010": "the",
+    "1011": "gate,",
+    "1012": "drunk,",
+    "1013": "when",
+    "1014": "GOVARDHAN",
+    "1015": "approaches.",
+    "1016": "GOVARDHAN",
+    "1017": "Rey",
+    "1018": "gate",
+    "1019": "theey",
+    "1020": "INUMAYYA",
+    "1021": "doesn't",
+    "1022": "wake",
+    "1023": "up.",
+    "1024": "GOVARDHAN",
+    "1025": "kicks",
+    "1026": "him.",
+    "1027": "INUMAYYA",
+    "1028": "Yevadu",
+    "1029": "raa",
+    "1030": "ee",
+    "1031": "time",
+    "1032": "lo",
+    "1033": "vachaadu",
+    "1034": "GOVARDHAN",
+    "1035": "Raledhu",
+    "1036": "raa..",
+    "1037": "Pothunnaa...Gate",
+    "1038": "theey",
+    "1039": "Despite",
+    "1040": "being",
+    "1041": "mad",
+    "1042": "at",
+    "1043": "GOVARDHAN,",
+    "1044": "INUMAYYA",
+    "1045": "unlocks",
+    "1046": "the",
+    "1047": "gate.",
+    "1048": "GOVARDHAN",
+    "1049": "Ae",
+    "1050": "raa",
+    "1051": "ala",
+    "1052": "chustunaavu,",
+    "1053": "malli",
+    "1054": "naa",
+    "1055": "meeda",
+    "1056": "emaina",
+    "1057": "kada",
+    "1058": "odultaava.",
+    "1059": "Naaluka",
+    "1060": "kostaanu,",
+    "1061": "vedhava.",
+    "1062": "CUT",
+    "1063": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "INUMAYYA",
+        "GOVARDHAN"
+      ],
+      "SET": [
+        "EXT. GOVARDHAN'S BUILDING-GATE - NIGHT"
+      ],
+      "PROPS": [
+        "gate"
+      ],
+      "STUNTS": [
+        "GOVARDHAN kicks him"
+      ],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "INUMAYYA",
+            "ids": [
+              "1006"
+            ]
+          },
+          {
+            "value": "INUMAYYA",
+            "ids": [
+              "1020"
+            ]
+          },
+          {
+            "value": "INUMAYYA",
+            "ids": [
+              "1027"
+            ]
+          },
+          {
+            "value": "INUMAYYA",
+            "ids": [
+              "1044"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1014"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1016"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1024"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1034"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1048"
+            ]
+          },
+          {
+            "value": "GOVARDHAN,",
+            "ids": [
+              "1043"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. GOVARDHAN'S BUILDING-GATE - NIGHT",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "gate",
+            "ids": [
+              "1018"
+            ]
+          },
+          {
+            "value": "gate,",
+            "ids": [
+              "1011"
+            ]
+          },
+          {
+            "value": "gate.",
+            "ids": [
+              "1047"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [
+        [
+          {
+            "value": "GOVARDHAN kicks him.",
+            "ids": [
+              "1024",
+              "1025",
+              "1026"
+            ]
+          }
+        ]
+      ],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

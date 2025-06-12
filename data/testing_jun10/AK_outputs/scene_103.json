@@ -1,0 +1,246 @@
+{
+  "ALL_TEXT": "103 EXT. ACCIDENT SPOT - DAY (DAWN) \nThe cigarette near the leaking fuel pipe is picked up by \nANTHONY. RAJU comes back, while VASU gets up. \nANTHONY, VASU and RAJU get body bags from the Vaikuntha \nRatham and place them in the car. They pour fuel on the car \nand light it on fire. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "103",
+    "1001": "EXT.",
+    "1002": "ACCIDENT",
+    "1003": "SPOT",
+    "1004": "-",
+    "1005": "DAY",
+    "1006": "(DAWN)",
+    "1007": "The",
+    "1008": "cigarette",
+    "1009": "near",
+    "1010": "the",
+    "1011": "leaking",
+    "1012": "fuel",
+    "1013": "pipe",
+    "1014": "is",
+    "1015": "picked",
+    "1016": "up",
+    "1017": "by",
+    "1018": "ANTHONY.",
+    "1019": "RAJU",
+    "1020": "comes",
+    "1021": "back,",
+    "1022": "while",
+    "1023": "VASU",
+    "1024": "gets",
+    "1025": "up.",
+    "1026": "ANTHONY,",
+    "1027": "VASU",
+    "1028": "and",
+    "1029": "RAJU",
+    "1030": "get",
+    "1031": "body",
+    "1032": "bags",
+    "1033": "from",
+    "1034": "the",
+    "1035": "Vaikuntha",
+    "1036": "Ratham",
+    "1037": "and",
+    "1038": "place",
+    "1039": "them",
+    "1040": "in",
+    "1041": "the",
+    "1042": "car.",
+    "1043": "They",
+    "1044": "pour",
+    "1045": "fuel",
+    "1046": "on",
+    "1047": "the",
+    "1048": "car",
+    "1049": "and",
+    "1050": "light",
+    "1051": "it",
+    "1052": "on",
+    "1053": "fire.",
+    "1054": "CUT",
+    "1055": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "ANTHONY",
+        "RAJU",
+        "VASU"
+      ],
+      "SET": [
+        "EXT. ACCIDENT SPOT - DAY (DAWN)"
+      ],
+      "PROPS": [
+        "cigarette",
+        "fuel pipe",
+        "body bags",
+        "fuel",
+        "fire"
+      ],
+      "STUNTS": [
+        "light it on fire"
+      ],
+      "VEHICLES": [
+        "Vaikuntha Ratham",
+        "car"
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "ANTHONY.",
+            "ids": [
+              "1018"
+            ]
+          },
+          {
+            "value": "ANTHONY,",
+            "ids": [
+              "1026"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "RAJU",
+            "ids": [
+              "1019"
+            ]
+          },
+          {
+            "value": "RAJU",
+            "ids": [
+              "1029"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VASU",
+            "ids": [
+              "1023"
+            ]
+          },
+          {
+            "value": "VASU",
+            "ids": [
+              "1027"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. ACCIDENT SPOT - DAY (DAWN)",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005",
+              "1006"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "cigarette",
+            "ids": [
+              "1008"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "fuel pipe",
+            "ids": [
+              "1012",
+              "1013"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "body bags",
+            "ids": [
+              "1031",
+              "1032"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "fuel",
+            "ids": [
+              "1012"
+            ]
+          },
+          {
+            "value": "fuel",
+            "ids": [
+              "1045"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "fire.",
+            "ids": [
+              "1053"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [
+        [
+          {
+            "value": "light it on fire.",
+            "ids": [
+              "1050",
+              "1051",
+              "1052",
+              "1053"
+            ]
+          }
+        ]
+      ],
+      "VEHICLES": [
+        [
+          {
+            "value": "Vaikuntha Ratham",
+            "ids": [
+              "1035",
+              "1036"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "car",
+            "ids": [
+              "1048"
+            ]
+          },
+          {
+            "value": "car.",
+            "ids": [
+              "1042"
+            ]
+          }
+        ]
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

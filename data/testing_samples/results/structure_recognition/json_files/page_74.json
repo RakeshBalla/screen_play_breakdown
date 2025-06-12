@@ -1,0 +1,591 @@
+{
+  "page_dict": {
+    "alltext": "73.\nCHINTHAN BABA\nAayane chesthunnaaru...\nethamantaava GOVARDHAN?\nVEDA nudges GOVARDHAN. Tension mounts. VEDA is annoyed at\nGOVARDHAN refusing such a simple request.\nVEDA\n(whispers)\nNee sommemanna pothada oh ghanta\nseva chesthe!? Paiga entha punyam!\nGOVARDHAN\n(whispers)\nAasthi raasi istha ani cheppu\nkaavaalante. Naakee punyam oddu.\nVEDA\n(whispers)\nNee abba! Okka saari... okka saari\nco-operate cheyi GOVARDHAN . Inka\nidi last. Aa tharavaatha nijanga\nokari mohaalu okaram chudaalsina\navasaram undadu.\nGOVARDHAN\nSare.\nVEDA\n(to CHINTHAN BABA)\nBaba aayanaki phone chesi chepthara\nippdudu?\nCHINTHAN BABA\nMundu aashirvadam ichi prasadam\npettani...\nCUT TO:",
+    "words_ids": {
+      "7143": "73.",
+      "7487": "CHINTHAN",
+      "8893": "BABA",
+      "5993": "Aayane",
+      "2447": "chesthunnaaru...",
+      "2354": "ethamantaava",
+      "7032": "GOVARDHAN?",
+      "6611": "VEDA",
+      "6677": "nudges",
+      "9118": "GOVARDHAN.",
+      "2294": "Tension",
+      "6406": "mounts.",
+      "5825": "VEDA",
+      "5799": "is",
+      "8348": "annoyed",
+      "3870": "at",
+      "4522": "GOVARDHAN",
+      "5212": "refusing",
+      "5172": "such",
+      "4295": "a",
+      "9251": "simple",
+      "2088": "request.",
+      "5986": "VEDA",
+      "9664": "(whispers)",
+      "1893": "Nee",
+      "7878": "sommemanna",
+      "9899": "pothada",
+      "5189": "oh",
+      "6442": "ghanta",
+      "4727": "seva",
+      "7311": "chesthe!?",
+      "4000": "Paiga",
+      "1019": "entha",
+      "5354": "punyam!",
+      "1745": "GOVARDHAN",
+      "5400": "(whispers)",
+      "5924": "Aasthi",
+      "2646": "raasi",
+      "4660": "istha",
+      "5294": "ani",
+      "3199": "cheppu",
+      "3855": "kaavaalante.",
+      "8624": "Naakee",
+      "1879": "punyam",
+      "8093": "oddu.",
+      "3317": "VEDA",
+      "9588": "(whispers)",
+      "3863": "Nee",
+      "5648": "abba!",
+      "2881": "Okka",
+      "2923": "saari...",
+      "8605": "okka",
+      "3613": "saari",
+      "3648": "co-operate",
+      "4807": "cheyi",
+      "7587": "GOVARDHAN",
+      "6236": ".",
+      "5511": "Inka",
+      "8308": "idi",
+      "8468": "last.",
+      "7396": "Aa",
+      "9276": "tharavaatha",
+      "3226": "nijanga",
+      "2786": "okari",
+      "5909": "mohaalu",
+      "5815": "okaram",
+      "3737": "chudaalsina",
+      "4268": "avasaram",
+      "9980": "undadu.",
+      "3476": "GOVARDHAN",
+      "4507": "Sare.",
+      "5011": "VEDA",
+      "5851": "(to",
+      "7081": "CHINTHAN",
+      "5389": "BABA)",
+      "3967": "Baba",
+      "2898": "aayanaki",
+      "8353": "phone",
+      "2611": "chesi",
+      "2443": "chepthara",
+      "1339": "ippdudu?",
+      "5288": "CHINTHAN",
+      "7356": "BABA",
+      "8432": "Mundu",
+      "5817": "aashirvadam",
+      "4156": "ichi",
+      "1922": "prasadam",
+      "8106": "pettani...",
+      "1801": "CUT",
+      "4548": "TO:"
+    }
+  },
+  "sample_no": "sample2",
+  "pdf_file_name": "page_74.pdf",
+  "llm_response": {
+    "scene_number": [
+      "73"
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      "VEDA nudges GOVARDHAN. Tension mounts. VEDA is annoyed at\nGOVARDHAN refusing such a simple request."
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "CHINTHAN BABA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Aayane chesthunnaaru...\nethamantaava GOVARDHAN?"
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          "(whispers)"
+        ],
+        "text": [
+          "Nee sommemanna pothada oh ghanta\nseva chesthe!? Paiga entha punyam!"
+        ]
+      },
+      {
+        "character": [
+          "GOVARDHAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          "(whispers)"
+        ],
+        "text": [
+          "Aasthi raasi istha ani cheppu\nkaavaalante. Naakee punyam oddu."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          "(whispers)"
+        ],
+        "text": [
+          "Nee abba! Okka saari... okka saari\nco-operate cheyi GOVARDHAN . Inka\nidi last. Aa tharavaatha nijanga\nokari mohaalu okaram chudaalsina\navasaram undadu."
+        ]
+      },
+      {
+        "character": [
+          "GOVARDHAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Sare."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          "(to CHINTHAN BABA)"
+        ],
+        "text": [
+          "Baba aayanaki phone chesi chepthara\nippdudu?"
+        ]
+      },
+      {
+        "character": [
+          "CHINTHAN BABA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Mundu aashirvadam ichi prasadam\npettani..."
+        ]
+      }
+    ],
+    "transitions": [
+      "CUT TO:"
+    ],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      {
+        "value": "73",
+        "ids": []
+      }
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      {
+        "value": "VEDA nudges GOVARDHAN. Tension mounts. VEDA is annoyed at\nGOVARDHAN refusing such a simple request.",
+        "ids": [
+          6611,
+          6677,
+          2294,
+          5825,
+          5799,
+          8348,
+          3870,
+          4522,
+          5212,
+          5172,
+          4295,
+          9251,
+          5986,
+          1745,
+          3317,
+          7587,
+          3476,
+          5011
+        ]
+      }
+    ],
+    "dialogue": [
+      {
+        "character": [
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              7487,
+              8893,
+              7081,
+              3967,
+              5288,
+              7356
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Aayane chesthunnaaru...\nethamantaava GOVARDHAN?",
+            "ids": [
+              5993,
+              2354,
+              4522,
+              1745,
+              7587,
+              3476
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              3317,
+              5011
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              5825,
+              5986
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "(whispers)",
+            "ids": [
+              5400,
+              9588
+            ]
+          }
+        ],
+        "text": [
+          {
+            "value": "Nee sommemanna pothada oh ghanta\nseva chesthe!? Paiga entha punyam!",
+            "ids": [
+              1893,
+              7878,
+              9899,
+              5189,
+              6442,
+              4727,
+              4000,
+              1019,
+              1879,
+              3863
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              1745,
+              3476
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              4522,
+              7587
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "(whispers)",
+            "ids": [
+              5400,
+              9588
+            ]
+          }
+        ],
+        "text": [
+          {
+            "value": "Aasthi raasi istha ani cheppu\nkaavaalante. Naakee punyam oddu.",
+            "ids": [
+              5924,
+              2646,
+              4660,
+              5294,
+              3199,
+              8624,
+              1879
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              3317,
+              5011
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              5825,
+              5986
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "(whispers)",
+            "ids": [
+              5400,
+              9588
+            ]
+          }
+        ],
+        "text": [
+          {
+            "value": "Nee abba! Okka saari... okka saari\nco-operate cheyi GOVARDHAN . Inka\nidi last. Aa tharavaatha nijanga\nokari mohaalu okaram chudaalsina\navasaram undadu.",
+            "ids": [
+              4522,
+              1893,
+              1745,
+              3863,
+              2881,
+              8605,
+              3613,
+              4807,
+              7587,
+              5511,
+              8308,
+              7396,
+              9276,
+              3226,
+              2786,
+              5909,
+              5815,
+              3737,
+              4268,
+              3476
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              1745,
+              3476
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              4522,
+              7587
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Sare.",
+            "ids": [
+              4507
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              3317,
+              5011
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              5825,
+              5986
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "(to CHINTHAN BABA)",
+            "ids": [
+              7487,
+              8893,
+              7081,
+              3967,
+              5288,
+              7356
+            ]
+          }
+        ],
+        "text": [
+          {
+            "value": "Baba aayanaki phone chesi chepthara\nippdudu?",
+            "ids": [
+              8893,
+              3967,
+              2898,
+              8353,
+              2611,
+              2443,
+              7356
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              7487,
+              8893,
+              7081,
+              3967,
+              5288,
+              7356
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Mundu aashirvadam ichi prasadam\npettani...",
+            "ids": [
+              8432,
+              5817,
+              4156,
+              1922
+            ]
+          }
+        ]
+      }
+    ],
+    "transitions": [
+      {
+        "value": "CUT TO:",
+        "ids": [
+          1801
+        ]
+      }
+    ],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

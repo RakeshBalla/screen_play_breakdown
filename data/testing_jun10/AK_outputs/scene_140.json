@@ -1,0 +1,485 @@
+{
+  "ALL_TEXT": "140 EXT. DUMPYARD SECURITY HUT - NIGHT \nSUBBA RAJU is with a handcuffed ANTHONY, and is watching \nSULOCHANA's live feed. \nSUBBA RAJU \nDurasa dhukaniki chetu. Ekkada \ndhachevo mundhe chepuntey, antha \nbagane undedhi kada ra donga \nrascal. \nANTHONY \nAppudu nanu champese vadivi kada \nSUBBA RAJU \nAccidental karma ante ento telusa \nANTHONY shakes his head. \nSUBBA RAJU \nVallani podhuna dhentlo \nirikinchadam anay ne plan thapu. \nDhaniki nenu oppukovadam inka pedha \nthapu. \nANTHONY remains silent. \nSUBBA RAJU \nNeeku oka kadha cheptha.. \nANTHONY \nEe time lo kadhalu avasrama \nbhaiyya? \nSUBBA RAJU \nSilent ga vinnu..oka mamidi kaya \nmariyu oka apple kaya okasri \nkotukunayi pandlu raju nenu antey \nnenu ani kotukunayi. akasmattuga \nvaru daggaraki vaccina oka pillini \ncusaru. varu tamalo pandlu raju \nevaru anadhe nirnayincalani \nadigaru. pilli oka khsanam \nalochinchi, adi oka telivaina \nsamadhanam iccindi. vijetaga milo \nocarina prakatichadaniki, mimmalni \nruchi custhey gani chepalenu andi. \napple marilu mamidi nenu raju nenay \nraju ani desperate ga pilli noti \ndhagiriki velare. samayani vrudha \ncheyakunda pilli tana padunaina \npallato vatini churnam cesi \nanandinchindi. ardham ayindha? \nANTHONY \nApple evaru mamidi evvaru bhaiyya? \nSUBBA RAJU \nNeeku illa kadhu. Inka strong ga \nchepali. \nSUBBA RAJU takes a few beats, thinking \nSUBBA RAJU \nyedhi garudho vahathi chayth maunam \nchethakopi pralapathi. anaru \nwinston churchill ante gedhalu \nsilent ga unte pichikallu \npaytregipothayi \nANTHONY looks at him puzzled \nANTHONY \nAyan evaru bhaiya? \nSUBBA RAJU \nOkappudi British Prime minister \nANTHONY \nAh British odiki sanskrutham vocha \nbhaiyya? \nSUBBA RAJU \nNeeku inka chepina anavasaram. Anta \naipoindi raa. Nuvvu bratakaalo \nchaavalo nuvve decide chesuko \nANTHONY \nAnte? \nSUBBA RAJU \nNorru eppakunda narakaniki \nvelthavo... Ledha muppavu vonthu \nnorru eppe katakalu meedha music \nvayisthavo...nee istham..nee \nchoice. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "140",
+    "1001": "EXT.",
+    "1002": "DUMPYARD",
+    "1003": "SECURITY",
+    "1004": "HUT",
+    "1005": "-",
+    "1006": "NIGHT",
+    "1007": "SUBBA",
+    "1008": "RAJU",
+    "1009": "is",
+    "1010": "with",
+    "1011": "a",
+    "1012": "handcuffed",
+    "1013": "ANTHONY,",
+    "1014": "and",
+    "1015": "is",
+    "1016": "watching",
+    "1017": "SULOCHANA's",
+    "1018": "live",
+    "1019": "feed.",
+    "1020": "SUBBA",
+    "1021": "RAJU",
+    "1022": "Durasa",
+    "1023": "dhukaniki",
+    "1024": "chetu.",
+    "1025": "Ekkada",
+    "1026": "dhachevo",
+    "1027": "mundhe",
+    "1028": "chepuntey,",
+    "1029": "antha",
+    "1030": "bagane",
+    "1031": "undedhi",
+    "1032": "kada",
+    "1033": "ra",
+    "1034": "donga",
+    "1035": "rascal.",
+    "1036": "ANTHONY",
+    "1037": "Appudu",
+    "1038": "nanu",
+    "1039": "champese",
+    "1040": "vadivi",
+    "1041": "kada",
+    "1042": "SUBBA",
+    "1043": "RAJU",
+    "1044": "Accidental",
+    "1045": "karma",
+    "1046": "ante",
+    "1047": "ento",
+    "1048": "telusa",
+    "1049": "ANTHONY",
+    "1050": "shakes",
+    "1051": "his",
+    "1052": "head.",
+    "1053": "SUBBA",
+    "1054": "RAJU",
+    "1055": "Vallani",
+    "1056": "podhuna",
+    "1057": "dhentlo",
+    "1058": "irikinchadam",
+    "1059": "anay",
+    "1060": "ne",
+    "1061": "plan",
+    "1062": "thapu.",
+    "1063": "Dhaniki",
+    "1064": "nenu",
+    "1065": "oppukovadam",
+    "1066": "inka",
+    "1067": "pedha",
+    "1068": "thapu.",
+    "1069": "ANTHONY",
+    "1070": "remains",
+    "1071": "silent.",
+    "1072": "SUBBA",
+    "1073": "RAJU",
+    "1074": "Neeku",
+    "1075": "oka",
+    "1076": "kadha",
+    "1077": "cheptha..",
+    "1078": "ANTHONY",
+    "1079": "Ee",
+    "1080": "time",
+    "1081": "lo",
+    "1082": "kadhalu",
+    "1083": "avasrama",
+    "1084": "bhaiyya?",
+    "1085": "SUBBA",
+    "1086": "RAJU",
+    "1087": "Silent",
+    "1088": "ga",
+    "1089": "vinnu..oka",
+    "1090": "mamidi",
+    "1091": "kaya",
+    "1092": "mariyu",
+    "1093": "oka",
+    "1094": "apple",
+    "1095": "kaya",
+    "1096": "okasri",
+    "1097": "kotukunayi",
+    "1098": "pandlu",
+    "1099": "raju",
+    "1100": "nenu",
+    "1101": "antey",
+    "1102": "nenu",
+    "1103": "ani",
+    "1104": "kotukunayi.",
+    "1105": "akasmattuga",
+    "1106": "varu",
+    "1107": "daggaraki",
+    "1108": "vaccina",
+    "1109": "oka",
+    "1110": "pillini",
+    "1111": "cusaru.",
+    "1112": "varu",
+    "1113": "tamalo",
+    "1114": "pandlu",
+    "1115": "raju",
+    "1116": "evaru",
+    "1117": "anadhe",
+    "1118": "nirnayincalani",
+    "1119": "adigaru.",
+    "1120": "pilli",
+    "1121": "oka",
+    "1122": "khsanam",
+    "1123": "alochinchi,",
+    "1124": "adi",
+    "1125": "oka",
+    "1126": "telivaina",
+    "1127": "samadhanam",
+    "1128": "iccindi.",
+    "1129": "vijetaga",
+    "1130": "milo",
+    "1131": "ocarina",
+    "1132": "prakatichadaniki,",
+    "1133": "mimmalni",
+    "1134": "ruchi",
+    "1135": "custhey",
+    "1136": "gani",
+    "1137": "chepalenu",
+    "1138": "andi.",
+    "1139": "apple",
+    "1140": "marilu",
+    "1141": "mamidi",
+    "1142": "nenu",
+    "1143": "raju",
+    "1144": "nenay",
+    "1145": "raju",
+    "1146": "ani",
+    "1147": "desperate",
+    "1148": "ga",
+    "1149": "pilli",
+    "1150": "noti",
+    "1151": "dhagiriki",
+    "1152": "velare.",
+    "1153": "samayani",
+    "1154": "vrudha",
+    "1155": "cheyakunda",
+    "1156": "pilli",
+    "1157": "tana",
+    "1158": "padunaina",
+    "1159": "pallato",
+    "1160": "vatini",
+    "1161": "churnam",
+    "1162": "cesi",
+    "1163": "anandinchindi.",
+    "1164": "ardham",
+    "1165": "ayindha?",
+    "1166": "ANTHONY",
+    "1167": "Apple",
+    "1168": "evaru",
+    "1169": "mamidi",
+    "1170": "evvaru",
+    "1171": "bhaiyya?",
+    "1172": "SUBBA",
+    "1173": "RAJU",
+    "1174": "Neeku",
+    "1175": "illa",
+    "1176": "kadhu.",
+    "1177": "Inka",
+    "1178": "strong",
+    "1179": "ga",
+    "1180": "chepali.",
+    "1181": "SUBBA",
+    "1182": "RAJU",
+    "1183": "takes",
+    "1184": "a",
+    "1185": "few",
+    "1186": "beats,",
+    "1187": "thinking",
+    "1188": "SUBBA",
+    "1189": "RAJU",
+    "1190": "yedhi",
+    "1191": "garudho",
+    "1192": "vahathi",
+    "1193": "chayth",
+    "1194": "maunam",
+    "1195": "chethakopi",
+    "1196": "pralapathi.",
+    "1197": "anaru",
+    "1198": "winston",
+    "1199": "churchill",
+    "1200": "ante",
+    "1201": "gedhalu",
+    "1202": "silent",
+    "1203": "ga",
+    "1204": "unte",
+    "1205": "pichikallu",
+    "1206": "paytregipothayi",
+    "1207": "ANTHONY",
+    "1208": "looks",
+    "1209": "at",
+    "1210": "him",
+    "1211": "puzzled",
+    "1212": "ANTHONY",
+    "1213": "Ayan",
+    "1214": "evaru",
+    "1215": "bhaiya?",
+    "1216": "SUBBA",
+    "1217": "RAJU",
+    "1218": "Okappudi",
+    "1219": "British",
+    "1220": "Prime",
+    "1221": "minister",
+    "1222": "ANTHONY",
+    "1223": "Ah",
+    "1224": "British",
+    "1225": "odiki",
+    "1226": "sanskrutham",
+    "1227": "vocha",
+    "1228": "bhaiyya?",
+    "1229": "SUBBA",
+    "1230": "RAJU",
+    "1231": "Neeku",
+    "1232": "inka",
+    "1233": "chepina",
+    "1234": "anavasaram.",
+    "1235": "Anta",
+    "1236": "aipoindi",
+    "1237": "raa.",
+    "1238": "Nuvvu",
+    "1239": "bratakaalo",
+    "1240": "chaavalo",
+    "1241": "nuvve",
+    "1242": "decide",
+    "1243": "chesuko",
+    "1244": "ANTHONY",
+    "1245": "Ante?",
+    "1246": "SUBBA",
+    "1247": "RAJU",
+    "1248": "Norru",
+    "1249": "eppakunda",
+    "1250": "narakaniki",
+    "1251": "velthavo...",
+    "1252": "Ledha",
+    "1253": "muppavu",
+    "1254": "vonthu",
+    "1255": "norru",
+    "1256": "eppe",
+    "1257": "katakalu",
+    "1258": "meedha",
+    "1259": "music",
+    "1260": "vayisthavo...nee",
+    "1261": "istham..nee",
+    "1262": "choice.",
+    "1263": "CUT",
+    "1264": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "SUBBA RAJU",
+        "ANTHONY"
+      ],
+      "SET": [
+        "EXT. DUMPYARD SECURITY HUT - NIGHT"
+      ],
+      "PROPS": [
+        "handcuffs",
+        "live feed"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1007",
+              "1008"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1020",
+              "1021"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1042",
+              "1043"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1053",
+              "1054"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1072",
+              "1073"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1085",
+              "1086"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1172",
+              "1173"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1181",
+              "1182"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1188",
+              "1189"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1216",
+              "1217"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1229",
+              "1230"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1246",
+              "1247"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1036"
+            ]
+          },
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1049"
+            ]
+          },
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1069"
+            ]
+          },
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1078"
+            ]
+          },
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1166"
+            ]
+          },
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1207"
+            ]
+          },
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1212"
+            ]
+          },
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1222"
+            ]
+          },
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1244"
+            ]
+          },
+          {
+            "value": "ANTHONY,",
+            "ids": [
+              "1013"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. DUMPYARD SECURITY HUT - NIGHT",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005",
+              "1006"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "handcuffs",
+            "ids": [
+              "unable to find ids"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "live feed.",
+            "ids": [
+              "1018",
+              "1019"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

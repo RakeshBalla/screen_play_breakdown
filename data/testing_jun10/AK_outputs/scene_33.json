@@ -1,0 +1,425 @@
+{
+  "ALL_TEXT": "33 INT. PRINTING PRESS - NIGHT \nA TV set is airing Modi's inaugural demonetization speech. \nTwo men, VASU and RAJU, are sitting at a table with bundles \nof brand new currency, sorting through them. \nVASU \nAnna entha sepudininchi print \nchesina container fill avadhu enti \nanna...Musalodu bodi Adavi Saka \nMantri ayithe ne intha undhi, mari \nmigitha vaallu deggara entha \nuntundho \nRAJU \nIdi chillara raa...aina idi mana \nmusalodidhi okkadidhe kaadu, \ndeentlo naluguru aiduguriki vaata \nvundhi...aeenaki padi retlu vunnolu \nkuda vuntaaru...vallu ee paatiki \nmaarchesi vuntaaru... \nVASU \nEvaru marustaaru anna idi anta \nRAJU \nOrey VASU evaru, enti anni adakku \nraa...daaniki samaadaanam ledu, \nvunna bayatiki raadu...ikkada mana \nbatukulanni percentage la meeda \nnadustunaayi adi iste aedaina \njarigipotundi \nVASU \nIvi print cheyadaanike \naedusthunnaaa \nRAJU\u2019s phone buzzes. \nRAJU \nAnna chepanna \nFOREST MINISTER (O.S.) \nRey, repu jagrattha. Dock 45 lo aa \nnote isthey container handover \nchestaaru \nRAJU \nSare anna \nFOREST MINISTER (O.S.) \nAkkada taagakandi...thaeda \njaruguthe thoollu thesi pathestha.. \nRAJU \nSare anna \nFOREST MINISTER (O.S.) \nPoina saari aa SURI, NARASIMHA ila \nne cheppaaru...chattanakodukulu \nvigraham pogettaaru \nRAJU \nAbba, nuvvu marchipo anna \nThe phone call ends \nRAJU \nFast gaa kaanivvu raa, load cheyyi \nVASU \nDorikite musalodu champestaaru kada \nanna.. \nRAJU \nDenni yevadu aapaledu raa... \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "33",
+    "1001": "INT.",
+    "1002": "PRINTING",
+    "1003": "PRESS",
+    "1004": "-",
+    "1005": "NIGHT",
+    "1006": "A",
+    "1007": "TV",
+    "1008": "set",
+    "1009": "is",
+    "1010": "airing",
+    "1011": "Modi's",
+    "1012": "inaugural",
+    "1013": "demonetization",
+    "1014": "speech.",
+    "1015": "Two",
+    "1016": "men,",
+    "1017": "VASU",
+    "1018": "and",
+    "1019": "RAJU,",
+    "1020": "are",
+    "1021": "sitting",
+    "1022": "at",
+    "1023": "a",
+    "1024": "table",
+    "1025": "with",
+    "1026": "bundles",
+    "1027": "of",
+    "1028": "brand",
+    "1029": "new",
+    "1030": "currency,",
+    "1031": "sorting",
+    "1032": "through",
+    "1033": "them.",
+    "1034": "VASU",
+    "1035": "Anna",
+    "1036": "entha",
+    "1037": "sepudininchi",
+    "1038": "print",
+    "1039": "chesina",
+    "1040": "container",
+    "1041": "fill",
+    "1042": "avadhu",
+    "1043": "enti",
+    "1044": "anna...Musalodu",
+    "1045": "bodi",
+    "1046": "Adavi",
+    "1047": "Saka",
+    "1048": "Mantri",
+    "1049": "ayithe",
+    "1050": "ne",
+    "1051": "intha",
+    "1052": "undhi,",
+    "1053": "mari",
+    "1054": "migitha",
+    "1055": "vaallu",
+    "1056": "deggara",
+    "1057": "entha",
+    "1058": "untundho",
+    "1059": "RAJU",
+    "1060": "Idi",
+    "1061": "chillara",
+    "1062": "raa...aina",
+    "1063": "idi",
+    "1064": "mana",
+    "1065": "musalodidhi",
+    "1066": "okkadidhe",
+    "1067": "kaadu,",
+    "1068": "deentlo",
+    "1069": "naluguru",
+    "1070": "aiduguriki",
+    "1071": "vaata",
+    "1072": "vundhi...aeenaki",
+    "1073": "padi",
+    "1074": "retlu",
+    "1075": "vunnolu",
+    "1076": "kuda",
+    "1077": "vuntaaru...vallu",
+    "1078": "ee",
+    "1079": "paatiki",
+    "1080": "maarchesi",
+    "1081": "vuntaaru...",
+    "1082": "VASU",
+    "1083": "Evaru",
+    "1084": "marustaaru",
+    "1085": "anna",
+    "1086": "idi",
+    "1087": "anta",
+    "1088": "RAJU",
+    "1089": "Orey",
+    "1090": "VASU",
+    "1091": "evaru,",
+    "1092": "enti",
+    "1093": "anni",
+    "1094": "adakku",
+    "1095": "raa...daaniki",
+    "1096": "samaadaanam",
+    "1097": "ledu,",
+    "1098": "vunna",
+    "1099": "bayatiki",
+    "1100": "raadu...ikkada",
+    "1101": "mana",
+    "1102": "batukulanni",
+    "1103": "percentage",
+    "1104": "la",
+    "1105": "meeda",
+    "1106": "nadustunaayi",
+    "1107": "adi",
+    "1108": "iste",
+    "1109": "aedaina",
+    "1110": "jarigipotundi",
+    "1111": "VASU",
+    "1112": "Ivi",
+    "1113": "print",
+    "1114": "cheyadaanike",
+    "1115": "aedusthunnaaa",
+    "1116": "RAJU\u2019s",
+    "1117": "phone",
+    "1118": "buzzes.",
+    "1119": "RAJU",
+    "1120": "Anna",
+    "1121": "chepanna",
+    "1122": "FOREST",
+    "1123": "MINISTER",
+    "1124": "(O.S.)",
+    "1125": "Rey,",
+    "1126": "repu",
+    "1127": "jagrattha.",
+    "1128": "Dock",
+    "1129": "45",
+    "1130": "lo",
+    "1131": "aa",
+    "1132": "note",
+    "1133": "isthey",
+    "1134": "container",
+    "1135": "handover",
+    "1136": "chestaaru",
+    "1137": "RAJU",
+    "1138": "Sare",
+    "1139": "anna",
+    "1140": "FOREST",
+    "1141": "MINISTER",
+    "1142": "(O.S.)",
+    "1143": "Akkada",
+    "1144": "taagakandi...thaeda",
+    "1145": "jaruguthe",
+    "1146": "thoollu",
+    "1147": "thesi",
+    "1148": "pathestha..",
+    "1149": "RAJU",
+    "1150": "Sare",
+    "1151": "anna",
+    "1152": "FOREST",
+    "1153": "MINISTER",
+    "1154": "(O.S.)",
+    "1155": "Poina",
+    "1156": "saari",
+    "1157": "aa",
+    "1158": "SURI,",
+    "1159": "NARASIMHA",
+    "1160": "ila",
+    "1161": "ne",
+    "1162": "cheppaaru...chattanakodukulu",
+    "1163": "vigraham",
+    "1164": "pogettaaru",
+    "1165": "RAJU",
+    "1166": "Abba,",
+    "1167": "nuvvu",
+    "1168": "marchipo",
+    "1169": "anna",
+    "1170": "The",
+    "1171": "phone",
+    "1172": "call",
+    "1173": "ends",
+    "1174": "RAJU",
+    "1175": "Fast",
+    "1176": "gaa",
+    "1177": "kaanivvu",
+    "1178": "raa,",
+    "1179": "load",
+    "1180": "cheyyi",
+    "1181": "VASU",
+    "1182": "Dorikite",
+    "1183": "musalodu",
+    "1184": "champestaaru",
+    "1185": "kada",
+    "1186": "anna..",
+    "1187": "RAJU",
+    "1188": "Denni",
+    "1189": "yevadu",
+    "1190": "aapaledu",
+    "1191": "raa...",
+    "1192": "CUT",
+    "1193": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "VASU",
+        "RAJU",
+        "FOREST MINISTER (O.S.)"
+      ],
+      "SET": [
+        "INT. PRINTING PRESS - NIGHT"
+      ],
+      "PROPS": [
+        "TV set",
+        "bundles of brand new currency",
+        "RAJU\u2019s phone"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        "Modi's inaugural demonetization speech",
+        "RAJU\u2019s phone buzzes"
+      ]
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "VASU",
+            "ids": [
+              "1017"
+            ]
+          },
+          {
+            "value": "VASU",
+            "ids": [
+              "1034"
+            ]
+          },
+          {
+            "value": "VASU",
+            "ids": [
+              "1082"
+            ]
+          },
+          {
+            "value": "VASU",
+            "ids": [
+              "1090"
+            ]
+          },
+          {
+            "value": "VASU",
+            "ids": [
+              "1111"
+            ]
+          },
+          {
+            "value": "VASU",
+            "ids": [
+              "1181"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "RAJU",
+            "ids": [
+              "1059"
+            ]
+          },
+          {
+            "value": "RAJU",
+            "ids": [
+              "1088"
+            ]
+          },
+          {
+            "value": "RAJU",
+            "ids": [
+              "1119"
+            ]
+          },
+          {
+            "value": "RAJU",
+            "ids": [
+              "1137"
+            ]
+          },
+          {
+            "value": "RAJU",
+            "ids": [
+              "1149"
+            ]
+          },
+          {
+            "value": "RAJU",
+            "ids": [
+              "1165"
+            ]
+          },
+          {
+            "value": "RAJU",
+            "ids": [
+              "1174"
+            ]
+          },
+          {
+            "value": "RAJU",
+            "ids": [
+              "1187"
+            ]
+          },
+          {
+            "value": "RAJU,",
+            "ids": [
+              "1019"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "FOREST MINISTER (O.S.)",
+            "ids": [
+              "1122",
+              "1123",
+              "1124"
+            ]
+          },
+          {
+            "value": "FOREST MINISTER (O.S.)",
+            "ids": [
+              "1140",
+              "1141",
+              "1142"
+            ]
+          },
+          {
+            "value": "FOREST MINISTER (O.S.)",
+            "ids": [
+              "1152",
+              "1153",
+              "1154"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "INT. PRINTING PRESS - NIGHT",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "TV set",
+            "ids": [
+              "1007",
+              "1008"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "bundles of brand new currency,",
+            "ids": [
+              "1026",
+              "1027",
+              "1028",
+              "1029",
+              "1030"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "RAJU\u2019s phone",
+            "ids": [
+              "1116",
+              "1117"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        [
+          {
+            "value": "Modi's inaugural demonetization speech.",
+            "ids": [
+              "1011",
+              "1012",
+              "1013",
+              "1014"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "RAJU\u2019s phone buzzes.",
+            "ids": [
+              "1116",
+              "1117",
+              "1118"
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}

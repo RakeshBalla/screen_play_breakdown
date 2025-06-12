@@ -1,0 +1,246 @@
+{
+  "page_dict": {
+    "alltext": "83.\nVEDA\nAaputhaava nee satirelu.\nSULOCHANA\nAnduke manameeda kutra.\nVEDA\nEnti?\nSULOCHANA\nManalni pattichukune vaallu evvaru\nlerane manalni\nirikkisthunnaaremo...\nSULOCHANA\nmugguram maamulu middle class\nfamily vaallam... manevvariki pedda\ncontacts levu help cheyataaniki...\nanduke manalni plan ga\nirikisthunnaaremo!\nThe three absorb this for a while.\nVEDA\nAssalevarantav??\nSULOCHANA\nEmo...\nSULOCHANA thinks for a while\nSULOCHANA\nSare alochiddham kaani, mundhu food\norder chesi thindham naaku aakali\nvesthundhi.\nVEDA orders some food.\nGOVARDHAN\nNaako kumpatti pettandi\nVEDA\nKumpatti enti raa\nGOVARDHAN\nNenu clean gaa unte ne thinta\nledante nenu tinanu\nVEDA\nOrei nee abba idi hotel raa,ikkada\naydhi dorikithe adhi tinaali",
+    "words_ids": {
+      "9332": "83.",
+      "7710": "VEDA",
+      "2600": "Aaputhaava",
+      "4451": "nee",
+      "6443": "satirelu.",
+      "1461": "SULOCHANA",
+      "5695": "Anduke",
+      "5552": "manameeda",
+      "6271": "kutra.",
+      "5667": "VEDA",
+      "4137": "Enti?",
+      "1515": "SULOCHANA",
+      "1881": "Manalni",
+      "6738": "pattichukune",
+      "2198": "vaallu",
+      "5485": "evvaru",
+      "1201": "lerane",
+      "6147": "manalni",
+      "8918": "irikkisthunnaaremo...",
+      "7029": "SULOCHANA",
+      "8713": "mugguram",
+      "9344": "maamulu",
+      "9122": "middle",
+      "3110": "class",
+      "7947": "family",
+      "2981": "vaallam...",
+      "9798": "manevvariki",
+      "7786": "pedda",
+      "1666": "contacts",
+      "1278": "levu",
+      "9132": "help",
+      "7642": "cheyataaniki...",
+      "1868": "anduke",
+      "3022": "manalni",
+      "8383": "plan",
+      "9676": "ga",
+      "7829": "irikisthunnaaremo!",
+      "2889": "The",
+      "5568": "three",
+      "6569": "absorb",
+      "7055": "this",
+      "9735": "for",
+      "8318": "a",
+      "4822": "while.",
+      "8532": "VEDA",
+      "2335": "Assalevarantav??",
+      "1098": "SULOCHANA",
+      "7806": "Emo...",
+      "6134": "SULOCHANA",
+      "9891": "thinks",
+      "9682": "for",
+      "7774": "a",
+      "6898": "while",
+      "5252": "SULOCHANA",
+      "1720": "Sare",
+      "7447": "alochiddham",
+      "5949": "kaani,",
+      "1241": "mundhu",
+      "8651": "food",
+      "3190": "order",
+      "9974": "chesi",
+      "9606": "thindham",
+      "1683": "naaku",
+      "9083": "aakali",
+      "5441": "vesthundhi.",
+      "9575": "VEDA",
+      "1464": "orders",
+      "4449": "some",
+      "7372": "GOVARDHAN",
+      "7105": "Naako",
+      "1015": "kumpatti",
+      "9559": "pettandi",
+      "4389": "VEDA",
+      "5304": "Kumpatti",
+      "2683": "enti",
+      "9662": "raa",
+      "4396": "GOVARDHAN",
+      "5512": "Nenu",
+      "8503": "clean",
+      "1030": "gaa",
+      "9707": "unte",
+      "5433": "ne",
+      "2146": "thinta",
+      "4156": "ledante",
+      "3351": "nenu",
+      "8054": "tinanu",
+      "6953": "VEDA",
+      "5228": "Orei",
+      "7335": "nee",
+      "3617": "abba",
+      "5051": "idi",
+      "2189": "hotel",
+      "2412": "raa,ikkada",
+      "6222": "aydhi",
+      "9730": "dorikithe",
+      "2581": "adhi",
+      "7104": "tinaali"
+    }
+  },
+  "sample_no": "smaple5",
+  "pdf_file_name": "page_84.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "VEDA",
+        "SULOCHANA",
+        "GOVARDHAN"
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [],
+      "PROPS": [
+        "food"
+      ],
+      "LOCATION_DETAILS": [
+        "hotel"
+      ],
+      "SCREEN_TITLES": [],
+      "CAMERA": [],
+      "SOUND": [],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "VEDA",
+          "ids": [
+            4389,
+            5667
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            6953,
+            7710
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            8532,
+            9575
+          ]
+        },
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            1098,
+            1461
+          ]
+        },
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            1515,
+            5252
+          ]
+        },
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            6134,
+            7029
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            4396,
+            7372
+          ]
+        }
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [],
+      "PROPS": [
+        {
+          "value": "food",
+          "ids": [
+            8651
+          ]
+        }
+      ],
+      "LOCATION_DETAILS": [
+        {
+          "value": "hotel",
+          "ids": [
+            2189
+          ]
+        }
+      ],
+      "SCREEN_TITLES": [],
+      "CAMERA": [],
+      "SOUND": [],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  }
+}

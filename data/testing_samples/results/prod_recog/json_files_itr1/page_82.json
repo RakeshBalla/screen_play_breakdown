@@ -1,0 +1,236 @@
+{
+  "page_dict": {
+    "alltext": "81.\n83 INT. ROADSIDE DHABA - DAY\nVEDA escorts GOVARDHAN and SULOCHANA inside the empty dhaba\nso that they can talk in peace.\nVEDA\n(with terrible guilt)\nNannante etla... naa peru kuda\ncheppaaru ga!\nGOVARDHAN\nNee photo eyyaledu gaa... peru tho\naemundi...nannu ganuka police lu\npattukunte maatram ee plan aesindi\nmottam nuvve ani cheptha. Naaku uri\nsiksha padinaa parvaaaledu, neeku\npadetattu chustha...\nVEDA\nAnte pattukunnaaka kuda nijam\ncheppavaa?\nGOVARDHAN\nThokkalo nijam... evadu\nnammuthaaadu!?... Nannirikisthe\nirikkichaav... help cheddam ani\nochina pilla nu kudaa ila cheyatam\nem baaledu VEDA... asalu manishiva\npa..\nVEDA\nNenem chesaanu??? Lopala nuvvem\nchesaavo... aa Baba ni em\nkelikaavo... vaadu ila thirigaadu.",
+    "words_ids": {
+      "4916": "81.",
+      "2159": "83",
+      "6336": "INT.",
+      "2607": "ROADSIDE",
+      "8536": "DHABA",
+      "8957": "-",
+      "8360": "DAY",
+      "4915": "VEDA",
+      "3387": "escorts",
+      "7096": "GOVARDHAN",
+      "6035": "and",
+      "2330": "SULOCHANA",
+      "7251": "inside",
+      "4361": "the",
+      "5987": "empty",
+      "6330": "dhaba",
+      "2507": "so",
+      "1021": "that",
+      "2860": "they",
+      "9551": "can",
+      "2938": "talk",
+      "3144": "in",
+      "7266": "peace.",
+      "4342": "VEDA",
+      "5409": "(with",
+      "6488": "terrible",
+      "2621": "guilt)",
+      "5074": "Nannante",
+      "7361": "etla...",
+      "9430": "naa",
+      "2876": "peru",
+      "9464": "kuda",
+      "1450": "cheppaaru",
+      "1767": "ga!",
+      "8737": "GOVARDHAN",
+      "3650": "Nee",
+      "3323": "photo",
+      "3639": "eyyaledu",
+      "8093": "gaa...",
+      "6709": "peru",
+      "3480": "tho",
+      "6187": "aemundi...nannu",
+      "2744": "ganuka",
+      "2357": "police",
+      "6834": "lu",
+      "7449": "pattukunte",
+      "5396": "maatram",
+      "1267": "ee",
+      "8524": "plan",
+      "6102": "aesindi",
+      "4109": "mottam",
+      "1844": "nuvve",
+      "2490": "ani",
+      "2981": "cheptha.",
+      "3690": "Naaku",
+      "2624": "uri",
+      "3684": "siksha",
+      "8385": "padinaa",
+      "2464": "parvaaaledu,",
+      "2901": "neeku",
+      "7722": "padetattu",
+      "1095": "chustha...",
+      "4356": "VEDA",
+      "3959": "Ante",
+      "2497": "pattukunnaaka",
+      "8766": "kuda",
+      "9880": "nijam",
+      "5554": "cheppavaa?",
+      "5222": "GOVARDHAN",
+      "4174": "Thokkalo",
+      "9875": "nijam...",
+      "8760": "evadu",
+      "8001": "nammuthaaadu!?...",
+      "2063": "Nannirikisthe",
+      "3685": "irikkichaav...",
+      "6239": "help",
+      "5413": "cheddam",
+      "4595": "ani",
+      "3988": "ochina",
+      "8702": "pilla",
+      "9834": "nu",
+      "7455": "kudaa",
+      "9286": "ila",
+      "1667": "cheyatam",
+      "8780": "em",
+      "7907": "baaledu",
+      "5999": "VEDA...",
+      "7520": "asalu",
+      "7764": "manishiva",
+      "7032": "pa..",
+      "9254": "VEDA",
+      "9837": "Nenem",
+      "2041": "chesaanu???",
+      "3465": "Lopala",
+      "4689": "nuvvem",
+      "4094": "chesaavo...",
+      "1790": "aa",
+      "1033": "Baba",
+      "8722": "ni",
+      "3687": "em",
+      "7700": "kelikaavo...",
+      "3814": "vaadu",
+      "4087": "ila",
+      "3911": "thirigaadu."
+    }
+  },
+  "sample_no": "smaple5",
+  "pdf_file_name": "page_82.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "VEDA",
+        "GOVARDHAN",
+        "SULOCHANA"
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [],
+      "PROPS": [],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [
+        "INT. ROADSIDE DHABA - DAY"
+      ],
+      "CAMERA": [],
+      "SOUND": [],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [
+        "ROADSIDE DHABA"
+      ],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "VEDA",
+          "ids": [
+            4342,
+            4356
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            4915,
+            9254
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            5222,
+            7096
+          ]
+        },
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            2330
+          ]
+        }
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [],
+      "PROPS": [],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [
+        {
+          "value": "INT. ROADSIDE DHABA - DAY",
+          "ids": [
+            2607,
+            8536,
+            8360,
+            6330
+          ]
+        }
+      ],
+      "CAMERA": [],
+      "SOUND": [],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [
+        {
+          "value": "ROADSIDE DHABA",
+          "ids": [
+            2607,
+            8536,
+            6330
+          ]
+        }
+      ],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  }
+}

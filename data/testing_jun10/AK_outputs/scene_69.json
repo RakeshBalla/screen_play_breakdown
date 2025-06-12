@@ -1,0 +1,295 @@
+{
+  "ALL_TEXT": "69 EXT. POLICE STATION - DAY \nThe car stops, and GOVARDHAN and VEDA dismount. GOVARDHAN \nrealizes that they are near the police station. \nGOVARDHAN \n(furious) \nOrei! nee valla nenu bokkalo \npaddaanu! \n(MORE) \nGOVARDHAN (CONT'D) \nJarigindhantha SI ki cheppevaraku \nnaku manashanti undadhu \nVEDA \nOddu raa, please raa, naa maata \nvinu \nGOVARDHAN \nVinedhi enti raa! Vinnakane ikkada \ndhaaka vachaam. Anni poyaayi, nee \nvaalla sarvanaasam aipoyaa...ANJI \ngaadu akkada kaallu meedha kaallu \nesukoni kurchunnaadu \nTwo constables walk out of the station, conversing with one \nanother \nCONSTABLE 1 \nAa GOVARDHAN dorikithe venekaala \nninchi serigga rod toyyali \nCONSTABLE 2 \nRod pedithe em undhi, ice pedithe \nsamma gaa digipothundhi \nGOVARDHAN is horrified. He turns around and begins to walk \nback to the car, when the constable stops him. \nCONSTABLE 1 \nLoppalaki ellandi amma, lopala \nellandi \nGOVARDHAN \n(In a female voice) \nparledandi, parledu \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "69",
+    "1001": "EXT.",
+    "1002": "POLICE",
+    "1003": "STATION",
+    "1004": "-",
+    "1005": "DAY",
+    "1006": "The",
+    "1007": "car",
+    "1008": "stops,",
+    "1009": "and",
+    "1010": "GOVARDHAN",
+    "1011": "and",
+    "1012": "VEDA",
+    "1013": "dismount.",
+    "1014": "GOVARDHAN",
+    "1015": "realizes",
+    "1016": "that",
+    "1017": "they",
+    "1018": "are",
+    "1019": "near",
+    "1020": "the",
+    "1021": "police",
+    "1022": "station.",
+    "1023": "GOVARDHAN",
+    "1024": "(furious)",
+    "1025": "Orei!",
+    "1026": "nee",
+    "1027": "valla",
+    "1028": "nenu",
+    "1029": "bokkalo",
+    "1030": "paddaanu!",
+    "1031": "(MORE)",
+    "1032": "GOVARDHAN",
+    "1033": "(CONT'D)",
+    "1034": "Jarigindhantha",
+    "1035": "SI",
+    "1036": "ki",
+    "1037": "cheppevaraku",
+    "1038": "naku",
+    "1039": "manashanti",
+    "1040": "undadhu",
+    "1041": "VEDA",
+    "1042": "Oddu",
+    "1043": "raa,",
+    "1044": "please",
+    "1045": "raa,",
+    "1046": "naa",
+    "1047": "maata",
+    "1048": "vinu",
+    "1049": "GOVARDHAN",
+    "1050": "Vinedhi",
+    "1051": "enti",
+    "1052": "raa!",
+    "1053": "Vinnakane",
+    "1054": "ikkada",
+    "1055": "dhaaka",
+    "1056": "vachaam.",
+    "1057": "Anni",
+    "1058": "poyaayi,",
+    "1059": "nee",
+    "1060": "vaalla",
+    "1061": "sarvanaasam",
+    "1062": "aipoyaa...ANJI",
+    "1063": "gaadu",
+    "1064": "akkada",
+    "1065": "kaallu",
+    "1066": "meedha",
+    "1067": "kaallu",
+    "1068": "esukoni",
+    "1069": "kurchunnaadu",
+    "1070": "Two",
+    "1071": "constables",
+    "1072": "walk",
+    "1073": "out",
+    "1074": "of",
+    "1075": "the",
+    "1076": "station,",
+    "1077": "conversing",
+    "1078": "with",
+    "1079": "one",
+    "1080": "another",
+    "1081": "CONSTABLE",
+    "1082": "1",
+    "1083": "Aa",
+    "1084": "GOVARDHAN",
+    "1085": "dorikithe",
+    "1086": "venekaala",
+    "1087": "ninchi",
+    "1088": "serigga",
+    "1089": "rod",
+    "1090": "toyyali",
+    "1091": "CONSTABLE",
+    "1092": "2",
+    "1093": "Rod",
+    "1094": "pedithe",
+    "1095": "em",
+    "1096": "undhi,",
+    "1097": "ice",
+    "1098": "pedithe",
+    "1099": "samma",
+    "1100": "gaa",
+    "1101": "digipothundhi",
+    "1102": "GOVARDHAN",
+    "1103": "is",
+    "1104": "horrified.",
+    "1105": "He",
+    "1106": "turns",
+    "1107": "around",
+    "1108": "and",
+    "1109": "begins",
+    "1110": "to",
+    "1111": "walk",
+    "1112": "back",
+    "1113": "to",
+    "1114": "the",
+    "1115": "car,",
+    "1116": "when",
+    "1117": "the",
+    "1118": "constable",
+    "1119": "stops",
+    "1120": "him.",
+    "1121": "CONSTABLE",
+    "1122": "1",
+    "1123": "Loppalaki",
+    "1124": "ellandi",
+    "1125": "amma,",
+    "1126": "lopala",
+    "1127": "ellandi",
+    "1128": "GOVARDHAN",
+    "1129": "(In",
+    "1130": "a",
+    "1131": "female",
+    "1132": "voice)",
+    "1133": "parledandi,",
+    "1134": "parledu",
+    "1135": "CUT",
+    "1136": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "GOVARDHAN",
+        "VEDA",
+        "CONSTABLE 1",
+        "CONSTABLE 2"
+      ],
+      "SET": [
+        "EXT. POLICE STATION - DAY"
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [
+        "car"
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1010"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1014"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1023"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1032"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1049"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1084"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1102"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1128"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1012"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1041"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "CONSTABLE 1",
+            "ids": [
+              "1081",
+              "1082"
+            ]
+          },
+          {
+            "value": "CONSTABLE 1",
+            "ids": [
+              "1121",
+              "1122"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "CONSTABLE 2",
+            "ids": [
+              "1091",
+              "1092"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. POLICE STATION - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [
+        [
+          {
+            "value": "car",
+            "ids": [
+              "1007"
+            ]
+          },
+          {
+            "value": "car,",
+            "ids": [
+              "1115"
+            ]
+          }
+        ]
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

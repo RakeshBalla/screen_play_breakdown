@@ -1,0 +1,463 @@
+{
+  "ALL_TEXT": "35 INT. BANK-MANAGER\u2019S CABIN - DAY \nInside her cabin, GOVARDHAN sits across MARILYN and the \nMANAGER. \nMANAGER \nGOVARDHAN garu eema MARILYN. Mana \nATMs ne re-calibrate cheyadaaniki \nvacharu \nMARILYN \n(curt) \nHello \nMARILYN rapidly turns her face away after the pleasantries. \nGOVARDHAN doesn't bother. \nMANAGER \n(with a stern face) \nAavida ikkada unde varuku mee desk \naeme ki isthunaam. Meeru kaaliga \nunna aa pakka cabin ki maarandi. \nGOVARDHAN \nNeenu maranu \nMANAGER \nAdi idi kaadu. Tanu reserve bank \nnundi vachhina officer, tanu rendu \nrojulu ikkade untaaru. Ee rendu \nrojulu neeku vere place arrange \nchesaanu. So please. \nGOVARDHAN \nKudharadhu adhi naa chair, nenu \nakkade kurchovaali... \nGOVARDHAN \ndhaanike inko chair ivvu. Entha \nmaniddaram ee bank lo okesaari join \nayi nuvvu mundhu manager ayite \nmatram naa chair lo inkollani \nkurchobedataava? \nThe MANAGER feels helpless, seemingly arguing with him for no \nreason \nMANAGER \n(in desparation) \nSare naa chair lo kurcho... nene \nprakkana kurchoni santhakaalu \npettukunta \nGOVARDHAN immediately gets up from his chair, almost \ninsulted. \nGOVARDHAN \nChi chi ee chair nairutilo undi. \nDeentlo kurchunte aa daridrapu \nmanager post... nenu vaasthu antha \nchusukoni eshanyaaniki turpuku \nmadhyalo suryakiranaalu padelaaga \nvesukunnaanu...naa chair maatrame \nnaakkavaali... \nMANAGER \nMeeku mee kurchi kavali.. anthe \nga..? entha quick ga ee roju finish \navutundo, anthe quick ga aame pani \navtundi. anthe tondarga mee chair \nmeeku dorkutundi. \nGOVARDHAN stares. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "35",
+    "1001": "INT.",
+    "1002": "BANK-MANAGER\u2019S",
+    "1003": "CABIN",
+    "1004": "-",
+    "1005": "DAY",
+    "1006": "Inside",
+    "1007": "her",
+    "1008": "cabin,",
+    "1009": "GOVARDHAN",
+    "1010": "sits",
+    "1011": "across",
+    "1012": "MARILYN",
+    "1013": "and",
+    "1014": "the",
+    "1015": "MANAGER.",
+    "1016": "MANAGER",
+    "1017": "GOVARDHAN",
+    "1018": "garu",
+    "1019": "eema",
+    "1020": "MARILYN.",
+    "1021": "Mana",
+    "1022": "ATMs",
+    "1023": "ne",
+    "1024": "re-calibrate",
+    "1025": "cheyadaaniki",
+    "1026": "vacharu",
+    "1027": "MARILYN",
+    "1028": "(curt)",
+    "1029": "Hello",
+    "1030": "MARILYN",
+    "1031": "rapidly",
+    "1032": "turns",
+    "1033": "her",
+    "1034": "face",
+    "1035": "away",
+    "1036": "after",
+    "1037": "the",
+    "1038": "pleasantries.",
+    "1039": "GOVARDHAN",
+    "1040": "doesn't",
+    "1041": "bother.",
+    "1042": "MANAGER",
+    "1043": "(with",
+    "1044": "a",
+    "1045": "stern",
+    "1046": "face)",
+    "1047": "Aavida",
+    "1048": "ikkada",
+    "1049": "unde",
+    "1050": "varuku",
+    "1051": "mee",
+    "1052": "desk",
+    "1053": "aeme",
+    "1054": "ki",
+    "1055": "isthunaam.",
+    "1056": "Meeru",
+    "1057": "kaaliga",
+    "1058": "unna",
+    "1059": "aa",
+    "1060": "pakka",
+    "1061": "cabin",
+    "1062": "ki",
+    "1063": "maarandi.",
+    "1064": "GOVARDHAN",
+    "1065": "Neenu",
+    "1066": "maranu",
+    "1067": "MANAGER",
+    "1068": "Adi",
+    "1069": "idi",
+    "1070": "kaadu.",
+    "1071": "Tanu",
+    "1072": "reserve",
+    "1073": "bank",
+    "1074": "nundi",
+    "1075": "vachhina",
+    "1076": "officer,",
+    "1077": "tanu",
+    "1078": "rendu",
+    "1079": "rojulu",
+    "1080": "ikkade",
+    "1081": "untaaru.",
+    "1082": "Ee",
+    "1083": "rendu",
+    "1084": "rojulu",
+    "1085": "neeku",
+    "1086": "vere",
+    "1087": "place",
+    "1088": "arrange",
+    "1089": "chesaanu.",
+    "1090": "So",
+    "1091": "please.",
+    "1092": "GOVARDHAN",
+    "1093": "Kudharadhu",
+    "1094": "adhi",
+    "1095": "naa",
+    "1096": "chair,",
+    "1097": "nenu",
+    "1098": "akkade",
+    "1099": "kurchovaali...",
+    "1100": "GOVARDHAN",
+    "1101": "dhaanike",
+    "1102": "inko",
+    "1103": "chair",
+    "1104": "ivvu.",
+    "1105": "Entha",
+    "1106": "maniddaram",
+    "1107": "ee",
+    "1108": "bank",
+    "1109": "lo",
+    "1110": "okesaari",
+    "1111": "join",
+    "1112": "ayi",
+    "1113": "nuvvu",
+    "1114": "mundhu",
+    "1115": "manager",
+    "1116": "ayite",
+    "1117": "matram",
+    "1118": "naa",
+    "1119": "chair",
+    "1120": "lo",
+    "1121": "inkollani",
+    "1122": "kurchobedataava?",
+    "1123": "The",
+    "1124": "MANAGER",
+    "1125": "feels",
+    "1126": "helpless,",
+    "1127": "seemingly",
+    "1128": "arguing",
+    "1129": "with",
+    "1130": "him",
+    "1131": "for",
+    "1132": "no",
+    "1133": "reason",
+    "1134": "MANAGER",
+    "1135": "(in",
+    "1136": "desparation)",
+    "1137": "Sare",
+    "1138": "naa",
+    "1139": "chair",
+    "1140": "lo",
+    "1141": "kurcho...",
+    "1142": "nene",
+    "1143": "prakkana",
+    "1144": "kurchoni",
+    "1145": "santhakaalu",
+    "1146": "pettukunta",
+    "1147": "GOVARDHAN",
+    "1148": "immediately",
+    "1149": "gets",
+    "1150": "up",
+    "1151": "from",
+    "1152": "his",
+    "1153": "chair,",
+    "1154": "almost",
+    "1155": "insulted.",
+    "1156": "GOVARDHAN",
+    "1157": "Chi",
+    "1158": "chi",
+    "1159": "ee",
+    "1160": "chair",
+    "1161": "nairutilo",
+    "1162": "undi.",
+    "1163": "Deentlo",
+    "1164": "kurchunte",
+    "1165": "aa",
+    "1166": "daridrapu",
+    "1167": "manager",
+    "1168": "post...",
+    "1169": "nenu",
+    "1170": "vaasthu",
+    "1171": "antha",
+    "1172": "chusukoni",
+    "1173": "eshanyaaniki",
+    "1174": "turpuku",
+    "1175": "madhyalo",
+    "1176": "suryakiranaalu",
+    "1177": "padelaaga",
+    "1178": "vesukunnaanu...naa",
+    "1179": "chair",
+    "1180": "maatrame",
+    "1181": "naakkavaali...",
+    "1182": "MANAGER",
+    "1183": "Meeku",
+    "1184": "mee",
+    "1185": "kurchi",
+    "1186": "kavali..",
+    "1187": "anthe",
+    "1188": "ga..?",
+    "1189": "entha",
+    "1190": "quick",
+    "1191": "ga",
+    "1192": "ee",
+    "1193": "roju",
+    "1194": "finish",
+    "1195": "avutundo,",
+    "1196": "anthe",
+    "1197": "quick",
+    "1198": "ga",
+    "1199": "aame",
+    "1200": "pani",
+    "1201": "avtundi.",
+    "1202": "anthe",
+    "1203": "tondarga",
+    "1204": "mee",
+    "1205": "chair",
+    "1206": "meeku",
+    "1207": "dorkutundi.",
+    "1208": "GOVARDHAN",
+    "1209": "stares.",
+    "1210": "CUT",
+    "1211": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "GOVARDHAN",
+        "MARILYN",
+        "MANAGER"
+      ],
+      "SET": [
+        "INT. BANK-MANAGER\u2019S CABIN - DAY"
+      ],
+      "PROPS": [
+        "chair",
+        "desk"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1009"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1017"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1039"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1064"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1092"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1100"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1147"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1156"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1208"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "MARILYN",
+            "ids": [
+              "1012"
+            ]
+          },
+          {
+            "value": "MARILYN",
+            "ids": [
+              "1027"
+            ]
+          },
+          {
+            "value": "MARILYN",
+            "ids": [
+              "1030"
+            ]
+          },
+          {
+            "value": "MARILYN.",
+            "ids": [
+              "1020"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "MANAGER",
+            "ids": [
+              "1016"
+            ]
+          },
+          {
+            "value": "MANAGER",
+            "ids": [
+              "1042"
+            ]
+          },
+          {
+            "value": "MANAGER",
+            "ids": [
+              "1067"
+            ]
+          },
+          {
+            "value": "MANAGER",
+            "ids": [
+              "1124"
+            ]
+          },
+          {
+            "value": "MANAGER",
+            "ids": [
+              "1134"
+            ]
+          },
+          {
+            "value": "MANAGER",
+            "ids": [
+              "1182"
+            ]
+          },
+          {
+            "value": "MANAGER.",
+            "ids": [
+              "1015"
+            ]
+          },
+          {
+            "value": "manager",
+            "ids": [
+              "1115"
+            ]
+          },
+          {
+            "value": "manager",
+            "ids": [
+              "1167"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "INT. BANK-MANAGER\u2019S CABIN - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "chair",
+            "ids": [
+              "1103"
+            ]
+          },
+          {
+            "value": "chair",
+            "ids": [
+              "1119"
+            ]
+          },
+          {
+            "value": "chair",
+            "ids": [
+              "1139"
+            ]
+          },
+          {
+            "value": "chair",
+            "ids": [
+              "1160"
+            ]
+          },
+          {
+            "value": "chair",
+            "ids": [
+              "1179"
+            ]
+          },
+          {
+            "value": "chair",
+            "ids": [
+              "1205"
+            ]
+          },
+          {
+            "value": "chair,",
+            "ids": [
+              "1096"
+            ]
+          },
+          {
+            "value": "chair,",
+            "ids": [
+              "1153"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "desk",
+            "ids": [
+              "1052"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

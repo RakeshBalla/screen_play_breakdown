@@ -1,0 +1,945 @@
+{
+  "page_dict": {
+    "alltext": "19.\nMAN\nEpudaina appudu appudu Baba\nCHINTHAN BABA\nEpudaina appudu appudu...appudu\nappudu\nMAN\n(ashamed)\nAvunu Baba\nCHINTHAN BABA\nEe Nikrushtamaina ee parikramam\nippude maaneyaali...oka\npancheyyi...ashram store ke velli\nnalabai “dhumapaanam arikatte\npattilu“ konukko..leda yenabai\nteesukunte 20% discount...\nThe devotees start cheering and chanting his name. Meanwhile,\nthe FOREST MINISTER arrives. People start saluting him, as he\nheads right to CHINTHAN BABA. Over the pool, he greets him,\nbends over and touches CHINTHAN BABA’s feet.\nCHINTHAN BABA\nDheergayushmanbhava\nFOREST MINISTER\nLopalaki raa maataddaali\nThe two of them walk along the platform connecting the pool\nto dry land. CHINTHAN BABA spots SULOCHANA in the crowd.\nCHINTHAN BABA\n(to SULOCHANA)\nNee kavalsina valla ki tvaralo\nproblem vosthundi...vachinappudu\nnaa daggariki raa\nFOREST MINISTER\nArey nuvvu rammante vaachestudha\nadhi\nCHINTHAN BABA\nPrati manishiki problem raavatam\nsahajame...ippudu kerchief veysedam\nvalla ae problem vachina naa\ndaggariki vastundi\nHe looks at his disciples. The masses are frenzied again.\nCHINTHAN BABA leaves to a rockstar exit.\nCUT TO:",
+    "words_ids": {
+      "6779": "19.",
+      "4570": "MAN",
+      "8979": "Epudaina",
+      "5277": "appudu",
+      "8914": "appudu",
+      "1848": "Baba",
+      "9828": "CHINTHAN",
+      "9667": "BABA",
+      "4617": "Epudaina",
+      "9167": "appudu",
+      "5502": "appudu...appudu",
+      "9892": "appudu",
+      "3089": "MAN",
+      "2711": "(ashamed)",
+      "4738": "Avunu",
+      "5646": "Baba",
+      "5685": "CHINTHAN",
+      "4086": "BABA",
+      "5408": "Ee",
+      "9662": "Nikrushtamaina",
+      "9296": "ee",
+      "7301": "parikramam",
+      "6385": "ippude",
+      "4895": "maaneyaali...oka",
+      "4520": "pancheyyi...ashram",
+      "1291": "store",
+      "7124": "ke",
+      "8252": "velli",
+      "4939": "nalabai",
+      "8271": "“dhumapaanam",
+      "5441": "arikatte",
+      "3307": "pattilu“",
+      "2898": "konukko..leda",
+      "3547": "yenabai",
+      "7480": "teesukunte",
+      "5669": "20%",
+      "3667": "discount...",
+      "5388": "The",
+      "2515": "devotees",
+      "1069": "start",
+      "7348": "cheering",
+      "1869": "and",
+      "4259": "chanting",
+      "5530": "MINISTER",
+      "1494": "name.",
+      "9672": "Meanwhile,",
+      "9852": "the",
+      "3057": "FOREST",
+      "2152": "MINISTER",
+      "7162": "arrives.",
+      "4268": "People",
+      "9786": "start",
+      "5800": "saluting",
+      "4595": "him,",
+      "8367": "as",
+      "7596": "he",
+      "6727": "heads",
+      "9215": "right",
+      "5409": "to",
+      "9868": "CHINTHAN",
+      "7530": "BABA.",
+      "6551": "Over",
+      "8103": "the",
+      "4007": "Nee",
+      "8514": "Dheergayushmanbhava",
+      "1474": "greets",
+      "5961": "him,",
+      "5704": "bends",
+      "9213": "over",
+      "4746": "and",
+      "9116": "touches",
+      "1543": "CHINTHAN",
+      "8841": "BABA’s",
+      "2778": "feet.",
+      "1526": "CHINTHAN",
+      "2598": "BABA",
+      "5488": "FOREST",
+      "2632": "Lopalaki",
+      "4385": "raa",
+      "3710": "maataddaali",
+      "3526": "The",
+      "8864": "two",
+      "8553": "of",
+      "9600": "them",
+      "1974": "walk",
+      "4962": "along",
+      "7038": "the",
+      "4290": "platform",
+      "5189": "connecting",
+      "9753": "the",
+      "1243": "pool",
+      "6716": "to",
+      "8663": "dry",
+      "7350": "land.",
+      "1684": "CHINTHAN",
+      "6039": "BABA",
+      "2206": "spots",
+      "7622": "SULOCHANA",
+      "9160": "in",
+      "4138": "the",
+      "2189": "crowd.",
+      "3554": "CHINTHAN",
+      "6623": "BABA",
+      "6063": "(to",
+      "3175": "SULOCHANA)",
+      "8878": "kavalsina",
+      "8613": "valla",
+      "4328": "ki",
+      "6414": "tvaralo",
+      "8346": "problem",
+      "4859": "vosthundi...vachinappudu",
+      "6086": "naa",
+      "5335": "daggariki",
+      "7675": "raa",
+      "1592": "FOREST",
+      "5865": "MINISTER",
+      "1520": "Arey",
+      "6853": "nuvvu",
+      "4760": "rammante",
+      "5019": "vaachestudha",
+      "5634": "adhi",
+      "8579": "CHINTHAN",
+      "9514": "BABA",
+      "3656": "Prati",
+      "1522": "manishiki",
+      "9446": "problem",
+      "6167": "raavatam",
+      "6330": "sahajame...ippudu",
+      "7356": "kerchief",
+      "1680": "veysedam",
+      "5006": "valla",
+      "2747": "ae",
+      "7459": "problem",
+      "4978": "vachina",
+      "8446": "naa",
+      "2149": "daggariki",
+      "9428": "vastundi",
+      "7499": "He",
+      "4307": "looks",
+      "4554": "at",
+      "2025": "his",
+      "6504": "disciples.",
+      "6835": "The",
+      "4032": "masses",
+      "5978": "are",
+      "7537": "frenzied",
+      "4592": "again.",
+      "1407": "CHINTHAN",
+      "9801": "BABA",
+      "6140": "leaves",
+      "1755": "to",
+      "7616": "a",
+      "4900": "rockstar",
+      "9060": "exit.",
+      "5766": "CUT",
+      "7791": "TO:"
+    }
+  },
+  "sample_no": "sample1",
+  "pdf_file_name": "page_20.pdf",
+  "llm_response": {
+    "scene_number": [
+      "19"
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      "The devotees start cheering and chanting his name. Meanwhile,\nthe FOREST MINISTER arrives. People start saluting him, as he\nheads right to CHINTHAN BABA. Over the pool, he greets him,\nbends over and touches CHINTHAN BABA’s feet.",
+      "The two of them walk along the platform connecting the pool\nto dry land. CHINTHAN BABA spots SULOCHANA in the crowd.",
+      "He looks at his disciples. The masses are frenzied again.\nCHINTHAN BABA leaves to a rockstar exit."
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "MAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Epudaina appudu appudu Baba"
+        ]
+      },
+      {
+        "character": [
+          "CHINTHAN BABA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Epudaina appudu appudu...appudu\nappudu"
+        ]
+      },
+      {
+        "character": [
+          "MAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          "(ashamed)"
+        ],
+        "text": [
+          "Avunu Baba"
+        ]
+      },
+      {
+        "character": [
+          "CHINTHAN BABA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Ee Nikrushtamaina ee parikramam\nippude maaneyaali...oka\npancheyyi...ashram store ke velli\nnalabai “dhumapaanam arikatte\npattilu“ konukko..leda yenabai\nteesukunte 20% discount..."
+        ]
+      },
+      {
+        "character": [
+          "CHINTHAN BABA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Dheergayushmanbhava"
+        ]
+      },
+      {
+        "character": [
+          "FOREST MINISTER"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Lopalaki raa maataddaali"
+        ]
+      },
+      {
+        "character": [
+          "CHINTHAN BABA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          "(to SULOCHANA)"
+        ],
+        "text": [
+          "Nee kavalsina valla ki tvaralo\nproblem vosthundi...vachinappudu\nnaa daggariki raa"
+        ]
+      },
+      {
+        "character": [
+          "FOREST MINISTER"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Arey nuvvu rammante vaachestudha\nadhi"
+        ]
+      },
+      {
+        "character": [
+          "CHINTHAN BABA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Prati manishiki problem raavatam\nsahajame...ippudu kerchief veysedam\nvalla ae problem vachina naa\ndaggariki vastundi"
+        ]
+      }
+    ],
+    "transitions": [
+      "CUT TO:"
+    ],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      {
+        "value": "19",
+        "ids": []
+      }
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      {
+        "value": "The devotees start cheering and chanting his name. Meanwhile,\nthe FOREST MINISTER arrives. People start saluting him, as he\nheads right to CHINTHAN BABA. Over the pool, he greets him,\nbends over and touches CHINTHAN BABA’s feet.",
+        "ids": [
+          1848,
+          9828,
+          9667,
+          5646,
+          5685,
+          4086,
+          5388,
+          2515,
+          1069,
+          7348,
+          1869,
+          4259,
+          5530,
+          9852,
+          3057,
+          2152,
+          4268,
+          9786,
+          5800,
+          8367,
+          7596,
+          6727,
+          9215,
+          5409,
+          9868,
+          6551,
+          8103,
+          1474,
+          5704,
+          9213,
+          4746,
+          9116,
+          1543,
+          1526,
+          2598,
+          5488,
+          3526,
+          7038,
+          9753,
+          1243,
+          6716,
+          1684,
+          6039,
+          4138,
+          3554,
+          6623,
+          1592,
+          5865,
+          8579,
+          9514,
+          7499,
+          2025,
+          6835,
+          1407,
+          9801,
+          1755
+        ]
+      },
+      {
+        "value": "The two of them walk along the platform connecting the pool\nto dry land. CHINTHAN BABA spots SULOCHANA in the crowd.",
+        "ids": [
+          1848,
+          9828,
+          9667,
+          5646,
+          5685,
+          4086,
+          5388,
+          9852,
+          5409,
+          9868,
+          8103,
+          1543,
+          1526,
+          2598,
+          3526,
+          8864,
+          8553,
+          9600,
+          1974,
+          4962,
+          7038,
+          4290,
+          5189,
+          9753,
+          1243,
+          6716,
+          8663,
+          1684,
+          6039,
+          2206,
+          7622,
+          9160,
+          4138,
+          3554,
+          6623,
+          8579,
+          9514,
+          6835,
+          1407,
+          9801,
+          1755
+        ]
+      },
+      {
+        "value": "He looks at his disciples. The masses are frenzied again.\nCHINTHAN BABA leaves to a rockstar exit.",
+        "ids": [
+          1848,
+          9828,
+          9667,
+          5646,
+          5685,
+          4086,
+          5388,
+          9852,
+          7596,
+          5409,
+          9868,
+          8103,
+          1543,
+          1526,
+          2598,
+          3526,
+          7038,
+          9753,
+          6716,
+          1684,
+          6039,
+          4138,
+          3554,
+          6623,
+          8579,
+          9514,
+          7499,
+          4307,
+          4554,
+          2025,
+          6835,
+          4032,
+          5978,
+          7537,
+          1407,
+          9801,
+          6140,
+          1755,
+          7616,
+          4900
+        ]
+      }
+    ],
+    "dialogue": [
+      {
+        "character": [
+          {
+            "value": "MAN",
+            "ids": [
+              3089,
+              4570
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Epudaina appudu appudu Baba",
+            "ids": [
+              8979,
+              5277,
+              8914,
+              1848,
+              9667,
+              4617,
+              9167,
+              9892,
+              5646,
+              4086,
+              2598,
+              6039,
+              6623,
+              9514,
+              9801
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              1848,
+              9828,
+              9667,
+              5646,
+              5685,
+              4086,
+              9868,
+              1543,
+              1526,
+              2598,
+              1684,
+              6039,
+              3554,
+              6623,
+              8579,
+              9514,
+              1407,
+              9801
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Epudaina appudu appudu...appudu\nappudu",
+            "ids": [
+              8979,
+              5277,
+              8914,
+              4617,
+              9167,
+              9892
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "MAN",
+            "ids": [
+              3089,
+              4570
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "(ashamed)",
+            "ids": [
+              2711
+            ]
+          }
+        ],
+        "text": [
+          {
+            "value": "Avunu Baba",
+            "ids": [
+              1848,
+              9667,
+              4738,
+              5646,
+              4086,
+              2598,
+              6039,
+              6623,
+              9514,
+              9801
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              1848,
+              9828,
+              9667,
+              5646,
+              5685,
+              4086,
+              9868,
+              1543,
+              1526,
+              2598,
+              1684,
+              6039,
+              3554,
+              6623,
+              8579,
+              9514,
+              1407,
+              9801
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Ee Nikrushtamaina ee parikramam\nippude maaneyaali...oka\npancheyyi...ashram store ke velli\nnalabai “dhumapaanam arikatte\npattilu“ konukko..leda yenabai\nteesukunte 20% discount...",
+            "ids": [
+              5408,
+              9662,
+              9296,
+              7301,
+              6385,
+              1291,
+              7124,
+              8252,
+              4939,
+              5441,
+              3547,
+              7480
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              1848,
+              9828,
+              9667,
+              5646,
+              5685,
+              4086,
+              9868,
+              1543,
+              1526,
+              2598,
+              1684,
+              6039,
+              3554,
+              6623,
+              8579,
+              9514,
+              1407,
+              9801
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Dheergayushmanbhava",
+            "ids": [
+              8514
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              5530,
+              3057,
+              2152,
+              5488,
+              1592,
+              5865
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Lopalaki raa maataddaali",
+            "ids": [
+              2632,
+              4385,
+              3710,
+              7675
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              1848,
+              9828,
+              9667,
+              5646,
+              5685,
+              4086,
+              9868,
+              1543,
+              1526,
+              2598,
+              1684,
+              6039,
+              3554,
+              6623,
+              8579,
+              9514,
+              1407,
+              9801
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "(to SULOCHANA)",
+            "ids": [
+              5409,
+              6716,
+              7622,
+              1755
+            ]
+          }
+        ],
+        "text": [
+          {
+            "value": "Nee kavalsina valla ki tvaralo\nproblem vosthundi...vachinappudu\nnaa daggariki raa",
+            "ids": [
+              4007,
+              4385,
+              8878,
+              8613,
+              4328,
+              6414,
+              8346,
+              6086,
+              5335,
+              7675,
+              9446,
+              5006,
+              7459,
+              8446,
+              2149
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              5530,
+              3057,
+              2152,
+              5488,
+              1592,
+              5865
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Arey nuvvu rammante vaachestudha\nadhi",
+            "ids": [
+              1520,
+              6853,
+              4760,
+              5019,
+              5634
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              1848,
+              9828,
+              9667,
+              5646,
+              5685,
+              4086,
+              9868,
+              1543,
+              1526,
+              2598,
+              1684,
+              6039,
+              3554,
+              6623,
+              8579,
+              9514,
+              1407,
+              9801
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Prati manishiki problem raavatam\nsahajame...ippudu kerchief veysedam\nvalla ae problem vachina naa\ndaggariki vastundi",
+            "ids": [
+              8613,
+              8346,
+              6086,
+              5335,
+              3656,
+              1522,
+              9446,
+              6167,
+              7356,
+              1680,
+              5006,
+              2747,
+              7459,
+              4978,
+              8446,
+              2149,
+              9428
+            ]
+          }
+        ]
+      }
+    ],
+    "transitions": [
+      {
+        "value": "CUT TO:",
+        "ids": [
+          5409,
+          6716,
+          1755,
+          5766
+        ]
+      }
+    ],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

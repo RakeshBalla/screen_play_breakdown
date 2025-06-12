@@ -1,0 +1,568 @@
+{
+  "page_dict": {
+    "alltext": "61.\nVEDA\nAy lokamlo bathukuthunnaavu?\nDemonitisation vinaledha? Ippudu\nbank queue lo ninchuntey naaku\nthella gaddam vosthadhi. Istha le\nmanalo manaki enti. Sare photos\nayvi?\nSULOCHANA\nLevu... inka raaledu... kaani case\nkoncham serious.\nVEDA\nSerious ante?\nSULOCHANA\nDouble murder. Police laki inka\nteleedu yevaru chesaaro. Kaani\nkanukkomani pressure chaala undi...\nchanipoindi FOREST MINISTER ki\ndeggara manushulanta.\nVEDA\nFOREST MINISTER ki deggara\nvaalla...\nSULOCHANA\nEye witnesses pakkane unde oka\nbuilding watchman... inka road\nmeeda aa time ki unna evaro manishi\nni batti Police investigate\nchesthunnaaru\nVEDA\nEm cheppaaru vaallu?\nSULOCHANA\nClear ga naaku theleedu... naaku\nthelisinantha varaku, chanipoindi\niddaru... champinidii iddaru,\nchusindi kuda iddare...\nVEDA is frowning now, thinking about all of what has been\ntold.\nSULOCHANA\nNijam cheppu VEDA... naa deggara em\ndaachatledhu gaa...\nVEDA\nAyooo!!!... Ledu SULOCHANA...\nchampinodinaithe ikkadikenduku\nvastha... I swear...",
+    "words_ids": {
+      "8406": "61.",
+      "7757": "VEDA",
+      "3208": "Ay",
+      "4352": "lokamlo",
+      "1014": "bathukuthunnaavu?",
+      "1672": "Demonitisation",
+      "8823": "vinaledha?",
+      "3617": "Ippudu",
+      "8781": "bank",
+      "9758": "queue",
+      "6684": "lo",
+      "3395": "ninchuntey",
+      "1078": "naaku",
+      "8233": "thella",
+      "9102": "gaddam",
+      "4338": "vosthadhi.",
+      "9129": "Istha",
+      "4751": "le",
+      "9975": "manalo",
+      "3048": "manaki",
+      "2023": "enti.",
+      "7785": "Sare",
+      "6813": "photos",
+      "9311": "naa",
+      "1958": "SULOCHANA",
+      "5621": "Levu...",
+      "9961": "inka",
+      "3170": "raaledu...",
+      "2911": "kaani",
+      "7257": "case",
+      "2283": "koncham",
+      "6100": "serious.",
+      "3807": "VEDA",
+      "8826": "Serious",
+      "5345": "ante?",
+      "7453": "SULOCHANA",
+      "3106": "Double",
+      "3207": "told.",
+      "1253": "Police",
+      "7423": "laki",
+      "2909": "inka",
+      "7050": "teleedu",
+      "4085": "yevaru",
+      "5349": "chesaaro.",
+      "9973": "Kaani",
+      "8283": "kanukkomani",
+      "1564": "pressure",
+      "8899": "chaala",
+      "1387": "undi...",
+      "9272": "chanipoindi",
+      "3078": "FOREST",
+      "9228": "MINISTER",
+      "7311": "ki",
+      "2985": "deggara",
+      "3476": "manushulanta.",
+      "4765": "VEDA",
+      "6573": "FOREST",
+      "4856": "MINISTER",
+      "4979": "ki",
+      "6619": "deggara",
+      "9677": "vaalla...",
+      "9490": "SULOCHANA",
+      "4180": "Eye",
+      "6468": "witnesses",
+      "3041": "pakkane",
+      "3248": "unde",
+      "7938": "oka",
+      "5599": "building",
+      "4934": "watchman...",
+      "5470": "inka",
+      "3638": "road",
+      "7982": "meeda",
+      "8692": "aa",
+      "2531": "time",
+      "6956": "ki",
+      "4986": "unna",
+      "3581": "evaro",
+      "5382": "manishi",
+      "7926": "ni",
+      "1432": "batti",
+      "7565": "Police",
+      "1818": "investigate",
+      "7308": "chesthunnaaru",
+      "8346": "Ayooo!!!...",
+      "4123": "Em",
+      "1251": "cheppaaru",
+      "2194": "vaallu?",
+      "2971": "SULOCHANA",
+      "6528": "Clear",
+      "9254": "ga",
+      "4417": "naaku",
+      "9053": "theleedu...",
+      "9131": "naaku",
+      "9302": "thelisinantha",
+      "1686": "varaku,",
+      "3406": "chanipoindi",
+      "4722": "iddaru...",
+      "4574": "champinidii",
+      "7802": "iddaru,",
+      "8898": "chusindi",
+      "2361": "kuda",
+      "7218": "iddare...",
+      "2062": "VEDA",
+      "3738": "is",
+      "3011": "frowning",
+      "2089": "now,",
+      "9637": "thinking",
+      "1765": "about",
+      "1977": "all",
+      "7362": "of",
+      "9749": "what",
+      "2507": "has",
+      "7736": "been",
+      "4339": "SULOCHANA",
+      "1048": "Nijam",
+      "3757": "cheppu",
+      "6852": "VEDA...",
+      "6370": "deggara",
+      "3902": "em",
+      "7530": "daachatledhu",
+      "3962": "gaa...",
+      "3310": "VEDA",
+      "8883": "Ledu",
+      "6489": "SULOCHANA...",
+      "3686": "champinodinaithe",
+      "3627": "ikkadikenduku",
+      "1471": "vastha...",
+      "9935": "I",
+      "5868": "swear..."
+    }
+  },
+  "sample_no": "sample8",
+  "pdf_file_name": "page_62.pdf",
+  "llm_response": {
+    "scene_number": [],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      "VEDA is frowning now, thinking about all of what has been\ntold."
+    ],
+    "dialogue": [
+      {
+        "character": "VEDA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "Ay lokamlo bathukuthunnaavu?\nDemonitisation vinaledha? Ippudu\nbank queue lo ninchuntey naaku\nthella gaddam vosthadhi. Istha le\nmanalo manaki enti. Sare photos\nayvi?"
+      },
+      {
+        "character": "SULOCHANA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "Levu... inka raaledu... kaani case\nkoncham serious."
+      },
+      {
+        "character": "VEDA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "Serious ante?"
+      },
+      {
+        "character": "SULOCHANA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "Double murder. Police laki inka\nteleedu yevaru chesaaro. Kaani\nkanukkomani pressure chaala undi...\nchanipoindi FOREST MINISTER ki\ndeggara manushulanta."
+      },
+      {
+        "character": "VEDA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "FOREST MINISTER ki deggara\nvaalla..."
+      },
+      {
+        "character": "SULOCHANA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "Eye witnesses pakkane unde oka\nbuilding watchman... inka road\nmeeda aa time ki unna evaro manishi\nni batti Police investigate\nchesthunnaaru"
+      },
+      {
+        "character": "VEDA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "Em cheppaaru vaallu?"
+      },
+      {
+        "character": "SULOCHANA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "Clear ga naaku theleedu... naaku\nthelisinantha varaku, chanipoindi\niddaru... champinidii iddaru,\nchusindi kuda iddare..."
+      },
+      {
+        "character": "SULOCHANA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "Nijam cheppu VEDA... naa deggara em\ndaachatledhu gaa..."
+      },
+      {
+        "character": "VEDA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "Ayooo!!!... Ledu SULOCHANA...\nchampinodinaithe ikkadikenduku\nvastha... I swear..."
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      {
+        "value": "VEDA is frowning now, thinking about all of what has been\ntold.",
+        "ids": [
+          7757,
+          3807,
+          4765,
+          2062,
+          3738,
+          3011,
+          9637,
+          1765,
+          1977,
+          7362,
+          9749,
+          2507,
+          7736,
+          3310
+        ]
+      }
+    ],
+    "dialogue": [
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              2062,
+              3310
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              3807,
+              4765
+            ]
+          }
+        ],
+        "extension": {
+          "value": null,
+          "ids": []
+        },
+        "parenthetical": {
+          "value": null,
+          "ids": []
+        },
+        "text": {
+          "value": "Ay lokamlo bathukuthunnaavu?\nDemonitisation vinaledha? Ippudu\nbank queue lo ninchuntey naaku\nthella gaddam vosthadhi. Istha le\nmanalo manaki enti. Sare photos\nayvi?",
+          "ids": [
+            1014
+          ]
+        }
+      },
+      {
+        "character": [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              1958,
+              2971
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              4339,
+              7453
+            ]
+          }
+        ],
+        "extension": {
+          "value": null,
+          "ids": []
+        },
+        "parenthetical": {
+          "value": null,
+          "ids": []
+        },
+        "text": {
+          "value": "Levu... inka raaledu... kaani case\nkoncham serious.",
+          "ids": [
+            3170
+          ]
+        }
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              2062,
+              3310
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              3807,
+              4765
+            ]
+          }
+        ],
+        "extension": {
+          "value": null,
+          "ids": []
+        },
+        "parenthetical": {
+          "value": null,
+          "ids": []
+        },
+        "text": {
+          "value": "Serious ante?",
+          "ids": [
+            8826
+          ]
+        }
+      },
+      {
+        "character": [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              1958,
+              2971
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              4339,
+              7453
+            ]
+          }
+        ],
+        "extension": {
+          "value": null,
+          "ids": []
+        },
+        "parenthetical": {
+          "value": null,
+          "ids": []
+        },
+        "text": {
+          "value": "Double murder. Police laki inka\nteleedu yevaru chesaaro. Kaani\nkanukkomani pressure chaala undi...\nchanipoindi FOREST MINISTER ki\ndeggara manushulanta.",
+          "ids": [
+            3476
+          ]
+        }
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              2062,
+              3310
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              3807,
+              4765
+            ]
+          }
+        ],
+        "extension": {
+          "value": null,
+          "ids": []
+        },
+        "parenthetical": {
+          "value": null,
+          "ids": []
+        },
+        "text": {
+          "value": "FOREST MINISTER ki deggara\nvaalla...",
+          "ids": [
+            9677
+          ]
+        }
+      },
+      {
+        "character": [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              1958,
+              2971
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              4339,
+              7453
+            ]
+          }
+        ],
+        "extension": {
+          "value": null,
+          "ids": []
+        },
+        "parenthetical": {
+          "value": null,
+          "ids": []
+        },
+        "text": {
+          "value": "Eye witnesses pakkane unde oka\nbuilding watchman... inka road\nmeeda aa time ki unna evaro manishi\nni batti Police investigate\nchesthunnaaru",
+          "ids": [
+            7308
+          ]
+        }
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              2062,
+              3310
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              3807,
+              4765
+            ]
+          }
+        ],
+        "extension": {
+          "value": null,
+          "ids": []
+        },
+        "parenthetical": {
+          "value": null,
+          "ids": []
+        },
+        "text": {
+          "value": "Em cheppaaru vaallu?",
+          "ids": [
+            1251
+          ]
+        }
+      },
+      {
+        "character": [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              1958,
+              2971
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              4339,
+              7453
+            ]
+          }
+        ],
+        "extension": {
+          "value": null,
+          "ids": []
+        },
+        "parenthetical": {
+          "value": null,
+          "ids": []
+        },
+        "text": {
+          "value": "Clear ga naaku theleedu... naaku\nthelisinantha varaku, chanipoindi\niddaru... champinidii iddaru,\nchusindi kuda iddare...",
+          "ids": [
+            9302
+          ]
+        }
+      },
+      {
+        "character": [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              1958,
+              2971
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              4339,
+              7453
+            ]
+          }
+        ],
+        "extension": {
+          "value": null,
+          "ids": []
+        },
+        "parenthetical": {
+          "value": null,
+          "ids": []
+        },
+        "text": {
+          "value": "Nijam cheppu VEDA... naa deggara em\ndaachatledhu gaa...",
+          "ids": [
+            7530
+          ]
+        }
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              2062,
+              3310
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              3807,
+              4765
+            ]
+          }
+        ],
+        "extension": {
+          "value": null,
+          "ids": []
+        },
+        "parenthetical": {
+          "value": null,
+          "ids": []
+        },
+        "text": {
+          "value": "Ayooo!!!... Ledu SULOCHANA...\nchampinodinaithe ikkadikenduku\nvastha... I swear...",
+          "ids": [
+            3686
+          ]
+        }
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

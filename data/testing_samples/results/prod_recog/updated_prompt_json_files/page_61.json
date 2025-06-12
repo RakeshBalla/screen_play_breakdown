@@ -1,0 +1,261 @@
+{
+  "page_dict": {
+    "alltext": "60.\n66 EXT. TV CHANNEL OFFICE-PARKING - DAY\nGOVARDHAN and VEDA get to her office and wait for SULOCHANA\nat the parking lot. They’ve parked next to a tree, and wait\nunder the shade. SULOCHANA comes out with GANAPATHI, who has\nthe PUG in his hands. She briskly walks up to meet VEDA,\nwhile GANAPATHI stays behind.\nVEDA\nEnti utti chethultho ochaavu...\nphotos evi?\nSULOCHANA\n(angry)\nEntha job pothay mathram, kukkalni\nkottesi ammuthaava.\nVEDA\nEm maatladuthunav?\nSULOCHANA\nNuvvu naaku ammina Terminator,\nTerminator kaadu adhi Whiskey.\nVEDA\n(confused)\nWhiskey ah? em matladuthunav? Burra\nemana dhobindha.\nSULOCHANA\n(frustrated)\nNavvalla maa pakkinti kukka\nparipoyindhi annaanu kadaa...adhe\nnuvvu kottesi naaku ammina kukka.\nMalli vaalla inti chaayaluku\nvosthey kaallu irakodtha annaaru.\nNaa dabbulu naaku ivvi.\nVEDA\nEm dabbulu endhakey bank lo deposit\nchesa\nSULOCHANA\nDraw chesi ivvu",
+    "words_ids": {
+      "6746": "60.",
+      "5215": "66",
+      "5681": "EXT.",
+      "9456": "TV",
+      "3961": "CHANNEL",
+      "8596": "OFFICE-PARKING",
+      "5647": "-",
+      "5316": "DAY",
+      "3396": "GOVARDHAN",
+      "5926": "and",
+      "2816": "VEDA",
+      "4509": "get",
+      "6002": "to",
+      "3171": "her",
+      "1933": "office",
+      "6818": "and",
+      "7383": "wait",
+      "8405": "for",
+      "2659": "SULOCHANA",
+      "2663": "at",
+      "6821": "the",
+      "4066": "parking",
+      "8923": "lot.",
+      "3929": "They’ve",
+      "6741": "parked",
+      "4112": "next",
+      "1215": "to",
+      "5659": "a",
+      "7755": "tree,",
+      "3209": "and",
+      "2755": "wait",
+      "9100": "under",
+      "1259": "the",
+      "8230": "shade.",
+      "5945": "SULOCHANA",
+      "9076": "comes",
+      "4819": "out",
+      "3913": "with",
+      "1581": "GANAPATHI,",
+      "2123": "who",
+      "6579": "has",
+      "1571": "the",
+      "2624": "PUG",
+      "5982": "in",
+      "9674": "his",
+      "9635": "hands.",
+      "4292": "She",
+      "8479": "briskly",
+      "8052": "walks",
+      "8003": "up",
+      "4729": "to",
+      "5780": "meet",
+      "1406": "kottesi",
+      "6227": "while",
+      "3447": "GANAPATHI",
+      "7532": "stays",
+      "1839": "behind.",
+      "6019": "VEDA",
+      "5500": "Enti",
+      "9804": "utti",
+      "1884": "chethultho",
+      "6594": "ochaavu...",
+      "6581": "ivvi.",
+      "6212": "evi?",
+      "7551": "SULOCHANA",
+      "6409": "(angry)",
+      "2564": "Entha",
+      "7941": "job",
+      "7880": "pothay",
+      "9597": "mathram,",
+      "9626": "kukkalni",
+      "3551": "kottesi",
+      "9384": "ammuthaava.",
+      "1776": "VEDA",
+      "5162": "Em",
+      "5624": "maatladuthunav?",
+      "2285": "SULOCHANA",
+      "2007": "Nuvvu",
+      "2384": "naaku",
+      "7222": "ammina",
+      "2833": "Terminator,",
+      "9564": "Terminator",
+      "3052": "kaadu",
+      "7954": "adhi",
+      "9667": "Whiskey.",
+      "8662": "VEDA",
+      "2347": "(confused)",
+      "5977": "Whiskey",
+      "4237": "ah?",
+      "8924": "em",
+      "5063": "matladuthunav?",
+      "2834": "Burra",
+      "5152": "emana",
+      "5519": "dhobindha.",
+      "1859": "SULOCHANA",
+      "8986": "(frustrated)",
+      "1594": "Navvalla",
+      "7421": "maa",
+      "6871": "pakkinti",
+      "5714": "kukka",
+      "9321": "paripoyindhi",
+      "5166": "annaanu",
+      "3901": "kadaa...adhe",
+      "6503": "nuvvu",
+      "9929": "naaku",
+      "3441": "ammina",
+      "9645": "kukka.",
+      "9454": "Malli",
+      "8949": "vaalla",
+      "3026": "inti",
+      "8314": "chaayaluku",
+      "5612": "vosthey",
+      "6562": "kaallu",
+      "2962": "irakodtha",
+      "2628": "annaaru.",
+      "2161": "Naa",
+      "2800": "dabbulu",
+      "6274": "naaku",
+      "3692": "VEDA",
+      "8339": "Em",
+      "1301": "dabbulu",
+      "2718": "endhakey",
+      "2984": "bank",
+      "6876": "lo",
+      "5656": "deposit",
+      "9263": "chesa",
+      "1513": "SULOCHANA",
+      "8692": "Draw",
+      "8309": "chesi",
+      "9269": "ivvu"
+    }
+  },
+  "sample_no": "sample8",
+  "pdf_file_name": "page_61.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "GOVARDHAN",
+        "VEDA",
+        "SULOCHANA",
+        "GANAPATHI"
+      ],
+      "SET": [
+        "EXT. TV CHANNEL OFFICE-PARKING - DAY"
+      ],
+      "PROPS": [
+        "photos"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [
+        "PUG",
+        "kukka"
+      ],
+      "NUDITY": [],
+      "GREENERY": [
+        "tree"
+      ],
+      "SOUND": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            3396
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            1776,
+            2816
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            3692,
+            6019
+          ]
+        },
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            1513,
+            1859
+          ]
+        },
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            2285,
+            2659
+          ]
+        },
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            5945,
+            7551
+          ]
+        },
+        {
+          "value": "GANAPATHI",
+          "ids": [
+            3447
+          ]
+        }
+      ],
+      "SET": [
+        {
+          "value": "EXT. TV CHANNEL OFFICE-PARKING - DAY",
+          "ids": [
+            9456,
+            3961,
+            5316,
+            1933,
+            4066
+          ]
+        }
+      ],
+      "PROPS": [
+        {
+          "value": "photos",
+          "ids": []
+        }
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [
+        {
+          "value": "PUG",
+          "ids": [
+            2624
+          ]
+        },
+        {
+          "value": "kukka",
+          "ids": [
+            5714
+          ]
+        }
+      ],
+      "NUDITY": [],
+      "GREENERY": [
+        {
+          "value": "tree",
+          "ids": []
+        }
+      ],
+      "SOUND": []
+    }
+  }
+}

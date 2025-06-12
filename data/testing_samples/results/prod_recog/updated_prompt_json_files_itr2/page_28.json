@@ -1,0 +1,309 @@
+{
+  "sample_no": "sample3",
+  "pdf_file_name": "page_28.pdf",
+  "alltext": "27.\n38 EXT. KENNEL - DAY\nTwo men, the KENNEL OWNER and the KENNEL ASSISTANT, are\nsitting across each other on easy chairs, reading the\nnewspaper.\nKENNEL OWNER\nJob poyindi ani pelli cancel\nchesina ammaayi...Moosi nadi lo\ntheleeni abbaayi\nKENNEL ASSISTANT\nAnthe mari...office lo denno goki\nuntaadu...aina kottaga drugs anta\nbaava...software vaallu andaaru\nmukku podum laaga vaadestunnaaranta\nKENNEL OWNER\nDrugs ante gurthuku vochindi\nemadhya drugs ni kukkala kadupulo\nkudaa petti surfara chesthunnaaru\nanta...\nKENNEL ASSISTANT\n(resigned)\nKali kalam\nVEDA enters the kennel with the PUG in the baby sling.\nKENNEL OWNER\nHello, sir randi.\nVEDA\nBaavundandhi. Anni kukkalu\nbaagunnayi.\nKENNEL OWNER\nThank you sir.\nVEDA points at a bulldog, tongue sticking out and drooling.\nVEDA\nAdhigo, akkada, entha beautiful ga\nundho...",
+  "words_ids": {
+    "1000": "27.",
+    "1001": "38",
+    "1002": "EXT.",
+    "1003": "KENNEL",
+    "1004": "-",
+    "1005": "DAY",
+    "1006": "Two",
+    "1007": "men,",
+    "1008": "the",
+    "1009": "KENNEL",
+    "1010": "OWNER",
+    "1011": "and",
+    "1012": "the",
+    "1013": "KENNEL",
+    "1014": "ASSISTANT,",
+    "1015": "are",
+    "1016": "sitting",
+    "1017": "across",
+    "1018": "each",
+    "1019": "other",
+    "1020": "on",
+    "1021": "easy",
+    "1022": "chairs,",
+    "1023": "reading",
+    "1024": "the",
+    "1025": "newspaper.",
+    "1026": "KENNEL",
+    "1027": "OWNER",
+    "1028": "Job",
+    "1029": "poyindi",
+    "1030": "ani",
+    "1031": "pelli",
+    "1032": "cancel",
+    "1033": "chesina",
+    "1034": "ammaayi...Moosi",
+    "1035": "nadi",
+    "1036": "lo",
+    "1037": "theleeni",
+    "1038": "abbaayi",
+    "1039": "KENNEL",
+    "1040": "ASSISTANT",
+    "1041": "Anthe",
+    "1042": "mari...office",
+    "1043": "lo",
+    "1044": "denno",
+    "1045": "goki",
+    "1046": "untaadu...aina",
+    "1047": "kottaga",
+    "1048": "drugs",
+    "1049": "anta",
+    "1050": "baava...software",
+    "1051": "vaallu",
+    "1052": "andaaru",
+    "1053": "mukku",
+    "1054": "podum",
+    "1055": "laaga",
+    "1056": "vaadestunnaaranta",
+    "1057": "KENNEL",
+    "1058": "OWNER",
+    "1059": "Drugs",
+    "1060": "ante",
+    "1061": "gurthuku",
+    "1062": "vochindi",
+    "1063": "emadhya",
+    "1064": "drugs",
+    "1065": "ni",
+    "1066": "kukkala",
+    "1067": "kadupulo",
+    "1068": "kudaa",
+    "1069": "petti",
+    "1070": "surfara",
+    "1071": "chesthunnaaru",
+    "1072": "anta...",
+    "1073": "KENNEL",
+    "1074": "ASSISTANT",
+    "1075": "(resigned)",
+    "1076": "Kali",
+    "1077": "kalam",
+    "1078": "VEDA",
+    "1079": "enters",
+    "1080": "the",
+    "1081": "kennel",
+    "1082": "with",
+    "1083": "the",
+    "1084": "PUG",
+    "1085": "in",
+    "1086": "the",
+    "1087": "baby",
+    "1088": "sling.",
+    "1089": "KENNEL",
+    "1090": "OWNER",
+    "1091": "Hello,",
+    "1092": "sir",
+    "1093": "randi.",
+    "1094": "VEDA",
+    "1095": "Baavundandhi.",
+    "1096": "Anni",
+    "1097": "kukkalu",
+    "1098": "baagunnayi.",
+    "1099": "KENNEL",
+    "1100": "OWNER",
+    "1101": "Thank",
+    "1102": "you",
+    "1103": "sir.",
+    "1104": "VEDA",
+    "1105": "points",
+    "1106": "at",
+    "1107": "a",
+    "1108": "bulldog,",
+    "1109": "tongue",
+    "1110": "sticking",
+    "1111": "out",
+    "1112": "and",
+    "1113": "drooling.",
+    "1114": "VEDA",
+    "1115": "Adhigo,",
+    "1116": "akkada,",
+    "1117": "entha",
+    "1118": "beautiful",
+    "1119": "ga",
+    "1120": "undho..."
+  },
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "KENNEL OWNER",
+        "KENNEL ASSISTANT",
+        "VEDA"
+      ],
+      "SET": [
+        "EXT. KENNEL - DAY"
+      ],
+      "PROPS": [
+        "newspaper",
+        "baby sling"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [
+        "PUG",
+        "kukkalu",
+        "bulldog"
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "KENNEL OWNER",
+            "ids": [
+              "1009",
+              "1010"
+            ]
+          },
+          {
+            "value": "KENNEL OWNER",
+            "ids": [
+              "1026",
+              "1027"
+            ]
+          },
+          {
+            "value": "KENNEL OWNER",
+            "ids": [
+              "1057",
+              "1058"
+            ]
+          },
+          {
+            "value": "KENNEL OWNER",
+            "ids": [
+              "1089",
+              "1090"
+            ]
+          },
+          {
+            "value": "KENNEL OWNER",
+            "ids": [
+              "1099",
+              "1100"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "KENNEL ASSISTANT",
+            "ids": [
+              "1039",
+              "1040"
+            ]
+          },
+          {
+            "value": "KENNEL ASSISTANT",
+            "ids": [
+              "1073",
+              "1074"
+            ]
+          },
+          {
+            "value": "KENNEL ASSISTANT,",
+            "ids": [
+              "1013",
+              "1014"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1078"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1094"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1104"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1114"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. KENNEL - DAY",
+            "ids": [
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "newspaper.",
+            "ids": [
+              "1025"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "baby sling.",
+            "ids": [
+              "1087",
+              "1088"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [
+        [
+          {
+            "value": "PUG",
+            "ids": [
+              "1084"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "kukkalu",
+            "ids": [
+              "1097"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "bulldog,",
+            "ids": [
+              "1108"
+            ]
+          }
+        ]
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

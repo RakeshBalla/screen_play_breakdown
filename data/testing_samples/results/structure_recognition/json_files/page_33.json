@@ -1,0 +1,239 @@
+{
+  "page_dict": {
+    "alltext": "32.\nCUT TO:\n40 INT. AUDITORIUM - DAY\nSUBBA RAJU is performing the \"Navarasas\" on stage. The\nauditorium is pretty empty but for seven eight people, with a\nseat occupied by a serious looking, middle-aged, salt-and-\npepper bearded man, film director SHAM GOPAL VERMA.\nHe is watching intently. The camera tilts down to show that\nhis hands are tied. The still silence of the SHAM GOPAL VERMA\nstops when he squirms some words out",
+    "words_ids": {
+      "1406": "32.",
+      "6901": "CUT",
+      "7463": "TO:",
+      "9428": "40",
+      "9419": "INT.",
+      "1293": "AUDITORIUM",
+      "1929": "-",
+      "3149": "DAY",
+      "1238": "SUBBA",
+      "9399": "RAJU",
+      "7824": "is",
+      "8628": "performing",
+      "2738": "the",
+      "1580": "\"Navarasas\"",
+      "4829": "on",
+      "4665": "stage.",
+      "4058": "The",
+      "2904": "auditorium",
+      "1642": "is",
+      "9699": "pretty",
+      "9340": "empty",
+      "1628": "but",
+      "5170": "some",
+      "9090": "seven",
+      "3965": "eight",
+      "3574": "people,",
+      "6808": "with",
+      "4343": "a",
+      "5460": "seat",
+      "8447": "occupied",
+      "9870": "by",
+      "2506": "a",
+      "8308": "serious",
+      "6154": "looking,",
+      "9871": "middle-aged,",
+      "5121": "salt-and-",
+      "6748": "pepper",
+      "7928": "bearded",
+      "5107": "man,",
+      "1783": "film",
+      "5401": "director",
+      "7631": "SHAM",
+      "8301": "GOPAL",
+      "7341": "VERMA.",
+      "4817": "He",
+      "3850": "is",
+      "6494": "watching",
+      "3131": "intently.",
+      "6864": "The",
+      "2464": "camera",
+      "1534": "tilts",
+      "4481": "down",
+      "5933": "to",
+      "3133": "show",
+      "2538": "that",
+      "7549": "his",
+      "5103": "hands",
+      "9819": "are",
+      "6927": "tied.",
+      "1422": "The",
+      "4167": "still",
+      "6549": "silence",
+      "4982": "of",
+      "6177": "the",
+      "6204": "SHAM",
+      "9177": "GOPAL",
+      "3039": "VERMA",
+      "4853": "stops",
+      "4653": "when",
+      "7395": "he",
+      "3880": "squirms",
+      "1384": "words",
+      "9882": "out"
+    }
+  },
+  "sample_no": "sample3",
+  "pdf_file_name": "page_33.pdf",
+  "llm_response": {
+    "scene_number": [
+      "32",
+      "40"
+    ],
+    "slugline": {
+      "type": [
+        null,
+        "INT."
+      ],
+      "location": [
+        null,
+        "AUDITORIUM"
+      ],
+      "time_of_day": [
+        null,
+        "DAY"
+      ]
+    },
+    "action_lines": [
+      "SUBBA RAJU is performing the \"Navarasas\" on stage. The\nauditorium is pretty empty but for seven eight people, with a\nseat occupied by a serious looking, middle-aged, salt-and-\npepper bearded man, film director SHAM GOPAL VERMA.\nHe is watching intently. The camera tilts down to show that\nhis hands are tied. The still silence of the SHAM GOPAL VERMA\nstops when he squirms some words out"
+    ],
+    "dialogue": [],
+    "transitions": [
+      "CUT TO:"
+    ],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      {
+        "value": "32",
+        "ids": []
+      },
+      {
+        "value": "40",
+        "ids": [
+          9428
+        ]
+      }
+    ],
+    "slugline": {
+      "type": [
+        {
+          "value": null,
+          "ids": []
+        },
+        {
+          "value": "INT.",
+          "ids": [
+            9419
+          ]
+        }
+      ],
+      "location": [
+        {
+          "value": null,
+          "ids": []
+        },
+        {
+          "value": "AUDITORIUM",
+          "ids": [
+            1293,
+            2904
+          ]
+        }
+      ],
+      "time_of_day": [
+        {
+          "value": null,
+          "ids": []
+        },
+        {
+          "value": "DAY",
+          "ids": [
+            3149
+          ]
+        }
+      ]
+    },
+    "action_lines": [
+      {
+        "value": "SUBBA RAJU is performing the \"Navarasas\" on stage. The\nauditorium is pretty empty but for seven eight people, with a\nseat occupied by a serious looking, middle-aged, salt-and-\npepper bearded man, film director SHAM GOPAL VERMA.\nHe is watching intently. The camera tilts down to show that\nhis hands are tied. The still silence of the SHAM GOPAL VERMA\nstops when he squirms some words out",
+        "ids": [
+          1293,
+          1238,
+          9399,
+          7824,
+          8628,
+          2738,
+          4829,
+          4058,
+          2904,
+          1642,
+          9699,
+          9340,
+          1628,
+          5170,
+          9090,
+          3965,
+          6808,
+          4343,
+          5460,
+          8447,
+          9870,
+          2506,
+          8308,
+          6748,
+          7928,
+          1783,
+          5401,
+          7631,
+          8301,
+          4817,
+          3850,
+          6494,
+          6864,
+          2464,
+          1534,
+          4481,
+          5933,
+          3133,
+          2538,
+          7549,
+          5103,
+          9819,
+          1422,
+          4167,
+          6549,
+          4982,
+          6177,
+          6204,
+          9177,
+          3039,
+          4853,
+          4653,
+          7395,
+          3880,
+          1384,
+          9882
+        ]
+      }
+    ],
+    "dialogue": [],
+    "transitions": [
+      {
+        "value": "CUT TO:",
+        "ids": [
+          6901,
+          5933
+        ]
+      }
+    ],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

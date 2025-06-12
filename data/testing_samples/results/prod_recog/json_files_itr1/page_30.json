@@ -1,0 +1,262 @@
+{
+  "page_dict": {
+    "alltext": "29.\nVEDA\nMeeku ela thelusu?\nKENNEL OWNER\nMoham choosthey\ntheliyattlaa...ikkado udhyogam\nundhi chesthara?\nVEDA\nenti ikkada?\nKENNEL OWNER\nDignity of labour undaali...ye\npanaina pane\nVEDA\nSarey.. Em cheyali\nKENNEL OWNER\n(smiles wickedly)\nOk, nenu mee kukka ne konaalenu\nkaani oka help cheyagalanu...meedi\nmale aa female aa...\nVEDA\n...Male...\nKENNEL OWNER\nSare...naa daggara six female dogs\nunnaayi...so veetiki three times\nmee kukkani anduku\nteskovaste...meeku trip ki 1,500\nista...\nVEDA\nWhat.?\nKENNEL OWNER\nAdhe mating ki\nVEDA\n(disgusted)\nMeeru dhenitho mating ah!!! Tch!!\nKENNEL OWNER\nBah..Na ada sunakaliki.\nVEDA thinks for a second; a realization dawns on him.\nVEDA\nantey basicga me sunakaliki pimp\navamantunaavu?\n(MORE)",
+    "words_ids": {
+      "5934": "29.",
+      "2633": "VEDA",
+      "9638": "Meeku",
+      "3936": "ela",
+      "6793": "thelusu?",
+      "4237": "KENNEL",
+      "8477": "OWNER",
+      "3368": "Moham",
+      "8233": "choosthey",
+      "9612": "theliyattlaa...ikkado",
+      "3857": "udhyogam",
+      "4768": "undhi",
+      "1712": "chesthara?",
+      "8950": "VEDA",
+      "5392": "enti",
+      "1601": "ikkada?",
+      "1719": "KENNEL",
+      "2580": "OWNER",
+      "9734": "Dignity",
+      "1035": "of",
+      "2398": "labour",
+      "1893": "undaali...ye",
+      "2228": "panaina",
+      "5023": "pane",
+      "3897": "VEDA",
+      "9898": "Sarey..",
+      "1524": "Em",
+      "4675": "cheyali",
+      "5728": "KENNEL",
+      "9980": "OWNER",
+      "4662": "(smiles",
+      "9671": "wickedly)",
+      "6085": "Ok,",
+      "3602": "me",
+      "4785": "mee",
+      "4177": "kukka",
+      "7990": "ne",
+      "8945": "konaalenu",
+      "8832": "kaani",
+      "6261": "oka",
+      "1482": "help",
+      "2203": "cheyagalanu...meedi",
+      "8092": "male",
+      "2076": "aa",
+      "3362": "female",
+      "2669": "aa...",
+      "5943": "VEDA",
+      "7274": "...Male...",
+      "2070": "KENNEL",
+      "3297": "OWNER",
+      "8844": "Sare...naa",
+      "4603": "daggara",
+      "6755": "six",
+      "6015": "female",
+      "8609": "dogs",
+      "7551": "unnaayi...so",
+      "7729": "veetiki",
+      "6266": "three",
+      "1300": "times",
+      "5453": "mee",
+      "3299": "kukkani",
+      "2719": "anduku",
+      "7297": "teskovaste...meeku",
+      "7681": "trip",
+      "6600": "ki",
+      "2532": "1,500",
+      "2420": "ista...",
+      "1398": "VEDA",
+      "5252": "What.?",
+      "8728": "KENNEL",
+      "2418": "OWNER",
+      "2376": "Adhe",
+      "3519": "mating",
+      "5365": "ki",
+      "2371": "VEDA",
+      "5076": "(disgusted)",
+      "1111": "Meeru",
+      "5970": "dhenitho",
+      "2660": "mating",
+      "1537": "ah!!!",
+      "9595": "Tch!!",
+      "6437": "KENNEL",
+      "1344": "OWNER",
+      "9183": "Bah..Na",
+      "4198": "ada",
+      "2225": "sunakaliki.",
+      "8905": "VEDA",
+      "5281": "thinks",
+      "9245": "for",
+      "3935": "a",
+      "9012": "second;",
+      "8658": "a",
+      "9419": "realization",
+      "5260": "dawns",
+      "5050": "on",
+      "2280": "him.",
+      "7715": "VEDA",
+      "6237": "antey",
+      "1203": "basicga",
+      "8423": "sunakaliki",
+      "4265": "pimp",
+      "1707": "avamantunaavu?",
+      "3662": "(MORE)"
+    }
+  },
+  "sample_no": "sample3",
+  "pdf_file_name": "page_30.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "VEDA",
+        "KENNEL OWNER"
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [],
+      "PROPS": [],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [],
+      "CAMERA": [],
+      "SOUND": [],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [
+        "dogs"
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [
+        "KENNEL"
+      ],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "VEDA",
+          "ids": [
+            1398,
+            2371
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            2633,
+            3897
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            5943,
+            7715
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            8905,
+            8950
+          ]
+        },
+        {
+          "value": "KENNEL OWNER",
+          "ids": [
+            4237,
+            8477,
+            1719,
+            2580,
+            5728,
+            9980,
+            2070,
+            3297,
+            8728,
+            2418,
+            6437,
+            1344
+          ]
+        }
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [],
+      "PROPS": [],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [],
+      "CAMERA": [],
+      "SOUND": [],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [
+        {
+          "value": "dogs",
+          "ids": [
+            8609
+          ]
+        }
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [
+        {
+          "value": "KENNEL",
+          "ids": [
+            1719,
+            2070
+          ]
+        },
+        {
+          "value": "KENNEL",
+          "ids": [
+            4237,
+            5728
+          ]
+        },
+        {
+          "value": "KENNEL",
+          "ids": [
+            6437,
+            8728
+          ]
+        }
+      ],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  }
+}

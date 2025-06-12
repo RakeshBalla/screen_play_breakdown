@@ -1,0 +1,109 @@
+{
+  "page_dict": {
+    "alltext": "76.\nSULOCHANA\nNuvvu anni tingari tingari gaa\nmatladtunnaavu, Okkasaari Baba ni\nkalisi vastha...Aayana chaala\nmanchi vaaru... nenani theleedemo..\nAedo mis-understanding.\nVEDA\nAmaayakathvama, balupa?... Inka\nmanchi vaarantaav enti?...\nNot heeding VEDA, she briskly walks towards BABA's chambers.\nVEDA and GOVARDHAN soon follow.\nCUT TO:",
+    "words_ids": {
+      "6421": "76.",
+      "5952": "SULOCHANA",
+      "5390": "Nuvvu",
+      "5700": "anni",
+      "9381": "tingari",
+      "2946": "tingari",
+      "7646": "gaa",
+      "8495": "matladtunnaavu,",
+      "2468": "Okkasaari",
+      "8580": "Baba",
+      "3263": "ni",
+      "2810": "kalisi",
+      "5714": "vastha...Aayana",
+      "3915": "chaala",
+      "2890": "manchi",
+      "3756": "vaaru...",
+      "1910": "nenani",
+      "6562": "theleedemo..",
+      "6462": "Aedo",
+      "7023": "mis-understanding.",
+      "4021": "VEDA",
+      "2024": "Amaayakathvama,",
+      "2002": "balupa?...",
+      "7690": "Inka",
+      "8638": "manchi",
+      "8784": "vaarantaav",
+      "4374": "enti?...",
+      "9955": "Not",
+      "9840": "heeding",
+      "7171": "VEDA,",
+      "8692": "she",
+      "3949": "briskly",
+      "2848": "walks",
+      "6913": "towards",
+      "2463": "BABA's",
+      "9164": "chambers.",
+      "7641": "VEDA",
+      "2291": "and",
+      "1833": "GOVARDHAN",
+      "3592": "soon",
+      "6278": "follow.",
+      "7630": "CUT",
+      "9542": "TO:"
+    }
+  },
+  "sample_no": "sample5",
+  "pdf_file_name": "page_77.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "SULOCHANA",
+        "VEDA",
+        "GOVARDHAN",
+        "BABA"
+      ],
+      "SET": [],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            5952
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            4021,
+            7641
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            1833
+          ]
+        },
+        {
+          "value": "BABA",
+          "ids": [
+            8580
+          ]
+        }
+      ],
+      "SET": [],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

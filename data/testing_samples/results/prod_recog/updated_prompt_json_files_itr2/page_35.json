@@ -1,0 +1,165 @@
+{
+  "sample_no": "sample4",
+  "pdf_file_name": "page_35.pdf",
+  "alltext": "42 EXT. PUB-BACKSIDE - NIGHT\nVASU swaps the number plates on a container truck parked. He\ntakes sticks the number plate on an identical container\ntruck.\nVASU\nNakko thokkani thokaddam antey\nidhey nemo...number plate marchadam\ntho laksha kotlu kottesaam\nRAJU is seated in this truck. VASU climbs on and the two\ndrive off.\nCUT TO:",
+  "words_ids": {
+    "1000": "42",
+    "1001": "EXT.",
+    "1002": "PUB-BACKSIDE",
+    "1003": "-",
+    "1004": "NIGHT",
+    "1005": "VASU",
+    "1006": "swaps",
+    "1007": "the",
+    "1008": "number",
+    "1009": "plates",
+    "1010": "on",
+    "1011": "a",
+    "1012": "container",
+    "1013": "truck",
+    "1014": "parked.",
+    "1015": "He",
+    "1016": "takes",
+    "1017": "sticks",
+    "1018": "the",
+    "1019": "number",
+    "1020": "plate",
+    "1021": "on",
+    "1022": "an",
+    "1023": "identical",
+    "1024": "container",
+    "1025": "truck.",
+    "1026": "VASU",
+    "1027": "Nakko",
+    "1028": "thokkani",
+    "1029": "thokaddam",
+    "1030": "antey",
+    "1031": "idhey",
+    "1032": "nemo...number",
+    "1033": "plate",
+    "1034": "marchadam",
+    "1035": "tho",
+    "1036": "laksha",
+    "1037": "kotlu",
+    "1038": "kottesaam",
+    "1039": "RAJU",
+    "1040": "is",
+    "1041": "seated",
+    "1042": "in",
+    "1043": "this",
+    "1044": "truck.",
+    "1045": "VASU",
+    "1046": "climbs",
+    "1047": "on",
+    "1048": "and",
+    "1049": "the",
+    "1050": "two",
+    "1051": "drive",
+    "1052": "off.",
+    "1053": "CUT",
+    "1054": "TO:"
+  },
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "VASU",
+        "RAJU"
+      ],
+      "SET": [
+        "EXT. PUB-BACKSIDE - NIGHT"
+      ],
+      "PROPS": [
+        "number plates"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        "container truck"
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "VASU",
+            "ids": [
+              "1005"
+            ]
+          },
+          {
+            "value": "VASU",
+            "ids": [
+              "1026"
+            ]
+          },
+          {
+            "value": "VASU",
+            "ids": [
+              "1045"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "RAJU",
+            "ids": [
+              "1039"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. PUB-BACKSIDE - NIGHT",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "number plates",
+            "ids": [
+              "1008",
+              "1009"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        [
+          {
+            "value": "container truck",
+            "ids": [
+              "1012",
+              "1013"
+            ]
+          },
+          {
+            "value": "container truck.",
+            "ids": [
+              "1024",
+              "1025"
+            ]
+          }
+        ]
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "ALL_TEXT": "124 EXT. MINISTER'S HOUSE-DINGY ROOM - NIGHT \nThe TRANSPORT MINISTER also walks out disappointed. He \nnotices the Forest Minister's 8-year-old GRANDSON watching \nfrom a bush nearby. \nGRANDSON \nUncle emanna cheppaara? \nTRANSPORT MINISTER \nLedhu aemi cheppaledhu raa. \nThe TRANSPORT MINISTER walks off, throwing the monkey cap \naway. \nGRANDSON \nAndaru abbadaalu aduthunnaaru. Nenu \nadugutha. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "124",
+    "1001": "EXT.",
+    "1002": "MINISTER'S",
+    "1003": "HOUSE-DINGY",
+    "1004": "ROOM",
+    "1005": "-",
+    "1006": "NIGHT",
+    "1007": "The",
+    "1008": "TRANSPORT",
+    "1009": "MINISTER",
+    "1010": "also",
+    "1011": "walks",
+    "1012": "out",
+    "1013": "disappointed.",
+    "1014": "He",
+    "1015": "notices",
+    "1016": "the",
+    "1017": "Forest",
+    "1018": "Minister's",
+    "1019": "8-year-old",
+    "1020": "GRANDSON",
+    "1021": "watching",
+    "1022": "from",
+    "1023": "a",
+    "1024": "bush",
+    "1025": "nearby.",
+    "1026": "GRANDSON",
+    "1027": "Uncle",
+    "1028": "emanna",
+    "1029": "cheppaara?",
+    "1030": "TRANSPORT",
+    "1031": "MINISTER",
+    "1032": "Ledhu",
+    "1033": "aemi",
+    "1034": "cheppaledhu",
+    "1035": "raa.",
+    "1036": "The",
+    "1037": "TRANSPORT",
+    "1038": "MINISTER",
+    "1039": "walks",
+    "1040": "off,",
+    "1041": "throwing",
+    "1042": "the",
+    "1043": "monkey",
+    "1044": "cap",
+    "1045": "away.",
+    "1046": "GRANDSON",
+    "1047": "Andaru",
+    "1048": "abbadaalu",
+    "1049": "aduthunnaaru.",
+    "1050": "Nenu",
+    "1051": "adugutha.",
+    "1052": "CUT",
+    "1053": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "TRANSPORT MINISTER",
+        "GRANDSON"
+      ],
+      "SET": [
+        "EXT. MINISTER'S HOUSE-DINGY ROOM - NIGHT"
+      ],
+      "PROPS": [
+        "monkey cap"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        "bush"
+      ],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "TRANSPORT MINISTER",
+            "ids": [
+              "1008",
+              "1009"
+            ]
+          },
+          {
+            "value": "TRANSPORT MINISTER",
+            "ids": [
+              "1030",
+              "1031"
+            ]
+          },
+          {
+            "value": "TRANSPORT MINISTER",
+            "ids": [
+              "1037",
+              "1038"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "GRANDSON",
+            "ids": [
+              "1020"
+            ]
+          },
+          {
+            "value": "GRANDSON",
+            "ids": [
+              "1026"
+            ]
+          },
+          {
+            "value": "GRANDSON",
+            "ids": [
+              "1046"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. MINISTER'S HOUSE-DINGY ROOM - NIGHT",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005",
+              "1006"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "monkey cap",
+            "ids": [
+              "1043",
+              "1044"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        [
+          {
+            "value": "bush",
+            "ids": [
+              "1024"
+            ]
+          }
+        ]
+      ],
+      "SOUND": []
+    }
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "page_dict": {
+    "alltext": "3. 13 EXT. RUINED TEMPLE - NIGHTFADE IN. SUPERIMPOSE: 2009. On the edge of a platform in tattered, dishevelled rags, two bums, SURESH and a mute BUM, are smoking up using chillams and listening to the Gita on the radio. The mute BUM is slow-dancing against a female mannequin torso stuck in the middle of a tree. RADIO (V.O.) Jaatasya hi dhruvo martyurdhruvaam janma martasya cha tasmaadaparihaaryerthe na tvam sochitumarhasi. Puttina vaaniki maranamu tappadhu. Maraninchina vaaniki janmamu tappadhu. Anivaaryamagu ee vishayamunu goorchi Sokimpa tagadhu. SURESH takes the radio and opens a compartment in the back. He takes out some weed from it, puts it in his chillam, and continues smoking up. CUT TO:",
+    "words_ids": {
+      "1000": "3.",
+      "1001": "13",
+      "1002": "EXT.",
+      "1003": "RUINED",
+      "1004": "TEMPLE",
+      "1005": "-",
+      "1006": "NIGHTFADE",
+      "1007": "IN.",
+      "1008": "SUPERIMPOSE:",
+      "1009": "2009.",
+      "1010": "On",
+      "1011": "the",
+      "1012": "edge",
+      "1013": "of",
+      "1014": "a",
+      "1015": "platform",
+      "1016": "in",
+      "1017": "tattered,",
+      "1018": "dishevelled",
+      "1019": "rags,",
+      "1020": "two",
+      "1021": "bums,",
+      "1022": "SURESH",
+      "1023": "and",
+      "1024": "a",
+      "1025": "mute",
+      "1026": "BUM,",
+      "1027": "are",
+      "1028": "smoking",
+      "1029": "up",
+      "1030": "using",
+      "1031": "chillams",
+      "1032": "and",
+      "1033": "listening",
+      "1034": "to",
+      "1035": "the",
+      "1036": "Gita",
+      "1037": "on",
+      "1038": "the",
+      "1039": "radio.",
+      "1040": "The",
+      "1041": "mute",
+      "1042": "BUM",
+      "1043": "is",
+      "1044": "slow-dancing",
+      "1045": "against",
+      "1046": "a",
+      "1047": "female",
+      "1048": "mannequin",
+      "1049": "torso",
+      "1050": "stuck",
+      "1051": "in",
+      "1052": "the",
+      "1053": "middle",
+      "1054": "of",
+      "1055": "a",
+      "1056": "tree.",
+      "1057": "RADIO",
+      "1058": "(V.O.)",
+      "1059": "Jaatasya",
+      "1060": "hi",
+      "1061": "dhruvo",
+      "1062": "martyurdhruvaam",
+      "1063": "janma",
+      "1064": "martasya",
+      "1065": "cha",
+      "1066": "tasmaadaparihaaryerthe",
+      "1067": "na",
+      "1068": "tvam",
+      "1069": "sochitumarhasi.",
+      "1070": "Puttina",
+      "1071": "vaaniki",
+      "1072": "maranamu",
+      "1073": "tappadhu.",
+      "1074": "Maraninchina",
+      "1075": "vaaniki",
+      "1076": "janmamu",
+      "1077": "tappadhu.",
+      "1078": "Anivaaryamagu",
+      "1079": "ee",
+      "1080": "vishayamunu",
+      "1081": "goorchi",
+      "1082": "Sokimpa",
+      "1083": "tagadhu.",
+      "1084": "SURESH",
+      "1085": "takes",
+      "1086": "the",
+      "1087": "radio",
+      "1088": "and",
+      "1089": "opens",
+      "1090": "a",
+      "1091": "compartment",
+      "1092": "in",
+      "1093": "the",
+      "1094": "back.",
+      "1095": "He",
+      "1096": "takes",
+      "1097": "out",
+      "1098": "some",
+      "1099": "weed",
+      "1100": "from",
+      "1101": "it,",
+      "1102": "puts",
+      "1103": "it",
+      "1104": "in",
+      "1105": "his",
+      "1106": "chillam,",
+      "1107": "and",
+      "1108": "continues",
+      "1109": "smoking",
+      "1110": "up.",
+      "1111": "CUT",
+      "1112": "TO:"
+    }
+  },
+  "sample_no": "sample2",
+  "pdf_file_name": "page_4.pdf",
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "SURESH",
+        "mute BUM"
+      ],
+      "SET": [
+        "EXT. RUINED TEMPLE - NIGHT"
+      ],
+      "PROPS": [
+        "chillams",
+        "radio",
+        "female mannequin torso",
+        "weed"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        "tree"
+      ],
+      "SOUND": [
+        "RADIO (V.O.)"
+      ]
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "SURESH",
+            "ids": [
+              "1022"
+            ]
+          },
+          {
+            "value": "SURESH",
+            "ids": [
+              "1084"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "mute BUM",
+            "ids": [
+              "1041",
+              "1042"
+            ]
+          },
+          {
+            "value": "mute BUM,",
+            "ids": [
+              "1025",
+              "1026"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. RUINED TEMPLE - NIGHT",
+            "ids": [
+              "unable to find ids"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "chillams",
+            "ids": [
+              "1031"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "radio",
+            "ids": [
+              "1087"
+            ]
+          },
+          {
+            "value": "radio.",
+            "ids": [
+              "1039"
+            ]
+          },
+          {
+            "value": "RADIO",
+            "ids": [
+              "1057"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "female mannequin torso",
+            "ids": [
+              "1047",
+              "1048",
+              "1049"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "weed",
+            "ids": [
+              "1099"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        [
+          {
+            "value": "tree.",
+            "ids": [
+              "1056"
+            ]
+          }
+        ]
+      ],
+      "SOUND": [
+        [
+          {
+            "value": "RADIO (V.O.)",
+            "ids": [
+              "1057",
+              "1058"
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}

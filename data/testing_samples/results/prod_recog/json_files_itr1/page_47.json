@@ -1,0 +1,394 @@
+{
+  "page_dict": {
+    "alltext": "46.\n57 EXT. ROAD - NIGHT\nVEDA is driving his bike at a slow pace, PUG and GOVARDHAN in\ntow.\nVEDA\nAina koduthunte nilabadi chustharu\nentandi? paaripovali lekapothey\nkotali...Sorry Telugu vacha?\nGOVARDHAN\n(shouts)\nBike aapu...\nVEDA\nSir ekkadiki vellaalo cheppandi nen\ndrop chesthanu\nGOVARDHAN\n(fuming)\nDrop chesthaava?? Ippudu godava\njaringindhey akkadey naa apartment\ndhaniki yedhuruga naa office ..\nAina kottukunedhi edho meeru\nkottukovaali kaani naa dabba\ntheskoni endhuku kottav\nVEDA\nAdhi enti sir.. Meeru addam\nraakuntey naaku vaallatho godava\naiyedhey kaadhu , mee dabba\ntheskuney vadini kadhu...\nGOVARDHAN\n(angry)\n..na dabbaatho vaadni kotti,\nofficeku ponikunda, intiki\nponikunda dongalaa paaripoye\nvachchettu chesav...\nCUT TO:",
+    "words_ids": {
+      "2685": "46.",
+      "8607": "57",
+      "6829": "EXT.",
+      "6118": "ROAD",
+      "4863": "-",
+      "5040": "NIGHT",
+      "9293": "VEDA",
+      "9141": "is",
+      "1358": "driving",
+      "5988": "his",
+      "6880": "bike",
+      "6522": "at",
+      "9571": "a",
+      "5996": "slow",
+      "5707": "pace,",
+      "6445": "PUG",
+      "4957": "and",
+      "6755": "GOVARDHAN",
+      "1786": "in",
+      "3689": "tow.",
+      "3085": "VEDA",
+      "9677": "Aina",
+      "9432": "koduthunte",
+      "5556": "nilabadi",
+      "6165": "chustharu",
+      "9332": "entandi?",
+      "8085": "paaripovali",
+      "9004": "lekapothey",
+      "8396": "kotali...Sorry",
+      "7276": "Telugu",
+      "5052": "vacha?",
+      "4900": "GOVARDHAN",
+      "7322": "(shouts)",
+      "8707": "Bike",
+      "8321": "aapu...",
+      "8261": "VEDA",
+      "1025": "kotti,",
+      "2179": "ekkadiki",
+      "2708": "vellaalo",
+      "3284": "cheppandi",
+      "8880": "nen",
+      "5794": "drop",
+      "3294": "chesthanu",
+      "9951": "GOVARDHAN",
+      "9390": "(fuming)",
+      "5034": "Drop",
+      "2529": "chesthaava??",
+      "5825": "Ippudu",
+      "3248": "godava",
+      "4409": "jaringindhey",
+      "1124": "akkadey",
+      "7302": "naa",
+      "2967": "apartment",
+      "2459": "dhaniki",
+      "6149": "yedhuruga",
+      "4326": "naa",
+      "1360": "office",
+      "9412": "..",
+      "8650": "Aina",
+      "1296": "kottukunedhi",
+      "1558": "edho",
+      "8422": "meeru",
+      "7548": "kottukovaali",
+      "4190": "kaani",
+      "5856": "naa",
+      "6968": "dabba",
+      "3241": "theskoni",
+      "1439": "endhuku",
+      "2106": "kottav",
+      "3573": "VEDA",
+      "8552": "chesav...",
+      "1413": "enti",
+      "1064": "sir..",
+      "5447": "Meeru",
+      "8189": "addam",
+      "3826": "raakuntey",
+      "3055": "naaku",
+      "2390": "vaallatho",
+      "2586": "godava",
+      "9709": "aiyedhey",
+      "1396": "kaadhu",
+      "8478": ",",
+      "7449": "mee",
+      "6041": "dabba",
+      "9820": "theskuney",
+      "4504": "vadini",
+      "2524": "kadhu...",
+      "9966": "GOVARDHAN",
+      "3646": "(angry)",
+      "9054": "..na",
+      "2637": "dabbaatho",
+      "5256": "vaadni",
+      "8465": "officeku",
+      "3885": "ponikunda,",
+      "6762": "intiki",
+      "8440": "ponikunda",
+      "7252": "dongalaa",
+      "7484": "paaripoye",
+      "9031": "vachchettu",
+      "9891": "CUT",
+      "2140": "TO:"
+    }
+  },
+  "sample_no": "sample9",
+  "pdf_file_name": "page_47.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "VEDA",
+        "PUG",
+        "GOVARDHAN"
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [],
+      "PROPS": [
+        "bike",
+        "dabba"
+      ],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [
+        "EXT. ROAD - NIGHT"
+      ],
+      "CAMERA": [
+        "CUT TO:"
+      ],
+      "SOUND": [
+        "VEDA: Aina koduthunte nilabadi chustharu entandi? paaripovali lekapothey kotali...Sorry Telugu vacha?",
+        "GOVARDHAN: (shouts) Bike aapu...",
+        "VEDA: Sir ekkadiki vellaalo cheppandi nen drop chesthanu",
+        "GOVARDHAN: (fuming) Drop chesthaava?? Ippudu godava jaringindhey akkadey naa apartment dhaniki yedhuruga naa office .. Aina kottukunedhi edho meeru kottukovaali kaani naa dabba theskoni endhuku kottav",
+        "VEDA: Adhi enti sir.. Meeru addam raakuntey naaku vaallatho godava aiyedhey kaadhu , mee dabba theskuney vadini kadhu...",
+        "GOVARDHAN: (angry) ..na dabbaatho vaadni kotti, officeku ponikunda, intiki ponikunda dongalaa paaripoye vachchettu chesav..."
+      ],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [
+        "bike"
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "VEDA",
+          "ids": [
+            3085,
+            3573
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            8261,
+            9293
+          ]
+        },
+        {
+          "value": "PUG",
+          "ids": [
+            6445
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            4900,
+            6755
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            9951,
+            9966
+          ]
+        }
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [],
+      "PROPS": [
+        {
+          "value": "bike",
+          "ids": [
+            6880,
+            8707
+          ]
+        },
+        {
+          "value": "dabba",
+          "ids": [
+            6041,
+            6968
+          ]
+        }
+      ],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [
+        {
+          "value": "EXT. ROAD - NIGHT",
+          "ids": [
+            6118,
+            5040
+          ]
+        }
+      ],
+      "CAMERA": [
+        {
+          "value": "CUT TO:",
+          "ids": [
+            9891
+          ]
+        }
+      ],
+      "SOUND": [
+        {
+          "value": "VEDA: Aina koduthunte nilabadi chustharu entandi? paaripovali lekapothey kotali...Sorry Telugu vacha?",
+          "ids": [
+            9293,
+            3085,
+            9677,
+            9432,
+            5556,
+            6165,
+            8085,
+            9004,
+            7276,
+            8261,
+            8650,
+            3573
+          ]
+        },
+        {
+          "value": "GOVARDHAN: (shouts) Bike aapu...",
+          "ids": [
+            6880,
+            6755,
+            4900,
+            8707,
+            9951,
+            9966
+          ]
+        },
+        {
+          "value": "VEDA: Sir ekkadiki vellaalo cheppandi nen drop chesthanu",
+          "ids": [
+            9293,
+            3085,
+            8261,
+            2179,
+            2708,
+            3284,
+            8880,
+            5794,
+            3294,
+            5034,
+            3573
+          ]
+        },
+        {
+          "value": "GOVARDHAN: (fuming) Drop chesthaava?? Ippudu godava jaringindhey akkadey naa apartment dhaniki yedhuruga naa office .. Aina kottukunedhi edho meeru kottukovaali kaani naa dabba theskoni endhuku kottav",
+          "ids": [
+            6755,
+            9677,
+            4900,
+            5794,
+            9951,
+            5034,
+            5825,
+            3248,
+            4409,
+            1124,
+            7302,
+            2967,
+            2459,
+            6149,
+            4326,
+            1360,
+            8650,
+            1296,
+            1558,
+            8422,
+            7548,
+            4190,
+            5856,
+            6968,
+            3241,
+            1439,
+            2106,
+            5447,
+            2586,
+            6041,
+            9966
+          ]
+        },
+        {
+          "value": "VEDA: Adhi enti sir.. Meeru addam raakuntey naaku vaallatho godava aiyedhey kaadhu , mee dabba theskuney vadini kadhu...",
+          "ids": [
+            9293,
+            3085,
+            8261,
+            3248,
+            8422,
+            6968,
+            3573,
+            1413,
+            5447,
+            8189,
+            3826,
+            3055,
+            2390,
+            2586,
+            9709,
+            1396,
+            7449,
+            6041,
+            9820,
+            4504
+          ]
+        },
+        {
+          "value": "GOVARDHAN: (angry) ..na dabbaatho vaadni kotti, officeku ponikunda, intiki ponikunda dongalaa paaripoye vachchettu chesav...",
+          "ids": [
+            6755,
+            4900,
+            9951,
+            9966,
+            2637,
+            5256,
+            8465,
+            6762,
+            8440,
+            7252,
+            7484,
+            9031
+          ]
+        }
+      ],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [
+        {
+          "value": "bike",
+          "ids": [
+            6880,
+            8707
+          ]
+        }
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  }
+}

@@ -1,0 +1,580 @@
+{
+  "ALL_TEXT": "28 EXT. SULOCHANA\u2019S BUILDING - DAY \nSULOCHANA walks home after parking her car. A PUG, leashed to \na chain behind a small gate, is barking at her. \nSULOCHANA \nWhiskey Whiskey emitamma \narusthunaaavu .. aakalesthundaa... \nThe PUG Barks \nSULOCHANA \nsussuki elthaava... \nThe PUG woofs \nSULOCHANA \nneeku teeskellannaa sussu ki? \nShe opens the gate, but before she could grasp a hold of the \nleash, the PUG runs. GANAPATHI, a balding middle-aged \nbespectacled man, is SULOCHANA\u2019s boss, the editor of the TV \nchannel she works for, and also her neighbor. GANAPATHI \nchases after the dog. \nGANAPATHI \nAe SULOCHANA, enduku daanni \nvadhilaavu \nSULOCHANA \nAdi kaadu sir, Whiskey arusthunte \nsussu ki emo sahayam chedhaamani \ngate theesaanu, vachesthundi \nkangarupadakandi \nGANAPATHI \nEnti amma kangaru padedidi! Last \ntime kuda ila ne gate theesavu, \nthanaki vethiki thechukovadaaniki \nvaaram patthindi, nuvvu chese \nsahaayam valla nashtam tappa laabam \nledu. Ee roje illu kaali \nchesesthaanu! Naa valla kaadu! \nSULOCHANA \nUrkondi sir meeru marini, randi car \nekkandi, velli vethukudham. \nGANAPATHI is infuriated... he goes to the car and starts \nkicking the rear bumper \nGANAPATHI \nNuvvu nee dokku car... \nSULOCHANA \nAkkada kaadu sir car driver side \ndoor ni tannandi...oka naalugu \nrojulu ninchi stuck ayindhi. \nGANAPATHI, confounded, continues kicking the rear bumper, \nwhen the car's music system starts playing a song. \nSULOCHANA \nSir serigga thannandi, indaaka \nkoncham aina vacheydhi...ippudu \nadhi kuda raavatledhu... \nGANAPATHI feels helpless, seeing as to how his aggression \ndoesn't seem to have much of an effect on SULOCHANA. He \nleaves, screaming out loud. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "28",
+    "1001": "EXT.",
+    "1002": "SULOCHANA\u2019S",
+    "1003": "BUILDING",
+    "1004": "-",
+    "1005": "DAY",
+    "1006": "SULOCHANA",
+    "1007": "walks",
+    "1008": "home",
+    "1009": "after",
+    "1010": "parking",
+    "1011": "her",
+    "1012": "car.",
+    "1013": "A",
+    "1014": "PUG,",
+    "1015": "leashed",
+    "1016": "to",
+    "1017": "a",
+    "1018": "chain",
+    "1019": "behind",
+    "1020": "a",
+    "1021": "small",
+    "1022": "gate,",
+    "1023": "is",
+    "1024": "barking",
+    "1025": "at",
+    "1026": "her.",
+    "1027": "SULOCHANA",
+    "1028": "Whiskey",
+    "1029": "Whiskey",
+    "1030": "emitamma",
+    "1031": "arusthunaaavu",
+    "1032": "..",
+    "1033": "aakalesthundaa...",
+    "1034": "The",
+    "1035": "PUG",
+    "1036": "Barks",
+    "1037": "SULOCHANA",
+    "1038": "sussuki",
+    "1039": "elthaava...",
+    "1040": "The",
+    "1041": "PUG",
+    "1042": "woofs",
+    "1043": "SULOCHANA",
+    "1044": "neeku",
+    "1045": "teeskellannaa",
+    "1046": "sussu",
+    "1047": "ki?",
+    "1048": "She",
+    "1049": "opens",
+    "1050": "the",
+    "1051": "gate,",
+    "1052": "but",
+    "1053": "before",
+    "1054": "she",
+    "1055": "could",
+    "1056": "grasp",
+    "1057": "a",
+    "1058": "hold",
+    "1059": "of",
+    "1060": "the",
+    "1061": "leash,",
+    "1062": "the",
+    "1063": "PUG",
+    "1064": "runs.",
+    "1065": "GANAPATHI,",
+    "1066": "a",
+    "1067": "balding",
+    "1068": "middle-aged",
+    "1069": "bespectacled",
+    "1070": "man,",
+    "1071": "is",
+    "1072": "SULOCHANA\u2019s",
+    "1073": "boss,",
+    "1074": "the",
+    "1075": "editor",
+    "1076": "of",
+    "1077": "the",
+    "1078": "TV",
+    "1079": "channel",
+    "1080": "she",
+    "1081": "works",
+    "1082": "for,",
+    "1083": "and",
+    "1084": "also",
+    "1085": "her",
+    "1086": "neighbor.",
+    "1087": "GANAPATHI",
+    "1088": "chases",
+    "1089": "after",
+    "1090": "the",
+    "1091": "dog.",
+    "1092": "GANAPATHI",
+    "1093": "Ae",
+    "1094": "SULOCHANA,",
+    "1095": "enduku",
+    "1096": "daanni",
+    "1097": "vadhilaavu",
+    "1098": "SULOCHANA",
+    "1099": "Adi",
+    "1100": "kaadu",
+    "1101": "sir,",
+    "1102": "Whiskey",
+    "1103": "arusthunte",
+    "1104": "sussu",
+    "1105": "ki",
+    "1106": "emo",
+    "1107": "sahayam",
+    "1108": "chedhaamani",
+    "1109": "gate",
+    "1110": "theesaanu,",
+    "1111": "vachesthundi",
+    "1112": "kangarupadakandi",
+    "1113": "GANAPATHI",
+    "1114": "Enti",
+    "1115": "amma",
+    "1116": "kangaru",
+    "1117": "padedidi!",
+    "1118": "Last",
+    "1119": "time",
+    "1120": "kuda",
+    "1121": "ila",
+    "1122": "ne",
+    "1123": "gate",
+    "1124": "theesavu,",
+    "1125": "thanaki",
+    "1126": "vethiki",
+    "1127": "thechukovadaaniki",
+    "1128": "vaaram",
+    "1129": "patthindi,",
+    "1130": "nuvvu",
+    "1131": "chese",
+    "1132": "sahaayam",
+    "1133": "valla",
+    "1134": "nashtam",
+    "1135": "tappa",
+    "1136": "laabam",
+    "1137": "ledu.",
+    "1138": "Ee",
+    "1139": "roje",
+    "1140": "illu",
+    "1141": "kaali",
+    "1142": "chesesthaanu!",
+    "1143": "Naa",
+    "1144": "valla",
+    "1145": "kaadu!",
+    "1146": "SULOCHANA",
+    "1147": "Urkondi",
+    "1148": "sir",
+    "1149": "meeru",
+    "1150": "marini,",
+    "1151": "randi",
+    "1152": "car",
+    "1153": "ekkandi,",
+    "1154": "velli",
+    "1155": "vethukudham.",
+    "1156": "GANAPATHI",
+    "1157": "is",
+    "1158": "infuriated...",
+    "1159": "he",
+    "1160": "goes",
+    "1161": "to",
+    "1162": "the",
+    "1163": "car",
+    "1164": "and",
+    "1165": "starts",
+    "1166": "kicking",
+    "1167": "the",
+    "1168": "rear",
+    "1169": "bumper",
+    "1170": "GANAPATHI",
+    "1171": "Nuvvu",
+    "1172": "nee",
+    "1173": "dokku",
+    "1174": "car...",
+    "1175": "SULOCHANA",
+    "1176": "Akkada",
+    "1177": "kaadu",
+    "1178": "sir",
+    "1179": "car",
+    "1180": "driver",
+    "1181": "side",
+    "1182": "door",
+    "1183": "ni",
+    "1184": "tannandi...oka",
+    "1185": "naalugu",
+    "1186": "rojulu",
+    "1187": "ninchi",
+    "1188": "stuck",
+    "1189": "ayindhi.",
+    "1190": "GANAPATHI,",
+    "1191": "confounded,",
+    "1192": "continues",
+    "1193": "kicking",
+    "1194": "the",
+    "1195": "rear",
+    "1196": "bumper,",
+    "1197": "when",
+    "1198": "the",
+    "1199": "car's",
+    "1200": "music",
+    "1201": "system",
+    "1202": "starts",
+    "1203": "playing",
+    "1204": "a",
+    "1205": "song.",
+    "1206": "SULOCHANA",
+    "1207": "Sir",
+    "1208": "serigga",
+    "1209": "thannandi,",
+    "1210": "indaaka",
+    "1211": "koncham",
+    "1212": "aina",
+    "1213": "vacheydhi...ippudu",
+    "1214": "adhi",
+    "1215": "kuda",
+    "1216": "raavatledhu...",
+    "1217": "GANAPATHI",
+    "1218": "feels",
+    "1219": "helpless,",
+    "1220": "seeing",
+    "1221": "as",
+    "1222": "to",
+    "1223": "how",
+    "1224": "his",
+    "1225": "aggression",
+    "1226": "doesn't",
+    "1227": "seem",
+    "1228": "to",
+    "1229": "have",
+    "1230": "much",
+    "1231": "of",
+    "1232": "an",
+    "1233": "effect",
+    "1234": "on",
+    "1235": "SULOCHANA.",
+    "1236": "He",
+    "1237": "leaves,",
+    "1238": "screaming",
+    "1239": "out",
+    "1240": "loud.",
+    "1241": "CUT",
+    "1242": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "SULOCHANA",
+        "GANAPATHI"
+      ],
+      "SET": [
+        "EXT. SULOCHANA\u2019S BUILDING - DAY"
+      ],
+      "PROPS": [
+        "leash",
+        "chain",
+        "small gate"
+      ],
+      "STUNTS": [
+        "the PUG runs",
+        "GANAPATHI chases after the dog"
+      ],
+      "VEHICLES": [
+        "car"
+      ],
+      "ANIMALS": [
+        "PUG"
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        "barking",
+        "Barks",
+        "woofs",
+        "car's music system starts playing a song",
+        "screaming out loud"
+      ]
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1006"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1027"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1037"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1043"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1098"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1146"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1175"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1206"
+            ]
+          },
+          {
+            "value": "SULOCHANA,",
+            "ids": [
+              "1094"
+            ]
+          },
+          {
+            "value": "SULOCHANA.",
+            "ids": [
+              "1235"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "GANAPATHI",
+            "ids": [
+              "1087"
+            ]
+          },
+          {
+            "value": "GANAPATHI",
+            "ids": [
+              "1092"
+            ]
+          },
+          {
+            "value": "GANAPATHI",
+            "ids": [
+              "1113"
+            ]
+          },
+          {
+            "value": "GANAPATHI",
+            "ids": [
+              "1156"
+            ]
+          },
+          {
+            "value": "GANAPATHI",
+            "ids": [
+              "1170"
+            ]
+          },
+          {
+            "value": "GANAPATHI",
+            "ids": [
+              "1217"
+            ]
+          },
+          {
+            "value": "GANAPATHI,",
+            "ids": [
+              "1065"
+            ]
+          },
+          {
+            "value": "GANAPATHI,",
+            "ids": [
+              "1190"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. SULOCHANA\u2019S BUILDING - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "leash,",
+            "ids": [
+              "1061"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "chain",
+            "ids": [
+              "1018"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "small gate,",
+            "ids": [
+              "1021",
+              "1022"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [
+        [
+          {
+            "value": "the PUG runs.",
+            "ids": [
+              "1062",
+              "1063",
+              "1064"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "GANAPATHI chases after the dog.",
+            "ids": [
+              "1087",
+              "1088",
+              "1089",
+              "1090",
+              "1091"
+            ]
+          }
+        ]
+      ],
+      "VEHICLES": [
+        [
+          {
+            "value": "car",
+            "ids": [
+              "1152"
+            ]
+          },
+          {
+            "value": "car",
+            "ids": [
+              "1163"
+            ]
+          },
+          {
+            "value": "car",
+            "ids": [
+              "1179"
+            ]
+          },
+          {
+            "value": "car.",
+            "ids": [
+              "1012"
+            ]
+          },
+          {
+            "value": "car...",
+            "ids": [
+              "1174"
+            ]
+          }
+        ]
+      ],
+      "ANIMALS": [
+        [
+          {
+            "value": "PUG",
+            "ids": [
+              "1035"
+            ]
+          },
+          {
+            "value": "PUG",
+            "ids": [
+              "1041"
+            ]
+          },
+          {
+            "value": "PUG",
+            "ids": [
+              "1063"
+            ]
+          },
+          {
+            "value": "PUG,",
+            "ids": [
+              "1014"
+            ]
+          }
+        ]
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        [
+          {
+            "value": "barking",
+            "ids": [
+              "1024"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "Barks",
+            "ids": [
+              "1036"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "woofs",
+            "ids": [
+              "1042"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "car's music system starts playing a song.",
+            "ids": [
+              "1199",
+              "1200",
+              "1201",
+              "1202",
+              "1203",
+              "1204",
+              "1205"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "screaming out loud.",
+            "ids": [
+              "1238",
+              "1239",
+              "1240"
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}

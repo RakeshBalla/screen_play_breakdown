@@ -1,0 +1,136 @@
+{
+    "ALL_TEXT": "7 EXT. BAMBOO FOREST - DAY\nTwo monks are meditating - an older monk and a very young\nchild. Three people are fighting in front of them, trying to\nkill each other. One of them dies and falls at the monk\u2019s\nfeet. His sword goes through the older monk, killing him. The\nchild opens his eyes and runs to where the box is. He picks\nit up and runs away.\nCUT TO:",
+    "WORDS_ID": "{\n\"1000\": \"7\",\n\"1001\": \"EXT.\",\n\"1002\": \"BAMBOO\",\n\"1003\": \"FOREST\",\n\"1004\": \"-\",\n\"1005\": \"DAY\",\n\"1006\": \"Two\",\n\"1007\": \"monks\",\n\"1008\": \"are\",\n\"1009\": \"meditating\",\n\"1010\": \"-\",\n\"1011\": \"an\",\n\"1012\": \"older\",\n\"1013\": \"monk\",\n\"1014\": \"and\",\n\"1015\": \"a\",\n\"1016\": \"very\",\n\"1017\": \"young\",\n\"1018\": \"child.\",\n\"1019\": \"Three\",\n\"1020\": \"people\",\n\"1021\": \"are\",\n\"1022\": \"fighting\",\n\"1023\": \"in\",\n\"1024\": \"front\",\n\"1025\": \"of\",\n\"1026\": \"them,\",\n\"1027\": \"trying\",\n\"1028\": \"to\",\n\"1029\": \"kill\",\n\"1030\": \"each\",\n\"1031\": \"other.\",\n\"1032\": \"One\",\n\"1033\": \"of\",\n\"1034\": \"them\",\n\"1035\": \"dies\",\n\"1036\": \"and\",\n\"1037\": \"falls\",\n\"1038\": \"at\",\n\"1039\": \"the\",\n\"1040\": \"monk\\u2019s\",\n\"1041\": \"feet.\",\n\"1042\": \"His\",\n\"1043\": \"sword\",\n\"1044\": \"goes\",\n\"1045\": \"through\",\n\"1046\": \"the\",\n\"1047\": \"older\",\n\"1048\": \"monk,\",\n\"1049\": \"killing\",\n\"1050\": \"him.\",\n\"1051\": \"The\",\n\"1052\": \"child\",\n\"1053\": \"opens\",\n\"1054\": \"his\",\n\"1055\": \"eyes\",\n\"1056\": \"and\",\n\"1057\": \"runs\",\n\"1058\": \"to\",\n\"1059\": \"where\",\n\"1060\": \"the\",\n\"1061\": \"box\",\n\"1062\": \"is.\",\n\"1063\": \"He\",\n\"1064\": \"picks\",\n\"1065\": \"it\",\n\"1066\": \"up\",\n\"1067\": \"and\",\n\"1068\": \"runs\",\n\"1069\": \"away.\",\n\"1070\": \"CUT\",\n\"1071\": \"TO:\"\n}",
+    "llm_result": {
+        "production_categories": {
+            "CAST": [
+                "Older monk",
+                "Young child",
+                "Three people"
+            ],
+            "SET": [
+                "EXT. BAMBOO FOREST - DAY"
+            ],
+            "PROPS": [
+                "sword",
+                "box"
+            ],
+            "STUNTS": [
+                "fighting",
+                "falls"
+            ],
+            "VEHICLES": [],
+            "ANIMALS": [],
+            "NUDITY": [],
+            "GREENERY": [
+                "BAMBOO FOREST"
+            ],
+            "SOUND": []
+        }
+    },
+    "predicted_word_ids": {
+        "production_categories": {
+            "CAST": [
+                [
+                    {
+                        "value": "older monk",
+                        "ids": [
+                            "1012",
+                            "1013"
+                        ]
+                    },
+                    {
+                        "value": "older monk,",
+                        "ids": [
+                            "1047",
+                            "1048"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "value": "young child.",
+                        "ids": [
+                            "1017",
+                            "1018"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "value": "Three people",
+                        "ids": [
+                            "1019",
+                            "1020"
+                        ]
+                    }
+                ]
+            ],
+            "SET": [
+                [
+                    {
+                        "value": "EXT. BAMBOO FOREST - DAY",
+                        "ids": [
+                            "1001",
+                            "1002",
+                            "1003",
+                            "1004",
+                            "1005"
+                        ]
+                    }
+                ]
+            ],
+            "PROPS": [
+                [
+                    {
+                        "value": "sword",
+                        "ids": [
+                            "1043"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "value": "box",
+                        "ids": [
+                            "1061"
+                        ]
+                    }
+                ]
+            ],
+            "STUNTS": [
+                [
+                    {
+                        "value": "fighting",
+                        "ids": [
+                            "1022"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "value": "falls",
+                        "ids": [
+                            "1037"
+                        ]
+                    }
+                ]
+            ],
+            "VEHICLES": [],
+            "ANIMALS": [],
+            "NUDITY": [],
+            "GREENERY": [
+                [
+                    {
+                        "value": "BAMBOO FOREST",
+                        "ids": [
+                            "1002",
+                            "1003"
+                        ]
+                    }
+                ]
+            ],
+            "SOUND": []
+        }
+    }
+}

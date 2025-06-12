@@ -1,0 +1,244 @@
+{
+  "ALL_TEXT": "81 EXT. ABANDONED PARK - DAY \nThe BUM is sitting on a park bench, briefcase in hand. He is \nexerting all his might to open the briefcase - he tries \nwrecking it with his hands but can\u2019t do. He hammers it with a \nrock, but only hits his own thumb. He tries prying it open \nwith the edge of the park bench, but fails. His attention \ngets diverted when he sees a dried up water fountain as the \nparks center-piece - it is a mermaid. He walks towards it, \nwicked smile transfixed on him, and leans in to kiss it. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "81",
+    "1001": "EXT.",
+    "1002": "ABANDONED",
+    "1003": "PARK",
+    "1004": "-",
+    "1005": "DAY",
+    "1006": "The",
+    "1007": "BUM",
+    "1008": "is",
+    "1009": "sitting",
+    "1010": "on",
+    "1011": "a",
+    "1012": "park",
+    "1013": "bench,",
+    "1014": "briefcase",
+    "1015": "in",
+    "1016": "hand.",
+    "1017": "He",
+    "1018": "is",
+    "1019": "exerting",
+    "1020": "all",
+    "1021": "his",
+    "1022": "might",
+    "1023": "to",
+    "1024": "open",
+    "1025": "the",
+    "1026": "briefcase",
+    "1027": "-",
+    "1028": "he",
+    "1029": "tries",
+    "1030": "wrecking",
+    "1031": "it",
+    "1032": "with",
+    "1033": "his",
+    "1034": "hands",
+    "1035": "but",
+    "1036": "can\u2019t",
+    "1037": "do.",
+    "1038": "He",
+    "1039": "hammers",
+    "1040": "it",
+    "1041": "with",
+    "1042": "a",
+    "1043": "rock,",
+    "1044": "but",
+    "1045": "only",
+    "1046": "hits",
+    "1047": "his",
+    "1048": "own",
+    "1049": "thumb.",
+    "1050": "He",
+    "1051": "tries",
+    "1052": "prying",
+    "1053": "it",
+    "1054": "open",
+    "1055": "with",
+    "1056": "the",
+    "1057": "edge",
+    "1058": "of",
+    "1059": "the",
+    "1060": "park",
+    "1061": "bench,",
+    "1062": "but",
+    "1063": "fails.",
+    "1064": "His",
+    "1065": "attention",
+    "1066": "gets",
+    "1067": "diverted",
+    "1068": "when",
+    "1069": "he",
+    "1070": "sees",
+    "1071": "a",
+    "1072": "dried",
+    "1073": "up",
+    "1074": "water",
+    "1075": "fountain",
+    "1076": "as",
+    "1077": "the",
+    "1078": "parks",
+    "1079": "center-piece",
+    "1080": "-",
+    "1081": "it",
+    "1082": "is",
+    "1083": "a",
+    "1084": "mermaid.",
+    "1085": "He",
+    "1086": "walks",
+    "1087": "towards",
+    "1088": "it,",
+    "1089": "wicked",
+    "1090": "smile",
+    "1091": "transfixed",
+    "1092": "on",
+    "1093": "him,",
+    "1094": "and",
+    "1095": "leans",
+    "1096": "in",
+    "1097": "to",
+    "1098": "kiss",
+    "1099": "it.",
+    "1100": "CUT",
+    "1101": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "BUM"
+      ],
+      "SET": [
+        "EXT. ABANDONED PARK - DAY"
+      ],
+      "PROPS": [
+        "park bench",
+        "briefcase",
+        "rock",
+        "water fountain",
+        "mermaid"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        "park"
+      ],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "BUM",
+            "ids": [
+              "1007"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. ABANDONED PARK - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "park bench,",
+            "ids": [
+              "1012",
+              "1013"
+            ]
+          },
+          {
+            "value": "park bench,",
+            "ids": [
+              "1060",
+              "1061"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "briefcase",
+            "ids": [
+              "1014"
+            ]
+          },
+          {
+            "value": "briefcase",
+            "ids": [
+              "1026"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "rock,",
+            "ids": [
+              "1043"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "water fountain",
+            "ids": [
+              "1074",
+              "1075"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "mermaid.",
+            "ids": [
+              "1084"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        [
+          {
+            "value": "park",
+            "ids": [
+              "1012"
+            ]
+          },
+          {
+            "value": "park",
+            "ids": [
+              "1060"
+            ]
+          },
+          {
+            "value": "PARK",
+            "ids": [
+              "1003"
+            ]
+          }
+        ]
+      ],
+      "SOUND": []
+    }
+  }
+}

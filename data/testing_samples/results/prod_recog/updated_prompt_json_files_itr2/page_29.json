@@ -1,0 +1,298 @@
+{
+  "sample_no": "sample3",
+  "pdf_file_name": "page_29.pdf",
+  "alltext": "28.\nKENNEL OWNER\nVaccination aa?\nVEDA\nEvariki?\nKENNEL OWNER\nMee kukka ki?\nVEDA\nAkkareledhu\nKENNEL OWNER\nMari unko kukka ni konaddaaniki\nochaara?\nVEDA\nKadhu ammadaaniki vachanu\nKENNEL OWNER\nEvariki?\nVEDA\nMeekey\nKENNEL OWNER\nAhh..\nVEDA\nadhi kadhu boss, maa vedhavokadu\ndheenni naaku antagattaadu. Nanu\nposhinchukovadame kashtamuga\nundhi..dheenni ekkada poshisthanu\nHe points at another pug\nVEDA\nsir ! adhi dheeni thalli laaga\nundhi...thalli biddalni veru\ncheyakudadhu sir.\nKENNEL OWNER\nnijameenandi, thallini kuda meere\nkonukkondi.\nThe PUG barks\nVEDA\nNuvvu normuye....dheenni em cheyalo\ntheliyaka chasthunna, chethulo\ndabbulu levu\nKENNEL OWNER\nSoftware aa?",
+  "words_ids": {
+    "1000": "28.",
+    "1001": "KENNEL",
+    "1002": "OWNER",
+    "1003": "Vaccination",
+    "1004": "aa?",
+    "1005": "VEDA",
+    "1006": "Evariki?",
+    "1007": "KENNEL",
+    "1008": "OWNER",
+    "1009": "Mee",
+    "1010": "kukka",
+    "1011": "ki?",
+    "1012": "VEDA",
+    "1013": "Akkareledhu",
+    "1014": "KENNEL",
+    "1015": "OWNER",
+    "1016": "Mari",
+    "1017": "unko",
+    "1018": "kukka",
+    "1019": "ni",
+    "1020": "konaddaaniki",
+    "1021": "ochaara?",
+    "1022": "VEDA",
+    "1023": "Kadhu",
+    "1024": "ammadaaniki",
+    "1025": "vachanu",
+    "1026": "KENNEL",
+    "1027": "OWNER",
+    "1028": "Evariki?",
+    "1029": "VEDA",
+    "1030": "Meekey",
+    "1031": "KENNEL",
+    "1032": "OWNER",
+    "1033": "Ahh..",
+    "1034": "VEDA",
+    "1035": "adhi",
+    "1036": "kadhu",
+    "1037": "boss,",
+    "1038": "maa",
+    "1039": "vedhavokadu",
+    "1040": "dheenni",
+    "1041": "naaku",
+    "1042": "antagattaadu.",
+    "1043": "Nanu",
+    "1044": "poshinchukovadame",
+    "1045": "kashtamuga",
+    "1046": "undhi..dheenni",
+    "1047": "ekkada",
+    "1048": "poshisthanu",
+    "1049": "He",
+    "1050": "points",
+    "1051": "at",
+    "1052": "another",
+    "1053": "pug",
+    "1054": "VEDA",
+    "1055": "sir",
+    "1056": "!",
+    "1057": "adhi",
+    "1058": "dheeni",
+    "1059": "thalli",
+    "1060": "laaga",
+    "1061": "undhi...thalli",
+    "1062": "biddalni",
+    "1063": "veru",
+    "1064": "cheyakudadhu",
+    "1065": "sir.",
+    "1066": "KENNEL",
+    "1067": "OWNER",
+    "1068": "nijameenandi,",
+    "1069": "thallini",
+    "1070": "kuda",
+    "1071": "meere",
+    "1072": "konukkondi.",
+    "1073": "The",
+    "1074": "PUG",
+    "1075": "barks",
+    "1076": "VEDA",
+    "1077": "Nuvvu",
+    "1078": "normuye....dheenni",
+    "1079": "em",
+    "1080": "cheyalo",
+    "1081": "theliyaka",
+    "1082": "chasthunna,",
+    "1083": "chethulo",
+    "1084": "dabbulu",
+    "1085": "levu",
+    "1086": "KENNEL",
+    "1087": "OWNER",
+    "1088": "Software",
+    "1089": "aa?"
+  },
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "KENNEL OWNER",
+        "VEDA"
+      ],
+      "SET": [
+        "KENNEL"
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [
+        "PUG"
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        "PUG BARKS"
+      ]
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "KENNEL OWNER",
+            "ids": [
+              "1001",
+              "1002"
+            ]
+          },
+          {
+            "value": "KENNEL OWNER",
+            "ids": [
+              "1007",
+              "1008"
+            ]
+          },
+          {
+            "value": "KENNEL OWNER",
+            "ids": [
+              "1014",
+              "1015"
+            ]
+          },
+          {
+            "value": "KENNEL OWNER",
+            "ids": [
+              "1026",
+              "1027"
+            ]
+          },
+          {
+            "value": "KENNEL OWNER",
+            "ids": [
+              "1031",
+              "1032"
+            ]
+          },
+          {
+            "value": "KENNEL OWNER",
+            "ids": [
+              "1066",
+              "1067"
+            ]
+          },
+          {
+            "value": "KENNEL OWNER",
+            "ids": [
+              "1086",
+              "1087"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1005"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1012"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1022"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1029"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1034"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1054"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1076"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "KENNEL",
+            "ids": [
+              "1001"
+            ]
+          },
+          {
+            "value": "KENNEL",
+            "ids": [
+              "1007"
+            ]
+          },
+          {
+            "value": "KENNEL",
+            "ids": [
+              "1014"
+            ]
+          },
+          {
+            "value": "KENNEL",
+            "ids": [
+              "1026"
+            ]
+          },
+          {
+            "value": "KENNEL",
+            "ids": [
+              "1031"
+            ]
+          },
+          {
+            "value": "KENNEL",
+            "ids": [
+              "1066"
+            ]
+          },
+          {
+            "value": "KENNEL",
+            "ids": [
+              "1086"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [
+        [
+          {
+            "value": "PUG",
+            "ids": [
+              "1074"
+            ]
+          },
+          {
+            "value": "pug",
+            "ids": [
+              "1053"
+            ]
+          }
+        ]
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        [
+          {
+            "value": "PUG barks",
+            "ids": [
+              "1074",
+              "1075"
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}

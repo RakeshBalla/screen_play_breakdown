@@ -1,0 +1,202 @@
+{
+  "ALL_TEXT": "45 INT. PUB-ENTRANCE - NIGHT \nAn upset-looking GOVARDHAN walks in with MARILYN, who is all \ndressed up. \nMARILYN \nNice place. \nGOVARDHAN \nDo what you want. I'll be over \nthere waiting. \nMARILYN \nHey..Gov... lets have a drink \nman... \nGOVARDHAN \nI drink only milk and butter milk \nMARILYN shrugs at his attitude, a little annoyed, walks to \nthe counter to order her drink. She mingles with the people \naround and is having a good time. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "45",
+    "1001": "INT.",
+    "1002": "PUB-ENTRANCE",
+    "1003": "-",
+    "1004": "NIGHT",
+    "1005": "An",
+    "1006": "upset-looking",
+    "1007": "GOVARDHAN",
+    "1008": "walks",
+    "1009": "in",
+    "1010": "with",
+    "1011": "MARILYN,",
+    "1012": "who",
+    "1013": "is",
+    "1014": "all",
+    "1015": "dressed",
+    "1016": "up.",
+    "1017": "MARILYN",
+    "1018": "Nice",
+    "1019": "place.",
+    "1020": "GOVARDHAN",
+    "1021": "Do",
+    "1022": "what",
+    "1023": "you",
+    "1024": "want.",
+    "1025": "I'll",
+    "1026": "be",
+    "1027": "over",
+    "1028": "there",
+    "1029": "waiting.",
+    "1030": "MARILYN",
+    "1031": "Hey..Gov...",
+    "1032": "lets",
+    "1033": "have",
+    "1034": "a",
+    "1035": "drink",
+    "1036": "man...",
+    "1037": "GOVARDHAN",
+    "1038": "I",
+    "1039": "drink",
+    "1040": "only",
+    "1041": "milk",
+    "1042": "and",
+    "1043": "butter",
+    "1044": "milk",
+    "1045": "MARILYN",
+    "1046": "shrugs",
+    "1047": "at",
+    "1048": "his",
+    "1049": "attitude,",
+    "1050": "a",
+    "1051": "little",
+    "1052": "annoyed,",
+    "1053": "walks",
+    "1054": "to",
+    "1055": "the",
+    "1056": "counter",
+    "1057": "to",
+    "1058": "order",
+    "1059": "her",
+    "1060": "drink.",
+    "1061": "She",
+    "1062": "mingles",
+    "1063": "with",
+    "1064": "the",
+    "1065": "people",
+    "1066": "around",
+    "1067": "and",
+    "1068": "is",
+    "1069": "having",
+    "1070": "a",
+    "1071": "good",
+    "1072": "time.",
+    "1073": "CUT",
+    "1074": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "GOVARDHAN",
+        "MARILYN",
+        "people"
+      ],
+      "SET": [
+        "INT. PUB-ENTRANCE - NIGHT"
+      ],
+      "PROPS": [
+        "drink"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1007"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1020"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1037"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "MARILYN",
+            "ids": [
+              "1017"
+            ]
+          },
+          {
+            "value": "MARILYN",
+            "ids": [
+              "1030"
+            ]
+          },
+          {
+            "value": "MARILYN",
+            "ids": [
+              "1045"
+            ]
+          },
+          {
+            "value": "MARILYN,",
+            "ids": [
+              "1011"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "people",
+            "ids": [
+              "1065"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "INT. PUB-ENTRANCE - NIGHT",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "drink",
+            "ids": [
+              "1035"
+            ]
+          },
+          {
+            "value": "drink",
+            "ids": [
+              "1039"
+            ]
+          },
+          {
+            "value": "drink.",
+            "ids": [
+              "1060"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

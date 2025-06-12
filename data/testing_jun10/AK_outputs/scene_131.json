@@ -1,0 +1,264 @@
+{
+  "ALL_TEXT": "131 EXT. GRAVEYARD - NIGHT \nBHANU is lying alone on a grave. He sits on a mound of \nfreshly dug up soil, scared, alone. He lifts his bottle and \ntakes a swig \nVEDA (O.S.) \nSmashaanam lo naa? \nBHANU \nSmashanam lo taaguthu goya thosthe \npadi veellu istha ani bet kattadu \nShankar gaadu \nVEDA (O.S.) \nMee iddari burralu pandhulu \nthinna... \nBHANU \nDude, what kind of a human being do \nyou think I am...I was raised a \ngod-fearing Brahmin. \nBHANU chugs the rest of his drink \nBHANU \nI haven\u2019t done it yet...chastity \nbelt vesukoni mari tiruguthunnaa.. \nKaani padhi vella ki enni beerlu \nvasthudho telusaa \nVEDA (O.S.) \nUlfuthar lo falfuthar naa kodaka.. \nBHANU \n100 bottles dude... 125 if you buy \nthe cheap brand...200 from my local \nguy who\u2019ll give me a discount... \nCUT TO: ",
+  "WORDS_ID": {
+    "1000": "131",
+    "1001": "EXT.",
+    "1002": "GRAVEYARD",
+    "1003": "-",
+    "1004": "NIGHT",
+    "1005": "BHANU",
+    "1006": "is",
+    "1007": "lying",
+    "1008": "alone",
+    "1009": "on",
+    "1010": "a",
+    "1011": "grave.",
+    "1012": "He",
+    "1013": "sits",
+    "1014": "on",
+    "1015": "a",
+    "1016": "mound",
+    "1017": "of",
+    "1018": "freshly",
+    "1019": "dug",
+    "1020": "up",
+    "1021": "soil,",
+    "1022": "scared,",
+    "1023": "alone.",
+    "1024": "He",
+    "1025": "lifts",
+    "1026": "his",
+    "1027": "bottle",
+    "1028": "and",
+    "1029": "takes",
+    "1030": "a",
+    "1031": "swig",
+    "1032": "VEDA",
+    "1033": "(O.S.)",
+    "1034": "Smashaanam",
+    "1035": "lo",
+    "1036": "naa?",
+    "1037": "BHANU",
+    "1038": "Smashanam",
+    "1039": "lo",
+    "1040": "taaguthu",
+    "1041": "goya",
+    "1042": "thosthe",
+    "1043": "padi",
+    "1044": "veellu",
+    "1045": "istha",
+    "1046": "ani",
+    "1047": "bet",
+    "1048": "kattadu",
+    "1049": "Shankar",
+    "1050": "gaadu",
+    "1051": "VEDA",
+    "1052": "(O.S.)",
+    "1053": "Mee",
+    "1054": "iddari",
+    "1055": "burralu",
+    "1056": "pandhulu",
+    "1057": "thinna...",
+    "1058": "BHANU",
+    "1059": "Dude,",
+    "1060": "what",
+    "1061": "kind",
+    "1062": "of",
+    "1063": "a",
+    "1064": "human",
+    "1065": "being",
+    "1066": "do",
+    "1067": "you",
+    "1068": "think",
+    "1069": "I",
+    "1070": "am...I",
+    "1071": "was",
+    "1072": "raised",
+    "1073": "a",
+    "1074": "god-fearing",
+    "1075": "Brahmin.",
+    "1076": "BHANU",
+    "1077": "chugs",
+    "1078": "the",
+    "1079": "rest",
+    "1080": "of",
+    "1081": "his",
+    "1082": "drink",
+    "1083": "BHANU",
+    "1084": "I",
+    "1085": "haven\u2019t",
+    "1086": "done",
+    "1087": "it",
+    "1088": "yet...chastity",
+    "1089": "belt",
+    "1090": "vesukoni",
+    "1091": "mari",
+    "1092": "tiruguthunnaa..",
+    "1093": "Kaani",
+    "1094": "padhi",
+    "1095": "vella",
+    "1096": "ki",
+    "1097": "enni",
+    "1098": "beerlu",
+    "1099": "vasthudho",
+    "1100": "telusaa",
+    "1101": "VEDA",
+    "1102": "(O.S.)",
+    "1103": "Ulfuthar",
+    "1104": "lo",
+    "1105": "falfuthar",
+    "1106": "naa",
+    "1107": "kodaka..",
+    "1108": "BHANU",
+    "1109": "100",
+    "1110": "bottles",
+    "1111": "dude...",
+    "1112": "125",
+    "1113": "if",
+    "1114": "you",
+    "1115": "buy",
+    "1116": "the",
+    "1117": "cheap",
+    "1118": "brand...200",
+    "1119": "from",
+    "1120": "my",
+    "1121": "local",
+    "1122": "guy",
+    "1123": "who\u2019ll",
+    "1124": "give",
+    "1125": "me",
+    "1126": "a",
+    "1127": "discount...",
+    "1128": "CUT",
+    "1129": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "BHANU",
+        "VEDA"
+      ],
+      "SET": [
+        "EXT. GRAVEYARD - NIGHT"
+      ],
+      "PROPS": [
+        "bottle"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        "mound of freshly dug up soil"
+      ],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "BHANU",
+            "ids": [
+              "1005"
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              "1037"
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              "1058"
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              "1076"
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              "1083"
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              "1108"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1032"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1051"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1101"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. GRAVEYARD - NIGHT",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "bottle",
+            "ids": [
+              "1027"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        [
+          {
+            "value": "mound of freshly dug up soil,",
+            "ids": [
+              "1016",
+              "1017",
+              "1018",
+              "1019",
+              "1020",
+              "1021"
+            ]
+          }
+        ]
+      ],
+      "SOUND": []
+    }
+  }
+}

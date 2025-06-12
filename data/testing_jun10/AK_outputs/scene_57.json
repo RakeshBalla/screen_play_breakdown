@@ -1,0 +1,229 @@
+{
+  "ALL_TEXT": "57 EXT. ROAD - NIGHT \nVEDA is driving his bike at a slow pace, PUG and GOVARDHAN in \ntow. \nVEDA \nAina koduthunte nilabadi chustharu \nentandi? paaripovali lekapothey \nkotali...Sorry Telugu vacha? \nGOVARDHAN \n(shouts) \nBike aapu... \nVEDA \nSir ekkadiki vellaalo cheppandi nen \ndrop chesthanu \nGOVARDHAN \n(fuming) \nDrop chesthaava?? Ippudu godava \njaringindhey akkadey naa apartment \ndhaniki yedhuruga naa office .. \nAina kottukunedhi edho meeru \nkottukovaali kaani naa dabba \ntheskoni endhuku kottav \nVEDA \nAdhi enti sir.. Meeru addam \nraakuntey naaku vaallatho godava \naiyedhey kaadhu , mee dabba \ntheskuney vadini kadhu... \nGOVARDHAN \n(angry) \n..na dabbaatho vaadni kotti, \nofficeku ponikunda, intiki \nponikunda dongalaa paaripoye \nvachchettu chesav... \nCUT TO: ",
+  "WORDS_ID": {
+    "1000": "57",
+    "1001": "EXT.",
+    "1002": "ROAD",
+    "1003": "-",
+    "1004": "NIGHT",
+    "1005": "VEDA",
+    "1006": "is",
+    "1007": "driving",
+    "1008": "his",
+    "1009": "bike",
+    "1010": "at",
+    "1011": "a",
+    "1012": "slow",
+    "1013": "pace,",
+    "1014": "PUG",
+    "1015": "and",
+    "1016": "GOVARDHAN",
+    "1017": "in",
+    "1018": "tow.",
+    "1019": "VEDA",
+    "1020": "Aina",
+    "1021": "koduthunte",
+    "1022": "nilabadi",
+    "1023": "chustharu",
+    "1024": "entandi?",
+    "1025": "paaripovali",
+    "1026": "lekapothey",
+    "1027": "kotali...Sorry",
+    "1028": "Telugu",
+    "1029": "vacha?",
+    "1030": "GOVARDHAN",
+    "1031": "(shouts)",
+    "1032": "Bike",
+    "1033": "aapu...",
+    "1034": "VEDA",
+    "1035": "Sir",
+    "1036": "ekkadiki",
+    "1037": "vellaalo",
+    "1038": "cheppandi",
+    "1039": "nen",
+    "1040": "drop",
+    "1041": "chesthanu",
+    "1042": "GOVARDHAN",
+    "1043": "(fuming)",
+    "1044": "Drop",
+    "1045": "chesthaava??",
+    "1046": "Ippudu",
+    "1047": "godava",
+    "1048": "jaringindhey",
+    "1049": "akkadey",
+    "1050": "naa",
+    "1051": "apartment",
+    "1052": "dhaniki",
+    "1053": "yedhuruga",
+    "1054": "naa",
+    "1055": "office",
+    "1056": "..",
+    "1057": "Aina",
+    "1058": "kottukunedhi",
+    "1059": "edho",
+    "1060": "meeru",
+    "1061": "kottukovaali",
+    "1062": "kaani",
+    "1063": "naa",
+    "1064": "dabba",
+    "1065": "theskoni",
+    "1066": "endhuku",
+    "1067": "kottav",
+    "1068": "VEDA",
+    "1069": "Adhi",
+    "1070": "enti",
+    "1071": "sir..",
+    "1072": "Meeru",
+    "1073": "addam",
+    "1074": "raakuntey",
+    "1075": "naaku",
+    "1076": "vaallatho",
+    "1077": "godava",
+    "1078": "aiyedhey",
+    "1079": "kaadhu",
+    "1080": ",",
+    "1081": "mee",
+    "1082": "dabba",
+    "1083": "theskuney",
+    "1084": "vadini",
+    "1085": "kadhu...",
+    "1086": "GOVARDHAN",
+    "1087": "(angry)",
+    "1088": "..na",
+    "1089": "dabbaatho",
+    "1090": "vaadni",
+    "1091": "kotti,",
+    "1092": "officeku",
+    "1093": "ponikunda,",
+    "1094": "intiki",
+    "1095": "ponikunda",
+    "1096": "dongalaa",
+    "1097": "paaripoye",
+    "1098": "vachchettu",
+    "1099": "chesav...",
+    "1100": "CUT",
+    "1101": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "VEDA",
+        "PUG",
+        "GOVARDHAN"
+      ],
+      "SET": [
+        "EXT. ROAD - NIGHT"
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [
+        "bike"
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1005"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1019"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1034"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1068"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "PUG",
+            "ids": [
+              "1014"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1016"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1030"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1042"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1086"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. ROAD - NIGHT",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [
+        [
+          {
+            "value": "bike",
+            "ids": [
+              "1009"
+            ]
+          },
+          {
+            "value": "Bike",
+            "ids": [
+              "1032"
+            ]
+          }
+        ]
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

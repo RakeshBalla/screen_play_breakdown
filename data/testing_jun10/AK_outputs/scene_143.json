@@ -1,0 +1,217 @@
+{
+  "ALL_TEXT": "143 INT. GOVARDHAN'S HOUSE - NIGHT \nANJI has his feet up on a chair, wearing one of GOVARDHAN's \nshirts, eating food with GOVARDHAN's cutlery. He is watching \n\"Fashion T.V.\" programming, and switches the channel. A new \nbroadcast shows a NEWS CHANNEL ANCHOR interviewing SUBBA \nRAJU, VEDA, GOVARDHAN and SULOCHANA \nNEWS CHANNEL ANCHOR \n...Scam of the century ni reveal \nchesina muggirini PM Modi gaaru \nabhinandincharu... \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "143",
+    "1001": "INT.",
+    "1002": "GOVARDHAN'S",
+    "1003": "HOUSE",
+    "1004": "-",
+    "1005": "NIGHT",
+    "1006": "ANJI",
+    "1007": "has",
+    "1008": "his",
+    "1009": "feet",
+    "1010": "up",
+    "1011": "on",
+    "1012": "a",
+    "1013": "chair,",
+    "1014": "wearing",
+    "1015": "one",
+    "1016": "of",
+    "1017": "GOVARDHAN's",
+    "1018": "shirts,",
+    "1019": "eating",
+    "1020": "food",
+    "1021": "with",
+    "1022": "GOVARDHAN's",
+    "1023": "cutlery.",
+    "1024": "He",
+    "1025": "is",
+    "1026": "watching",
+    "1027": "\"Fashion",
+    "1028": "T.V.\"",
+    "1029": "programming,",
+    "1030": "and",
+    "1031": "switches",
+    "1032": "the",
+    "1033": "channel.",
+    "1034": "A",
+    "1035": "new",
+    "1036": "broadcast",
+    "1037": "shows",
+    "1038": "a",
+    "1039": "NEWS",
+    "1040": "CHANNEL",
+    "1041": "ANCHOR",
+    "1042": "interviewing",
+    "1043": "SUBBA",
+    "1044": "RAJU,",
+    "1045": "VEDA,",
+    "1046": "GOVARDHAN",
+    "1047": "and",
+    "1048": "SULOCHANA",
+    "1049": "NEWS",
+    "1050": "CHANNEL",
+    "1051": "ANCHOR",
+    "1052": "...Scam",
+    "1053": "of",
+    "1054": "the",
+    "1055": "century",
+    "1056": "ni",
+    "1057": "reveal",
+    "1058": "chesina",
+    "1059": "muggirini",
+    "1060": "PM",
+    "1061": "Modi",
+    "1062": "gaaru",
+    "1063": "abhinandincharu...",
+    "1064": "CUT",
+    "1065": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "ANJI",
+        "GOVARDHAN",
+        "NEWS CHANNEL ANCHOR",
+        "SUBBA RAJU",
+        "VEDA",
+        "SULOCHANA"
+      ],
+      "SET": [
+        "INT. GOVARDHAN'S HOUSE - NIGHT"
+      ],
+      "PROPS": [
+        "chair",
+        "shirts",
+        "food",
+        "cutlery"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "ANJI",
+            "ids": [
+              "1006"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1046"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "NEWS CHANNEL ANCHOR",
+            "ids": [
+              "1039",
+              "1040",
+              "1041"
+            ]
+          },
+          {
+            "value": "NEWS CHANNEL ANCHOR",
+            "ids": [
+              "1049",
+              "1050",
+              "1051"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "SUBBA RAJU,",
+            "ids": [
+              "1043",
+              "1044"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VEDA,",
+            "ids": [
+              "1045"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1048"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "INT. GOVARDHAN'S HOUSE - NIGHT",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "chair,",
+            "ids": [
+              "1013"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "shirts,",
+            "ids": [
+              "1018"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "food",
+            "ids": [
+              "1020"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "cutlery.",
+            "ids": [
+              "1023"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

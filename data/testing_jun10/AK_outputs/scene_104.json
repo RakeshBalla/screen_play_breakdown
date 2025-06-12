@@ -1,0 +1,213 @@
+{
+  "ALL_TEXT": "104 EXT. QUARRY - DAY (DAWN) \nVASU and RAJU come on a Royal Enfield, slowly, beat up. VASU \ngets off and open the giant styrofoam box next to container. \nHe picks up a beer, a chunk of ice and puts it on his swollen \nface. He tosses a beer towards RAJU, who drops it. VASU soon \nbottoms-up his beer. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "104",
+    "1001": "EXT.",
+    "1002": "QUARRY",
+    "1003": "-",
+    "1004": "DAY",
+    "1005": "(DAWN)",
+    "1006": "VASU",
+    "1007": "and",
+    "1008": "RAJU",
+    "1009": "come",
+    "1010": "on",
+    "1011": "a",
+    "1012": "Royal",
+    "1013": "Enfield,",
+    "1014": "slowly,",
+    "1015": "beat",
+    "1016": "up.",
+    "1017": "VASU",
+    "1018": "gets",
+    "1019": "off",
+    "1020": "and",
+    "1021": "open",
+    "1022": "the",
+    "1023": "giant",
+    "1024": "styrofoam",
+    "1025": "box",
+    "1026": "next",
+    "1027": "to",
+    "1028": "container.",
+    "1029": "He",
+    "1030": "picks",
+    "1031": "up",
+    "1032": "a",
+    "1033": "beer,",
+    "1034": "a",
+    "1035": "chunk",
+    "1036": "of",
+    "1037": "ice",
+    "1038": "and",
+    "1039": "puts",
+    "1040": "it",
+    "1041": "on",
+    "1042": "his",
+    "1043": "swollen",
+    "1044": "face.",
+    "1045": "He",
+    "1046": "tosses",
+    "1047": "a",
+    "1048": "beer",
+    "1049": "towards",
+    "1050": "RAJU,",
+    "1051": "who",
+    "1052": "drops",
+    "1053": "it.",
+    "1054": "VASU",
+    "1055": "soon",
+    "1056": "bottoms-up",
+    "1057": "his",
+    "1058": "beer.",
+    "1059": "CUT",
+    "1060": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "VASU",
+        "RAJU"
+      ],
+      "SET": [
+        "EXT. QUARRY - DAY (DAWN)"
+      ],
+      "PROPS": [
+        "giant styrofoam box",
+        "beer",
+        "chunk of ice"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        "Royal Enfield"
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        "QUARRY"
+      ],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "VASU",
+            "ids": [
+              "1006"
+            ]
+          },
+          {
+            "value": "VASU",
+            "ids": [
+              "1017"
+            ]
+          },
+          {
+            "value": "VASU",
+            "ids": [
+              "1054"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "RAJU",
+            "ids": [
+              "1008"
+            ]
+          },
+          {
+            "value": "RAJU,",
+            "ids": [
+              "1050"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. QUARRY - DAY (DAWN)",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "giant styrofoam box",
+            "ids": [
+              "1023",
+              "1024",
+              "1025"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "beer",
+            "ids": [
+              "1048"
+            ]
+          },
+          {
+            "value": "beer,",
+            "ids": [
+              "1033"
+            ]
+          },
+          {
+            "value": "beer.",
+            "ids": [
+              "1058"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "chunk of ice",
+            "ids": [
+              "1035",
+              "1036",
+              "1037"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        [
+          {
+            "value": "Royal Enfield,",
+            "ids": [
+              "1012",
+              "1013"
+            ]
+          }
+        ]
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        [
+          {
+            "value": "QUARRY",
+            "ids": [
+              "1002"
+            ]
+          }
+        ]
+      ],
+      "SOUND": []
+    }
+  }
+}

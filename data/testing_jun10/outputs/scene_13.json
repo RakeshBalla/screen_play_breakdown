@@ -1,0 +1,160 @@
+{
+    "ALL_TEXT": "13 EXT. RUINED TEMPLE - NIGHTFADE IN. SUPERIMPOSE: 2009. On the edge of a platform in tattered, dishevelled rags, two bums, SURESH and a mute BUM, are smoking up using chillams and listening to the Gita on the radio. The mute BUM is slow-dancing against a female mannequin torso stuck in the middle of a tree. RADIO (V.O.) Jaatasya hi dhruvo martyurdhruvaam janma martasya cha tasmaadaparihaaryerthe na tvam sochitumarhasi. Puttina vaaniki maranamu tappadhu. Maraninchina vaaniki janmamu tappadhu. Anivaaryamagu ee vishayamunu goorchi Sokimpa tagadhu. SURESH takes the radio and opens a compartment in the back. He takes out some weed from it, puts it in his chillam, and continues smoking up.CUT TO:",
+    "WORDS_ID": "{\n\"1000\": \"13\",\n\"1001\": \"EXT.\",\n\"1002\": \"RUINED\",\n\"1003\": \"TEMPLE\",\n\"1004\": \"-\",\n\"1005\": \"NIGHTFADE\",\n\"1006\": \"IN.\",\n\"1007\": \"SUPERIMPOSE:\",\n\"1008\": \"2009.\",\n\"1009\": \"On\",\n\"1010\": \"the\",\n\"1011\": \"edge\",\n\"1012\": \"of\",\n\"1013\": \"a\",\n\"1014\": \"platform\",\n\"1015\": \"in\",\n\"1016\": \"tattered,\",\n\"1017\": \"dishevelled\",\n\"1018\": \"rags,\",\n\"1019\": \"two\",\n\"1020\": \"bums,\",\n\"1021\": \"SURESH\",\n\"1022\": \"and\",\n\"1023\": \"a\",\n\"1024\": \"mute\",\n\"1025\": \"BUM,\",\n\"1026\": \"are\",\n\"1027\": \"smoking\",\n\"1028\": \"up\",\n\"1029\": \"using\",\n\"1030\": \"chillams\",\n\"1031\": \"and\",\n\"1032\": \"listening\",\n\"1033\": \"to\",\n\"1034\": \"the\",\n\"1035\": \"Gita\",\n\"1036\": \"on\",\n\"1037\": \"the\",\n\"1038\": \"radio.\",\n\"1039\": \"The\",\n\"1040\": \"mute\",\n\"1041\": \"BUM\",\n\"1042\": \"is\",\n\"1043\": \"slow-dancing\",\n\"1044\": \"against\",\n\"1045\": \"a\",\n\"1046\": \"female\",\n\"1047\": \"mannequin\",\n\"1048\": \"torso\",\n\"1049\": \"stuck\",\n\"1050\": \"in\",\n\"1051\": \"the\",\n\"1052\": \"middle\",\n\"1053\": \"of\",\n\"1054\": \"a\",\n\"1055\": \"tree.\",\n\"1056\": \"RADIO\",\n\"1057\": \"(V.O.)\",\n\"1058\": \"Jaatasya\",\n\"1059\": \"hi\",\n\"1060\": \"dhruvo\",\n\"1061\": \"martyurdhruvaam\",\n\"1062\": \"janma\",\n\"1063\": \"martasya\",\n\"1064\": \"cha\",\n\"1065\": \"tasmaadaparihaaryerthe\",\n\"1066\": \"na\",\n\"1067\": \"tvam\",\n\"1068\": \"sochitumarhasi.\",\n\"1069\": \"Puttina\",\n\"1070\": \"vaaniki\",\n\"1071\": \"maranamu\",\n\"1072\": \"tappadhu.\",\n\"1073\": \"Maraninchina\",\n\"1074\": \"vaaniki\",\n\"1075\": \"janmamu\",\n\"1076\": \"tappadhu.\",\n\"1077\": \"Anivaaryamagu\",\n\"1078\": \"ee\",\n\"1079\": \"vishayamunu\",\n\"1080\": \"goorchi\",\n\"1081\": \"Sokimpa\",\n\"1082\": \"tagadhu.\",\n\"1083\": \"SURESH\",\n\"1084\": \"takes\",\n\"1085\": \"the\",\n\"1086\": \"radio\",\n\"1087\": \"and\",\n\"1088\": \"opens\",\n\"1089\": \"a\",\n\"1090\": \"compartment\",\n\"1091\": \"in\",\n\"1092\": \"the\",\n\"1093\": \"back.\",\n\"1094\": \"He\",\n\"1095\": \"takes\",\n\"1096\": \"out\",\n\"1097\": \"some\",\n\"1098\": \"weed\",\n\"1099\": \"from\",\n\"1100\": \"it,\",\n\"1101\": \"puts\",\n\"1102\": \"it\",\n\"1103\": \"in\",\n\"1104\": \"his\",\n\"1105\": \"chillam,\",\n\"1106\": \"and\",\n\"1107\": \"continues\",\n\"1108\": \"smoking\",\n\"1109\": \"up.\",\n\"1110\": \"CUT\",\n\"1111\": \"TO:\"\n}",
+    "llm_result": {
+        "production_categories": {
+            "CAST": [
+                "SURESH",
+                "mute BUM"
+            ],
+            "SET": [
+                "EXT. RUINED TEMPLE - NIGHT"
+            ],
+            "PROPS": [
+                "tattered, dishevelled rags",
+                "chillams",
+                "radio",
+                "female mannequin torso",
+                "weed"
+            ],
+            "STUNTS": [],
+            "VEHICLES": [],
+            "ANIMALS": [],
+            "NUDITY": [],
+            "GREENERY": [
+                "tree"
+            ],
+            "SOUND": [
+                "Radio playing Gita (V.O.)"
+            ]
+        }
+    },
+    "predicted_word_ids": {
+        "production_categories": {
+            "CAST": [
+                [
+                    {
+                        "value": "SURESH",
+                        "ids": [
+                            "1021"
+                        ]
+                    },
+                    {
+                        "value": "SURESH",
+                        "ids": [
+                            "1083"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "value": "mute BUM",
+                        "ids": [
+                            "1040",
+                            "1041"
+                        ]
+                    },
+                    {
+                        "value": "mute BUM,",
+                        "ids": [
+                            "1024",
+                            "1025"
+                        ]
+                    }
+                ]
+            ],
+            "SET": [
+                [
+                    {
+                        "value": "EXT. RUINED TEMPLE - NIGHT",
+                        "ids": [
+                            "unable to find ids"
+                        ]
+                    }
+                ]
+            ],
+            "PROPS": [
+                [
+                    {
+                        "value": "tattered, dishevelled rags,",
+                        "ids": [
+                            "1016",
+                            "1017",
+                            "1018"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "value": "chillams",
+                        "ids": [
+                            "1030"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "value": "radio",
+                        "ids": [
+                            "1086"
+                        ]
+                    },
+                    {
+                        "value": "radio.",
+                        "ids": [
+                            "1038"
+                        ]
+                    },
+                    {
+                        "value": "RADIO",
+                        "ids": [
+                            "1056"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "value": "female mannequin torso",
+                        "ids": [
+                            "1046",
+                            "1047",
+                            "1048"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "value": "weed",
+                        "ids": [
+                            "1098"
+                        ]
+                    }
+                ]
+            ],
+            "STUNTS": [],
+            "VEHICLES": [],
+            "ANIMALS": [],
+            "NUDITY": [],
+            "GREENERY": [
+                [
+                    {
+                        "value": "tree.",
+                        "ids": [
+                            "1055"
+                        ]
+                    }
+                ]
+            ],
+            "SOUND": [
+                [
+                    {
+                        "value": "Radio playing Gita (V.O.)",
+                        "ids": [
+                            "unable to find ids"
+                        ]
+                    }
+                ]
+            ]
+        }
+    }
+}

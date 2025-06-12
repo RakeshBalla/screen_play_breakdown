@@ -1,0 +1,232 @@
+{
+  "page_dict": {
+    "alltext": "28.\nKENNEL OWNER\nVaccination aa?\nVEDA\nEvariki?\nKENNEL OWNER\nMee kukka ki?\nVEDA\nAkkareledhu\nKENNEL OWNER\nMari unko kukka ni konaddaaniki\nochaara?\nVEDA\nKadhu ammadaaniki vachanu\nKENNEL OWNER\nEvariki?\nVEDA\nMeekey\nKENNEL OWNER\nAhh..\nVEDA\nadhi kadhu boss, maa vedhavokadu\ndheenni naaku antagattaadu. Nanu\nposhinchukovadame kashtamuga\nundhi..dheenni ekkada poshisthanu\nHe points at another pug\nVEDA\nsir ! adhi dheeni thalli laaga\nundhi...thalli biddalni veru\ncheyakudadhu sir.\nKENNEL OWNER\nnijameenandi, thallini kuda meere\nkonukkondi.\nThe PUG barks\nVEDA\nNuvvu normuye....dheenni em cheyalo\ntheliyaka chasthunna, chethulo\ndabbulu levu\nKENNEL OWNER\nSoftware aa?",
+    "words_ids": {
+      "5778": "vedhavokadu",
+      "5569": "KENNEL",
+      "3212": "OWNER",
+      "8874": "Vaccination",
+      "1203": "aa?",
+      "2826": "VEDA",
+      "8156": "Evariki?",
+      "4598": "KENNEL",
+      "4470": "OWNER",
+      "1393": "Mee",
+      "5815": "kukka",
+      "5428": "ki?",
+      "5254": "VEDA",
+      "2276": "Akkareledhu",
+      "5287": "KENNEL",
+      "2955": "OWNER",
+      "5895": "Mari",
+      "4538": "unko",
+      "2420": "kukka",
+      "1460": "ni",
+      "1378": "konaddaaniki",
+      "3556": "ochaara?",
+      "4202": "VEDA",
+      "2066": "Kadhu",
+      "2314": "ammadaaniki",
+      "4335": "vachanu",
+      "2413": "KENNEL",
+      "7066": "OWNER",
+      "7065": "Evariki?",
+      "2488": "VEDA",
+      "5247": "Meekey",
+      "9975": "KENNEL",
+      "1766": "OWNER",
+      "3344": "Ahh..",
+      "5813": "VEDA",
+      "5978": "adhi",
+      "8278": "kadhu",
+      "7942": "boss,",
+      "1742": "maa",
+      "9901": "dheenni",
+      "3693": "naaku",
+      "9227": "antagattaadu.",
+      "1849": "Nanu",
+      "3590": "poshinchukovadame",
+      "7020": "kashtamuga",
+      "5504": "undhi..dheenni",
+      "3103": "ekkada",
+      "6856": "poshisthanu",
+      "7486": "He",
+      "1749": "points",
+      "9630": "at",
+      "3184": "another",
+      "2478": "pug",
+      "6765": "VEDA",
+      "7330": "sir",
+      "7672": "!",
+      "7316": "adhi",
+      "1270": "dheeni",
+      "2269": "thalli",
+      "4446": "laaga",
+      "5290": "undhi...thalli",
+      "3095": "biddalni",
+      "1705": "veru",
+      "1836": "cheyakudadhu",
+      "2902": "sir.",
+      "1151": "KENNEL",
+      "3914": "OWNER",
+      "9313": "nijameenandi,",
+      "9965": "thallini",
+      "3956": "kuda",
+      "9335": "meere",
+      "6365": "konukkondi.",
+      "3947": "The",
+      "8909": "PUG",
+      "9594": "barks",
+      "4405": "VEDA",
+      "2386": "Nuvvu",
+      "9640": "normuye....dheenni",
+      "6087": "em",
+      "4443": "cheyalo",
+      "6903": "theliyaka",
+      "2228": "chasthunna,",
+      "8600": "chethulo",
+      "1809": "dabbulu",
+      "4966": "levu",
+      "3780": "KENNEL",
+      "2825": "OWNER",
+      "6021": "Software",
+      "7347": "aa?"
+    }
+  },
+  "sample_no": "sample3",
+  "pdf_file_name": "page_29.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "KENNEL OWNER",
+        "VEDA"
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [],
+      "PROPS": [],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [],
+      "CAMERA": [],
+      "SOUND": [
+        "The PUG barks"
+      ],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [
+        "PUG"
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "KENNEL OWNER",
+          "ids": [
+            5569,
+            3212,
+            4598,
+            4470,
+            5287,
+            2955,
+            2413,
+            7066,
+            9975,
+            1766,
+            1151,
+            3914,
+            3780,
+            2825
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            2488,
+            2826
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            4202,
+            4405
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            5254,
+            5813
+          ]
+        }
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [],
+      "PROPS": [],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [],
+      "CAMERA": [],
+      "SOUND": [
+        {
+          "value": "The PUG barks",
+          "ids": [
+            2478,
+            3947,
+            8909,
+            9594
+          ]
+        }
+      ],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [
+        {
+          "value": "PUG",
+          "ids": [
+            2478,
+            8909
+          ]
+        }
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  }
+}

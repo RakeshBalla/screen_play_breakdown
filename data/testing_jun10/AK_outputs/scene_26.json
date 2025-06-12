@@ -1,0 +1,500 @@
+{
+  "ALL_TEXT": "26 EXT. GOVARDHAN\u2019S BUILDING-STAIRS - DAY \nINUMAYYA sits on the stairs trying to convince the OLD MAN, \nin his early fifties, is crying sitting on the stairs. \nOLD MAN \nIla jarigindhenti raa..dhevuda adhe \nee vayasulu ontari vaadini \naipoyaanu... \nINUMAYYA \nOkondi..sir! \nGOVARDHAN is walking towards them from behind, visibly \nirritated by the loud crying. \nGOVARDHAN \nExcuse me, konchem chinnaga \nedavandi, ledhante mee intlo \nkurchoni edavandi. \n(MORE) \nGOVARDHAN (CONT'D) \nManners ledha edho kompalu \nmunigipoyinatlu \nINUMAYYA gets up and goes towards GOVARDHAN. \nGOVARDHAN \nRey..dhuram..dhuram..dhuranga \nnilabadi maatladu \nINUMAYYA \nSir..papam! Aunty lechipoindhi \nIn the meanwhile, the LADY from the flat walks in coolly with \nthe granddaughter and her friend, unloading luggage. They \nseem to have come from the airport. Everyone is shocked. The \nOLD MAN cries tears of joy and runs towards his wife. \nINUMAYYA stares at them. \nGOVARDHAN \nRaatri kidnap ani arichaadu manners \nlekunda \nThe POM OWNER now walks in, with his POMERANIAN in his hands \nPOM OWNER \nArichindhi aayina kaadhu \nnenu...dongasachinodlu Mahalakshmi \nni kidnap cheyadaaniki try chesaaru \nINUMAYYA \nManchi pani chesindru...Idi naa \nnotlo voritiki velindhi..Che Che \nTee Vee lo chusaa \nGOVARDHAN shakes his head and walks away. \nNARRATOR (V.O.) \nPeru INUMAYYA. Peruki building \nwatchman. Suddha thaagubothu. \nBuilding lo em jarigina chusthaadu, \nkani entha chusthadaanadhi maatram \ntheleedhu. Vaadi maikam vaani entha \nchudanisthe antha! \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "26",
+    "1001": "EXT.",
+    "1002": "GOVARDHAN\u2019S",
+    "1003": "BUILDING-STAIRS",
+    "1004": "-",
+    "1005": "DAY",
+    "1006": "INUMAYYA",
+    "1007": "sits",
+    "1008": "on",
+    "1009": "the",
+    "1010": "stairs",
+    "1011": "trying",
+    "1012": "to",
+    "1013": "convince",
+    "1014": "the",
+    "1015": "OLD",
+    "1016": "MAN,",
+    "1017": "in",
+    "1018": "his",
+    "1019": "early",
+    "1020": "fifties,",
+    "1021": "is",
+    "1022": "crying",
+    "1023": "sitting",
+    "1024": "on",
+    "1025": "the",
+    "1026": "stairs.",
+    "1027": "OLD",
+    "1028": "MAN",
+    "1029": "Ila",
+    "1030": "jarigindhenti",
+    "1031": "raa..dhevuda",
+    "1032": "adhe",
+    "1033": "ee",
+    "1034": "vayasulu",
+    "1035": "ontari",
+    "1036": "vaadini",
+    "1037": "aipoyaanu...",
+    "1038": "INUMAYYA",
+    "1039": "Okondi..sir!",
+    "1040": "GOVARDHAN",
+    "1041": "is",
+    "1042": "walking",
+    "1043": "towards",
+    "1044": "them",
+    "1045": "from",
+    "1046": "behind,",
+    "1047": "visibly",
+    "1048": "irritated",
+    "1049": "by",
+    "1050": "the",
+    "1051": "loud",
+    "1052": "crying.",
+    "1053": "GOVARDHAN",
+    "1054": "Excuse",
+    "1055": "me,",
+    "1056": "konchem",
+    "1057": "chinnaga",
+    "1058": "edavandi,",
+    "1059": "ledhante",
+    "1060": "mee",
+    "1061": "intlo",
+    "1062": "kurchoni",
+    "1063": "edavandi.",
+    "1064": "(MORE)",
+    "1065": "GOVARDHAN",
+    "1066": "(CONT'D)",
+    "1067": "Manners",
+    "1068": "ledha",
+    "1069": "edho",
+    "1070": "kompalu",
+    "1071": "munigipoyinatlu",
+    "1072": "INUMAYYA",
+    "1073": "gets",
+    "1074": "up",
+    "1075": "and",
+    "1076": "goes",
+    "1077": "towards",
+    "1078": "GOVARDHAN.",
+    "1079": "GOVARDHAN",
+    "1080": "Rey..dhuram..dhuram..dhuranga",
+    "1081": "nilabadi",
+    "1082": "maatladu",
+    "1083": "INUMAYYA",
+    "1084": "Sir..papam!",
+    "1085": "Aunty",
+    "1086": "lechipoindhi",
+    "1087": "In",
+    "1088": "the",
+    "1089": "meanwhile,",
+    "1090": "the",
+    "1091": "LADY",
+    "1092": "from",
+    "1093": "the",
+    "1094": "flat",
+    "1095": "walks",
+    "1096": "in",
+    "1097": "coolly",
+    "1098": "with",
+    "1099": "the",
+    "1100": "granddaughter",
+    "1101": "and",
+    "1102": "her",
+    "1103": "friend,",
+    "1104": "unloading",
+    "1105": "luggage.",
+    "1106": "They",
+    "1107": "seem",
+    "1108": "to",
+    "1109": "have",
+    "1110": "come",
+    "1111": "from",
+    "1112": "the",
+    "1113": "airport.",
+    "1114": "Everyone",
+    "1115": "is",
+    "1116": "shocked.",
+    "1117": "The",
+    "1118": "OLD",
+    "1119": "MAN",
+    "1120": "cries",
+    "1121": "tears",
+    "1122": "of",
+    "1123": "joy",
+    "1124": "and",
+    "1125": "runs",
+    "1126": "towards",
+    "1127": "his",
+    "1128": "wife.",
+    "1129": "INUMAYYA",
+    "1130": "stares",
+    "1131": "at",
+    "1132": "them.",
+    "1133": "GOVARDHAN",
+    "1134": "Raatri",
+    "1135": "kidnap",
+    "1136": "ani",
+    "1137": "arichaadu",
+    "1138": "manners",
+    "1139": "lekunda",
+    "1140": "The",
+    "1141": "POM",
+    "1142": "OWNER",
+    "1143": "now",
+    "1144": "walks",
+    "1145": "in,",
+    "1146": "with",
+    "1147": "his",
+    "1148": "POMERANIAN",
+    "1149": "in",
+    "1150": "his",
+    "1151": "hands",
+    "1152": "POM",
+    "1153": "OWNER",
+    "1154": "Arichindhi",
+    "1155": "aayina",
+    "1156": "kaadhu",
+    "1157": "nenu...dongasachinodlu",
+    "1158": "Mahalakshmi",
+    "1159": "ni",
+    "1160": "kidnap",
+    "1161": "cheyadaaniki",
+    "1162": "try",
+    "1163": "chesaaru",
+    "1164": "INUMAYYA",
+    "1165": "Manchi",
+    "1166": "pani",
+    "1167": "chesindru...Idi",
+    "1168": "naa",
+    "1169": "notlo",
+    "1170": "voritiki",
+    "1171": "velindhi..Che",
+    "1172": "Che",
+    "1173": "Tee",
+    "1174": "Vee",
+    "1175": "lo",
+    "1176": "chusaa",
+    "1177": "GOVARDHAN",
+    "1178": "shakes",
+    "1179": "his",
+    "1180": "head",
+    "1181": "and",
+    "1182": "walks",
+    "1183": "away.",
+    "1184": "NARRATOR",
+    "1185": "(V.O.)",
+    "1186": "Peru",
+    "1187": "INUMAYYA.",
+    "1188": "Peruki",
+    "1189": "building",
+    "1190": "watchman.",
+    "1191": "Suddha",
+    "1192": "thaagubothu.",
+    "1193": "Building",
+    "1194": "lo",
+    "1195": "em",
+    "1196": "jarigina",
+    "1197": "chusthaadu,",
+    "1198": "kani",
+    "1199": "entha",
+    "1200": "chusthadaanadhi",
+    "1201": "maatram",
+    "1202": "theleedhu.",
+    "1203": "Vaadi",
+    "1204": "maikam",
+    "1205": "vaani",
+    "1206": "entha",
+    "1207": "chudanisthe",
+    "1208": "antha!",
+    "1209": "CUT",
+    "1210": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "INUMAYYA",
+        "OLD MAN",
+        "GOVARDHAN",
+        "LADY from the flat",
+        "granddaughter",
+        "her friend",
+        "wife",
+        "POM OWNER",
+        "NARRATOR"
+      ],
+      "SET": [
+        "EXT. GOVARDHAN\u2019S BUILDING-STAIRS - DAY"
+      ],
+      "PROPS": [
+        "luggage"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [
+        "POMERANIAN"
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        "crying",
+        "loud crying",
+        "cries tears of joy"
+      ]
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "INUMAYYA",
+            "ids": [
+              "1006"
+            ]
+          },
+          {
+            "value": "INUMAYYA",
+            "ids": [
+              "1038"
+            ]
+          },
+          {
+            "value": "INUMAYYA",
+            "ids": [
+              "1072"
+            ]
+          },
+          {
+            "value": "INUMAYYA",
+            "ids": [
+              "1083"
+            ]
+          },
+          {
+            "value": "INUMAYYA",
+            "ids": [
+              "1129"
+            ]
+          },
+          {
+            "value": "INUMAYYA",
+            "ids": [
+              "1164"
+            ]
+          },
+          {
+            "value": "INUMAYYA.",
+            "ids": [
+              "1187"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "OLD MAN",
+            "ids": [
+              "1027",
+              "1028"
+            ]
+          },
+          {
+            "value": "OLD MAN",
+            "ids": [
+              "1118",
+              "1119"
+            ]
+          },
+          {
+            "value": "OLD MAN,",
+            "ids": [
+              "1015",
+              "1016"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1040"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1053"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1065"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1079"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1133"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1177"
+            ]
+          },
+          {
+            "value": "GOVARDHAN.",
+            "ids": [
+              "1078"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "LADY from the flat",
+            "ids": [
+              "1091",
+              "1092",
+              "1093",
+              "1094"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "granddaughter",
+            "ids": [
+              "1100"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "her friend,",
+            "ids": [
+              "1102",
+              "1103"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "wife.",
+            "ids": [
+              "1128"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "POM OWNER",
+            "ids": [
+              "1141",
+              "1142"
+            ]
+          },
+          {
+            "value": "POM OWNER",
+            "ids": [
+              "1152",
+              "1153"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "NARRATOR",
+            "ids": [
+              "1184"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. GOVARDHAN\u2019S BUILDING-STAIRS - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "luggage.",
+            "ids": [
+              "1105"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [
+        [
+          {
+            "value": "POMERANIAN",
+            "ids": [
+              "1148"
+            ]
+          }
+        ]
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        [
+          {
+            "value": "crying",
+            "ids": [
+              "1022"
+            ]
+          },
+          {
+            "value": "crying.",
+            "ids": [
+              "1052"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "loud crying.",
+            "ids": [
+              "1051",
+              "1052"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "cries tears of joy",
+            "ids": [
+              "1120",
+              "1121",
+              "1122",
+              "1123"
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}

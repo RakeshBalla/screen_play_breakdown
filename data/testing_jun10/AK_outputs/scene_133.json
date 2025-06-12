@@ -1,0 +1,208 @@
+{
+  "ALL_TEXT": "133 EXT. GRAVEYARD - NIGHT\nBHANU chugs his drink. He gets a phone call.\nVEDA (O.S.)\nSare, ne bevarse friends enta mandi\nunnaaru?\nBHANU starts counting for his fingers...\nBHANU\nPrakash, Suresh, Mukesh, Rajesh,\nBrijesh...\nVEDA (O.S.)\nSare nenu oka okadiki 10k\nistha..prathi okkadu oka\nsmashaamiki elli\nBHANU\nThagesi unnaavu enti raa\nVEDA (O.S.)\nLedhu, I am very serious. All of\nyou be a part of something great.\nFor once, all of you waywardness\nwill come in handy.\nCUT TO:\nCUT TO:",
+  "WORDS_ID": {
+    "1000": "133",
+    "1001": "EXT.",
+    "1002": "GRAVEYARD",
+    "1003": "-",
+    "1004": "NIGHT",
+    "1005": "BHANU",
+    "1006": "chugs",
+    "1007": "his",
+    "1008": "drink.",
+    "1009": "He",
+    "1010": "gets",
+    "1011": "a",
+    "1012": "phone",
+    "1013": "call.",
+    "1014": "VEDA",
+    "1015": "(O.S.)",
+    "1016": "Sare,",
+    "1017": "ne",
+    "1018": "bevarse",
+    "1019": "friends",
+    "1020": "enta",
+    "1021": "mandi",
+    "1022": "unnaaru?",
+    "1023": "BHANU",
+    "1024": "starts",
+    "1025": "counting",
+    "1026": "for",
+    "1027": "his",
+    "1028": "fingers...",
+    "1029": "BHANU",
+    "1030": "Prakash,",
+    "1031": "Suresh,",
+    "1032": "Mukesh,",
+    "1033": "Rajesh,",
+    "1034": "Brijesh...",
+    "1035": "VEDA",
+    "1036": "(O.S.)",
+    "1037": "Sare",
+    "1038": "nenu",
+    "1039": "oka",
+    "1040": "okadiki",
+    "1041": "10k",
+    "1042": "istha..prathi",
+    "1043": "okkadu",
+    "1044": "oka",
+    "1045": "smashaamiki",
+    "1046": "elli",
+    "1047": "BHANU",
+    "1048": "Thagesi",
+    "1049": "unnaavu",
+    "1050": "enti",
+    "1051": "raa",
+    "1052": "VEDA",
+    "1053": "(O.S.)",
+    "1054": "Ledhu,",
+    "1055": "I",
+    "1056": "am",
+    "1057": "very",
+    "1058": "serious.",
+    "1059": "All",
+    "1060": "of",
+    "1061": "you",
+    "1062": "be",
+    "1063": "a",
+    "1064": "part",
+    "1065": "of",
+    "1066": "something",
+    "1067": "great.",
+    "1068": "For",
+    "1069": "once,",
+    "1070": "all",
+    "1071": "of",
+    "1072": "you",
+    "1073": "waywardness",
+    "1074": "will",
+    "1075": "come",
+    "1076": "in",
+    "1077": "handy.",
+    "1078": "CUT",
+    "1079": "TO:",
+    "1080": "CUT",
+    "1081": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "BHANU",
+        "VEDA"
+      ],
+      "SET": [
+        "EXT. GRAVEYARD - NIGHT"
+      ],
+      "PROPS": [
+        "drink",
+        "phone"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        "GRAVEYARD"
+      ],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "BHANU",
+            "ids": [
+              "1005"
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              "1023"
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              "1029"
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              "1047"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1014"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1035"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1052"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. GRAVEYARD - NIGHT",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "drink.",
+            "ids": [
+              "1008"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "phone",
+            "ids": [
+              "1012"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        [
+          {
+            "value": "GRAVEYARD",
+            "ids": [
+              "1002"
+            ]
+          }
+        ]
+      ],
+      "SOUND": []
+    }
+  }
+}

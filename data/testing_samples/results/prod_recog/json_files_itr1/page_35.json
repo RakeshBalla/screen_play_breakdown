@@ -1,0 +1,232 @@
+{
+  "page_dict": {
+    "alltext": "42 EXT. PUB-BACKSIDE - NIGHT\nVASU swaps the number plates on a container truck parked. He\ntakes sticks the number plate on an identical container\ntruck.\nVASU\nNakko thokkani thokaddam antey\nidhey nemo...number plate marchadam\ntho laksha kotlu kottesaam\nRAJU is seated in this truck. VASU climbs on and the two\ndrive off.\nCUT TO:",
+    "words_ids": {
+      "6918": "42",
+      "8882": "EXT.",
+      "4331": "PUB-BACKSIDE",
+      "2680": "-",
+      "8046": "NIGHT",
+      "1925": "VASU",
+      "3781": "swaps",
+      "8958": "the",
+      "4635": "number",
+      "3597": "plates",
+      "1032": "on",
+      "2130": "a",
+      "4343": "container",
+      "8890": "truck",
+      "3671": "parked.",
+      "3585": "He",
+      "1427": "takes",
+      "1268": "sticks",
+      "3802": "the",
+      "2303": "number",
+      "5055": "plate",
+      "6765": "on",
+      "2245": "an",
+      "5496": "identical",
+      "2659": "container",
+      "8942": "truck.",
+      "1893": "VASU",
+      "7836": "Nakko",
+      "2477": "thokkani",
+      "3217": "thokaddam",
+      "2743": "antey",
+      "1040": "idhey",
+      "1826": "nemo...number",
+      "1468": "plate",
+      "9757": "marchadam",
+      "2115": "tho",
+      "5850": "laksha",
+      "8091": "kotlu",
+      "6975": "kottesaam",
+      "7245": "RAJU",
+      "3091": "is",
+      "8269": "seated",
+      "3849": "in",
+      "4747": "this",
+      "6734": "truck.",
+      "4590": "VASU",
+      "1866": "climbs",
+      "3056": "on",
+      "2491": "and",
+      "4949": "the",
+      "9907": "two",
+      "3581": "drive",
+      "8340": "off.",
+      "6886": "CUT",
+      "1418": "TO:"
+    }
+  },
+  "sample_no": "sample4",
+  "pdf_file_name": "page_35.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "VASU",
+        "RAJU"
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [],
+      "PROPS": [
+        "number plates",
+        "container truck"
+      ],
+      "LOCATION_DETAILS": [
+        "PUB-BACKSIDE"
+      ],
+      "SCREEN_TITLES": [
+        "EXT. PUB-BACKSIDE - NIGHT"
+      ],
+      "CAMERA": [
+        "CUT TO:"
+      ],
+      "SOUND": [
+        "VASU: Nakko thokkani thokaddam antey idhey nemo...number plate marchadam tho laksha kotlu kottesaam"
+      ],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [
+        "container truck"
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "VASU",
+          "ids": [
+            1893,
+            1925
+          ]
+        },
+        {
+          "value": "RAJU",
+          "ids": [
+            7245
+          ]
+        }
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [],
+      "PROPS": [
+        {
+          "value": "number plates",
+          "ids": [
+            4635,
+            3597,
+            2303
+          ]
+        },
+        {
+          "value": "container truck",
+          "ids": [
+            4343,
+            8890,
+            2659
+          ]
+        }
+      ],
+      "LOCATION_DETAILS": [
+        {
+          "value": "PUB-BACKSIDE",
+          "ids": [
+            4331
+          ]
+        }
+      ],
+      "SCREEN_TITLES": [
+        {
+          "value": "EXT. PUB-BACKSIDE - NIGHT",
+          "ids": [
+            8046
+          ]
+        }
+      ],
+      "CAMERA": [
+        {
+          "value": "CUT TO:",
+          "ids": [
+            6886
+          ]
+        }
+      ],
+      "SOUND": [
+        {
+          "value": "VASU: Nakko thokkani thokaddam antey idhey nemo...number plate marchadam tho laksha kotlu kottesaam",
+          "ids": [
+            1925,
+            4635,
+            2303,
+            5055,
+            1893,
+            7836,
+            2477,
+            3217,
+            2743,
+            1040,
+            1468,
+            9757,
+            2115,
+            5850,
+            8091,
+            6975,
+            4590
+          ]
+        }
+      ],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [
+        {
+          "value": "container truck",
+          "ids": [
+            4343,
+            8890,
+            2659
+          ]
+        }
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  }
+}

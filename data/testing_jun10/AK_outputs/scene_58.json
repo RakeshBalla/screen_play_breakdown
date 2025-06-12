@@ -1,0 +1,834 @@
+{
+  "ALL_TEXT": "58 EXT. ROAD - DAY (DAWN) \nVEDA stops the bike; GOVARDHAN gets off it. \nVEDA \nenti..edo ghoram jariginatlu \nmaatladuthunnaru , ikkada em \njaragaledhu \nGOVARDHAN \njaragaledha?? ippaatiki na desku \nnaaku dhakedhi...aa MARILYN work \nantha neeney finish \nchesesundeyvaadini. Appudu daanni \nvenaki pampinchesthaaru... \nThe PUG that was sleeping all this while in the baby sling, \nbarks. GOVARDHAN is frightened by the bark for a moment. \nGOVARDHAN \nKukka ekkadninchi vochindi?? Aina \nkukkanu medakkattukuni enduku \nthiriguthunnaavu? Intlo padesi \nraavachu ga?... Daannesukuni \nbandetla nadipisthunnav asalu \nnuvvu????... Anduke accident \nayyinidi... vaademo nannesukunnadu \nnuvdorakka! \nVEDA \nNaakemanna sokaa deenni itla \nkattukuni thiragataaniki... naa \nroom mate oo thaagubothu yedava... \nmanduki dabbullekapothe deenni \nthappakunda ammuthaadu. \nGOVARDHAN \nAndharu thagubothuvedavale \nVEDA \noye enti , ekkuva maatladuthunnav.. \ndaannodilthe!! \nGOVARDHAN \nAa vadulu... police complaint ichi \niddarini lopalestha! \nVEDA \nUnnadakkada mee abba!.. Nuvvu \ncomplaint ivvagaane thokkalo oh \nkukkani vethukkuntu raa taaniki... \nAkkade odilesi undaalsindhi... \nvaadu inko naaalugu peeki police \nlaki pattichevaadu... thikka \nkudiredidhi. Kruthgnanathanedi \nledu... \nGOVARDHAN \nDeniki ra kruthagnatha? Calm ga \nunna life ni disturb chesi ulta \nmaatlaaduthunnav? \nVEDA \nRei... Nee abba!.. Asalu accident \nchesindi nenu, kottindi nenu, glass \npagalagottindi nenu... nenu cool ga \nunte nuvvu tension penchuthaavu \nenti? \nGOVARDHAN \n(angry) \nAem cheyyani daaniki debbalu thini, \ndongodi laa paaripoye tappu chesi \nkruthagnatha ledantaava???.. dabba \nethi kottaanante... \nAt this instant GOVARDHAN realizes he doesn't have the tiffin \nbox in his hand. He looks around for it. \nGOVARDHAN \nNa dabba na dabba... \nVEDA \nNee dabba thone kada koti paripoyam \nGOVARDHAN \n(waling) \nMaryaadaga naaku naa dabba techi \nivvu, adhi nenu chinappudu LKG lo \nunnapuddininchi vaadutunnaanu \ntelusa \nVEDA \nNenu kotha dabba konnista \nGOVARDHAN \nLedu naaku adey dabba kaavali \nVEDA calms down a bit. \nVEDA \nSare le ardham ayyindi.. Aravaddu.. \nGOVARDHAN \nAsalu koncham kuda guilty feeling \nledaa? Nee valla inko manishi life \nintha disturb ayyindi annadi \nkoncham kuda guchukoda neeku? \n(MORE) \nGOVARDHAN (CONT'D) \nChusthe chaduvukunnodi laa \nunnaav..Anduke antaaru \nchaduvukunnodi kanna chaakalodu \nmelu ani! \nVEDA \nAithe mee chaakalodiki phone cheyyi \nvachi dabba isthadu. Vochi ekku!!! \nGOVARDHAN \nNen raanu \nYe.. \nNaa ishtam \nVEDA \nGOVARDHAN \nVEDA \naithe ikkade vundu \nGOVARDHAN \nnenundanu naakikka evvaru teleedu. \nVEDA \nidhi roaddu...general ga evariki \nevaru teleedu. \nGOVARDHAN starts getting very fidgety and cranky. VEDA is \namused... GOVARDHAN ignores him childishly. The PUG barks at \nGOVARDHAN. \nGOVARDHAN \nNee kukkani control lo pettuko... \nadi urikane arusthundi na meeda. \nVEDA \nDaaniki thelusu evari tho etla \nundaalo. \nVEDA starts his bike. \nGOVARDHAN \nEkkadiki? \nVEDA \nMee office ki..I'll drop you \nthere..Aa tharvaatha neeku naaku \nsambandham ledu. \nGOVARDHAN \nSare..koncham munduku jaruguthaava? \nVEDA \nEnduku antha place undi kada? \nGOVARDHAN \nNaaku intha deggaraga kurchovatam \nishtam undadu. \nVEDA \nTank meeda kurchona? \nGOVARDHAN \nVeelavuthada? \nVEDA turns his head and looks at GOVARDHAN. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "58",
+    "1001": "EXT.",
+    "1002": "ROAD",
+    "1003": "-",
+    "1004": "DAY",
+    "1005": "(DAWN)",
+    "1006": "VEDA",
+    "1007": "stops",
+    "1008": "the",
+    "1009": "bike;",
+    "1010": "GOVARDHAN",
+    "1011": "gets",
+    "1012": "off",
+    "1013": "it.",
+    "1014": "VEDA",
+    "1015": "enti..edo",
+    "1016": "ghoram",
+    "1017": "jariginatlu",
+    "1018": "maatladuthunnaru",
+    "1019": ",",
+    "1020": "ikkada",
+    "1021": "em",
+    "1022": "jaragaledhu",
+    "1023": "GOVARDHAN",
+    "1024": "jaragaledha??",
+    "1025": "ippaatiki",
+    "1026": "na",
+    "1027": "desku",
+    "1028": "naaku",
+    "1029": "dhakedhi...aa",
+    "1030": "MARILYN",
+    "1031": "work",
+    "1032": "antha",
+    "1033": "neeney",
+    "1034": "finish",
+    "1035": "chesesundeyvaadini.",
+    "1036": "Appudu",
+    "1037": "daanni",
+    "1038": "venaki",
+    "1039": "pampinchesthaaru...",
+    "1040": "The",
+    "1041": "PUG",
+    "1042": "that",
+    "1043": "was",
+    "1044": "sleeping",
+    "1045": "all",
+    "1046": "this",
+    "1047": "while",
+    "1048": "in",
+    "1049": "the",
+    "1050": "baby",
+    "1051": "sling,",
+    "1052": "barks.",
+    "1053": "GOVARDHAN",
+    "1054": "is",
+    "1055": "frightened",
+    "1056": "by",
+    "1057": "the",
+    "1058": "bark",
+    "1059": "for",
+    "1060": "a",
+    "1061": "moment.",
+    "1062": "GOVARDHAN",
+    "1063": "Kukka",
+    "1064": "ekkadninchi",
+    "1065": "vochindi??",
+    "1066": "Aina",
+    "1067": "kukkanu",
+    "1068": "medakkattukuni",
+    "1069": "enduku",
+    "1070": "thiriguthunnaavu?",
+    "1071": "Intlo",
+    "1072": "padesi",
+    "1073": "raavachu",
+    "1074": "ga?...",
+    "1075": "Daannesukuni",
+    "1076": "bandetla",
+    "1077": "nadipisthunnav",
+    "1078": "asalu",
+    "1079": "nuvvu????...",
+    "1080": "Anduke",
+    "1081": "accident",
+    "1082": "ayyinidi...",
+    "1083": "vaademo",
+    "1084": "nannesukunnadu",
+    "1085": "nuvdorakka!",
+    "1086": "VEDA",
+    "1087": "Naakemanna",
+    "1088": "sokaa",
+    "1089": "deenni",
+    "1090": "itla",
+    "1091": "kattukuni",
+    "1092": "thiragataaniki...",
+    "1093": "naa",
+    "1094": "room",
+    "1095": "mate",
+    "1096": "oo",
+    "1097": "thaagubothu",
+    "1098": "yedava...",
+    "1099": "manduki",
+    "1100": "dabbullekapothe",
+    "1101": "deenni",
+    "1102": "thappakunda",
+    "1103": "ammuthaadu.",
+    "1104": "GOVARDHAN",
+    "1105": "Andharu",
+    "1106": "thagubothuvedavale",
+    "1107": "VEDA",
+    "1108": "oye",
+    "1109": "enti",
+    "1110": ",",
+    "1111": "ekkuva",
+    "1112": "maatladuthunnav..",
+    "1113": "daannodilthe!!",
+    "1114": "GOVARDHAN",
+    "1115": "Aa",
+    "1116": "vadulu...",
+    "1117": "police",
+    "1118": "complaint",
+    "1119": "ichi",
+    "1120": "iddarini",
+    "1121": "lopalestha!",
+    "1122": "VEDA",
+    "1123": "Unnadakkada",
+    "1124": "mee",
+    "1125": "abba!..",
+    "1126": "Nuvvu",
+    "1127": "complaint",
+    "1128": "ivvagaane",
+    "1129": "thokkalo",
+    "1130": "oh",
+    "1131": "kukkani",
+    "1132": "vethukkuntu",
+    "1133": "raa",
+    "1134": "taaniki...",
+    "1135": "Akkade",
+    "1136": "odilesi",
+    "1137": "undaalsindhi...",
+    "1138": "vaadu",
+    "1139": "inko",
+    "1140": "naaalugu",
+    "1141": "peeki",
+    "1142": "police",
+    "1143": "laki",
+    "1144": "pattichevaadu...",
+    "1145": "thikka",
+    "1146": "kudiredidhi.",
+    "1147": "Kruthgnanathanedi",
+    "1148": "ledu...",
+    "1149": "GOVARDHAN",
+    "1150": "Deniki",
+    "1151": "ra",
+    "1152": "kruthagnatha?",
+    "1153": "Calm",
+    "1154": "ga",
+    "1155": "unna",
+    "1156": "life",
+    "1157": "ni",
+    "1158": "disturb",
+    "1159": "chesi",
+    "1160": "ulta",
+    "1161": "maatlaaduthunnav?",
+    "1162": "VEDA",
+    "1163": "Rei...",
+    "1164": "Nee",
+    "1165": "abba!..",
+    "1166": "Asalu",
+    "1167": "accident",
+    "1168": "chesindi",
+    "1169": "nenu,",
+    "1170": "kottindi",
+    "1171": "nenu,",
+    "1172": "glass",
+    "1173": "pagalagottindi",
+    "1174": "nenu...",
+    "1175": "nenu",
+    "1176": "cool",
+    "1177": "ga",
+    "1178": "unte",
+    "1179": "nuvvu",
+    "1180": "tension",
+    "1181": "penchuthaavu",
+    "1182": "enti?",
+    "1183": "GOVARDHAN",
+    "1184": "(angry)",
+    "1185": "Aem",
+    "1186": "cheyyani",
+    "1187": "daaniki",
+    "1188": "debbalu",
+    "1189": "thini,",
+    "1190": "dongodi",
+    "1191": "laa",
+    "1192": "paaripoye",
+    "1193": "tappu",
+    "1194": "chesi",
+    "1195": "kruthagnatha",
+    "1196": "ledantaava???..",
+    "1197": "dabba",
+    "1198": "ethi",
+    "1199": "kottaanante...",
+    "1200": "At",
+    "1201": "this",
+    "1202": "instant",
+    "1203": "GOVARDHAN",
+    "1204": "realizes",
+    "1205": "he",
+    "1206": "doesn't",
+    "1207": "have",
+    "1208": "the",
+    "1209": "tiffin",
+    "1210": "box",
+    "1211": "in",
+    "1212": "his",
+    "1213": "hand.",
+    "1214": "He",
+    "1215": "looks",
+    "1216": "around",
+    "1217": "for",
+    "1218": "it.",
+    "1219": "GOVARDHAN",
+    "1220": "Na",
+    "1221": "dabba",
+    "1222": "na",
+    "1223": "dabba...",
+    "1224": "VEDA",
+    "1225": "Nee",
+    "1226": "dabba",
+    "1227": "thone",
+    "1228": "kada",
+    "1229": "koti",
+    "1230": "paripoyam",
+    "1231": "GOVARDHAN",
+    "1232": "(waling)",
+    "1233": "Maryaadaga",
+    "1234": "naaku",
+    "1235": "naa",
+    "1236": "dabba",
+    "1237": "techi",
+    "1238": "ivvu,",
+    "1239": "adhi",
+    "1240": "nenu",
+    "1241": "chinappudu",
+    "1242": "LKG",
+    "1243": "lo",
+    "1244": "unnapuddininchi",
+    "1245": "vaadutunnaanu",
+    "1246": "telusa",
+    "1247": "VEDA",
+    "1248": "Nenu",
+    "1249": "kotha",
+    "1250": "dabba",
+    "1251": "konnista",
+    "1252": "GOVARDHAN",
+    "1253": "Ledu",
+    "1254": "naaku",
+    "1255": "adey",
+    "1256": "dabba",
+    "1257": "kaavali",
+    "1258": "VEDA",
+    "1259": "calms",
+    "1260": "down",
+    "1261": "a",
+    "1262": "bit.",
+    "1263": "VEDA",
+    "1264": "Sare",
+    "1265": "le",
+    "1266": "ardham",
+    "1267": "ayyindi..",
+    "1268": "Aravaddu..",
+    "1269": "GOVARDHAN",
+    "1270": "Asalu",
+    "1271": "koncham",
+    "1272": "kuda",
+    "1273": "guilty",
+    "1274": "feeling",
+    "1275": "ledaa?",
+    "1276": "Nee",
+    "1277": "valla",
+    "1278": "inko",
+    "1279": "manishi",
+    "1280": "life",
+    "1281": "intha",
+    "1282": "disturb",
+    "1283": "ayyindi",
+    "1284": "annadi",
+    "1285": "koncham",
+    "1286": "kuda",
+    "1287": "guchukoda",
+    "1288": "neeku?",
+    "1289": "(MORE)",
+    "1290": "GOVARDHAN",
+    "1291": "(CONT'D)",
+    "1292": "Chusthe",
+    "1293": "chaduvukunnodi",
+    "1294": "laa",
+    "1295": "unnaav..Anduke",
+    "1296": "antaaru",
+    "1297": "chaduvukunnodi",
+    "1298": "kanna",
+    "1299": "chaakalodu",
+    "1300": "melu",
+    "1301": "ani!",
+    "1302": "VEDA",
+    "1303": "Aithe",
+    "1304": "mee",
+    "1305": "chaakalodiki",
+    "1306": "phone",
+    "1307": "cheyyi",
+    "1308": "vachi",
+    "1309": "dabba",
+    "1310": "isthadu.",
+    "1311": "Vochi",
+    "1312": "ekku!!!",
+    "1313": "GOVARDHAN",
+    "1314": "Nen",
+    "1315": "raanu",
+    "1316": "Ye..",
+    "1317": "Naa",
+    "1318": "ishtam",
+    "1319": "VEDA",
+    "1320": "GOVARDHAN",
+    "1321": "VEDA",
+    "1322": "aithe",
+    "1323": "ikkade",
+    "1324": "vundu",
+    "1325": "GOVARDHAN",
+    "1326": "nenundanu",
+    "1327": "naakikka",
+    "1328": "evvaru",
+    "1329": "teleedu.",
+    "1330": "VEDA",
+    "1331": "idhi",
+    "1332": "roaddu...general",
+    "1333": "ga",
+    "1334": "evariki",
+    "1335": "evaru",
+    "1336": "teleedu.",
+    "1337": "GOVARDHAN",
+    "1338": "starts",
+    "1339": "getting",
+    "1340": "very",
+    "1341": "fidgety",
+    "1342": "and",
+    "1343": "cranky.",
+    "1344": "VEDA",
+    "1345": "is",
+    "1346": "amused...",
+    "1347": "GOVARDHAN",
+    "1348": "ignores",
+    "1349": "him",
+    "1350": "childishly.",
+    "1351": "The",
+    "1352": "PUG",
+    "1353": "barks",
+    "1354": "at",
+    "1355": "GOVARDHAN.",
+    "1356": "GOVARDHAN",
+    "1357": "Nee",
+    "1358": "kukkani",
+    "1359": "control",
+    "1360": "lo",
+    "1361": "pettuko...",
+    "1362": "adi",
+    "1363": "urikane",
+    "1364": "arusthundi",
+    "1365": "na",
+    "1366": "meeda.",
+    "1367": "VEDA",
+    "1368": "Daaniki",
+    "1369": "thelusu",
+    "1370": "evari",
+    "1371": "tho",
+    "1372": "etla",
+    "1373": "undaalo.",
+    "1374": "VEDA",
+    "1375": "starts",
+    "1376": "his",
+    "1377": "bike.",
+    "1378": "GOVARDHAN",
+    "1379": "Ekkadiki?",
+    "1380": "VEDA",
+    "1381": "Mee",
+    "1382": "office",
+    "1383": "ki..I'll",
+    "1384": "drop",
+    "1385": "you",
+    "1386": "there..Aa",
+    "1387": "tharvaatha",
+    "1388": "neeku",
+    "1389": "naaku",
+    "1390": "sambandham",
+    "1391": "ledu.",
+    "1392": "GOVARDHAN",
+    "1393": "Sare..koncham",
+    "1394": "munduku",
+    "1395": "jaruguthaava?",
+    "1396": "VEDA",
+    "1397": "Enduku",
+    "1398": "antha",
+    "1399": "place",
+    "1400": "undi",
+    "1401": "kada?",
+    "1402": "GOVARDHAN",
+    "1403": "Naaku",
+    "1404": "intha",
+    "1405": "deggaraga",
+    "1406": "kurchovatam",
+    "1407": "ishtam",
+    "1408": "undadu.",
+    "1409": "VEDA",
+    "1410": "Tank",
+    "1411": "meeda",
+    "1412": "kurchona?",
+    "1413": "GOVARDHAN",
+    "1414": "Veelavuthada?",
+    "1415": "VEDA",
+    "1416": "turns",
+    "1417": "his",
+    "1418": "head",
+    "1419": "and",
+    "1420": "looks",
+    "1421": "at",
+    "1422": "GOVARDHAN.",
+    "1423": "CUT",
+    "1424": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "VEDA",
+        "GOVARDHAN"
+      ],
+      "SET": [
+        "EXT. ROAD - DAY (DAWN)"
+      ],
+      "PROPS": [
+        "baby sling",
+        "tiffin box"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        "bike"
+      ],
+      "ANIMALS": [
+        "PUG"
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        "barks"
+      ]
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1006"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1014"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1086"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1107"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1122"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1162"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1224"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1247"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1258"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1263"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1302"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1319"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1321"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1330"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1344"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1367"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1374"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1380"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1396"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1409"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1415"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1010"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1023"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1053"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1062"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1104"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1114"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1149"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1183"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1203"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1219"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1231"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1252"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1269"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1290"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1313"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1320"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1325"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1337"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1347"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1356"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1378"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1392"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1402"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1413"
+            ]
+          },
+          {
+            "value": "GOVARDHAN.",
+            "ids": [
+              "1355"
+            ]
+          },
+          {
+            "value": "GOVARDHAN.",
+            "ids": [
+              "1422"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. ROAD - DAY (DAWN)",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "baby sling,",
+            "ids": [
+              "1050",
+              "1051"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "tiffin box",
+            "ids": [
+              "1209",
+              "1210"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        [
+          {
+            "value": "bike;",
+            "ids": [
+              "1009"
+            ]
+          },
+          {
+            "value": "bike.",
+            "ids": [
+              "1377"
+            ]
+          }
+        ]
+      ],
+      "ANIMALS": [
+        [
+          {
+            "value": "PUG",
+            "ids": [
+              "1041"
+            ]
+          },
+          {
+            "value": "PUG",
+            "ids": [
+              "1352"
+            ]
+          }
+        ]
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        [
+          {
+            "value": "barks",
+            "ids": [
+              "1353"
+            ]
+          },
+          {
+            "value": "barks.",
+            "ids": [
+              "1052"
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}

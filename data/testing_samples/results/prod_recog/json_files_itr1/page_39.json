@@ -1,0 +1,413 @@
+{
+  "page_dict": {
+    "alltext": "38.\nSULOCHANA\nEnti?\nVEDA\nEmledhu.\nSULOCHANA\nSare enthakammuthav...\nVEDA\nAntey.. Nuvvu konttaavaa??\nSULOCHANA\nYes.\nVEDA\nAsalu maata meedha neelabadaleni\nfamily lo ki ee cute puppy ne\nammanu...\nSULOCHANA\nBha asalu daniki diniki emana\nsambhandam undha? Please neeku\nelago edhi bhaaram, ninna navala\nelantidhe maa pakainti kukka\npaaripoyindhi. vaala ki ee kukka ni\nreplacement kindha isthey\nsantoshitharu.\nFor a split second there is a wicked look on his face.\nVEDA\n(innocently)\nNalabai\nSULOCHANA\nWhat?? muppai kante ekkuva ivvanu.\nThe PUG barks. VEDA smirks.\nVEDA\nnee retu dhaanikkuda nachaledu.\nSarey final 35.\nSULOCHANA\nVEDA\nNalabhai ki konna nenu... aidhu\nthaggisthunna poni le ani...\nVaddante vadileyandi... daani\nkarmedo adi anubhavisthadi.\nSULOCHANA\nSarey numberistha repu kaluvu.",
+    "words_ids": {
+      "1844": "38.",
+      "9272": "SULOCHANA",
+      "9595": "Enti?",
+      "6665": "VEDA",
+      "5055": "Emledhu.",
+      "5662": "SULOCHANA",
+      "9776": "Sare",
+      "1518": "enthakammuthav...",
+      "4422": "VEDA",
+      "4396": "maa",
+      "9752": "Nuvvu",
+      "1357": "konttaavaa??",
+      "2595": "SULOCHANA",
+      "2854": "Yes.",
+      "9113": "VEDA",
+      "5032": "Asalu",
+      "6694": "maata",
+      "3038": "meedha",
+      "6023": "neelabadaleni",
+      "7299": "family",
+      "3291": "lo",
+      "6845": "ki",
+      "5387": "ee",
+      "1802": "cute",
+      "8527": "puppy",
+      "9392": "ne",
+      "2931": "ammanu...",
+      "9234": "SULOCHANA",
+      "3111": "Bha",
+      "3712": "asalu",
+      "8696": "daniki",
+      "1524": "diniki",
+      "8634": "emana",
+      "1967": "sambhandam",
+      "9101": "undha?",
+      "5025": "Please",
+      "8688": "neeku",
+      "5074": "elago",
+      "4468": "edhi",
+      "9918": "bhaaram,",
+      "5075": "ninna",
+      "2965": "navala",
+      "1589": "elantidhe",
+      "1814": "pakainti",
+      "1581": "kukka",
+      "8912": "paaripoyindhi.",
+      "6629": "vaala",
+      "1114": "ki",
+      "2167": "ee",
+      "2913": "kukka",
+      "1514": "ni",
+      "5220": "replacement",
+      "3694": "kindha",
+      "9490": "isthey",
+      "9317": "santoshitharu.",
+      "9900": "For",
+      "2157": "a",
+      "9085": "split",
+      "7900": "second",
+      "8034": "there",
+      "4173": "is",
+      "5557": "a",
+      "8902": "wicked",
+      "3627": "look",
+      "8509": "on",
+      "9390": "his",
+      "5756": "face.",
+      "1294": "VEDA",
+      "7283": "(innocently)",
+      "8044": "Nalabai",
+      "2367": "SULOCHANA",
+      "6663": "What??",
+      "8492": "muppai",
+      "5774": "kante",
+      "4992": "ekkuva",
+      "7776": "ivvanu.",
+      "3765": "The",
+      "6614": "PUG",
+      "6419": "barks.",
+      "1526": "VEDA",
+      "4373": "smirks.",
+      "8868": "VEDA",
+      "4607": "nee",
+      "8048": "retu",
+      "8360": "dhaanikkuda",
+      "3600": "nachaledu.",
+      "6761": "Sarey",
+      "6103": "final",
+      "4837": "35.",
+      "1953": "SULOCHANA",
+      "8122": "VEDA",
+      "2347": "Nalabhai",
+      "3937": "ki",
+      "6524": "konna",
+      "8743": "nenu...",
+      "2188": "aidhu",
+      "6404": "thaggisthunna",
+      "8369": "poni",
+      "9278": "le",
+      "3194": "ani...",
+      "4900": "Vaddante",
+      "8502": "vadileyandi...",
+      "8876": "daani",
+      "2400": "karmedo",
+      "4454": "adi",
+      "5496": "anubhavisthadi.",
+      "7867": "SULOCHANA",
+      "6797": "Sarey",
+      "5123": "numberistha",
+      "9328": "repu",
+      "3250": "kaluvu."
+    }
+  },
+  "sample_no": "sample4",
+  "pdf_file_name": "page_39.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "SULOCHANA",
+        "VEDA"
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [],
+      "PROPS": [
+        "PUG"
+      ],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [],
+      "CAMERA": [],
+      "SOUND": [
+        "Enti?",
+        "Emledhu.",
+        "Sare enthakammuthav...",
+        "Antey.. Nuvvu konttaavaa??",
+        "Yes.",
+        "Asalu maata meedha neelabadaleni\nfamily lo ki ee cute puppy ne\nammanu...",
+        "Bha asalu daniki diniki emana\nsambhandam undha? Please neeku\nelago edhi bhaaram, ninna navala\nelantidhe maa pakainti kukka\npaaripoyindhi. vaala ki ee kukka ni\nreplacement kindha isthey\nsantoshitharu.",
+        "(innocently)\nNalabai",
+        "What?? muppai kante ekkuva ivvanu.",
+        "nee retu dhaanikkuda nachaledu.\nSarey final 35.",
+        "Nalabhai ki konna nenu... aidhu\nthaggisthunna poni le ani...\nVaddante vadileyandi... daani\nkarmedo adi anubhavisthadi.",
+        "Sarey numberistha repu kaluvu.",
+        "barks"
+      ],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [
+        "PUG"
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [
+        "barks"
+      ],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            1953,
+            2367
+          ]
+        },
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            2595,
+            5662
+          ]
+        },
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            7867,
+            9234
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            1294,
+            1526
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            4422,
+            6665
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            8122,
+            8868
+          ]
+        }
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [],
+      "PROPS": [
+        {
+          "value": "PUG",
+          "ids": [
+            6614
+          ]
+        }
+      ],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [],
+      "CAMERA": [],
+      "SOUND": [
+        {
+          "value": "Enti?",
+          "ids": [
+            9595
+          ]
+        },
+        {
+          "value": "Emledhu.",
+          "ids": [
+            5055
+          ]
+        },
+        {
+          "value": "Sare enthakammuthav...",
+          "ids": [
+            9776
+          ]
+        },
+        {
+          "value": "Antey.. Nuvvu konttaavaa??",
+          "ids": [
+            9752
+          ]
+        },
+        {
+          "value": "Yes.",
+          "ids": [
+            2854
+          ]
+        },
+        {
+          "value": "Asalu maata meedha neelabadaleni\nfamily lo ki ee cute puppy ne\nammanu...",
+          "ids": [
+            5032,
+            6694,
+            3038,
+            6023,
+            7299,
+            3291,
+            6845,
+            5387,
+            1802,
+            8527,
+            9392,
+            3712,
+            1114,
+            2167,
+            3937
+          ]
+        },
+        {
+          "value": "Bha asalu daniki diniki emana\nsambhandam undha? Please neeku\nelago edhi bhaaram, ninna navala\nelantidhe maa pakainti kukka\npaaripoyindhi. vaala ki ee kukka ni\nreplacement kindha isthey\nsantoshitharu.",
+          "ids": [
+            4396,
+            5032,
+            6845,
+            5387,
+            3111,
+            3712,
+            8696,
+            1524,
+            8634,
+            1967,
+            5025,
+            8688,
+            5074,
+            4468,
+            5075,
+            2965,
+            1589,
+            1814,
+            1581,
+            6629,
+            1114,
+            2167,
+            2913,
+            1514,
+            5220,
+            3694,
+            9490,
+            3937
+          ]
+        },
+        {
+          "value": "(innocently)\nNalabai",
+          "ids": [
+            8044
+          ]
+        },
+        {
+          "value": "What?? muppai kante ekkuva ivvanu.",
+          "ids": [
+            8492,
+            5774,
+            4992
+          ]
+        },
+        {
+          "value": "nee retu dhaanikkuda nachaledu.\nSarey final 35.",
+          "ids": [
+            4607,
+            8048,
+            8360,
+            6761,
+            6103,
+            6797
+          ]
+        },
+        {
+          "value": "Nalabhai ki konna nenu... aidhu\nthaggisthunna poni le ani...\nVaddante vadileyandi... daani\nkarmedo adi anubhavisthadi.",
+          "ids": [
+            6845,
+            1114,
+            2347,
+            3937,
+            6524,
+            2188,
+            6404,
+            8369,
+            9278,
+            4900,
+            8876,
+            2400,
+            4454
+          ]
+        },
+        {
+          "value": "Sarey numberistha repu kaluvu.",
+          "ids": [
+            6761,
+            6797,
+            5123,
+            9328
+          ]
+        },
+        {
+          "value": "barks",
+          "ids": []
+        }
+      ],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [
+        {
+          "value": "PUG",
+          "ids": [
+            6614
+          ]
+        }
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [
+        {
+          "value": "barks",
+          "ids": []
+        }
+      ],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  }
+}

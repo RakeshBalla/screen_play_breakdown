@@ -1,0 +1,133 @@
+{
+  "sample_no": "sample1",
+  "pdf_file_name": "page_2.pdf",
+  "alltext": "CREDITS START.\n1 EXT. VAST GRASSLAND - NIGHT\nA man riding a horse looks at the stars. In his hand is\nKRISHNA\u2019s box.\nNARRATOR\nOka adbutam jarigey gadiyelo koni\njeevithaalu aa kroddhipaati\nsamayamlo taarumaarai, aa\nadhbuthaaniki margamu chuuputaaru\nCUT TO:",
+  "words_ids": {
+    "1000": "CREDITS",
+    "1001": "START.",
+    "1002": "1",
+    "1003": "EXT.",
+    "1004": "VAST",
+    "1005": "GRASSLAND",
+    "1006": "-",
+    "1007": "NIGHT",
+    "1008": "A",
+    "1009": "man",
+    "1010": "riding",
+    "1011": "a",
+    "1012": "horse",
+    "1013": "looks",
+    "1014": "at",
+    "1015": "the",
+    "1016": "stars.",
+    "1017": "In",
+    "1018": "his",
+    "1019": "hand",
+    "1020": "is",
+    "1021": "KRISHNA\u2019s",
+    "1022": "box.",
+    "1023": "NARRATOR",
+    "1024": "Oka",
+    "1025": "adbutam",
+    "1026": "jarigey",
+    "1027": "gadiyelo",
+    "1028": "koni",
+    "1029": "jeevithaalu",
+    "1030": "aa",
+    "1031": "kroddhipaati",
+    "1032": "samayamlo",
+    "1033": "taarumaarai,",
+    "1034": "aa",
+    "1035": "adhbuthaaniki",
+    "1036": "margamu",
+    "1037": "chuuputaaru",
+    "1038": "CUT",
+    "1039": "TO:"
+  },
+  "llm_response": {
+    "production_categories": {
+      "CAST": [],
+      "SET": [
+        "EXT. VAST GRASSLAND - NIGHT"
+      ],
+      "PROPS": [
+        "KRISHNA\u2019s box"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        "horse"
+      ],
+      "ANIMALS": [
+        "horse"
+      ],
+      "NUDITY": [],
+      "GREENERY": [
+        "grassland"
+      ],
+      "SOUND": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [],
+      "SET": [
+        [
+          {
+            "value": "EXT. VAST GRASSLAND - NIGHT",
+            "ids": [
+              "1003",
+              "1004",
+              "1005",
+              "1006",
+              "1007"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "KRISHNA\u2019s box.",
+            "ids": [
+              "1021",
+              "1022"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        [
+          {
+            "value": "horse",
+            "ids": [
+              "1012"
+            ]
+          }
+        ]
+      ],
+      "ANIMALS": [
+        [
+          {
+            "value": "horse",
+            "ids": [
+              "1012"
+            ]
+          }
+        ]
+      ],
+      "NUDITY": [],
+      "GREENERY": [
+        [
+          {
+            "value": "GRASSLAND",
+            "ids": [
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "SOUND": []
+    }
+  }
+}

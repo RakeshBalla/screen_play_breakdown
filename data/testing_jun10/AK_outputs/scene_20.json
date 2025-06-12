@@ -1,0 +1,586 @@
+{
+  "ALL_TEXT": "20 INT. GOVARDHAN'S HOUSE-POOJA AREA - DAY\nANJI, a frail man in his late 30s, sits opposite the kitchen\non the bathroom floor, as he shampoos a cocunut. He wears a\nDIY utility belt - holstered with a small broom, a spray gun,\nhand sanitizer, a wet wipe, a set of disposable gloves, and a\nrag.\nANJI (V.O)\nNuvvu asalu manishivena...sorry,\ndhevudivi kadaa...aina\nparledhu...ilaanti manishi dhaggara\nnannu panilo pettadaaniki neeku\nmanavatvam unda...adey\ndeivatvam...veedu clean and green\nani champestunaadu...naalo\ncalorielu anni karchestunnaadu...\nGOVARDHAN is a man wearing an old black, round-frame\nspectacles, clad in a dhoti, forehead smeared with vibhudhi\nand kumkum, holding camphor and a pooja bell in surgical\nglove-clad hands. He is praying to photo frames of different\nsizes and shapes with Lord Anjaneya, the bachelor god, in\ndifferent positions, and chanting the sthothram of Anjaneya.\nGOVARDHAN\n7.\nManojavam maruthulya vegam\njithendriyam..Jithendhrayam..budhi.\n.budhi.\nHe sees his watch\nGOVARDHAN\nAnjaneya..repu continue chestha\nswami, meeku echinaa time aipoindhi\nemi anukokandi. ANJI!\nANJI (V.O.)\nChusaava ela arustunnaado...aaro\nnela porapaatuna puttesina\nambothulaaga...kudurite naaku vere\npani chudu...leda vaadini aedo case\nlo book chesi Bihar jailu ki\npampichu...\nGOVARDHAN\nOrei ANJI gaa...entha sepu\nraa...tiffin ready cheyyi\nANJI stands right behind him. As soon as GOVARDHAN turns\naround, ANJI hands him a glass of milk.\nGOVARDHAN\nEnti ra edhi?\nANJI\nPaal\nGOVARDHAN\nAdhi thelusu..podhunne nenu\nthagedhi majjiga\nANJI\nOorkondi sir, podhunna ae\npagalgaadaina salla thaguthada..?\ningo paalu. Thaagu.\nGOVARDHAN\nOddu ra..neeluni kadigi teesukuni\nraa taguthaanu\nCUT TO:",
+  "WORDS_ID": {
+    "1000": "20",
+    "1001": "INT.",
+    "1002": "GOVARDHAN'S",
+    "1003": "HOUSE-POOJA",
+    "1004": "AREA",
+    "1005": "-",
+    "1006": "DAY",
+    "1007": "ANJI,",
+    "1008": "a",
+    "1009": "frail",
+    "1010": "man",
+    "1011": "in",
+    "1012": "his",
+    "1013": "late",
+    "1014": "30s,",
+    "1015": "sits",
+    "1016": "opposite",
+    "1017": "the",
+    "1018": "kitchen",
+    "1019": "on",
+    "1020": "the",
+    "1021": "bathroom",
+    "1022": "floor,",
+    "1023": "as",
+    "1024": "he",
+    "1025": "shampoos",
+    "1026": "a",
+    "1027": "cocunut.",
+    "1028": "He",
+    "1029": "wears",
+    "1030": "a",
+    "1031": "DIY",
+    "1032": "utility",
+    "1033": "belt",
+    "1034": "-",
+    "1035": "holstered",
+    "1036": "with",
+    "1037": "a",
+    "1038": "small",
+    "1039": "broom,",
+    "1040": "a",
+    "1041": "spray",
+    "1042": "gun,",
+    "1043": "hand",
+    "1044": "sanitizer,",
+    "1045": "a",
+    "1046": "wet",
+    "1047": "wipe,",
+    "1048": "a",
+    "1049": "set",
+    "1050": "of",
+    "1051": "disposable",
+    "1052": "gloves,",
+    "1053": "and",
+    "1054": "a",
+    "1055": "rag.",
+    "1056": "ANJI",
+    "1057": "(V.O)",
+    "1058": "Nuvvu",
+    "1059": "asalu",
+    "1060": "manishivena...sorry,",
+    "1061": "dhevudivi",
+    "1062": "kadaa...aina",
+    "1063": "parledhu...ilaanti",
+    "1064": "manishi",
+    "1065": "dhaggara",
+    "1066": "nannu",
+    "1067": "panilo",
+    "1068": "pettadaaniki",
+    "1069": "neeku",
+    "1070": "manavatvam",
+    "1071": "unda...adey",
+    "1072": "deivatvam...veedu",
+    "1073": "clean",
+    "1074": "and",
+    "1075": "green",
+    "1076": "ani",
+    "1077": "champestunaadu...naalo",
+    "1078": "calorielu",
+    "1079": "anni",
+    "1080": "karchestunnaadu...",
+    "1081": "GOVARDHAN",
+    "1082": "is",
+    "1083": "a",
+    "1084": "man",
+    "1085": "wearing",
+    "1086": "an",
+    "1087": "old",
+    "1088": "black,",
+    "1089": "round-frame",
+    "1090": "spectacles,",
+    "1091": "clad",
+    "1092": "in",
+    "1093": "a",
+    "1094": "dhoti,",
+    "1095": "forehead",
+    "1096": "smeared",
+    "1097": "with",
+    "1098": "vibhudhi",
+    "1099": "and",
+    "1100": "kumkum,",
+    "1101": "holding",
+    "1102": "camphor",
+    "1103": "and",
+    "1104": "a",
+    "1105": "pooja",
+    "1106": "bell",
+    "1107": "in",
+    "1108": "surgical",
+    "1109": "glove-clad",
+    "1110": "hands.",
+    "1111": "He",
+    "1112": "is",
+    "1113": "praying",
+    "1114": "to",
+    "1115": "photo",
+    "1116": "frames",
+    "1117": "of",
+    "1118": "different",
+    "1119": "sizes",
+    "1120": "and",
+    "1121": "shapes",
+    "1122": "with",
+    "1123": "Lord",
+    "1124": "Anjaneya,",
+    "1125": "the",
+    "1126": "bachelor",
+    "1127": "god,",
+    "1128": "in",
+    "1129": "different",
+    "1130": "positions,",
+    "1131": "and",
+    "1132": "chanting",
+    "1133": "the",
+    "1134": "sthothram",
+    "1135": "of",
+    "1136": "Anjaneya.",
+    "1137": "GOVARDHAN",
+    "1138": "7.",
+    "1139": "Manojavam",
+    "1140": "maruthulya",
+    "1141": "vegam",
+    "1142": "jithendriyam..Jithendhrayam..budhi.",
+    "1143": ".budhi.",
+    "1144": "He",
+    "1145": "sees",
+    "1146": "his",
+    "1147": "watch",
+    "1148": "GOVARDHAN",
+    "1149": "Anjaneya..repu",
+    "1150": "continue",
+    "1151": "chestha",
+    "1152": "swami,",
+    "1153": "meeku",
+    "1154": "echinaa",
+    "1155": "time",
+    "1156": "aipoindhi",
+    "1157": "emi",
+    "1158": "anukokandi.",
+    "1159": "ANJI!",
+    "1160": "ANJI",
+    "1161": "(V.O.)",
+    "1162": "Chusaava",
+    "1163": "ela",
+    "1164": "arustunnaado...aaro",
+    "1165": "nela",
+    "1166": "porapaatuna",
+    "1167": "puttesina",
+    "1168": "ambothulaaga...kudurite",
+    "1169": "naaku",
+    "1170": "vere",
+    "1171": "pani",
+    "1172": "chudu...leda",
+    "1173": "vaadini",
+    "1174": "aedo",
+    "1175": "case",
+    "1176": "lo",
+    "1177": "book",
+    "1178": "chesi",
+    "1179": "Bihar",
+    "1180": "jailu",
+    "1181": "ki",
+    "1182": "pampichu...",
+    "1183": "GOVARDHAN",
+    "1184": "Orei",
+    "1185": "ANJI",
+    "1186": "gaa...entha",
+    "1187": "sepu",
+    "1188": "raa...tiffin",
+    "1189": "ready",
+    "1190": "cheyyi",
+    "1191": "ANJI",
+    "1192": "stands",
+    "1193": "right",
+    "1194": "behind",
+    "1195": "him.",
+    "1196": "As",
+    "1197": "soon",
+    "1198": "as",
+    "1199": "GOVARDHAN",
+    "1200": "turns",
+    "1201": "around,",
+    "1202": "ANJI",
+    "1203": "hands",
+    "1204": "him",
+    "1205": "a",
+    "1206": "glass",
+    "1207": "of",
+    "1208": "milk.",
+    "1209": "GOVARDHAN",
+    "1210": "Enti",
+    "1211": "ra",
+    "1212": "edhi?",
+    "1213": "ANJI",
+    "1214": "Paal",
+    "1215": "GOVARDHAN",
+    "1216": "Adhi",
+    "1217": "thelusu..podhunne",
+    "1218": "nenu",
+    "1219": "thagedhi",
+    "1220": "majjiga",
+    "1221": "ANJI",
+    "1222": "Oorkondi",
+    "1223": "sir,",
+    "1224": "podhunna",
+    "1225": "ae",
+    "1226": "pagalgaadaina",
+    "1227": "salla",
+    "1228": "thaguthada..?",
+    "1229": "ingo",
+    "1230": "paalu.",
+    "1231": "Thaagu.",
+    "1232": "GOVARDHAN",
+    "1233": "Oddu",
+    "1234": "ra..neeluni",
+    "1235": "kadigi",
+    "1236": "teesukuni",
+    "1237": "raa",
+    "1238": "taguthaanu",
+    "1239": "CUT",
+    "1240": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "ANJI",
+        "GOVARDHAN"
+      ],
+      "SET": [
+        "INT. GOVARDHAN'S HOUSE-POOJA AREA - DAY"
+      ],
+      "PROPS": [
+        "cocunut",
+        "DIY utility belt",
+        "small broom",
+        "spray gun",
+        "hand sanitizer",
+        "wet wipe",
+        "set of disposable gloves",
+        "rag",
+        "old black, round-frame spectacles",
+        "dhoti",
+        "vibhudhi",
+        "kumkum",
+        "camphor",
+        "pooja bell",
+        "surgical gloves",
+        "photo frames of different sizes and shapes with Lord Anjaneya",
+        "watch",
+        "glass of milk"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "ANJI",
+            "ids": [
+              "1056"
+            ]
+          },
+          {
+            "value": "ANJI",
+            "ids": [
+              "1160"
+            ]
+          },
+          {
+            "value": "ANJI",
+            "ids": [
+              "1185"
+            ]
+          },
+          {
+            "value": "ANJI",
+            "ids": [
+              "1191"
+            ]
+          },
+          {
+            "value": "ANJI",
+            "ids": [
+              "1202"
+            ]
+          },
+          {
+            "value": "ANJI",
+            "ids": [
+              "1213"
+            ]
+          },
+          {
+            "value": "ANJI",
+            "ids": [
+              "1221"
+            ]
+          },
+          {
+            "value": "ANJI,",
+            "ids": [
+              "1007"
+            ]
+          },
+          {
+            "value": "ANJI!",
+            "ids": [
+              "1159"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1081"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1137"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1148"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1183"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1199"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1209"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1215"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1232"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "INT. GOVARDHAN'S HOUSE-POOJA AREA - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005",
+              "1006"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "cocunut.",
+            "ids": [
+              "1027"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "DIY utility belt",
+            "ids": [
+              "1031",
+              "1032",
+              "1033"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "small broom,",
+            "ids": [
+              "1038",
+              "1039"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "spray gun,",
+            "ids": [
+              "1041",
+              "1042"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "hand sanitizer,",
+            "ids": [
+              "1043",
+              "1044"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "wet wipe,",
+            "ids": [
+              "1046",
+              "1047"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "set of disposable gloves,",
+            "ids": [
+              "1049",
+              "1050",
+              "1051",
+              "1052"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "rag.",
+            "ids": [
+              "1055"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "old black, round-frame spectacles,",
+            "ids": [
+              "1087",
+              "1088",
+              "1089",
+              "1090"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "dhoti,",
+            "ids": [
+              "1094"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "vibhudhi",
+            "ids": [
+              "1098"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "kumkum,",
+            "ids": [
+              "1100"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "camphor",
+            "ids": [
+              "1102"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "pooja bell",
+            "ids": [
+              "1105",
+              "1106"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "surgical gloves",
+            "ids": [
+              "unable to find ids"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "photo frames of different sizes and shapes with Lord Anjaneya,",
+            "ids": [
+              "1115",
+              "1116",
+              "1117",
+              "1118",
+              "1119",
+              "1120",
+              "1121",
+              "1122",
+              "1123",
+              "1124"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "watch",
+            "ids": [
+              "1147"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "glass of milk.",
+            "ids": [
+              "1206",
+              "1207",
+              "1208"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

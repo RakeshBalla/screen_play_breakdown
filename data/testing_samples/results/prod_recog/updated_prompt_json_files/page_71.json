@@ -1,0 +1,220 @@
+{
+  "page_dict": {
+    "alltext": "70.\n75 INT. BABA'S ASHRAM-GUEST AUDIENCE CHAMBERS - DAY\nVEDA and GOVARDHAN are sent into CHINTHAN BABA's private\nchambers immediately. CHINTHAN BABA is in his early 40s.\nSlightly effeminate, but only to the trained eye. CHINTHAN\nBABA is seated on a recliner; he looks composed. As VEDA\nenters the room, CHINTHAN BABA acknowledges him with a nod.\nHe opens his eyes to see GOVARDHAN, soon after which his\nexpression changes. CHINTHAN BABA looks at him a split second\nlonger than usual and smiles a mildly strange smile. Only the\nreceiver of the smile would know its crookedness.\nCHINTHAN BABA\n(Looking at GOVARDHAN\nlongingly)\nMeelo VEDA SHANKAR evaru?\nVEDA wondering why CHINTHAN BABA is paying so much attention\nto GOVARDHAN.",
+    "words_ids": {
+      "9586": "70.",
+      "2859": "75",
+      "9884": "INT.",
+      "7693": "BABA'S",
+      "8174": "ASHRAM-GUEST",
+      "2706": "AUDIENCE",
+      "9479": "CHAMBERS",
+      "3165": "-",
+      "7432": "DAY",
+      "3735": "VEDA",
+      "5366": "and",
+      "9109": "GOVARDHAN",
+      "2620": "are",
+      "5368": "sent",
+      "4307": "into",
+      "7543": "CHINTHAN",
+      "9753": "BABA's",
+      "9874": "private",
+      "8842": "chambers",
+      "5758": "immediately.",
+      "7392": "CHINTHAN",
+      "6552": "eye.",
+      "5092": "is",
+      "3396": "in",
+      "5638": "his",
+      "3135": "early",
+      "4300": "40s.",
+      "4608": "Slightly",
+      "4236": "effeminate,",
+      "3550": "but",
+      "5183": "only",
+      "1618": "to",
+      "4914": "the",
+      "5663": "trained",
+      "6230": "CHINTHAN",
+      "1068": "BABA",
+      "9246": "is",
+      "2837": "seated",
+      "1777": "on",
+      "4087": "a",
+      "8830": "recliner;",
+      "5796": "he",
+      "7283": "looks",
+      "3872": "composed.",
+      "4457": "As",
+      "2646": "VEDA",
+      "3556": "enters",
+      "1169": "the",
+      "8435": "room,",
+      "3859": "CHINTHAN",
+      "6439": "BABA",
+      "1070": "acknowledges",
+      "9206": "him",
+      "6565": "with",
+      "5189": "a",
+      "3075": "nod.",
+      "2919": "He",
+      "9385": "opens",
+      "3164": "his",
+      "1112": "eyes",
+      "2546": "to",
+      "4021": "see",
+      "1449": "GOVARDHAN,",
+      "2342": "soon",
+      "9052": "after",
+      "5492": "which",
+      "4973": "his",
+      "7608": "expression",
+      "5725": "changes.",
+      "4523": "CHINTHAN",
+      "9169": "BABA",
+      "4639": "looks",
+      "6957": "at",
+      "8502": "him",
+      "5875": "a",
+      "4977": "split",
+      "3019": "second",
+      "1805": "longer",
+      "9277": "than",
+      "4171": "usual",
+      "7868": "and",
+      "7984": "smiles",
+      "9882": "a",
+      "4696": "mildly",
+      "5032": "strange",
+      "3540": "smile.",
+      "7331": "Only",
+      "9377": "the",
+      "4441": "receiver",
+      "7985": "of",
+      "6636": "the",
+      "4219": "smile",
+      "5360": "would",
+      "7054": "know",
+      "6887": "its",
+      "3516": "crookedness.",
+      "9689": "CHINTHAN",
+      "9097": "BABA",
+      "1581": "(Looking",
+      "2124": "at",
+      "4701": "GOVARDHAN",
+      "6521": "longingly)",
+      "6901": "Meelo",
+      "3558": "VEDA",
+      "7657": "SHANKAR",
+      "1879": "evaru?",
+      "2687": "VEDA",
+      "7611": "wondering",
+      "9007": "why",
+      "9078": "CHINTHAN",
+      "4463": "BABA",
+      "3690": "is",
+      "6036": "paying",
+      "7613": "so",
+      "8810": "much",
+      "5345": "attention",
+      "2574": "to",
+      "2829": "GOVARDHAN."
+    }
+  },
+  "sample_no": "sample2",
+  "pdf_file_name": "page_71.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "VEDA",
+        "GOVARDHAN",
+        "CHINTHAN BABA"
+      ],
+      "SET": [
+        "INT. BABA'S ASHRAM-GUEST AUDIENCE CHAMBERS - DAY"
+      ],
+      "PROPS": [
+        "recliner"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "VEDA",
+          "ids": [
+            2646,
+            2687
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            3558,
+            3735
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            4701,
+            9109
+          ]
+        },
+        {
+          "value": "CHINTHAN BABA",
+          "ids": [
+            7543,
+            7392,
+            6230,
+            1068,
+            3859,
+            6439,
+            4523,
+            9169,
+            9689,
+            9097,
+            9078,
+            4463
+          ]
+        }
+      ],
+      "SET": [
+        {
+          "value": "INT. BABA'S ASHRAM-GUEST AUDIENCE CHAMBERS - DAY",
+          "ids": [
+            2706,
+            9479,
+            7432,
+            8842,
+            1068,
+            6439,
+            9169,
+            9097,
+            4463
+          ]
+        }
+      ],
+      "PROPS": [
+        {
+          "value": "recliner",
+          "ids": []
+        }
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

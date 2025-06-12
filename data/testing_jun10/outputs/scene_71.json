@@ -1,0 +1,194 @@
+{
+    "ALL_TEXT": "71 EXT. POLICE STATION - DAY\nGOVARDHAN walks up to VEDA, who is smoking. He stubs the\ncigarette he has been smoking on seeing GOVARDHAN. GOVARDHAN\nenters the car\nGOVARDHAN\nNeeko visheyam thelusaa?\nVEDA\nEnti complaint ichesaava?\nGOVARDHAN\nLedhu, lopala okkadu unnaadu oka\nwitness, mottham cheppesaadu mana\niddari gurinchi\nVEDA\nEm cheppaadu?\nGOVARDHAN\nNaa peru ae telisindi akkada, nee\ngurinchi full details cheppadu,\nkukkundhi ani, anni cheppadu\nVEDA is shocked. He can't quite grasp what to do. They get in\nthe car, SULOCHANA already in the driver's seat. She gives\nthe photos to VEDA and starts the car.\nSULOCHANA\nIdhigo photos\nCUT TO:",
+    "WORDS_ID": "{\n\"1000\": \"71\",\n\"1001\": \"EXT.\",\n\"1002\": \"POLICE\",\n\"1003\": \"STATION\",\n\"1004\": \"-\",\n\"1005\": \"DAY\",\n\"1006\": \"GOVARDHAN\",\n\"1007\": \"walks\",\n\"1008\": \"up\",\n\"1009\": \"to\",\n\"1010\": \"VEDA,\",\n\"1011\": \"who\",\n\"1012\": \"is\",\n\"1013\": \"smoking.\",\n\"1014\": \"He\",\n\"1015\": \"stubs\",\n\"1016\": \"the\",\n\"1017\": \"cigarette\",\n\"1018\": \"he\",\n\"1019\": \"has\",\n\"1020\": \"been\",\n\"1021\": \"smoking\",\n\"1022\": \"on\",\n\"1023\": \"seeing\",\n\"1024\": \"GOVARDHAN.\",\n\"1025\": \"GOVARDHAN\",\n\"1026\": \"enters\",\n\"1027\": \"the\",\n\"1028\": \"car\",\n\"1029\": \"GOVARDHAN\",\n\"1030\": \"Neeko\",\n\"1031\": \"visheyam\",\n\"1032\": \"thelusaa?\",\n\"1033\": \"VEDA\",\n\"1034\": \"Enti\",\n\"1035\": \"complaint\",\n\"1036\": \"ichesaava?\",\n\"1037\": \"GOVARDHAN\",\n\"1038\": \"Ledhu,\",\n\"1039\": \"lopala\",\n\"1040\": \"okkadu\",\n\"1041\": \"unnaadu\",\n\"1042\": \"oka\",\n\"1043\": \"witness,\",\n\"1044\": \"mottham\",\n\"1045\": \"cheppesaadu\",\n\"1046\": \"mana\",\n\"1047\": \"iddari\",\n\"1048\": \"gurinchi\",\n\"1049\": \"VEDA\",\n\"1050\": \"Em\",\n\"1051\": \"cheppaadu?\",\n\"1052\": \"GOVARDHAN\",\n\"1053\": \"Naa\",\n\"1054\": \"peru\",\n\"1055\": \"ae\",\n\"1056\": \"telisindi\",\n\"1057\": \"akkada,\",\n\"1058\": \"nee\",\n\"1059\": \"gurinchi\",\n\"1060\": \"full\",\n\"1061\": \"details\",\n\"1062\": \"cheppadu,\",\n\"1063\": \"kukkundhi\",\n\"1064\": \"ani,\",\n\"1065\": \"anni\",\n\"1066\": \"cheppadu\",\n\"1067\": \"VEDA\",\n\"1068\": \"is\",\n\"1069\": \"shocked.\",\n\"1070\": \"He\",\n\"1071\": \"can't\",\n\"1072\": \"quite\",\n\"1073\": \"grasp\",\n\"1074\": \"what\",\n\"1075\": \"to\",\n\"1076\": \"do.\",\n\"1077\": \"They\",\n\"1078\": \"get\",\n\"1079\": \"in\",\n\"1080\": \"the\",\n\"1081\": \"car,\",\n\"1082\": \"SULOCHANA\",\n\"1083\": \"already\",\n\"1084\": \"in\",\n\"1085\": \"the\",\n\"1086\": \"driver's\",\n\"1087\": \"seat.\",\n\"1088\": \"She\",\n\"1089\": \"gives\",\n\"1090\": \"the\",\n\"1091\": \"photos\",\n\"1092\": \"to\",\n\"1093\": \"VEDA\",\n\"1094\": \"and\",\n\"1095\": \"starts\",\n\"1096\": \"the\",\n\"1097\": \"car.\",\n\"1098\": \"SULOCHANA\",\n\"1099\": \"Idhigo\",\n\"1100\": \"photos\",\n\"1101\": \"CUT\",\n\"1102\": \"TO:\"\n}",
+    "llm_result": {
+        "production_categories": {
+            "CAST": [
+                "GOVARDHAN",
+                "VEDA",
+                "SULOCHANA"
+            ],
+            "SET": [
+                "EXT. POLICE STATION - DAY"
+            ],
+            "PROPS": [
+                "cigarette",
+                "photos"
+            ],
+            "STUNTS": [],
+            "VEHICLES": [
+                "car"
+            ],
+            "ANIMALS": [],
+            "NUDITY": [],
+            "GREENERY": [],
+            "SOUND": [
+                "car starting sound"
+            ]
+        }
+    },
+    "predicted_word_ids": {
+        "production_categories": {
+            "CAST": [
+                [
+                    {
+                        "value": "GOVARDHAN",
+                        "ids": [
+                            "1006"
+                        ]
+                    },
+                    {
+                        "value": "GOVARDHAN",
+                        "ids": [
+                            "1025"
+                        ]
+                    },
+                    {
+                        "value": "GOVARDHAN",
+                        "ids": [
+                            "1029"
+                        ]
+                    },
+                    {
+                        "value": "GOVARDHAN",
+                        "ids": [
+                            "1037"
+                        ]
+                    },
+                    {
+                        "value": "GOVARDHAN",
+                        "ids": [
+                            "1052"
+                        ]
+                    },
+                    {
+                        "value": "GOVARDHAN.",
+                        "ids": [
+                            "1024"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "value": "VEDA",
+                        "ids": [
+                            "1033"
+                        ]
+                    },
+                    {
+                        "value": "VEDA",
+                        "ids": [
+                            "1049"
+                        ]
+                    },
+                    {
+                        "value": "VEDA",
+                        "ids": [
+                            "1067"
+                        ]
+                    },
+                    {
+                        "value": "VEDA",
+                        "ids": [
+                            "1093"
+                        ]
+                    },
+                    {
+                        "value": "VEDA,",
+                        "ids": [
+                            "1010"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "value": "SULOCHANA",
+                        "ids": [
+                            "1082"
+                        ]
+                    },
+                    {
+                        "value": "SULOCHANA",
+                        "ids": [
+                            "1098"
+                        ]
+                    }
+                ]
+            ],
+            "SET": [
+                [
+                    {
+                        "value": "EXT. POLICE STATION - DAY",
+                        "ids": [
+                            "1001",
+                            "1002",
+                            "1003",
+                            "1004",
+                            "1005"
+                        ]
+                    }
+                ]
+            ],
+            "PROPS": [
+                [
+                    {
+                        "value": "cigarette",
+                        "ids": [
+                            "1017"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "value": "photos",
+                        "ids": [
+                            "1091"
+                        ]
+                    },
+                    {
+                        "value": "photos",
+                        "ids": [
+                            "1100"
+                        ]
+                    }
+                ]
+            ],
+            "STUNTS": [],
+            "VEHICLES": [
+                [
+                    {
+                        "value": "car",
+                        "ids": [
+                            "1028"
+                        ]
+                    },
+                    {
+                        "value": "car,",
+                        "ids": [
+                            "1081"
+                        ]
+                    },
+                    {
+                        "value": "car.",
+                        "ids": [
+                            "1097"
+                        ]
+                    }
+                ]
+            ],
+            "ANIMALS": [],
+            "NUDITY": [],
+            "GREENERY": [],
+            "SOUND": [
+                [
+                    {
+                        "value": "car starting sound",
+                        "ids": [
+                            "unable to find ids"
+                        ]
+                    }
+                ]
+            ]
+        }
+    }
+}

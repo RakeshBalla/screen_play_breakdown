@@ -1,0 +1,311 @@
+{
+  "page_dict": {
+    "alltext": "41.\nGOVARDHAN\nPeace kaavali raa! ekaada untudhu\ncheppu\nWAITER\nRestroom lo untudhi Sir\nA disgusted GOVARDHAN waves the WAITER away. A group of noisy\nteenagers occupy the table next to him and create a ruckus.\nIn their excitement, one of them spills their drink - it\nfalls on GOVARDHAN.\nTEENAGER SPILLER\nSorry dude!!\nGOVARDHAN\nKadupuku annam thintunnaava gaddi\nthintunnaava? Kadupulo posukune\ndrink pakkodi meedha posthava?\nTEENAGER SPILLER\nAe Uncle!.. I said I’m sorry.\nChill.\nGOVARDHAN\nEnti Sorry? Sorry anagaane\naipothada? Intlo thanni sarigga\nchesevaallu leka!!!\nTEENAGER INSTIGATOR\nHit him dude... Budda’s goin' on\nand on...\nGOVARDHAN\nKodathaara??? Thandri vayasu ra\nnaadi... paapatmullara!\nAs the teenagers advance towards him, his anger turns into\nfear. He rushes into a corner of the pub looking for a place\nto hide. He finds a door and runs in - it is the women's\ntoilet.",
+    "words_ids": {
+      "8716": "41.",
+      "7240": "GOVARDHAN",
+      "3258": "Peace",
+      "8023": "kaavali",
+      "9323": "raa!",
+      "6623": "ekaada",
+      "5895": "untudhu",
+      "7377": "cheppu",
+      "2095": "WAITER",
+      "6192": "Restroom",
+      "6600": "the",
+      "7695": "untudhi",
+      "9003": "Sir",
+      "2039": "A",
+      "5031": "disgusted",
+      "7132": "GOVARDHAN",
+      "8307": "waves",
+      "4993": "the",
+      "4626": "WAITER",
+      "6767": "away.",
+      "1273": "A",
+      "2383": "group",
+      "1003": "of",
+      "6757": "noisy",
+      "4737": "teenagers",
+      "4679": "occupy",
+      "9324": "the",
+      "9156": "table",
+      "9328": "next",
+      "8531": "to",
+      "6867": "him",
+      "2323": "and",
+      "4515": "create",
+      "9722": "a",
+      "5790": "ruckus.",
+      "8266": "In",
+      "1792": "their",
+      "5191": "excitement,",
+      "2781": "one",
+      "9929": "of",
+      "6625": "them",
+      "8729": "spills",
+      "7007": "their",
+      "2608": "drink",
+      "6902": "-",
+      "5028": "it",
+      "2412": "falls",
+      "2257": "on",
+      "2848": "GOVARDHAN.",
+      "2649": "TEENAGER",
+      "1798": "SPILLER",
+      "8810": "Sorry",
+      "8224": "dude!!",
+      "5703": "GOVARDHAN",
+      "6638": "Kadupuku",
+      "8486": "annam",
+      "5771": "thintunnaava",
+      "2630": "gaddi",
+      "9769": "thintunnaava?",
+      "7933": "pakkodi",
+      "4796": "posukune",
+      "8607": "drink",
+      "9523": "meedha",
+      "1440": "posthava?",
+      "6944": "TEENAGER",
+      "6630": "SPILLER",
+      "1715": "Ae",
+      "7384": "Uncle!..",
+      "8089": "I",
+      "7049": "said",
+      "1451": "the",
+      "9850": "sorry.",
+      "4694": "Chill.",
+      "1617": "GOVARDHAN",
+      "5919": "Enti",
+      "9127": "Sorry?",
+      "8908": "Sorry",
+      "7740": "anagaane",
+      "4998": "aipothada?",
+      "2505": "Intlo",
+      "8753": "thanni",
+      "3805": "sarigga",
+      "9045": "chesevaallu",
+      "3971": "leka!!!",
+      "6470": "TEENAGER",
+      "1224": "INSTIGATOR",
+      "6823": "Hit",
+      "3654": "him",
+      "6670": "dude...",
+      "4302": "Budda’s",
+      "4502": "goin'",
+      "4606": "on",
+      "3183": "and",
+      "6234": "on...",
+      "4463": "GOVARDHAN",
+      "6448": "Kodathaara???",
+      "2147": "Thandri",
+      "2660": "vayasu",
+      "8414": "ra",
+      "2010": "naadi...",
+      "3843": "paapatmullara!",
+      "7662": "As",
+      "7118": "the",
+      "4997": "teenagers",
+      "3567": "advance",
+      "4218": "towards",
+      "7942": "him,",
+      "1623": "his",
+      "7901": "anger",
+      "9075": "turns",
+      "7499": "into",
+      "8818": "fear.",
+      "7032": "He",
+      "6164": "rushes",
+      "7171": "into",
+      "8300": "a",
+      "9118": "corner",
+      "3698": "of",
+      "9164": "pub",
+      "6248": "looking",
+      "1977": "for",
+      "6300": "a",
+      "8633": "place",
+      "2790": "to",
+      "4722": "hide.",
+      "7295": "He",
+      "1553": "finds",
+      "9989": "a",
+      "4364": "door",
+      "6851": "and",
+      "2782": "runs",
+      "9311": "in",
+      "5661": "-",
+      "9807": "it",
+      "8711": "is",
+      "8457": "women's",
+      "4840": "toilet."
+    }
+  },
+  "sample_no": "sample4",
+  "pdf_file_name": "page_42.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "GOVARDHAN",
+        "WAITER",
+        "TEENAGER SPILLER",
+        "TEENAGER INSTIGATOR"
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [
+        "noisy teenagers"
+      ],
+      "PROPS": [
+        "drink"
+      ],
+      "LOCATION_DETAILS": [
+        "pub",
+        "women's toilet"
+      ],
+      "SCREEN_TITLES": [],
+      "CAMERA": [],
+      "SOUND": [],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [
+        "ruckus",
+        "drink spills"
+      ],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            1617,
+            4463
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            5703,
+            7132
+          ]
+        },
+        {
+          "value": "WAITER",
+          "ids": [
+            2095,
+            4626
+          ]
+        },
+        {
+          "value": "TEENAGER SPILLER",
+          "ids": [
+            2649,
+            1798,
+            6944,
+            6630,
+            6470
+          ]
+        },
+        {
+          "value": "TEENAGER INSTIGATOR",
+          "ids": [
+            2649,
+            6944,
+            6470,
+            1224
+          ]
+        }
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [
+        {
+          "value": "noisy teenagers",
+          "ids": [
+            6757,
+            4737,
+            4997
+          ]
+        }
+      ],
+      "PROPS": [
+        {
+          "value": "drink",
+          "ids": [
+            2608,
+            8607
+          ]
+        }
+      ],
+      "LOCATION_DETAILS": [
+        {
+          "value": "pub",
+          "ids": [
+            9164
+          ]
+        },
+        {
+          "value": "women's toilet",
+          "ids": []
+        }
+      ],
+      "SCREEN_TITLES": [],
+      "CAMERA": [],
+      "SOUND": [],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [
+        {
+          "value": "ruckus",
+          "ids": []
+        },
+        {
+          "value": "drink spills",
+          "ids": [
+            8729,
+            2608,
+            8607
+          ]
+        }
+      ],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  }
+}

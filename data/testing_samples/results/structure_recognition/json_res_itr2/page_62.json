@@ -1,0 +1,978 @@
+{
+  "sample_no": "sample8",
+  "pdf_file_name": "page_62.pdf",
+  "alltext": "61.\nVEDA\nAy lokamlo bathukuthunnaavu?\nDemonitisation vinaledha? Ippudu\nbank queue lo ninchuntey naaku\nthella gaddam vosthadhi. Istha le\nmanalo manaki enti. Sare photos\nayvi?\nSULOCHANA\nLevu... inka raaledu... kaani case\nkoncham serious.\nVEDA\nSerious ante?\nSULOCHANA\nDouble murder. Police laki inka\nteleedu yevaru chesaaro. Kaani\nkanukkomani pressure chaala undi...\nchanipoindi FOREST MINISTER ki\ndeggara manushulanta.\nVEDA\nFOREST MINISTER ki deggara\nvaalla...\nSULOCHANA\nEye witnesses pakkane unde oka\nbuilding watchman... inka road\nmeeda aa time ki unna evaro manishi\nni batti Police investigate\nchesthunnaaru\nVEDA\nEm cheppaaru vaallu?\nSULOCHANA\nClear ga naaku theleedu... naaku\nthelisinantha varaku, chanipoindi\niddaru... champinidii iddaru,\nchusindi kuda iddare...\nVEDA is frowning now, thinking about all of what has been\ntold.\nSULOCHANA\nNijam cheppu VEDA... naa deggara em\ndaachatledhu gaa...\nVEDA\nAyooo!!!... Ledu SULOCHANA...\nchampinodinaithe ikkadikenduku\nvastha... I swear...",
+  "words_ids": {
+    "1000": "61.",
+    "1001": "VEDA",
+    "1002": "Ay",
+    "1003": "lokamlo",
+    "1004": "bathukuthunnaavu?",
+    "1005": "Demonitisation",
+    "1006": "vinaledha?",
+    "1007": "Ippudu",
+    "1008": "bank",
+    "1009": "queue",
+    "1010": "lo",
+    "1011": "ninchuntey",
+    "1012": "naaku",
+    "1013": "thella",
+    "1014": "gaddam",
+    "1015": "vosthadhi.",
+    "1016": "Istha",
+    "1017": "le",
+    "1018": "manalo",
+    "1019": "manaki",
+    "1020": "enti.",
+    "1021": "Sare",
+    "1022": "photos",
+    "1023": "ayvi?",
+    "1024": "SULOCHANA",
+    "1025": "Levu...",
+    "1026": "inka",
+    "1027": "raaledu...",
+    "1028": "kaani",
+    "1029": "case",
+    "1030": "koncham",
+    "1031": "serious.",
+    "1032": "VEDA",
+    "1033": "Serious",
+    "1034": "ante?",
+    "1035": "SULOCHANA",
+    "1036": "Double",
+    "1037": "murder.",
+    "1038": "Police",
+    "1039": "laki",
+    "1040": "inka",
+    "1041": "teleedu",
+    "1042": "yevaru",
+    "1043": "chesaaro.",
+    "1044": "Kaani",
+    "1045": "kanukkomani",
+    "1046": "pressure",
+    "1047": "chaala",
+    "1048": "undi...",
+    "1049": "chanipoindi",
+    "1050": "FOREST",
+    "1051": "MINISTER",
+    "1052": "ki",
+    "1053": "deggara",
+    "1054": "manushulanta.",
+    "1055": "VEDA",
+    "1056": "FOREST",
+    "1057": "MINISTER",
+    "1058": "ki",
+    "1059": "deggara",
+    "1060": "vaalla...",
+    "1061": "SULOCHANA",
+    "1062": "Eye",
+    "1063": "witnesses",
+    "1064": "pakkane",
+    "1065": "unde",
+    "1066": "oka",
+    "1067": "building",
+    "1068": "watchman...",
+    "1069": "inka",
+    "1070": "road",
+    "1071": "meeda",
+    "1072": "aa",
+    "1073": "time",
+    "1074": "ki",
+    "1075": "unna",
+    "1076": "evaro",
+    "1077": "manishi",
+    "1078": "ni",
+    "1079": "batti",
+    "1080": "Police",
+    "1081": "investigate",
+    "1082": "chesthunnaaru",
+    "1083": "VEDA",
+    "1084": "Em",
+    "1085": "cheppaaru",
+    "1086": "vaallu?",
+    "1087": "SULOCHANA",
+    "1088": "Clear",
+    "1089": "ga",
+    "1090": "naaku",
+    "1091": "theleedu...",
+    "1092": "naaku",
+    "1093": "thelisinantha",
+    "1094": "varaku,",
+    "1095": "chanipoindi",
+    "1096": "iddaru...",
+    "1097": "champinidii",
+    "1098": "iddaru,",
+    "1099": "chusindi",
+    "1100": "kuda",
+    "1101": "iddare...",
+    "1102": "VEDA",
+    "1103": "is",
+    "1104": "frowning",
+    "1105": "now,",
+    "1106": "thinking",
+    "1107": "about",
+    "1108": "all",
+    "1109": "of",
+    "1110": "what",
+    "1111": "has",
+    "1112": "been",
+    "1113": "told.",
+    "1114": "SULOCHANA",
+    "1115": "Nijam",
+    "1116": "cheppu",
+    "1117": "VEDA...",
+    "1118": "naa",
+    "1119": "deggara",
+    "1120": "em",
+    "1121": "daachatledhu",
+    "1122": "gaa...",
+    "1123": "VEDA",
+    "1124": "Ayooo!!!...",
+    "1125": "Ledu",
+    "1126": "SULOCHANA...",
+    "1127": "champinodinaithe",
+    "1128": "ikkadikenduku",
+    "1129": "vastha...",
+    "1130": "I",
+    "1131": "swear..."
+  },
+  "llm_response": {
+    "scene_number": [],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      "VEDA is frowning now, thinking about all of what has been\ntold."
+    ],
+    "dialogue": [
+      {
+        "character": "VEDA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "Ay lokamlo bathukuthunnaavu?\nDemonitisation vinaledha? Ippudu\nbank queue lo ninchuntey naaku\nthella gaddam vosthadhi. Istha le\nmanalo manaki enti. Sare photos\nayvi?"
+      },
+      {
+        "character": "SULOCHANA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "Levu... inka raaledu... kaani case\nkoncham serious."
+      },
+      {
+        "character": "VEDA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "Serious ante?"
+      },
+      {
+        "character": "SULOCHANA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "Double murder. Police laki inka\nteleedu yevaru chesaaro. Kaani\nkanukkomani pressure chaala undi...\nchanipoindi FOREST MINISTER ki\ndeggara manushulanta."
+      },
+      {
+        "character": "VEDA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "FOREST MINISTER ki deggara\nvaalla..."
+      },
+      {
+        "character": "SULOCHANA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "Eye witnesses pakkane unde oka\nbuilding watchman... inka road\nmeeda aa time ki unna evaro manishi\nni batti Police investigate\nchesthunnaaru"
+      },
+      {
+        "character": "VEDA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "Em cheppaaru vaallu?"
+      },
+      {
+        "character": "SULOCHANA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "Clear ga naaku theleedu... naaku\nthelisinantha varaku, chanipoindi\niddaru... champinidii iddaru,\nchusindi kuda iddare..."
+      },
+      {
+        "character": "SULOCHANA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "Nijam cheppu VEDA... naa deggara em\ndaachatledhu gaa..."
+      },
+      {
+        "character": "VEDA",
+        "extension": null,
+        "parenthetical": null,
+        "text": "Ayooo!!!... Ledu SULOCHANA...\nchampinodinaithe ikkadikenduku\nvastha... I swear..."
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      [
+        {
+          "value": "VEDA is frowning now, thinking about all of what has been told.",
+          "ids": [
+            "1102",
+            "1103",
+            "1104",
+            "1105",
+            "1106",
+            "1107",
+            "1108",
+            "1109",
+            "1110",
+            "1111",
+            "1112",
+            "1113"
+          ]
+        }
+      ]
+    ],
+    "dialogue": [
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1001"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1032"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1055"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1083"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1102"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1123"
+            ]
+          },
+          {
+            "value": "VEDA...",
+            "ids": [
+              "1117"
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": "empty",
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "empty",
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Ay lokamlo bathukuthunnaavu? Demonitisation vinaledha? Ippudu bank queue lo ninchuntey naaku thella gaddam vosthadhi. Istha le manalo manaki enti. Sare photos ayvi?",
+            "ids": [
+              "1002",
+              "1003",
+              "1004",
+              "1005",
+              "1006",
+              "1007",
+              "1008",
+              "1009",
+              "1010",
+              "1011",
+              "1012",
+              "1013",
+              "1014",
+              "1015",
+              "1016",
+              "1017",
+              "1018",
+              "1019",
+              "1020",
+              "1021",
+              "1022",
+              "1023"
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1024"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1035"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1061"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1087"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1114"
+            ]
+          },
+          {
+            "value": "SULOCHANA...",
+            "ids": [
+              "1126"
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": "empty",
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "empty",
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Levu... inka raaledu... kaani case koncham serious.",
+            "ids": [
+              "1025",
+              "1026",
+              "1027",
+              "1028",
+              "1029",
+              "1030",
+              "1031"
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1001"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1032"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1055"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1083"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1102"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1123"
+            ]
+          },
+          {
+            "value": "VEDA...",
+            "ids": [
+              "1117"
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": "empty",
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "empty",
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Serious ante?",
+            "ids": [
+              "1033",
+              "1034"
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1024"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1035"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1061"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1087"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1114"
+            ]
+          },
+          {
+            "value": "SULOCHANA...",
+            "ids": [
+              "1126"
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": "empty",
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "empty",
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Double murder. Police laki inka teleedu yevaru chesaaro. Kaani kanukkomani pressure chaala undi... chanipoindi FOREST MINISTER ki deggara manushulanta.",
+            "ids": [
+              "1036",
+              "1037",
+              "1038",
+              "1039",
+              "1040",
+              "1041",
+              "1042",
+              "1043",
+              "1044",
+              "1045",
+              "1046",
+              "1047",
+              "1048",
+              "1049",
+              "1050",
+              "1051",
+              "1052",
+              "1053",
+              "1054"
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1001"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1032"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1055"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1083"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1102"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1123"
+            ]
+          },
+          {
+            "value": "VEDA...",
+            "ids": [
+              "1117"
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": "empty",
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "empty",
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "FOREST MINISTER ki deggara vaalla...",
+            "ids": [
+              "1056",
+              "1057",
+              "1058",
+              "1059",
+              "1060"
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1024"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1035"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1061"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1087"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1114"
+            ]
+          },
+          {
+            "value": "SULOCHANA...",
+            "ids": [
+              "1126"
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": "empty",
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "empty",
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Eye witnesses pakkane unde oka building watchman... inka road meeda aa time ki unna evaro manishi ni batti Police investigate chesthunnaaru",
+            "ids": [
+              "1062",
+              "1063",
+              "1064",
+              "1065",
+              "1066",
+              "1067",
+              "1068",
+              "1069",
+              "1070",
+              "1071",
+              "1072",
+              "1073",
+              "1074",
+              "1075",
+              "1076",
+              "1077",
+              "1078",
+              "1079",
+              "1080",
+              "1081",
+              "1082"
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1001"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1032"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1055"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1083"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1102"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1123"
+            ]
+          },
+          {
+            "value": "VEDA...",
+            "ids": [
+              "1117"
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": "empty",
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "empty",
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Em cheppaaru vaallu?",
+            "ids": [
+              "1084",
+              "1085",
+              "1086"
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1024"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1035"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1061"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1087"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1114"
+            ]
+          },
+          {
+            "value": "SULOCHANA...",
+            "ids": [
+              "1126"
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": "empty",
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "empty",
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Clear ga naaku theleedu... naaku thelisinantha varaku, chanipoindi iddaru... champinidii iddaru, chusindi kuda iddare...",
+            "ids": [
+              "1088",
+              "1089",
+              "1090",
+              "1091",
+              "1092",
+              "1093",
+              "1094",
+              "1095",
+              "1096",
+              "1097",
+              "1098",
+              "1099",
+              "1100",
+              "1101"
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1024"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1035"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1061"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1087"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1114"
+            ]
+          },
+          {
+            "value": "SULOCHANA...",
+            "ids": [
+              "1126"
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": "empty",
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "empty",
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Nijam cheppu VEDA... naa deggara em daachatledhu gaa...",
+            "ids": [
+              "1115",
+              "1116",
+              "1117",
+              "1118",
+              "1119",
+              "1120",
+              "1121",
+              "1122"
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1001"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1032"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1055"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1083"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1102"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1123"
+            ]
+          },
+          {
+            "value": "VEDA...",
+            "ids": [
+              "1117"
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": "empty",
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "empty",
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Ayooo!!!... Ledu SULOCHANA... champinodinaithe ikkadikenduku vastha... I swear...",
+            "ids": [
+              "1124",
+              "1125",
+              "1126",
+              "1127",
+              "1128",
+              "1129",
+              "1130",
+              "1131"
+            ]
+          }
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

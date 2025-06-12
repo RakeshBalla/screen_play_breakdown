@@ -1,0 +1,392 @@
+{
+  "page_dict": {
+    "alltext": "70.\n75 INT. BABA'S ASHRAM-GUEST AUDIENCE CHAMBERS - DAY\nVEDA and GOVARDHAN are sent into CHINTHAN BABA's private\nchambers immediately. CHINTHAN BABA is in his early 40s.\nSlightly effeminate, but only to the trained eye. CHINTHAN\nBABA is seated on a recliner; he looks composed. As VEDA\nenters the room, CHINTHAN BABA acknowledges him with a nod.\nHe opens his eyes to see GOVARDHAN, soon after which his\nexpression changes. CHINTHAN BABA looks at him a split second\nlonger than usual and smiles a mildly strange smile. Only the\nreceiver of the smile would know its crookedness.\nCHINTHAN BABA\n(Looking at GOVARDHAN\nlongingly)\nMeelo VEDA SHANKAR evaru?\nVEDA wondering why CHINTHAN BABA is paying so much attention\nto GOVARDHAN.",
+    "words_ids": {
+      "8809": "70.",
+      "9083": "75",
+      "4388": "INT.",
+      "4713": "BABA'S",
+      "4269": "ASHRAM-GUEST",
+      "4835": "AUDIENCE",
+      "1942": "CHAMBERS",
+      "1732": "-",
+      "5370": "DAY",
+      "3428": "smiles",
+      "9120": "and",
+      "4711": "GOVARDHAN",
+      "8115": "are",
+      "2804": "sent",
+      "2956": "into",
+      "6577": "CHINTHAN",
+      "7987": "BABA's",
+      "5851": "private",
+      "1811": "chambers",
+      "5696": "immediately.",
+      "9523": "CHINTHAN",
+      "6820": "BABA",
+      "6291": "is",
+      "9218": "in",
+      "7664": "his",
+      "2232": "early",
+      "4220": "40s.",
+      "8142": "Slightly",
+      "6569": "effeminate,",
+      "7713": "but",
+      "9613": "only",
+      "8962": "to",
+      "7544": "the",
+      "3982": "trained",
+      "6358": "eye.",
+      "4060": "CHINTHAN",
+      "5670": "BABA",
+      "9579": "is",
+      "1521": "seated",
+      "9257": "on",
+      "6329": "a",
+      "5623": "recliner;",
+      "9250": "he",
+      "9568": "looks",
+      "4312": "composed.",
+      "5351": "As",
+      "4302": "VEDA",
+      "5767": "enters",
+      "5281": "the",
+      "7142": "him",
+      "5633": "CHINTHAN",
+      "3534": "BABA",
+      "2972": "acknowledges",
+      "3774": "him",
+      "1316": "with",
+      "3164": "a",
+      "9115": "nod.",
+      "1082": "He",
+      "7168": "opens",
+      "6225": "his",
+      "7427": "eyes",
+      "6222": "to",
+      "4250": "see",
+      "2908": "GOVARDHAN,",
+      "8588": "soon",
+      "4502": "after",
+      "5273": "which",
+      "8684": "his",
+      "1818": "expression",
+      "6633": "changes.",
+      "1219": "CHINTHAN",
+      "4474": "BABA",
+      "2696": "looks",
+      "8678": "at",
+      "2809": "a",
+      "4460": "split",
+      "1592": "second",
+      "6902": "longer",
+      "2960": "than",
+      "6943": "usual",
+      "8762": "and",
+      "7502": "a",
+      "1905": "mildly",
+      "2671": "strange",
+      "8904": "smile.",
+      "6855": "Only",
+      "1418": "the",
+      "1460": "receiver",
+      "5976": "of",
+      "2813": "the",
+      "4960": "smile",
+      "4864": "would",
+      "2618": "know",
+      "6258": "its",
+      "3198": "crookedness.",
+      "6566": "CHINTHAN",
+      "9030": "BABA",
+      "4403": "(Looking",
+      "6886": "at",
+      "9992": "GOVARDHAN",
+      "3833": "longingly)",
+      "6933": "Meelo",
+      "6447": "VEDA",
+      "3843": "SHANKAR",
+      "2613": "evaru?",
+      "4448": "VEDA",
+      "5755": "wondering",
+      "5778": "why",
+      "1663": "CHINTHAN",
+      "3917": "BABA",
+      "4348": "is",
+      "7739": "paying",
+      "9355": "so",
+      "8155": "much",
+      "9583": "attention",
+      "2546": "to",
+      "4815": "GOVARDHAN."
+    }
+  },
+  "sample_no": "sample2",
+  "pdf_file_name": "page_71.pdf",
+  "llm_response": {
+    "scene_number": [
+      "75"
+    ],
+    "slugline": {
+      "type": [
+        "INT."
+      ],
+      "location": [
+        "BABA'S ASHRAM-GUEST AUDIENCE CHAMBERS"
+      ],
+      "time_of_day": [
+        "DAY"
+      ]
+    },
+    "action_lines": [
+      "VEDA and GOVARDHAN are sent into CHINTHAN BABA's private\nchambers immediately. CHINTHAN BABA is in his early 40s.\nSlightly effeminate, but only to the trained eye. CHINTHAN\nBABA is seated on a recliner; he looks composed. As VEDA\nenters the room, CHINTHAN BABA acknowledges him with a nod.\nHe opens his eyes to see GOVARDHAN, soon after which his\nexpression changes. CHINTHAN BABA looks at him a split second\nlonger than usual and smiles a mildly strange smile. Only the\nreceiver of the smile would know its crookedness.",
+      "VEDA wondering why CHINTHAN BABA is paying so much attention\nto GOVARDHAN."
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "CHINTHAN BABA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          "Looking at GOVARDHAN\nlongingly"
+        ],
+        "text": [
+          "Meelo VEDA SHANKAR evaru?"
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      {
+        "value": "75",
+        "ids": [
+          9083
+        ]
+      }
+    ],
+    "slugline": {
+      "type": [
+        {
+          "value": "INT.",
+          "ids": [
+            4388
+          ]
+        }
+      ],
+      "location": [
+        {
+          "value": "BABA'S ASHRAM-GUEST AUDIENCE CHAMBERS",
+          "ids": [
+            4835,
+            1942,
+            1811,
+            6820,
+            5670,
+            3534,
+            4474,
+            9030,
+            3917
+          ]
+        }
+      ],
+      "time_of_day": [
+        {
+          "value": "DAY",
+          "ids": [
+            5370
+          ]
+        }
+      ]
+    },
+    "action_lines": [
+      {
+        "value": "VEDA and GOVARDHAN are sent into CHINTHAN BABA's private\nchambers immediately. CHINTHAN BABA is in his early 40s.\nSlightly effeminate, but only to the trained eye. CHINTHAN\nBABA is seated on a recliner; he looks composed. As VEDA\nenters the room, CHINTHAN BABA acknowledges him with a nod.\nHe opens his eyes to see GOVARDHAN, soon after which his\nexpression changes. CHINTHAN BABA looks at him a split second\nlonger than usual and smiles a mildly strange smile. Only the\nreceiver of the smile would know its crookedness.",
+        "ids": [
+          1942,
+          3428,
+          9120,
+          4711,
+          8115,
+          2804,
+          2956,
+          6577,
+          5851,
+          1811,
+          9523,
+          6820,
+          6291,
+          9218,
+          7664,
+          2232,
+          8142,
+          7713,
+          9613,
+          8962,
+          7544,
+          3982,
+          4060,
+          5670,
+          9579,
+          1521,
+          9257,
+          6329,
+          9250,
+          9568,
+          5351,
+          4302,
+          5767,
+          5281,
+          7142,
+          5633,
+          3534,
+          2972,
+          3774,
+          1316,
+          3164,
+          1082,
+          7168,
+          6225,
+          7427,
+          6222,
+          4250,
+          8588,
+          4502,
+          5273,
+          8684,
+          1818,
+          1219,
+          4474,
+          2696,
+          8678,
+          2809,
+          4460,
+          1592,
+          6902,
+          2960,
+          6943,
+          8762,
+          7502,
+          1905,
+          2671,
+          6855,
+          1418,
+          1460,
+          5976,
+          2813,
+          4960,
+          4864,
+          2618,
+          6258,
+          6566,
+          9030,
+          6886,
+          9992,
+          6447,
+          4448,
+          1663,
+          3917,
+          4348,
+          2546
+        ]
+      },
+      {
+        "value": "VEDA wondering why CHINTHAN BABA is paying so much attention\nto GOVARDHAN.",
+        "ids": [
+          4711,
+          6577,
+          9523,
+          6820,
+          6291,
+          8962,
+          4060,
+          5670,
+          9579,
+          4302,
+          5633,
+          3534,
+          6222,
+          1219,
+          4474,
+          6566,
+          9030,
+          9992,
+          6447,
+          4448,
+          5755,
+          5778,
+          1663,
+          3917,
+          4348,
+          7739,
+          9355,
+          8155,
+          9583,
+          2546
+        ]
+      }
+    ],
+    "dialogue": [
+      {
+        "character": [
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              6577,
+              9523,
+              6820,
+              4060,
+              5670,
+              5633,
+              3534,
+              1219,
+              4474,
+              6566,
+              9030,
+              1663,
+              3917
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "Looking at GOVARDHAN\nlongingly",
+            "ids": [
+              4711,
+              8678,
+              6886,
+              9992
+            ]
+          }
+        ],
+        "text": [
+          {
+            "value": "Meelo VEDA SHANKAR evaru?",
+            "ids": [
+              4302,
+              6933,
+              6447,
+              3843,
+              4448
+            ]
+          }
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

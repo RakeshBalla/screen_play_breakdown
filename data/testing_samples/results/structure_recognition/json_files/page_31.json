@@ -1,0 +1,577 @@
+{
+  "page_dict": {
+    "alltext": "30.\nVEDA (CONT'D)\nNaa gurinchi emanukuntunnavu\nnuvvu...simham aakalitho\nchasthundhi kaani gaddi thinadhu...\nHe turns around and starts walking.\nVEDA\n(To the PUG)\npadhara, manchi break fast chesi\ntharuvatha em cheyalo alochidham.\nHe puts his hand in his pocket to check how much money he\nhas. Realizing he has nothing, he goes to the KENNEL OWNER.\nKENNEL OWNER\nenti simham gaddi thinadaniki\nvachhindha !\nVEDA\nAakalitho chachhekante vegetarian\nga bathakadam better kadha.\nVEDA talks to the pug\nVEDA\nRaa..manchi party chesukoni,\nrepudnunchi nee Laingika\nkaryakramam lo undhuvgaani\nThe PUG barks\nVEDA\nabbo .. laingikam antey neekkuda\nmood vachhidhe, mundhu neeko kukka\npaste, kukka brush, kukka soap\nkonaali.. padha",
+    "words_ids": {
+      "9418": "VEDA",
+      "5687": "VEDA",
+      "2083": "(CONT'D)",
+      "5862": "Naa",
+      "1405": "gurinchi",
+      "4364": "emanukuntunnavu",
+      "9967": "nuvvu...simham",
+      "3799": "aakalitho",
+      "7348": "chasthundhi",
+      "2827": "kaani",
+      "9473": "gaddi",
+      "7364": "thinadhu...",
+      "8363": "He",
+      "9904": "turns",
+      "4015": "Raa..manchi",
+      "2852": "tharuvatha",
+      "7079": "starts",
+      "6142": "walking.",
+      "4567": "VEDA",
+      "4026": "(To",
+      "9792": "the",
+      "7988": "PUG)",
+      "7921": "padhara,",
+      "3776": "manchi",
+      "3627": "break",
+      "3061": "fast",
+      "3414": "chesi",
+      "2410": "em",
+      "6117": "cheyalo",
+      "4189": "alochidham.",
+      "6566": "He",
+      "8641": "puts",
+      "8433": "his",
+      "5474": "hand",
+      "8353": "in",
+      "8708": "his",
+      "6550": "pocket",
+      "8685": "bathakadam",
+      "3604": "check",
+      "7177": "how",
+      "5332": "much",
+      "1108": "money",
+      "4767": "he",
+      "6180": "has.",
+      "9324": "Realizing",
+      "6064": "he",
+      "9463": "has",
+      "9737": "nothing,",
+      "4429": "he",
+      "1430": "goes",
+      "6717": "to",
+      "2837": "the",
+      "9625": "KENNEL",
+      "3771": "OWNER.",
+      "1407": "KENNEL",
+      "4789": "OWNER",
+      "5739": "enti",
+      "5261": "simham",
+      "9034": "gaddi",
+      "8497": "thinadaniki",
+      "1446": "vachhindha",
+      "6793": "!",
+      "1858": "Aakalitho",
+      "5373": "chachhekante",
+      "7244": "vegetarian",
+      "2635": "ga",
+      "8466": "better",
+      "3757": "kadha.",
+      "5702": "VEDA",
+      "1168": "talks",
+      "2826": "to",
+      "9154": "the",
+      "3980": "pug",
+      "9122": "VEDA",
+      "3557": "party",
+      "3900": "chesukoni,",
+      "1597": "repudnunchi",
+      "5527": "nee",
+      "4119": "Laingika",
+      "1815": "karyakramam",
+      "2085": "lo",
+      "9690": "undhuvgaani",
+      "5199": "The",
+      "7122": "PUG",
+      "9643": "barks",
+      "7984": "VEDA",
+      "3446": "abbo",
+      "5292": "..",
+      "3047": "laingikam",
+      "5685": "antey",
+      "1870": "neekkuda",
+      "9446": "mood",
+      "9650": "vachhidhe,",
+      "3929": "mundhu",
+      "7002": "neeko",
+      "2785": "kukka",
+      "2382": "paste,",
+      "6141": "kukka",
+      "7332": "brush,",
+      "3848": "kukka",
+      "5301": "soap",
+      "5178": "konaali..",
+      "5187": "padha"
+    }
+  },
+  "sample_no": "sample3",
+  "pdf_file_name": "page_31.pdf",
+  "llm_response": {
+    "scene_number": [
+      30
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      "He turns around and starts walking.",
+      "He puts his hand in his pocket to check how much money he\nhas. Realizing he has nothing, he goes to the KENNEL OWNER."
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          "(CONT'D)"
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Naa gurinchi emanukuntunnavu\nnuvvu...simham aakalitho\nchasthundhi kaani gaddi thinadhu..."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          "(To the PUG)"
+        ],
+        "text": [
+          "padhara, manchi break fast chesi\ntharuvatha em cheyalo alochidham."
+        ]
+      },
+      {
+        "character": [
+          "KENNEL OWNER"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "enti simham gaddi thinadaniki\nvachhindha !"
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Aakalitho chachhekante vegetarian\nga bathakadam better kadha."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Raa..manchi party chesukoni,\nrepudnunchi nee Laingika\nkaryakramam lo undhuvgaani"
+        ]
+      },
+      {
+        "character": [
+          "PUG"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "abbo .. laingikam antey neekkuda\nmood vachhidhe, mundhu neeko kukka\npaste, kukka brush, kukka soap\nkonaali.. padha"
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      {
+        "value": 30,
+        "ids": []
+      }
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      {
+        "value": "He turns around and starts walking.",
+        "ids": [
+          8363,
+          9904,
+          7079,
+          6566,
+          4767,
+          6064,
+          4429
+        ]
+      },
+      {
+        "value": "He puts his hand in his pocket to check how much money he\nhas. Realizing he has nothing, he goes to the KENNEL OWNER.",
+        "ids": [
+          8363,
+          9792,
+          6566,
+          8641,
+          8433,
+          5474,
+          8353,
+          8708,
+          6550,
+          3604,
+          7177,
+          5332,
+          1108,
+          4767,
+          9324,
+          6064,
+          9463,
+          4429,
+          1430,
+          6717,
+          2837,
+          9625,
+          1407,
+          4789,
+          2826,
+          9154,
+          5199
+        ]
+      }
+    ],
+    "dialogue": [
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              4567,
+              5687
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              5702,
+              7984
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              9122,
+              9418
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": "(CONT'D)",
+            "ids": [
+              2083
+            ]
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Naa gurinchi emanukuntunnavu\nnuvvu...simham aakalitho\nchasthundhi kaani gaddi thinadhu...",
+            "ids": [
+              5862,
+              1405,
+              4364,
+              3799,
+              7348,
+              2827,
+              9473,
+              5261,
+              9034,
+              1858
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              4567,
+              5687
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              5702,
+              7984
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              9122,
+              9418
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "(To the PUG)",
+            "ids": [
+              9792,
+              6717,
+              2837,
+              2826,
+              9154,
+              3980,
+              5199,
+              7122
+            ]
+          }
+        ],
+        "text": [
+          {
+            "value": "padhara, manchi break fast chesi\ntharuvatha em cheyalo alochidham.",
+            "ids": [
+              2852,
+              3776,
+              3627,
+              3061,
+              3414,
+              2410,
+              6117
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "KENNEL OWNER",
+            "ids": [
+              9625,
+              1407,
+              4789
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "enti simham gaddi thinadaniki\nvachhindha !",
+            "ids": [
+              9473,
+              5739,
+              5261,
+              9034,
+              8497,
+              1446
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              4567,
+              5687
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              5702,
+              7984
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              9122,
+              9418
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Aakalitho chachhekante vegetarian\nga bathakadam better kadha.",
+            "ids": [
+              3799,
+              8685,
+              1858,
+              5373,
+              7244,
+              2635,
+              8466
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              4567,
+              5687
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              5702,
+              7984
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              9122,
+              9418
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Raa..manchi party chesukoni,\nrepudnunchi nee Laingika\nkaryakramam lo undhuvgaani",
+            "ids": [
+              3776,
+              3557,
+              1597,
+              5527,
+              4119,
+              1815,
+              2085,
+              9690
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "PUG",
+            "ids": [
+              3980,
+              7122
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "abbo .. laingikam antey neekkuda\nmood vachhidhe, mundhu neeko kukka\npaste, kukka brush, kukka soap\nkonaali.. padha",
+            "ids": [
+              3446,
+              3047,
+              5685,
+              1870,
+              9446,
+              3929,
+              7002,
+              2785,
+              6141,
+              3848,
+              5301,
+              5187
+            ]
+          }
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

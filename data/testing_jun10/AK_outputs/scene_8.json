@@ -1,0 +1,97 @@
+{
+  "ALL_TEXT": "8 INT. TIBETAN MONASTERY - DAY \nThe Dalai Lama hands the box to a CIA agent. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "8",
+    "1001": "INT.",
+    "1002": "TIBETAN",
+    "1003": "MONASTERY",
+    "1004": "-",
+    "1005": "DAY",
+    "1006": "The",
+    "1007": "Dalai",
+    "1008": "Lama",
+    "1009": "hands",
+    "1010": "the",
+    "1011": "box",
+    "1012": "to",
+    "1013": "a",
+    "1014": "CIA",
+    "1015": "agent.",
+    "1016": "CUT",
+    "1017": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "Dalai Lama",
+        "CIA agent"
+      ],
+      "SET": [
+        "INT. TIBETAN MONASTERY - DAY"
+      ],
+      "PROPS": [
+        "box"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "Dalai Lama",
+            "ids": [
+              "1007",
+              "1008"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "CIA agent.",
+            "ids": [
+              "1014",
+              "1015"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "INT. TIBETAN MONASTERY - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "box",
+            "ids": [
+              "1011"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

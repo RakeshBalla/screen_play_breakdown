@@ -1,0 +1,291 @@
+{
+  "ALL_TEXT": "152 EXT. ROAD - DAY \nThe BUM is wandering along, when he sees a thrash-can shaped \nlike a woman. He walks up against it, slowly leans in to \nkiss, when it turns into a butterfly. He looks at it, tosses \nthe water he is carrying, and chases it down. He reaches the \nmiddle of the road, and catches the butterfly, admiring it. A \ngiant truck gets closer and closer to him, honking louder and \nlouder... The truck swerves to avoid him and crashes into a \nresting DCM nearby. Alcohol from the truck's cargo spills \nover. \nCUT TO: ",
+  "WORDS_ID": {
+    "1000": "152",
+    "1001": "EXT.",
+    "1002": "ROAD",
+    "1003": "-",
+    "1004": "DAY",
+    "1005": "The",
+    "1006": "BUM",
+    "1007": "is",
+    "1008": "wandering",
+    "1009": "along,",
+    "1010": "when",
+    "1011": "he",
+    "1012": "sees",
+    "1013": "a",
+    "1014": "thrash-can",
+    "1015": "shaped",
+    "1016": "like",
+    "1017": "a",
+    "1018": "woman.",
+    "1019": "He",
+    "1020": "walks",
+    "1021": "up",
+    "1022": "against",
+    "1023": "it,",
+    "1024": "slowly",
+    "1025": "leans",
+    "1026": "in",
+    "1027": "to",
+    "1028": "kiss,",
+    "1029": "when",
+    "1030": "it",
+    "1031": "turns",
+    "1032": "into",
+    "1033": "a",
+    "1034": "butterfly.",
+    "1035": "He",
+    "1036": "looks",
+    "1037": "at",
+    "1038": "it,",
+    "1039": "tosses",
+    "1040": "the",
+    "1041": "water",
+    "1042": "he",
+    "1043": "is",
+    "1044": "carrying,",
+    "1045": "and",
+    "1046": "chases",
+    "1047": "it",
+    "1048": "down.",
+    "1049": "He",
+    "1050": "reaches",
+    "1051": "the",
+    "1052": "middle",
+    "1053": "of",
+    "1054": "the",
+    "1055": "road,",
+    "1056": "and",
+    "1057": "catches",
+    "1058": "the",
+    "1059": "butterfly,",
+    "1060": "admiring",
+    "1061": "it.",
+    "1062": "A",
+    "1063": "giant",
+    "1064": "truck",
+    "1065": "gets",
+    "1066": "closer",
+    "1067": "and",
+    "1068": "closer",
+    "1069": "to",
+    "1070": "him,",
+    "1071": "honking",
+    "1072": "louder",
+    "1073": "and",
+    "1074": "louder...",
+    "1075": "The",
+    "1076": "truck",
+    "1077": "swerves",
+    "1078": "to",
+    "1079": "avoid",
+    "1080": "him",
+    "1081": "and",
+    "1082": "crashes",
+    "1083": "into",
+    "1084": "a",
+    "1085": "resting",
+    "1086": "DCM",
+    "1087": "nearby.",
+    "1088": "Alcohol",
+    "1089": "from",
+    "1090": "the",
+    "1091": "truck's",
+    "1092": "cargo",
+    "1093": "spills",
+    "1094": "over.",
+    "1095": "CUT",
+    "1096": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "BUM"
+      ],
+      "SET": [
+        "EXT. ROAD - DAY"
+      ],
+      "PROPS": [
+        "thrash-can shaped like a woman",
+        "water he is carrying",
+        "Alcohol"
+      ],
+      "STUNTS": [
+        "chases it down",
+        "catches the butterfly",
+        "truck swerves to avoid him",
+        "crashes into a resting DCM"
+      ],
+      "VEHICLES": [
+        "giant truck",
+        "DCM"
+      ],
+      "ANIMALS": [
+        "butterfly"
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        "honking louder and louder"
+      ]
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "BUM",
+            "ids": [
+              "1006"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. ROAD - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "thrash-can shaped like a woman.",
+            "ids": [
+              "1014",
+              "1015",
+              "1016",
+              "1017",
+              "1018"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "water he is carrying,",
+            "ids": [
+              "1041",
+              "1042",
+              "1043",
+              "1044"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "Alcohol",
+            "ids": [
+              "1088"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [
+        [
+          {
+            "value": "chases it down.",
+            "ids": [
+              "1046",
+              "1047",
+              "1048"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "catches the butterfly,",
+            "ids": [
+              "1057",
+              "1058",
+              "1059"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "truck swerves to avoid him",
+            "ids": [
+              "1076",
+              "1077",
+              "1078",
+              "1079",
+              "1080"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "crashes into a resting DCM",
+            "ids": [
+              "1082",
+              "1083",
+              "1084",
+              "1085",
+              "1086"
+            ]
+          }
+        ]
+      ],
+      "VEHICLES": [
+        [
+          {
+            "value": "giant truck",
+            "ids": [
+              "1063",
+              "1064"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "DCM",
+            "ids": [
+              "1086"
+            ]
+          }
+        ]
+      ],
+      "ANIMALS": [
+        [
+          {
+            "value": "butterfly.",
+            "ids": [
+              "1034"
+            ]
+          },
+          {
+            "value": "butterfly,",
+            "ids": [
+              "1059"
+            ]
+          }
+        ]
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        [
+          {
+            "value": "honking louder and louder...",
+            "ids": [
+              "1071",
+              "1072",
+              "1073",
+              "1074"
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}

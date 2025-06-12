@@ -1,0 +1,418 @@
+{
+  "ALL_TEXT": "85 INT. ROADSIDE DHABA - DAY \nAfter they finish eating they go to the counter to pay the \nOLD LADY. \nVEDA \nGOVARDHAN dabbulu unnayaa... \nGOVARDHAN \nLevu, card undhi. Aina mee iddharu \nlunch date annavu kadha..nuvve \nkattuko... \nSULOCHANA \nMemu iddaram lunch date enti? \nVEDA tries to stop GOVARDHAN from saying anything but fails. \nGOVARDHAN \nVedu neeku line aesthunadu \nSULOCHANA \nSULOCHANA blushes and pulls out her clutch to pay the lady. \nOLD LADY \n1000 rupaya notulu chellavu \nkadammaa... \nSULOCHANA \nSorry vandhalu levu andi, 1000 \nnotelu meeru bank lo vesukuntey \nchelluthaayi... \nOLD LADY \nAsalu bank account eh ledhu amma... \nSULOCHANA \nMari emi chedham ma evvari daggara \ninka dabbulu levu.. \nOLD LADY \nParavaledhu amma malli etuvaipu \nvochinappudu ivvandi... \nSULOCHANA \nMemu agodhuthey \nOLD LADY \nParvaledhu amma, meeru peddavaallu \nnaaku aa nammakam undhi. Andhariki \ndabbulu bankulo irrukupoyi kashtam \nga undhi, nenu ardham \nchesukogalanu. \nDuring this discussion, SULOCHANA notices some men, the \nFOREST MINISTER's goons, walking towards them. She tugs \nVEDA's shirt and points with her eyes. GOVARDHAN looks at \nthem, staring in fear. VEDA grabs SULOCHANA and GOVARDHAN's \nhands and runs for the barn behind. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "85",
+    "1001": "INT.",
+    "1002": "ROADSIDE",
+    "1003": "DHABA",
+    "1004": "-",
+    "1005": "DAY",
+    "1006": "After",
+    "1007": "they",
+    "1008": "finish",
+    "1009": "eating",
+    "1010": "they",
+    "1011": "go",
+    "1012": "to",
+    "1013": "the",
+    "1014": "counter",
+    "1015": "to",
+    "1016": "pay",
+    "1017": "the",
+    "1018": "OLD",
+    "1019": "LADY.",
+    "1020": "VEDA",
+    "1021": "GOVARDHAN",
+    "1022": "dabbulu",
+    "1023": "unnayaa...",
+    "1024": "GOVARDHAN",
+    "1025": "Levu,",
+    "1026": "card",
+    "1027": "undhi.",
+    "1028": "Aina",
+    "1029": "mee",
+    "1030": "iddharu",
+    "1031": "lunch",
+    "1032": "date",
+    "1033": "annavu",
+    "1034": "kadha..nuvve",
+    "1035": "kattuko...",
+    "1036": "SULOCHANA",
+    "1037": "Memu",
+    "1038": "iddaram",
+    "1039": "lunch",
+    "1040": "date",
+    "1041": "enti?",
+    "1042": "VEDA",
+    "1043": "tries",
+    "1044": "to",
+    "1045": "stop",
+    "1046": "GOVARDHAN",
+    "1047": "from",
+    "1048": "saying",
+    "1049": "anything",
+    "1050": "but",
+    "1051": "fails.",
+    "1052": "GOVARDHAN",
+    "1053": "Vedu",
+    "1054": "neeku",
+    "1055": "line",
+    "1056": "aesthunadu",
+    "1057": "SULOCHANA",
+    "1058": "SULOCHANA",
+    "1059": "blushes",
+    "1060": "and",
+    "1061": "pulls",
+    "1062": "out",
+    "1063": "her",
+    "1064": "clutch",
+    "1065": "to",
+    "1066": "pay",
+    "1067": "the",
+    "1068": "lady.",
+    "1069": "OLD",
+    "1070": "LADY",
+    "1071": "1000",
+    "1072": "rupaya",
+    "1073": "notulu",
+    "1074": "chellavu",
+    "1075": "kadammaa...",
+    "1076": "SULOCHANA",
+    "1077": "Sorry",
+    "1078": "vandhalu",
+    "1079": "levu",
+    "1080": "andi,",
+    "1081": "1000",
+    "1082": "notelu",
+    "1083": "meeru",
+    "1084": "bank",
+    "1085": "lo",
+    "1086": "vesukuntey",
+    "1087": "chelluthaayi...",
+    "1088": "OLD",
+    "1089": "LADY",
+    "1090": "Asalu",
+    "1091": "bank",
+    "1092": "account",
+    "1093": "eh",
+    "1094": "ledhu",
+    "1095": "amma...",
+    "1096": "SULOCHANA",
+    "1097": "Mari",
+    "1098": "emi",
+    "1099": "chedham",
+    "1100": "ma",
+    "1101": "evvari",
+    "1102": "daggara",
+    "1103": "inka",
+    "1104": "dabbulu",
+    "1105": "levu..",
+    "1106": "OLD",
+    "1107": "LADY",
+    "1108": "Paravaledhu",
+    "1109": "amma",
+    "1110": "malli",
+    "1111": "etuvaipu",
+    "1112": "vochinappudu",
+    "1113": "ivvandi...",
+    "1114": "SULOCHANA",
+    "1115": "Memu",
+    "1116": "agodhuthey",
+    "1117": "OLD",
+    "1118": "LADY",
+    "1119": "Parvaledhu",
+    "1120": "amma,",
+    "1121": "meeru",
+    "1122": "peddavaallu",
+    "1123": "naaku",
+    "1124": "aa",
+    "1125": "nammakam",
+    "1126": "undhi.",
+    "1127": "Andhariki",
+    "1128": "dabbulu",
+    "1129": "bankulo",
+    "1130": "irrukupoyi",
+    "1131": "kashtam",
+    "1132": "ga",
+    "1133": "undhi,",
+    "1134": "nenu",
+    "1135": "ardham",
+    "1136": "chesukogalanu.",
+    "1137": "During",
+    "1138": "this",
+    "1139": "discussion,",
+    "1140": "SULOCHANA",
+    "1141": "notices",
+    "1142": "some",
+    "1143": "men,",
+    "1144": "the",
+    "1145": "FOREST",
+    "1146": "MINISTER's",
+    "1147": "goons,",
+    "1148": "walking",
+    "1149": "towards",
+    "1150": "them.",
+    "1151": "She",
+    "1152": "tugs",
+    "1153": "VEDA's",
+    "1154": "shirt",
+    "1155": "and",
+    "1156": "points",
+    "1157": "with",
+    "1158": "her",
+    "1159": "eyes.",
+    "1160": "GOVARDHAN",
+    "1161": "looks",
+    "1162": "at",
+    "1163": "them,",
+    "1164": "staring",
+    "1165": "in",
+    "1166": "fear.",
+    "1167": "VEDA",
+    "1168": "grabs",
+    "1169": "SULOCHANA",
+    "1170": "and",
+    "1171": "GOVARDHAN's",
+    "1172": "hands",
+    "1173": "and",
+    "1174": "runs",
+    "1175": "for",
+    "1176": "the",
+    "1177": "barn",
+    "1178": "behind.",
+    "1179": "CUT",
+    "1180": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "OLD LADY",
+        "VEDA",
+        "GOVARDHAN",
+        "SULOCHANA",
+        "FOREST MINISTER's goons"
+      ],
+      "SET": [
+        "INT. ROADSIDE DHABA - DAY"
+      ],
+      "PROPS": [
+        "clutch",
+        "shirt"
+      ],
+      "STUNTS": [
+        "runs for the barn behind"
+      ],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "OLD LADY",
+            "ids": [
+              "1069",
+              "1070"
+            ]
+          },
+          {
+            "value": "OLD LADY",
+            "ids": [
+              "1088",
+              "1089"
+            ]
+          },
+          {
+            "value": "OLD LADY",
+            "ids": [
+              "1106",
+              "1107"
+            ]
+          },
+          {
+            "value": "OLD LADY",
+            "ids": [
+              "1117",
+              "1118"
+            ]
+          },
+          {
+            "value": "OLD LADY.",
+            "ids": [
+              "1018",
+              "1019"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1020"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1042"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1167"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1021"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1024"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1046"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1052"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1160"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1036"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1057"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1058"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1076"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1096"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1114"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1140"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1169"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "FOREST MINISTER's goons,",
+            "ids": [
+              "1145",
+              "1146",
+              "1147"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "INT. ROADSIDE DHABA - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "clutch",
+            "ids": [
+              "1064"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "shirt",
+            "ids": [
+              "1154"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [
+        [
+          {
+            "value": "runs for the barn behind.",
+            "ids": [
+              "1174",
+              "1175",
+              "1176",
+              "1177",
+              "1178"
+            ]
+          }
+        ]
+      ],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

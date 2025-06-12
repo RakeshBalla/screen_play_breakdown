@@ -1,0 +1,143 @@
+{
+  "ALL_TEXT": "23 INT. GOVARDHAN\u2019S HOUSE-BEDROOM - DAY \nGOVARDHAN is getting dressed in his bedroom. His wardrobe is \nfilled with countless shirt and trousers, the exact same \ncolor. Nothing else. He struggles to pick a dress. He finally \ngets dressed - a tight trouser, an over-sized shirt, wearing \nan old-fashioned tie. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "23",
+    "1001": "INT.",
+    "1002": "GOVARDHAN\u2019S",
+    "1003": "HOUSE-BEDROOM",
+    "1004": "-",
+    "1005": "DAY",
+    "1006": "GOVARDHAN",
+    "1007": "is",
+    "1008": "getting",
+    "1009": "dressed",
+    "1010": "in",
+    "1011": "his",
+    "1012": "bedroom.",
+    "1013": "His",
+    "1014": "wardrobe",
+    "1015": "is",
+    "1016": "filled",
+    "1017": "with",
+    "1018": "countless",
+    "1019": "shirt",
+    "1020": "and",
+    "1021": "trousers,",
+    "1022": "the",
+    "1023": "exact",
+    "1024": "same",
+    "1025": "color.",
+    "1026": "Nothing",
+    "1027": "else.",
+    "1028": "He",
+    "1029": "struggles",
+    "1030": "to",
+    "1031": "pick",
+    "1032": "a",
+    "1033": "dress.",
+    "1034": "He",
+    "1035": "finally",
+    "1036": "gets",
+    "1037": "dressed",
+    "1038": "-",
+    "1039": "a",
+    "1040": "tight",
+    "1041": "trouser,",
+    "1042": "an",
+    "1043": "over-sized",
+    "1044": "shirt,",
+    "1045": "wearing",
+    "1046": "an",
+    "1047": "old-fashioned",
+    "1048": "tie.",
+    "1049": "CUT",
+    "1050": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "GOVARDHAN"
+      ],
+      "SET": [
+        "INT. GOVARDHAN\u2019S HOUSE-BEDROOM - DAY"
+      ],
+      "PROPS": [
+        "shirt",
+        "trousers",
+        "tie"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1006"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "INT. GOVARDHAN\u2019S HOUSE-BEDROOM - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "shirt",
+            "ids": [
+              "1019"
+            ]
+          },
+          {
+            "value": "shirt,",
+            "ids": [
+              "1044"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "trousers,",
+            "ids": [
+              "1021"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "tie.",
+            "ids": [
+              "1048"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

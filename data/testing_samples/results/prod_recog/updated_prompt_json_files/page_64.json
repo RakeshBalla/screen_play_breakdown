@@ -1,0 +1,183 @@
+{
+  "page_dict": {
+    "alltext": "63.\n68 EXT. TV CHANNEL OFFICE-PARKING - DAY\nSULOCHANA comes out; VEDA, nervous, walks up to her.\nSULOCHANA\nPhotos inkaa media ki release\ncheyaledhu... police station lo\nunnaayi. Akkadiki velthe kaani\nasalu emjarigindho clear gaa\nthelidhu\nVEDA\nP.S Kaa!?. Mammalni kudaa\nrammantaava?\nSULOCHANA\n(suspiciously)\nYe? Em cheyaledannav ga...\nRaataaniki enti??\nVEDA\nNak Em ledhu.. GOVARDHAN nasa\npedathadu sarle elago ala manage\nchestha...\nVEDA and SULOCHANA walk up to GOVARDHAN, who waits,\nimpatiently.\nVEDA\nGOVARDHAN padhaa\nGOVARDHAN\nMalli ekkadiki\nVEDA\nNuvvu mee bank lo entha powerfulo\nani SULOCHANA ki cheppaa. Thanaki\nkuda queue lo nilabadakunda\nchusthaav ani cheppa.",
+    "words_ids": {
+      "9790": "63.",
+      "8732": "68",
+      "9913": "EXT.",
+      "1344": "TV",
+      "3982": "CHANNEL",
+      "9134": "OFFICE-PARKING",
+      "1994": "-",
+      "7815": "DAY",
+      "5166": "SULOCHANA",
+      "5489": "comes",
+      "1221": "out;",
+      "7105": "VEDA,",
+      "9843": "nervous,",
+      "1301": "walks",
+      "6565": "up",
+      "2841": "to",
+      "6137": "her.",
+      "9334": "SULOCHANA",
+      "6623": "Photos",
+      "6059": "inkaa",
+      "6899": "media",
+      "9648": "ki",
+      "5872": "release",
+      "9277": "cheyaledhu...",
+      "6866": "police",
+      "6421": "station",
+      "4209": "lo",
+      "8895": "unnaayi.",
+      "8634": "Akkadiki",
+      "2859": "velthe",
+      "2565": "kaani",
+      "2001": "asalu",
+      "7789": "emjarigindho",
+      "7946": "clear",
+      "4230": "gaa",
+      "9911": "thelidhu",
+      "9530": "VEDA",
+      "3424": "P.S",
+      "4553": "Kaa!?.",
+      "2147": "Mammalni",
+      "9467": "kudaa",
+      "1265": "rammantaava?",
+      "1021": "SULOCHANA",
+      "5418": "(suspiciously)",
+      "6959": "Ye?",
+      "7613": "Em",
+      "9063": "cheyaledannav",
+      "9611": "ga...",
+      "6329": "Raataaniki",
+      "9313": "enti??",
+      "4618": "VEDA",
+      "8886": "Nak",
+      "7737": "Em",
+      "1647": "ledhu..",
+      "5992": "GOVARDHAN",
+      "1267": "nasa",
+      "4669": "pedathadu",
+      "3932": "sarle",
+      "1585": "elago",
+      "2239": "ala",
+      "6049": "manage",
+      "9052": "chestha...",
+      "1368": "VEDA",
+      "4273": "and",
+      "9127": "SULOCHANA",
+      "9049": "walk",
+      "8637": "up",
+      "1107": "to",
+      "2797": "GOVARDHAN,",
+      "6339": "who",
+      "1238": "waits,",
+      "7258": "impatiently.",
+      "4276": "VEDA",
+      "5651": "GOVARDHAN",
+      "3685": "padhaa",
+      "9534": "GOVARDHAN",
+      "2799": "Malli",
+      "1439": "ekkadiki",
+      "4129": "VEDA",
+      "7198": "Nuvvu",
+      "3800": "mee",
+      "6271": "bank",
+      "7576": "lo",
+      "8179": "entha",
+      "3503": "powerfulo",
+      "1314": "ani",
+      "4984": "SULOCHANA",
+      "9797": "ki",
+      "5965": "cheppaa.",
+      "2462": "Thanaki",
+      "2873": "kuda",
+      "8220": "queue",
+      "7843": "lo",
+      "8280": "nilabadakunda",
+      "4164": "chusthaav",
+      "9989": "ani",
+      "5163": "cheppa."
+    }
+  },
+  "sample_no": "sample6",
+  "pdf_file_name": "page_64.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "SULOCHANA",
+        "VEDA",
+        "GOVARDHAN"
+      ],
+      "SET": [
+        "EXT. TV CHANNEL OFFICE-PARKING - DAY"
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            1021,
+            4984
+          ]
+        },
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            5166,
+            9127
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            1368,
+            4129
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            4276,
+            4618
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            5651,
+            5992
+          ]
+        }
+      ],
+      "SET": [
+        {
+          "value": "EXT. TV CHANNEL OFFICE-PARKING - DAY",
+          "ids": [
+            1344,
+            3982,
+            7815
+          ]
+        }
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

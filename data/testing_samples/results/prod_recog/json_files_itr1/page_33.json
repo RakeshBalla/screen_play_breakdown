@@ -1,0 +1,235 @@
+{
+  "page_dict": {
+    "alltext": "32.\nCUT TO:\n40 INT. AUDITORIUM - DAY\nSUBBA RAJU is performing the \"Navarasas\" on stage. The\nauditorium is pretty empty but for seven eight people, with a\nseat occupied by a serious looking, middle-aged, salt-and-\npepper bearded man, film director SHAM GOPAL VERMA.\nHe is watching intently. The camera tilts down to show that\nhis hands are tied. The still silence of the SHAM GOPAL VERMA\nstops when he squirms some words out",
+    "words_ids": {
+      "4868": "32.",
+      "1171": "CUT",
+      "1349": "TO:",
+      "1768": "40",
+      "1170": "INT.",
+      "3828": "AUDITORIUM",
+      "9471": "-",
+      "2425": "DAY",
+      "2356": "SUBBA",
+      "6151": "RAJU",
+      "8693": "is",
+      "7941": "performing",
+      "7037": "the",
+      "9554": "\"Navarasas\"",
+      "6567": "on",
+      "1211": "stage.",
+      "5867": "The",
+      "5218": "auditorium",
+      "9964": "is",
+      "9411": "pretty",
+      "2040": "empty",
+      "9903": "but",
+      "5906": "for",
+      "8705": "seven",
+      "6137": "eight",
+      "4046": "people,",
+      "6145": "down",
+      "4145": "a",
+      "9312": "seat",
+      "1102": "occupied",
+      "2543": "by",
+      "5473": "a",
+      "5905": "serious",
+      "1512": "looking,",
+      "4320": "middle-aged,",
+      "7474": "salt-and-",
+      "2348": "pepper",
+      "2923": "bearded",
+      "1119": "man,",
+      "4963": "film",
+      "7951": "director",
+      "6365": "SHAM",
+      "8308": "GOPAL",
+      "8915": "VERMA.",
+      "7494": "He",
+      "8085": "is",
+      "8357": "watching",
+      "6775": "intently.",
+      "3783": "The",
+      "5937": "camera",
+      "2290": "tilts",
+      "2665": "to",
+      "1745": "show",
+      "1593": "that",
+      "1006": "his",
+      "7475": "hands",
+      "7247": "are",
+      "7129": "tied.",
+      "5924": "The",
+      "3994": "still",
+      "5187": "silence",
+      "9876": "of",
+      "5256": "the",
+      "7328": "SHAM",
+      "5085": "GOPAL",
+      "9283": "VERMA",
+      "3472": "stops",
+      "3609": "when",
+      "1070": "he",
+      "3283": "squirms",
+      "7168": "some",
+      "8047": "words",
+      "4838": "out"
+    }
+  },
+  "sample_no": "sample3",
+  "pdf_file_name": "page_33.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "SUBBA RAJU",
+        "SHAM GOPAL VERMA"
+      ],
+      "CAST_INFO": [
+        "middle-aged",
+        "salt-and-pepper bearded man",
+        "film director"
+      ],
+      "EXTRAS": [
+        "seven eight people"
+      ],
+      "PROPS": [],
+      "LOCATION_DETAILS": [
+        "AUDITORIUM"
+      ],
+      "SCREEN_TITLES": [
+        "INT. AUDITORIUM - DAY"
+      ],
+      "CAMERA": [
+        "tilts down"
+      ],
+      "SOUND": [],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "SUBBA RAJU",
+          "ids": [
+            2356,
+            6151
+          ]
+        },
+        {
+          "value": "SHAM GOPAL VERMA",
+          "ids": [
+            6365,
+            8308,
+            7328,
+            5085,
+            9283
+          ]
+        }
+      ],
+      "CAST_INFO": [
+        {
+          "value": "middle-aged",
+          "ids": []
+        },
+        {
+          "value": "salt-and-pepper bearded man",
+          "ids": [
+            2348,
+            2923
+          ]
+        },
+        {
+          "value": "film director",
+          "ids": [
+            4963,
+            7951
+          ]
+        }
+      ],
+      "EXTRAS": [
+        {
+          "value": "seven eight people",
+          "ids": [
+            8705,
+            6137
+          ]
+        }
+      ],
+      "PROPS": [],
+      "LOCATION_DETAILS": [
+        {
+          "value": "AUDITORIUM",
+          "ids": [
+            3828,
+            5218
+          ]
+        }
+      ],
+      "SCREEN_TITLES": [
+        {
+          "value": "INT. AUDITORIUM - DAY",
+          "ids": [
+            3828,
+            2425,
+            5218
+          ]
+        }
+      ],
+      "CAMERA": [
+        {
+          "value": "tilts down",
+          "ids": [
+            6145,
+            2290
+          ]
+        }
+      ],
+      "SOUND": [],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  }
+}

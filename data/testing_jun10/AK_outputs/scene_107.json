@@ -1,0 +1,209 @@
+{
+  "ALL_TEXT": "107 EXT. QUARRY - DAY \nANTHONY picks up a beer bottle lying next to a passed out \nVASU. RAJU is also lying passed out, in a dried up pool of \nhis vomit. He has a sip and chucks it into the quarry. He \ndrives away on the container truck. Then he comes in on an \nidentical container truck, before he swaps their number \nplates. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "107",
+    "1001": "EXT.",
+    "1002": "QUARRY",
+    "1003": "-",
+    "1004": "DAY",
+    "1005": "ANTHONY",
+    "1006": "picks",
+    "1007": "up",
+    "1008": "a",
+    "1009": "beer",
+    "1010": "bottle",
+    "1011": "lying",
+    "1012": "next",
+    "1013": "to",
+    "1014": "a",
+    "1015": "passed",
+    "1016": "out",
+    "1017": "VASU.",
+    "1018": "RAJU",
+    "1019": "is",
+    "1020": "also",
+    "1021": "lying",
+    "1022": "passed",
+    "1023": "out,",
+    "1024": "in",
+    "1025": "a",
+    "1026": "dried",
+    "1027": "up",
+    "1028": "pool",
+    "1029": "of",
+    "1030": "his",
+    "1031": "vomit.",
+    "1032": "He",
+    "1033": "has",
+    "1034": "a",
+    "1035": "sip",
+    "1036": "and",
+    "1037": "chucks",
+    "1038": "it",
+    "1039": "into",
+    "1040": "the",
+    "1041": "quarry.",
+    "1042": "He",
+    "1043": "drives",
+    "1044": "away",
+    "1045": "on",
+    "1046": "the",
+    "1047": "container",
+    "1048": "truck.",
+    "1049": "Then",
+    "1050": "he",
+    "1051": "comes",
+    "1052": "in",
+    "1053": "on",
+    "1054": "an",
+    "1055": "identical",
+    "1056": "container",
+    "1057": "truck,",
+    "1058": "before",
+    "1059": "he",
+    "1060": "swaps",
+    "1061": "their",
+    "1062": "number",
+    "1063": "plates.",
+    "1064": "CUT",
+    "1065": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "ANTHONY",
+        "VASU",
+        "RAJU"
+      ],
+      "SET": [
+        "EXT. QUARRY - DAY"
+      ],
+      "PROPS": [
+        "beer bottle",
+        "number plates"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        "container truck",
+        "identical container truck"
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        "QUARRY"
+      ],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1005"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VASU.",
+            "ids": [
+              "1017"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "RAJU",
+            "ids": [
+              "1018"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. QUARRY - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "beer bottle",
+            "ids": [
+              "1009",
+              "1010"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "number plates.",
+            "ids": [
+              "1062",
+              "1063"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        [
+          {
+            "value": "container truck.",
+            "ids": [
+              "1047",
+              "1048"
+            ]
+          },
+          {
+            "value": "container truck,",
+            "ids": [
+              "1056",
+              "1057"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "identical container truck,",
+            "ids": [
+              "1055",
+              "1056",
+              "1057"
+            ]
+          }
+        ]
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        [
+          {
+            "value": "QUARRY",
+            "ids": [
+              "1002"
+            ]
+          },
+          {
+            "value": "quarry.",
+            "ids": [
+              "1041"
+            ]
+          }
+        ]
+      ],
+      "SOUND": []
+    }
+  }
+}

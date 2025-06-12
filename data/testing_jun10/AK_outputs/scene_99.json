@@ -1,0 +1,89 @@
+{
+  "ALL_TEXT": "99 EXT. ROAD - DAY \nSUBBA RAJU and ANTHONY look at each other and smirk, which \nturns into a wild laughter. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "99",
+    "1001": "EXT.",
+    "1002": "ROAD",
+    "1003": "-",
+    "1004": "DAY",
+    "1005": "SUBBA",
+    "1006": "RAJU",
+    "1007": "and",
+    "1008": "ANTHONY",
+    "1009": "look",
+    "1010": "at",
+    "1011": "each",
+    "1012": "other",
+    "1013": "and",
+    "1014": "smirk,",
+    "1015": "which",
+    "1016": "turns",
+    "1017": "into",
+    "1018": "a",
+    "1019": "wild",
+    "1020": "laughter.",
+    "1021": "CUT",
+    "1022": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "SUBBA RAJU",
+        "ANTHONY"
+      ],
+      "SET": [
+        "EXT. ROAD - DAY"
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1005",
+              "1006"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1008"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. ROAD - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

@@ -1,0 +1,509 @@
+{
+  "ALL_TEXT": "113 INT. POLICE STATION - DAY \nVEDA is on the phone, talking to BHANU. He ends the call, \nlooking quite disturbed. He drags SULOCHANA to one end of the \ncell and talks to her very quietly. \nVEDA \n(Whispering) \nVaallani champesaaranta! \nSULOCHANA \n(Tensed) \nAevarini!? \nVEDA \nAdhey manalni kotti jail lo \npettinchaadu chudu ANTHONY...vaalla \nfriends ni. \nSULOCHANA \nVaallu evaru \nVEDA \nPodhuna memu champaamu anaolu \nSULOCHANA \nArdham ayela chepu VEDA \nVEDA \nPodhunna chanipoinolu bhathike \nunnaaranta \nSULOCHANA \nIppude kada champesaru anavu \nVEDA \nBha purthiga vinu.. \nVEDA narrates the events of the graveyard, leaving SULOCHANA \nblank. \nVEDA \nAa police inspector ae \nchampaadanta. \n(MORE) \nVEDA (CONT'D) \nIppude BHANU phone chesi \ncheppadu...vadu akkade unadu anta \nappudu. \nSULOCHANA \nEnduku champaadu???? \nVEDA \nTelidu, ANTHONY maathram ledu anta. \nVaadini kuda champesuntaadu. \nSULOCHANA \nAsalem jaruguthundi???... Podduna \nvaalliddharu chanipoyaaru \nanukuni... Baba kanapadakunda \npoyi... ippudu vaallani champi \nsaksham cheppinodu chanipoyi...aemo \nVEDA... bhayamgaa undi...manalni em \nchesthaaro... \nVEDA \n(tense) \nGOVARDHAN ki em cheppaku... \nbhayapadi gola chesthaadu. \nGOVARDHAN, in the other corner of the cell, however has heard \nit. He sighs. SULOCHANA's phone buzzes. She answers the call. \nVOICE (O.S.) \nLife insurance kaavaala madam? \nKevalam eroju ke oka bumper pamper \nplan undhi!! \nSULOCHANA \nPamper plan ah?? Ee pamper plan lo \nemi emi pamperinglu unnaayi \nVEDA \nasalu emi jaruguthondho nee chedha \npattina burraki ardham avuthundha? \nGOVARDHAN \nAh ammayini ani emi labam. Antha \nnee valle... \nVEDA \nInkoka maata matlaadaavante \npudchestha \nGOVARDHAN \nIndhaka aa Anthony gadu adhe ani \nippudu nuvvu adhe ante ela...Naaku \nclaustrophobia undhi telusa? \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "113",
+    "1001": "INT.",
+    "1002": "POLICE",
+    "1003": "STATION",
+    "1004": "-",
+    "1005": "DAY",
+    "1006": "VEDA",
+    "1007": "is",
+    "1008": "on",
+    "1009": "the",
+    "1010": "phone,",
+    "1011": "talking",
+    "1012": "to",
+    "1013": "BHANU.",
+    "1014": "He",
+    "1015": "ends",
+    "1016": "the",
+    "1017": "call,",
+    "1018": "looking",
+    "1019": "quite",
+    "1020": "disturbed.",
+    "1021": "He",
+    "1022": "drags",
+    "1023": "SULOCHANA",
+    "1024": "to",
+    "1025": "one",
+    "1026": "end",
+    "1027": "of",
+    "1028": "the",
+    "1029": "cell",
+    "1030": "and",
+    "1031": "talks",
+    "1032": "to",
+    "1033": "her",
+    "1034": "very",
+    "1035": "quietly.",
+    "1036": "VEDA",
+    "1037": "(Whispering)",
+    "1038": "Vaallani",
+    "1039": "champesaaranta!",
+    "1040": "SULOCHANA",
+    "1041": "(Tensed)",
+    "1042": "Aevarini!?",
+    "1043": "VEDA",
+    "1044": "Adhey",
+    "1045": "manalni",
+    "1046": "kotti",
+    "1047": "jail",
+    "1048": "lo",
+    "1049": "pettinchaadu",
+    "1050": "chudu",
+    "1051": "ANTHONY...vaalla",
+    "1052": "friends",
+    "1053": "ni.",
+    "1054": "SULOCHANA",
+    "1055": "Vaallu",
+    "1056": "evaru",
+    "1057": "VEDA",
+    "1058": "Podhuna",
+    "1059": "memu",
+    "1060": "champaamu",
+    "1061": "anaolu",
+    "1062": "SULOCHANA",
+    "1063": "Ardham",
+    "1064": "ayela",
+    "1065": "chepu",
+    "1066": "VEDA",
+    "1067": "VEDA",
+    "1068": "Podhunna",
+    "1069": "chanipoinolu",
+    "1070": "bhathike",
+    "1071": "unnaaranta",
+    "1072": "SULOCHANA",
+    "1073": "Ippude",
+    "1074": "kada",
+    "1075": "champesaru",
+    "1076": "anavu",
+    "1077": "VEDA",
+    "1078": "Bha",
+    "1079": "purthiga",
+    "1080": "vinu..",
+    "1081": "VEDA",
+    "1082": "narrates",
+    "1083": "the",
+    "1084": "events",
+    "1085": "of",
+    "1086": "the",
+    "1087": "graveyard,",
+    "1088": "leaving",
+    "1089": "SULOCHANA",
+    "1090": "blank.",
+    "1091": "VEDA",
+    "1092": "Aa",
+    "1093": "police",
+    "1094": "inspector",
+    "1095": "ae",
+    "1096": "champaadanta.",
+    "1097": "(MORE)",
+    "1098": "VEDA",
+    "1099": "(CONT'D)",
+    "1100": "Ippude",
+    "1101": "BHANU",
+    "1102": "phone",
+    "1103": "chesi",
+    "1104": "cheppadu...vadu",
+    "1105": "akkade",
+    "1106": "unadu",
+    "1107": "anta",
+    "1108": "appudu.",
+    "1109": "SULOCHANA",
+    "1110": "Enduku",
+    "1111": "champaadu????",
+    "1112": "VEDA",
+    "1113": "Telidu,",
+    "1114": "ANTHONY",
+    "1115": "maathram",
+    "1116": "ledu",
+    "1117": "anta.",
+    "1118": "Vaadini",
+    "1119": "kuda",
+    "1120": "champesuntaadu.",
+    "1121": "SULOCHANA",
+    "1122": "Asalem",
+    "1123": "jaruguthundi???...",
+    "1124": "Podduna",
+    "1125": "vaalliddharu",
+    "1126": "chanipoyaaru",
+    "1127": "anukuni...",
+    "1128": "Baba",
+    "1129": "kanapadakunda",
+    "1130": "poyi...",
+    "1131": "ippudu",
+    "1132": "vaallani",
+    "1133": "champi",
+    "1134": "saksham",
+    "1135": "cheppinodu",
+    "1136": "chanipoyi...aemo",
+    "1137": "VEDA...",
+    "1138": "bhayamgaa",
+    "1139": "undi...manalni",
+    "1140": "em",
+    "1141": "chesthaaro...",
+    "1142": "VEDA",
+    "1143": "(tense)",
+    "1144": "GOVARDHAN",
+    "1145": "ki",
+    "1146": "em",
+    "1147": "cheppaku...",
+    "1148": "bhayapadi",
+    "1149": "gola",
+    "1150": "chesthaadu.",
+    "1151": "GOVARDHAN,",
+    "1152": "in",
+    "1153": "the",
+    "1154": "other",
+    "1155": "corner",
+    "1156": "of",
+    "1157": "the",
+    "1158": "cell,",
+    "1159": "however",
+    "1160": "has",
+    "1161": "heard",
+    "1162": "it.",
+    "1163": "He",
+    "1164": "sighs.",
+    "1165": "SULOCHANA's",
+    "1166": "phone",
+    "1167": "buzzes.",
+    "1168": "She",
+    "1169": "answers",
+    "1170": "the",
+    "1171": "call.",
+    "1172": "VOICE",
+    "1173": "(O.S.)",
+    "1174": "Life",
+    "1175": "insurance",
+    "1176": "kaavaala",
+    "1177": "madam?",
+    "1178": "Kevalam",
+    "1179": "eroju",
+    "1180": "ke",
+    "1181": "oka",
+    "1182": "bumper",
+    "1183": "pamper",
+    "1184": "plan",
+    "1185": "undhi!!",
+    "1186": "SULOCHANA",
+    "1187": "Pamper",
+    "1188": "plan",
+    "1189": "ah??",
+    "1190": "Ee",
+    "1191": "pamper",
+    "1192": "plan",
+    "1193": "lo",
+    "1194": "emi",
+    "1195": "emi",
+    "1196": "pamperinglu",
+    "1197": "unnaayi",
+    "1198": "VEDA",
+    "1199": "asalu",
+    "1200": "emi",
+    "1201": "jaruguthondho",
+    "1202": "nee",
+    "1203": "chedha",
+    "1204": "pattina",
+    "1205": "burraki",
+    "1206": "ardham",
+    "1207": "avuthundha?",
+    "1208": "GOVARDHAN",
+    "1209": "Ah",
+    "1210": "ammayini",
+    "1211": "ani",
+    "1212": "emi",
+    "1213": "labam.",
+    "1214": "Antha",
+    "1215": "nee",
+    "1216": "valle...",
+    "1217": "VEDA",
+    "1218": "Inkoka",
+    "1219": "maata",
+    "1220": "matlaadaavante",
+    "1221": "pudchestha",
+    "1222": "GOVARDHAN",
+    "1223": "Indhaka",
+    "1224": "aa",
+    "1225": "Anthony",
+    "1226": "gadu",
+    "1227": "adhe",
+    "1228": "ani",
+    "1229": "ippudu",
+    "1230": "nuvvu",
+    "1231": "adhe",
+    "1232": "ante",
+    "1233": "ela...Naaku",
+    "1234": "claustrophobia",
+    "1235": "undhi",
+    "1236": "telusa?",
+    "1237": "CUT",
+    "1238": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "VEDA",
+        "SULOCHANA",
+        "GOVARDHAN",
+        "VOICE (O.S.)"
+      ],
+      "SET": [
+        "INT. POLICE STATION - DAY"
+      ],
+      "PROPS": [
+        "phone"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        "phone buzzes"
+      ]
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1006"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1036"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1043"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1057"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1066"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1067"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1077"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1081"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1091"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1098"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1112"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1142"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1198"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1217"
+            ]
+          },
+          {
+            "value": "VEDA...",
+            "ids": [
+              "1137"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1023"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1040"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1054"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1062"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1072"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1089"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1109"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1121"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1186"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1144"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1208"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1222"
+            ]
+          },
+          {
+            "value": "GOVARDHAN,",
+            "ids": [
+              "1151"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VOICE (O.S.)",
+            "ids": [
+              "1172",
+              "1173"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "INT. POLICE STATION - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "phone",
+            "ids": [
+              "1102"
+            ]
+          },
+          {
+            "value": "phone",
+            "ids": [
+              "1166"
+            ]
+          },
+          {
+            "value": "phone,",
+            "ids": [
+              "1010"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        [
+          {
+            "value": "phone buzzes.",
+            "ids": [
+              "1166",
+              "1167"
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}

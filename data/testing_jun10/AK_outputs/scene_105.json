@@ -1,0 +1,880 @@
+{
+  "ALL_TEXT": "105 EXT. QUARRY - DAY \nSUBBA RAJU, ANTHONY and VEERAYYA get off from the jeep and \nstart walking, ANTHONY in the front, seemingly leading them \nsomewhere. \nSUBBA RAJU \nJaffa gaallu ninnu ela nammaaru raa \nANTHONY \nJaffa na duffidheelu..ee madhya \nyouth bheja lekunda pudthunnaaru \nSUBBA RAJU subtely reduces his pace and gets completely \nbehind ANTHONY. He points his gun at the back of ANTHONY's \nhead when a gunshot goes off - SUBBA RAJU and VEERAYYA are \nbeing shot at by VASU and RAJU. ANTHONY runs away, while \nSUBBA RAJU and VEERAYYA dodge fire. Both the parties hide \nbehind two opposite walls and look through some openings in \nthe wall. VEERAYYA's arm is grazed. \nSUBBA RAJU \nParvaledhu ga! \nVEERAYYA \nParledhu... geesukundhanthe. \nSUBBA RAJU \nVaalla deggara rendu guns... \nSUBBA RAJU looks at his gun and VEERAYYA's big useless gun. \nVEERAYYA looks helpless. \nSUBBA RAJU \n(opening the gun) \nFour bullets! \nSUBBA RAJU can hear them loading their guns. \nSUBBA RAJU \nKachithanga champesthaaru. \nVEERAYYA looks resigned. SUBBA RAJU calms himself, as VASU \nand RAJU come closer. He removes his shoes and starts \nclimbing the tiled roofs stealthily. He reaches behind VASU \nand RAJU, takes aim and kills VASU with a headshot. At this \nmoment, VEERAYYA charges RAJU and takes him down. SUBBA RAJU \nwalks up to him and finishes him off with a kill shot. SUBBA \nRAJU and VEERAYYA head over to the container nearby. \nVEERAYYA \nMari veella sangathi... \nSUBBA RAJU \nAlready police records prakaaram \nchanipoyaaru kada... \nThey reach the container - it is already open. SUBBA RAJU \nsuspiciously opens the container and checks a bundle of \nnotes; his expression changes. \nINT. PRINTING PRESS - NIGHT \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "105",
+    "1001": "EXT.",
+    "1002": "QUARRY",
+    "1003": "-",
+    "1004": "DAY",
+    "1005": "SUBBA",
+    "1006": "RAJU,",
+    "1007": "ANTHONY",
+    "1008": "and",
+    "1009": "VEERAYYA",
+    "1010": "get",
+    "1011": "off",
+    "1012": "from",
+    "1013": "the",
+    "1014": "jeep",
+    "1015": "and",
+    "1016": "start",
+    "1017": "walking,",
+    "1018": "ANTHONY",
+    "1019": "in",
+    "1020": "the",
+    "1021": "front,",
+    "1022": "seemingly",
+    "1023": "leading",
+    "1024": "them",
+    "1025": "somewhere.",
+    "1026": "SUBBA",
+    "1027": "RAJU",
+    "1028": "Jaffa",
+    "1029": "gaallu",
+    "1030": "ninnu",
+    "1031": "ela",
+    "1032": "nammaaru",
+    "1033": "raa",
+    "1034": "ANTHONY",
+    "1035": "Jaffa",
+    "1036": "na",
+    "1037": "duffidheelu..ee",
+    "1038": "madhya",
+    "1039": "youth",
+    "1040": "bheja",
+    "1041": "lekunda",
+    "1042": "pudthunnaaru",
+    "1043": "SUBBA",
+    "1044": "RAJU",
+    "1045": "subtely",
+    "1046": "reduces",
+    "1047": "his",
+    "1048": "pace",
+    "1049": "and",
+    "1050": "gets",
+    "1051": "completely",
+    "1052": "behind",
+    "1053": "ANTHONY.",
+    "1054": "He",
+    "1055": "points",
+    "1056": "his",
+    "1057": "gun",
+    "1058": "at",
+    "1059": "the",
+    "1060": "back",
+    "1061": "of",
+    "1062": "ANTHONY's",
+    "1063": "head",
+    "1064": "when",
+    "1065": "a",
+    "1066": "gunshot",
+    "1067": "goes",
+    "1068": "off",
+    "1069": "-",
+    "1070": "SUBBA",
+    "1071": "RAJU",
+    "1072": "and",
+    "1073": "VEERAYYA",
+    "1074": "are",
+    "1075": "being",
+    "1076": "shot",
+    "1077": "at",
+    "1078": "by",
+    "1079": "VASU",
+    "1080": "and",
+    "1081": "RAJU.",
+    "1082": "ANTHONY",
+    "1083": "runs",
+    "1084": "away,",
+    "1085": "while",
+    "1086": "SUBBA",
+    "1087": "RAJU",
+    "1088": "and",
+    "1089": "VEERAYYA",
+    "1090": "dodge",
+    "1091": "fire.",
+    "1092": "Both",
+    "1093": "the",
+    "1094": "parties",
+    "1095": "hide",
+    "1096": "behind",
+    "1097": "two",
+    "1098": "opposite",
+    "1099": "walls",
+    "1100": "and",
+    "1101": "look",
+    "1102": "through",
+    "1103": "some",
+    "1104": "openings",
+    "1105": "in",
+    "1106": "the",
+    "1107": "wall.",
+    "1108": "VEERAYYA's",
+    "1109": "arm",
+    "1110": "is",
+    "1111": "grazed.",
+    "1112": "SUBBA",
+    "1113": "RAJU",
+    "1114": "Parvaledhu",
+    "1115": "ga!",
+    "1116": "VEERAYYA",
+    "1117": "Parledhu...",
+    "1118": "geesukundhanthe.",
+    "1119": "SUBBA",
+    "1120": "RAJU",
+    "1121": "Vaalla",
+    "1122": "deggara",
+    "1123": "rendu",
+    "1124": "guns...",
+    "1125": "SUBBA",
+    "1126": "RAJU",
+    "1127": "looks",
+    "1128": "at",
+    "1129": "his",
+    "1130": "gun",
+    "1131": "and",
+    "1132": "VEERAYYA's",
+    "1133": "big",
+    "1134": "useless",
+    "1135": "gun.",
+    "1136": "VEERAYYA",
+    "1137": "looks",
+    "1138": "helpless.",
+    "1139": "SUBBA",
+    "1140": "RAJU",
+    "1141": "(opening",
+    "1142": "the",
+    "1143": "gun)",
+    "1144": "Four",
+    "1145": "bullets!",
+    "1146": "SUBBA",
+    "1147": "RAJU",
+    "1148": "can",
+    "1149": "hear",
+    "1150": "them",
+    "1151": "loading",
+    "1152": "their",
+    "1153": "guns.",
+    "1154": "SUBBA",
+    "1155": "RAJU",
+    "1156": "Kachithanga",
+    "1157": "champesthaaru.",
+    "1158": "VEERAYYA",
+    "1159": "looks",
+    "1160": "resigned.",
+    "1161": "SUBBA",
+    "1162": "RAJU",
+    "1163": "calms",
+    "1164": "himself,",
+    "1165": "as",
+    "1166": "VASU",
+    "1167": "and",
+    "1168": "RAJU",
+    "1169": "come",
+    "1170": "closer.",
+    "1171": "He",
+    "1172": "removes",
+    "1173": "his",
+    "1174": "shoes",
+    "1175": "and",
+    "1176": "starts",
+    "1177": "climbing",
+    "1178": "the",
+    "1179": "tiled",
+    "1180": "roofs",
+    "1181": "stealthily.",
+    "1182": "He",
+    "1183": "reaches",
+    "1184": "behind",
+    "1185": "VASU",
+    "1186": "and",
+    "1187": "RAJU,",
+    "1188": "takes",
+    "1189": "aim",
+    "1190": "and",
+    "1191": "kills",
+    "1192": "VASU",
+    "1193": "with",
+    "1194": "a",
+    "1195": "headshot.",
+    "1196": "At",
+    "1197": "this",
+    "1198": "moment,",
+    "1199": "VEERAYYA",
+    "1200": "charges",
+    "1201": "RAJU",
+    "1202": "and",
+    "1203": "takes",
+    "1204": "him",
+    "1205": "down.",
+    "1206": "SUBBA",
+    "1207": "RAJU",
+    "1208": "walks",
+    "1209": "up",
+    "1210": "to",
+    "1211": "him",
+    "1212": "and",
+    "1213": "finishes",
+    "1214": "him",
+    "1215": "off",
+    "1216": "with",
+    "1217": "a",
+    "1218": "kill",
+    "1219": "shot.",
+    "1220": "SUBBA",
+    "1221": "RAJU",
+    "1222": "and",
+    "1223": "VEERAYYA",
+    "1224": "head",
+    "1225": "over",
+    "1226": "to",
+    "1227": "the",
+    "1228": "container",
+    "1229": "nearby.",
+    "1230": "VEERAYYA",
+    "1231": "Mari",
+    "1232": "veella",
+    "1233": "sangathi...",
+    "1234": "SUBBA",
+    "1235": "RAJU",
+    "1236": "Already",
+    "1237": "police",
+    "1238": "records",
+    "1239": "prakaaram",
+    "1240": "chanipoyaaru",
+    "1241": "kada...",
+    "1242": "They",
+    "1243": "reach",
+    "1244": "the",
+    "1245": "container",
+    "1246": "-",
+    "1247": "it",
+    "1248": "is",
+    "1249": "already",
+    "1250": "open.",
+    "1251": "SUBBA",
+    "1252": "RAJU",
+    "1253": "suspiciously",
+    "1254": "opens",
+    "1255": "the",
+    "1256": "container",
+    "1257": "and",
+    "1258": "checks",
+    "1259": "a",
+    "1260": "bundle",
+    "1261": "of",
+    "1262": "notes;",
+    "1263": "his",
+    "1264": "expression",
+    "1265": "changes.",
+    "1266": "INT.",
+    "1267": "PRINTING",
+    "1268": "PRESS",
+    "1269": "-",
+    "1270": "NIGHT",
+    "1271": "CUT",
+    "1272": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "SUBBA RAJU",
+        "ANTHONY",
+        "VEERAYYA",
+        "VASU",
+        "RAJU"
+      ],
+      "SET": [
+        "EXT. QUARRY - DAY"
+      ],
+      "PROPS": [
+        "gun",
+        "shoes",
+        "container",
+        "bundle of notes"
+      ],
+      "STUNTS": [
+        "are being shot at",
+        "runs away",
+        "dodge fire",
+        "climbing the tiled roofs stealthily",
+        "kills VASU with a headshot",
+        "charges RAJU and takes him down",
+        "finishes him off with a kill shot"
+      ],
+      "VEHICLES": [
+        "jeep"
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        "QUARRY"
+      ],
+      "SOUND": [
+        "gunshot goes off",
+        "loading their guns"
+      ]
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1026",
+              "1027"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1043",
+              "1044"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1070",
+              "1071"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1086",
+              "1087"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1112",
+              "1113"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1119",
+              "1120"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1125",
+              "1126"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1139",
+              "1140"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1146",
+              "1147"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1154",
+              "1155"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1161",
+              "1162"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1206",
+              "1207"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1220",
+              "1221"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1234",
+              "1235"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1251",
+              "1252"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU,",
+            "ids": [
+              "1005",
+              "1006"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1007"
+            ]
+          },
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1018"
+            ]
+          },
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1034"
+            ]
+          },
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1082"
+            ]
+          },
+          {
+            "value": "ANTHONY.",
+            "ids": [
+              "1053"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VEERAYYA",
+            "ids": [
+              "1009"
+            ]
+          },
+          {
+            "value": "VEERAYYA",
+            "ids": [
+              "1073"
+            ]
+          },
+          {
+            "value": "VEERAYYA",
+            "ids": [
+              "1089"
+            ]
+          },
+          {
+            "value": "VEERAYYA",
+            "ids": [
+              "1116"
+            ]
+          },
+          {
+            "value": "VEERAYYA",
+            "ids": [
+              "1136"
+            ]
+          },
+          {
+            "value": "VEERAYYA",
+            "ids": [
+              "1158"
+            ]
+          },
+          {
+            "value": "VEERAYYA",
+            "ids": [
+              "1199"
+            ]
+          },
+          {
+            "value": "VEERAYYA",
+            "ids": [
+              "1223"
+            ]
+          },
+          {
+            "value": "VEERAYYA",
+            "ids": [
+              "1230"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VASU",
+            "ids": [
+              "1079"
+            ]
+          },
+          {
+            "value": "VASU",
+            "ids": [
+              "1166"
+            ]
+          },
+          {
+            "value": "VASU",
+            "ids": [
+              "1185"
+            ]
+          },
+          {
+            "value": "VASU",
+            "ids": [
+              "1192"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "RAJU",
+            "ids": [
+              "1027"
+            ]
+          },
+          {
+            "value": "RAJU",
+            "ids": [
+              "1044"
+            ]
+          },
+          {
+            "value": "RAJU",
+            "ids": [
+              "1071"
+            ]
+          },
+          {
+            "value": "RAJU",
+            "ids": [
+              "1087"
+            ]
+          },
+          {
+            "value": "RAJU",
+            "ids": [
+              "1113"
+            ]
+          },
+          {
+            "value": "RAJU",
+            "ids": [
+              "1120"
+            ]
+          },
+          {
+            "value": "RAJU",
+            "ids": [
+              "1126"
+            ]
+          },
+          {
+            "value": "RAJU",
+            "ids": [
+              "1140"
+            ]
+          },
+          {
+            "value": "RAJU",
+            "ids": [
+              "1147"
+            ]
+          },
+          {
+            "value": "RAJU",
+            "ids": [
+              "1155"
+            ]
+          },
+          {
+            "value": "RAJU",
+            "ids": [
+              "1162"
+            ]
+          },
+          {
+            "value": "RAJU",
+            "ids": [
+              "1168"
+            ]
+          },
+          {
+            "value": "RAJU",
+            "ids": [
+              "1201"
+            ]
+          },
+          {
+            "value": "RAJU",
+            "ids": [
+              "1207"
+            ]
+          },
+          {
+            "value": "RAJU",
+            "ids": [
+              "1221"
+            ]
+          },
+          {
+            "value": "RAJU",
+            "ids": [
+              "1235"
+            ]
+          },
+          {
+            "value": "RAJU",
+            "ids": [
+              "1252"
+            ]
+          },
+          {
+            "value": "RAJU,",
+            "ids": [
+              "1006"
+            ]
+          },
+          {
+            "value": "RAJU.",
+            "ids": [
+              "1081"
+            ]
+          },
+          {
+            "value": "RAJU,",
+            "ids": [
+              "1187"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. QUARRY - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "gun",
+            "ids": [
+              "1057"
+            ]
+          },
+          {
+            "value": "gun",
+            "ids": [
+              "1130"
+            ]
+          },
+          {
+            "value": "gun.",
+            "ids": [
+              "1135"
+            ]
+          },
+          {
+            "value": "gun)",
+            "ids": [
+              "1143"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "shoes",
+            "ids": [
+              "1174"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "container",
+            "ids": [
+              "1228"
+            ]
+          },
+          {
+            "value": "container",
+            "ids": [
+              "1245"
+            ]
+          },
+          {
+            "value": "container",
+            "ids": [
+              "1256"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "bundle of notes;",
+            "ids": [
+              "1260",
+              "1261",
+              "1262"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [
+        [
+          {
+            "value": "are being shot at",
+            "ids": [
+              "1074",
+              "1075",
+              "1076",
+              "1077"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "runs away,",
+            "ids": [
+              "1083",
+              "1084"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "dodge fire.",
+            "ids": [
+              "1090",
+              "1091"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "climbing the tiled roofs stealthily.",
+            "ids": [
+              "1177",
+              "1178",
+              "1179",
+              "1180",
+              "1181"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "kills VASU with a headshot.",
+            "ids": [
+              "1191",
+              "1192",
+              "1193",
+              "1194",
+              "1195"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "charges RAJU and takes him down.",
+            "ids": [
+              "1200",
+              "1201",
+              "1202",
+              "1203",
+              "1204",
+              "1205"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "finishes him off with a kill shot.",
+            "ids": [
+              "1213",
+              "1214",
+              "1215",
+              "1216",
+              "1217",
+              "1218",
+              "1219"
+            ]
+          }
+        ]
+      ],
+      "VEHICLES": [
+        [
+          {
+            "value": "jeep",
+            "ids": [
+              "1014"
+            ]
+          }
+        ]
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        [
+          {
+            "value": "QUARRY",
+            "ids": [
+              "1002"
+            ]
+          }
+        ]
+      ],
+      "SOUND": [
+        [
+          {
+            "value": "gunshot goes off",
+            "ids": [
+              "1066",
+              "1067",
+              "1068"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "loading their guns.",
+            "ids": [
+              "1151",
+              "1152",
+              "1153"
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}

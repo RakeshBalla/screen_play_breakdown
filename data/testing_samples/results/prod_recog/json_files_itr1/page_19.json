@@ -1,0 +1,551 @@
+{
+  "page_dict": {
+    "alltext": "18.\n31 INT. BABA'S ASHRAM-POOL AREA - DAY\nCHINTHAN BABA sits cross legged on a raised platform in the\nmiddle of an exorbitant pool. His devotees greet him with\nwarm applause. A mic is passed around in the audience to a\nmiddle aged man. Before the man can say anything, CHINTHAN\nBABA nonchalantly interrupts him\nCHINTHAN BABA\nEmanna adagaala\nMAN\nLedhu andi\nCHINTHAN BABA\nMalli aalochinchu\nMAN\nAvunu andi..oka question adagaali\nThe MAN is about to say something when CHINTHAN BABA\ninterrupts again\nCHINTHAN BABA\nNaaku oka lighter\nkanaapduthundhi...cigarette\nthaaguthaava?\nMAN\n(anxiously)\nLedhu\nCHINTHAN BABA\nThagevaadivaa?\nMAN\nLedhu Baba\nCHINTHAN BABA\nLighter kanapaduthundhi...cigarette\nveliginche lighter...\nThe MAN is perplexed\nCHINTHAN BABA\nNee snehithula cigarette\nveligisthaava?\nMAN\nLedhu Baba\nCHINTHAN BABA\nAbbadham aadaku raa dooffer",
+    "words_ids": {
+      "9201": "18.",
+      "7216": "31",
+      "9302": "INT.",
+      "8295": "BABA'S",
+      "4678": "ASHRAM-POOL",
+      "4516": "AREA",
+      "6013": "-",
+      "8943": "DAY",
+      "1865": "CHINTHAN",
+      "4614": "BABA",
+      "8292": "sits",
+      "6477": "cross",
+      "6657": "legged",
+      "7942": "on",
+      "6304": "a",
+      "6169": "raised",
+      "8034": "platform",
+      "2981": "in",
+      "1116": "the",
+      "8896": "middle",
+      "4608": "of",
+      "7781": "an",
+      "3663": "exorbitant",
+      "3006": "pool.",
+      "7088": "His",
+      "5517": "devotees",
+      "2418": "greet",
+      "9477": "him",
+      "2618": "with",
+      "4428": "warm",
+      "9949": "applause.",
+      "5485": "A",
+      "3655": "mic",
+      "6410": "is",
+      "5052": "passed",
+      "8775": "around",
+      "6667": "in",
+      "1985": "the",
+      "7931": "audience",
+      "4002": "to",
+      "6351": "a",
+      "3478": "middle",
+      "3547": "aged",
+      "8252": "man.",
+      "7118": "Before",
+      "4093": "the",
+      "4086": "man",
+      "5779": "can",
+      "2967": "say",
+      "2719": "anything,",
+      "4621": "CHINTHAN",
+      "5312": "Ledhu",
+      "9534": "nonchalantly",
+      "1542": "interrupts",
+      "7950": "him",
+      "3330": "CHINTHAN",
+      "8051": "BABA",
+      "9766": "Emanna",
+      "5687": "adagaala",
+      "2247": "MAN",
+      "3257": "andi",
+      "6723": "CHINTHAN",
+      "1573": "BABA",
+      "9152": "Malli",
+      "6333": "aalochinchu",
+      "9716": "MAN",
+      "8970": "Avunu",
+      "2514": "andi..oka",
+      "5842": "question",
+      "5992": "adagaali",
+      "2919": "The",
+      "2569": "MAN",
+      "6414": "is",
+      "7367": "about",
+      "6937": "to",
+      "3842": "say",
+      "5473": "something",
+      "1550": "when",
+      "3641": "CHINTHAN",
+      "5703": "BABA",
+      "8689": "interrupts",
+      "8789": "again",
+      "3516": "CHINTHAN",
+      "9370": "BABA",
+      "7542": "Naaku",
+      "4225": "oka",
+      "4889": "lighter",
+      "6600": "kanaapduthundhi...cigarette",
+      "2773": "thaaguthaava?",
+      "5948": "MAN",
+      "1648": "(anxiously)",
+      "1175": "Ledhu",
+      "6779": "CHINTHAN",
+      "3926": "BABA",
+      "4688": "Thagevaadivaa?",
+      "1015": "MAN",
+      "3185": "Ledhu",
+      "5425": "Baba",
+      "2793": "CHINTHAN",
+      "1206": "BABA",
+      "7364": "Lighter",
+      "5113": "kanapaduthundhi...cigarette",
+      "3444": "veliginche",
+      "5451": "lighter...",
+      "6776": "The",
+      "2101": "MAN",
+      "6373": "is",
+      "4042": "perplexed",
+      "3920": "CHINTHAN",
+      "4804": "BABA",
+      "9412": "Nee",
+      "9061": "snehithula",
+      "2499": "cigarette",
+      "1398": "veligisthaava?",
+      "5339": "MAN",
+      "6782": "Ledhu",
+      "9391": "Baba",
+      "1106": "CHINTHAN",
+      "3949": "BABA",
+      "1790": "Abbadham",
+      "2409": "aadaku",
+      "8824": "raa",
+      "9353": "dooffer"
+    }
+  },
+  "sample_no": "sample1",
+  "pdf_file_name": "page_19.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "CHINTHAN BABA",
+        "MAN"
+      ],
+      "CAST_INFO": [
+        "CHINTHAN BABA sits cross legged",
+        "middle aged man"
+      ],
+      "EXTRAS": [
+        "devotees"
+      ],
+      "PROPS": [
+        "mic",
+        "lighter",
+        "cigarette"
+      ],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [
+        "INT. BABA'S ASHRAM-POOL AREA - DAY"
+      ],
+      "CAMERA": [],
+      "SOUND": [
+        "warm applause",
+        "Emanna adagaala",
+        "Ledhu andi",
+        "Malli aalochinchu",
+        "Avunu andi..oka question adagaali",
+        "Naaku oka lighter kanaapduthundhi...cigarette thaaguthaava?",
+        "Ledhu",
+        "Thagevaadivaa?",
+        "Ledhu Baba",
+        "Lighter kanapaduthundhi...cigarette veliginche lighter...",
+        "Nee snehithula cigarette veligisthaava?",
+        "Ledhu Baba",
+        "Abbadham aadaku raa dooffer"
+      ],
+      "LIGHTS": [],
+      "ELECTRICS": [
+        "mic"
+      ],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [
+        "raised platform",
+        "pool"
+      ],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [
+        "raised platform",
+        "pool"
+      ],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "CHINTHAN BABA",
+          "ids": [
+            1865,
+            4614,
+            4621,
+            3330,
+            8051,
+            6723,
+            1573,
+            3641,
+            5703,
+            3516,
+            9370,
+            6779,
+            3926,
+            5425,
+            2793,
+            1206,
+            3920,
+            4804,
+            9391,
+            1106,
+            3949
+          ]
+        },
+        {
+          "value": "MAN",
+          "ids": [
+            1015,
+            2101
+          ]
+        },
+        {
+          "value": "MAN",
+          "ids": [
+            2247,
+            2569
+          ]
+        },
+        {
+          "value": "MAN",
+          "ids": [
+            4086,
+            5339
+          ]
+        },
+        {
+          "value": "MAN",
+          "ids": [
+            5948,
+            9716
+          ]
+        }
+      ],
+      "CAST_INFO": [
+        {
+          "value": "CHINTHAN BABA sits cross legged",
+          "ids": [
+            1865,
+            4614,
+            8292,
+            6477,
+            6657,
+            4621,
+            3330,
+            8051,
+            6723,
+            1573,
+            3641,
+            5703,
+            3516,
+            9370,
+            6779,
+            3926,
+            5425,
+            2793,
+            1206,
+            3920,
+            4804,
+            9391,
+            1106,
+            3949
+          ]
+        },
+        {
+          "value": "middle aged man",
+          "ids": [
+            8896,
+            3478,
+            3547,
+            4086,
+            2247,
+            9716,
+            2569,
+            5948,
+            1015,
+            2101,
+            5339
+          ]
+        }
+      ],
+      "EXTRAS": [
+        {
+          "value": "devotees",
+          "ids": [
+            5517
+          ]
+        }
+      ],
+      "PROPS": [
+        {
+          "value": "mic",
+          "ids": [
+            3655
+          ]
+        },
+        {
+          "value": "lighter",
+          "ids": [
+            4889,
+            7364
+          ]
+        },
+        {
+          "value": "cigarette",
+          "ids": [
+            2499
+          ]
+        }
+      ],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [
+        {
+          "value": "INT. BABA'S ASHRAM-POOL AREA - DAY",
+          "ids": [
+            4516,
+            8943,
+            4614,
+            8051,
+            1573,
+            5703,
+            9370,
+            3926,
+            5425,
+            1206,
+            4804,
+            9391,
+            3949
+          ]
+        }
+      ],
+      "CAMERA": [],
+      "SOUND": [
+        {
+          "value": "warm applause",
+          "ids": [
+            4428
+          ]
+        },
+        {
+          "value": "Emanna adagaala",
+          "ids": [
+            9766,
+            5687
+          ]
+        },
+        {
+          "value": "Ledhu andi",
+          "ids": [
+            5312,
+            3257,
+            1175,
+            3185,
+            6782
+          ]
+        },
+        {
+          "value": "Malli aalochinchu",
+          "ids": [
+            9152,
+            6333
+          ]
+        },
+        {
+          "value": "Avunu andi..oka question adagaali",
+          "ids": [
+            3257,
+            8970,
+            5842,
+            5992,
+            4225
+          ]
+        },
+        {
+          "value": "Naaku oka lighter kanaapduthundhi...cigarette thaaguthaava?",
+          "ids": [
+            7542,
+            4225,
+            4889,
+            7364,
+            2499
+          ]
+        },
+        {
+          "value": "Ledhu",
+          "ids": [
+            1175,
+            3185
+          ]
+        },
+        {
+          "value": "Ledhu",
+          "ids": [
+            5312,
+            6782
+          ]
+        },
+        {
+          "value": "Thagevaadivaa?",
+          "ids": [
+            4688
+          ]
+        },
+        {
+          "value": "Ledhu Baba",
+          "ids": [
+            4614,
+            5312,
+            8051,
+            1573,
+            5703,
+            9370,
+            1175,
+            3926,
+            3185,
+            5425,
+            1206,
+            4804,
+            6782,
+            9391,
+            3949
+          ]
+        },
+        {
+          "value": "Lighter kanapaduthundhi...cigarette veliginche lighter...",
+          "ids": [
+            4889,
+            7364,
+            3444,
+            2499
+          ]
+        },
+        {
+          "value": "Nee snehithula cigarette veligisthaava?",
+          "ids": [
+            9412,
+            9061,
+            2499
+          ]
+        },
+        {
+          "value": "Ledhu Baba",
+          "ids": [
+            4614,
+            5312,
+            8051,
+            1573,
+            5703,
+            9370,
+            1175,
+            3926,
+            3185,
+            5425,
+            1206,
+            4804,
+            6782,
+            9391,
+            3949
+          ]
+        },
+        {
+          "value": "Abbadham aadaku raa dooffer",
+          "ids": [
+            1790,
+            2409,
+            8824,
+            9353
+          ]
+        }
+      ],
+      "LIGHTS": [],
+      "ELECTRICS": [
+        {
+          "value": "mic",
+          "ids": [
+            3655
+          ]
+        }
+      ],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [
+        {
+          "value": "raised platform",
+          "ids": [
+            6169,
+            8034
+          ]
+        },
+        {
+          "value": "pool",
+          "ids": []
+        }
+      ],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [
+        {
+          "value": "raised platform",
+          "ids": [
+            6169,
+            8034
+          ]
+        },
+        {
+          "value": "pool",
+          "ids": []
+        }
+      ],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  }
+}

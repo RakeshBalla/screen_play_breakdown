@@ -1,0 +1,157 @@
+{
+  "page_dict": {
+    "alltext": "33.\nSHAM GOPAL VERMA\nEnti raa ee torture, entha weed\nkotti dorikesta ila kattestaavaa\nSUBBA RAJU\nSir, sir, aipoindi sir, inko oka\nrendu rasaalu\nSHAM GOPAL VERMA(V.O)\n(Frustrated)\nMari adhe aydho cheyyi raa, malli\ncheptaaventi raa geddam maasina\ngamma...\nWhile performing, SUBBA RAJU sees the COMMISSIONER, turns and\nstarts to runs away. He looks at SHAM GOPAL VERMA\nSUBBA RAJU\nMalli sayantram kalustaanu sir\nSHAM GOPAL VERMA\nRei, idem torture raa! Katlu ippi\nellu raa..\nCUT TO:",
+    "words_ids": {
+      "6033": "33.",
+      "6666": "SHAM",
+      "3703": "GOPAL",
+      "3499": "VERMA",
+      "4793": "Enti",
+      "9653": "raa",
+      "6732": "ee",
+      "1271": "torture,",
+      "9262": "entha",
+      "4305": "weed",
+      "5313": "kotti",
+      "3653": "dorikesta",
+      "6411": "ila",
+      "1340": "kattestaavaa",
+      "4981": "SUBBA",
+      "8020": "RAJU",
+      "6611": "Sir,",
+      "6463": "sir,",
+      "1923": "aipoindi",
+      "7507": "sir,",
+      "7856": "inko",
+      "2535": "oka",
+      "9713": "rendu",
+      "6870": "rasaalu",
+      "1800": "SHAM",
+      "7260": "GOPAL",
+      "9850": "VERMA(V.O)",
+      "1511": "(Frustrated)",
+      "7392": "Mari",
+      "9309": "adhe",
+      "4627": "aydho",
+      "2938": "cheyyi",
+      "7814": "raa,",
+      "9174": "malli",
+      "5461": "cheptaaventi",
+      "3882": "raa",
+      "4621": "geddam",
+      "5130": "maasina",
+      "7755": "gamma...",
+      "6078": "While",
+      "7630": "performing,",
+      "7100": "SUBBA",
+      "2848": "RAJU",
+      "4940": "sees",
+      "2310": "the",
+      "1103": "COMMISSIONER,",
+      "2716": "turns",
+      "8675": "and",
+      "3468": "starts",
+      "4313": "to",
+      "7881": "runs",
+      "1957": "away.",
+      "2227": "He",
+      "6845": "looks",
+      "1748": "at",
+      "6270": "SHAM",
+      "5362": "GOPAL",
+      "4238": "VERMA",
+      "9444": "SUBBA",
+      "2358": "RAJU",
+      "5086": "Malli",
+      "8812": "sayantram",
+      "3619": "kalustaanu",
+      "5811": "sir",
+      "2651": "SHAM",
+      "8472": "GOPAL",
+      "9134": "VERMA",
+      "9505": "Rei,",
+      "8118": "idem",
+      "8363": "torture",
+      "9691": "raa!",
+      "8075": "Katlu",
+      "6472": "ippi",
+      "6322": "ellu",
+      "8948": "raa..",
+      "6098": "CUT",
+      "1932": "TO:"
+    }
+  },
+  "sample_no": "sample3",
+  "pdf_file_name": "page_34.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "SHAM GOPAL VERMA",
+        "SUBBA RAJU",
+        "COMMISSIONER"
+      ],
+      "SET": [],
+      "PROPS": [
+        "Katlu"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "SHAM GOPAL VERMA",
+          "ids": [
+            6666,
+            3703,
+            3499,
+            1800,
+            7260,
+            6270,
+            5362,
+            4238,
+            2651,
+            8472,
+            9134
+          ]
+        },
+        {
+          "value": "SUBBA RAJU",
+          "ids": [
+            4981,
+            8020,
+            7100,
+            2848,
+            9444,
+            2358
+          ]
+        },
+        {
+          "value": "COMMISSIONER",
+          "ids": []
+        }
+      ],
+      "SET": [],
+      "PROPS": [
+        {
+          "value": "Katlu",
+          "ids": [
+            8075
+          ]
+        }
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

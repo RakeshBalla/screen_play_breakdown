@@ -1,0 +1,731 @@
+{
+  "ALL_TEXT": "94 EXT. UNDER-CONSTRUCTION BUILDING - DAY \nVEDA comes with a water bottle, as GOVARDHAN and SULOCHANA \nwait for him, sitting. \nSULOCHANA \nThank you \nShe drinks it and passes it onto GOVARDHAN. \nGOVARDHAN \nnenu yengili thaaganu. \nSULOCHANA \nAe neetilo shaktulu unna thaagava? \nGOVARDHAN \nShaktulu unna jabbulu dominate \nchesthaayi \nGOVARDHAN passes it to VEDA and cleans his hands with hand \nsanitizer. VEDA drinks the water. \nVEDA \nAsalu baba murder enti,rowdylenti, \nbreafcase enti? baba daggara \nkottesaavannaadu ante baba murderki \nveellaki sambandham undha. \nVEDA speaks to GOVARDHAN \nVEDA \nNee daggara choosaanannaadu \nkadhaa.. aashramam lo nuvvekkadaina \nchoosaava kopamgaa... \nGOVARDHAN \nEnti malli naatakamaa...naa daggara \ncarriage tappa aemundadhu. \nbedroomlo dhaachi pettaav kadha... \nVEDA \nNuvvu intha dash gaadivi kabhattey \nnee pellam ninnu vadilesindhi.. \nGOVARDHAN \nNaa personal vishyam ni touch \ncheyodhu. \nSULOCHANA \nVEDA asalu okkarojulo inni problems \naa.. \nSULOCHANA starts crying. VEDA goes and sits next to her. \nVEDA \nSULOCHANA ! please control your \nself...anni problems solve \navuthaai.... \nSULOCHANA \nEla solve avuthaai VEDA, nenenti, \nmurder casenti...ee rowdylu \npaaripodaalu... \nGOVARDHAN tries to console her \nGOVARDHAN \nannitiki aa devudunnaadu ila \nammaayi la yedusthe ela. \nVEDA looks up at GOVARDHAN with a stare \nGOVARDHAN \nAnte...baadhalekuvaithe andharam \nyedusthaamanko \nVEDA puts a comforting hand around SULOCHANA's shoulder. \nSULOCHANA's reacts (subtle). \nVEDA \nSULOCHANA! manamippudoka puzzle lo \nirukkuni thiruguthunnam bayatikelle \ndaari theliyaka povachchu. Kaani \nprathi puzzle ki solution \nkachchithanga untundi...believe \nme... \nSULOCHANA wipes her tears and stops crying \nSULOCHANA \nlongipodaama...VEDA... \nGOVARDHAN \nAvunu....longipodaam ade betteru... \nVEDA \nLedu longipothey mannalni \nkachithamuga indhulo \nirrikistaaru... \nGOVARDHAN \nAymaina sare,longipodaam...ledante \nee rowdylu manalni champesthaaru. \nVEDA \nlongipothe policelu vadulthaarani \nanukuntunnaavaa.. \nGOVARDHAN \nAydemaina nenu maathram \nlongipothaanu..ila alavatuleni anni \nchotulaki \nthirganu...navvalakaadhu... \nVEDA \nYou know GOVARDHAN, ee roju chaala \nvintha ga undi asalu naaku theleeni \nmanushulatho godava padi, mukku \nmoham theleeni ninnu andulo \nirikichi, malli nuvvu naa tho \nirukkupoyi, manatho SULOCHANA \nirukku poyi... aa tharavatha aa \nBaba deggara nuvvu... you know... \nakkada manalni pattukundaam ani \nvaallu chusi... akkadanundi \nthappichukuni ikkada ila ee \ngallillo thirugutha... \nGOVARDHAN nods his head thoughtfully. \nVEDA \nEm jarigina entha jarigina \nthattukune shakthi undi devudi daya \nvalla... kaani nee nasa bharincha \nleka pothunna... etlago cheekati \npada bothundi ninnu ae baavilono \nthosesthe peeda pothademo ani \nanipisthundi \nHe continues walking calmly, letting GOVARDHAN sink in the \nthreat. \nGOVARDHAN \n(mutters to himself) \nAndaru naa meeda heroism chupinche \nvaalle. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "94",
+    "1001": "EXT.",
+    "1002": "UNDER-CONSTRUCTION",
+    "1003": "BUILDING",
+    "1004": "-",
+    "1005": "DAY",
+    "1006": "VEDA",
+    "1007": "comes",
+    "1008": "with",
+    "1009": "a",
+    "1010": "water",
+    "1011": "bottle,",
+    "1012": "as",
+    "1013": "GOVARDHAN",
+    "1014": "and",
+    "1015": "SULOCHANA",
+    "1016": "wait",
+    "1017": "for",
+    "1018": "him,",
+    "1019": "sitting.",
+    "1020": "SULOCHANA",
+    "1021": "Thank",
+    "1022": "you",
+    "1023": "She",
+    "1024": "drinks",
+    "1025": "it",
+    "1026": "and",
+    "1027": "passes",
+    "1028": "it",
+    "1029": "onto",
+    "1030": "GOVARDHAN.",
+    "1031": "GOVARDHAN",
+    "1032": "nenu",
+    "1033": "yengili",
+    "1034": "thaaganu.",
+    "1035": "SULOCHANA",
+    "1036": "Ae",
+    "1037": "neetilo",
+    "1038": "shaktulu",
+    "1039": "unna",
+    "1040": "thaagava?",
+    "1041": "GOVARDHAN",
+    "1042": "Shaktulu",
+    "1043": "unna",
+    "1044": "jabbulu",
+    "1045": "dominate",
+    "1046": "chesthaayi",
+    "1047": "GOVARDHAN",
+    "1048": "passes",
+    "1049": "it",
+    "1050": "to",
+    "1051": "VEDA",
+    "1052": "and",
+    "1053": "cleans",
+    "1054": "his",
+    "1055": "hands",
+    "1056": "with",
+    "1057": "hand",
+    "1058": "sanitizer.",
+    "1059": "VEDA",
+    "1060": "drinks",
+    "1061": "the",
+    "1062": "water.",
+    "1063": "VEDA",
+    "1064": "Asalu",
+    "1065": "baba",
+    "1066": "murder",
+    "1067": "enti,rowdylenti,",
+    "1068": "breafcase",
+    "1069": "enti?",
+    "1070": "baba",
+    "1071": "daggara",
+    "1072": "kottesaavannaadu",
+    "1073": "ante",
+    "1074": "baba",
+    "1075": "murderki",
+    "1076": "veellaki",
+    "1077": "sambandham",
+    "1078": "undha.",
+    "1079": "VEDA",
+    "1080": "speaks",
+    "1081": "to",
+    "1082": "GOVARDHAN",
+    "1083": "VEDA",
+    "1084": "Nee",
+    "1085": "daggara",
+    "1086": "choosaanannaadu",
+    "1087": "kadhaa..",
+    "1088": "aashramam",
+    "1089": "lo",
+    "1090": "nuvvekkadaina",
+    "1091": "choosaava",
+    "1092": "kopamgaa...",
+    "1093": "GOVARDHAN",
+    "1094": "Enti",
+    "1095": "malli",
+    "1096": "naatakamaa...naa",
+    "1097": "daggara",
+    "1098": "carriage",
+    "1099": "tappa",
+    "1100": "aemundadhu.",
+    "1101": "bedroomlo",
+    "1102": "dhaachi",
+    "1103": "pettaav",
+    "1104": "kadha...",
+    "1105": "VEDA",
+    "1106": "Nuvvu",
+    "1107": "intha",
+    "1108": "dash",
+    "1109": "gaadivi",
+    "1110": "kabhattey",
+    "1111": "nee",
+    "1112": "pellam",
+    "1113": "ninnu",
+    "1114": "vadilesindhi..",
+    "1115": "GOVARDHAN",
+    "1116": "Naa",
+    "1117": "personal",
+    "1118": "vishyam",
+    "1119": "ni",
+    "1120": "touch",
+    "1121": "cheyodhu.",
+    "1122": "SULOCHANA",
+    "1123": "VEDA",
+    "1124": "asalu",
+    "1125": "okkarojulo",
+    "1126": "inni",
+    "1127": "problems",
+    "1128": "aa..",
+    "1129": "SULOCHANA",
+    "1130": "starts",
+    "1131": "crying.",
+    "1132": "VEDA",
+    "1133": "goes",
+    "1134": "and",
+    "1135": "sits",
+    "1136": "next",
+    "1137": "to",
+    "1138": "her.",
+    "1139": "VEDA",
+    "1140": "SULOCHANA",
+    "1141": "!",
+    "1142": "please",
+    "1143": "control",
+    "1144": "your",
+    "1145": "self...anni",
+    "1146": "problems",
+    "1147": "solve",
+    "1148": "avuthaai....",
+    "1149": "SULOCHANA",
+    "1150": "Ela",
+    "1151": "solve",
+    "1152": "avuthaai",
+    "1153": "VEDA,",
+    "1154": "nenenti,",
+    "1155": "murder",
+    "1156": "casenti...ee",
+    "1157": "rowdylu",
+    "1158": "paaripodaalu...",
+    "1159": "GOVARDHAN",
+    "1160": "tries",
+    "1161": "to",
+    "1162": "console",
+    "1163": "her",
+    "1164": "GOVARDHAN",
+    "1165": "annitiki",
+    "1166": "aa",
+    "1167": "devudunnaadu",
+    "1168": "ila",
+    "1169": "ammaayi",
+    "1170": "la",
+    "1171": "yedusthe",
+    "1172": "ela.",
+    "1173": "VEDA",
+    "1174": "looks",
+    "1175": "up",
+    "1176": "at",
+    "1177": "GOVARDHAN",
+    "1178": "with",
+    "1179": "a",
+    "1180": "stare",
+    "1181": "GOVARDHAN",
+    "1182": "Ante...baadhalekuvaithe",
+    "1183": "andharam",
+    "1184": "yedusthaamanko",
+    "1185": "VEDA",
+    "1186": "puts",
+    "1187": "a",
+    "1188": "comforting",
+    "1189": "hand",
+    "1190": "around",
+    "1191": "SULOCHANA's",
+    "1192": "shoulder.",
+    "1193": "SULOCHANA's",
+    "1194": "reacts",
+    "1195": "(subtle).",
+    "1196": "VEDA",
+    "1197": "SULOCHANA!",
+    "1198": "manamippudoka",
+    "1199": "puzzle",
+    "1200": "lo",
+    "1201": "irukkuni",
+    "1202": "thiruguthunnam",
+    "1203": "bayatikelle",
+    "1204": "daari",
+    "1205": "theliyaka",
+    "1206": "povachchu.",
+    "1207": "Kaani",
+    "1208": "prathi",
+    "1209": "puzzle",
+    "1210": "ki",
+    "1211": "solution",
+    "1212": "kachchithanga",
+    "1213": "untundi...believe",
+    "1214": "me...",
+    "1215": "SULOCHANA",
+    "1216": "wipes",
+    "1217": "her",
+    "1218": "tears",
+    "1219": "and",
+    "1220": "stops",
+    "1221": "crying",
+    "1222": "SULOCHANA",
+    "1223": "longipodaama...VEDA...",
+    "1224": "GOVARDHAN",
+    "1225": "Avunu....longipodaam",
+    "1226": "ade",
+    "1227": "betteru...",
+    "1228": "VEDA",
+    "1229": "Ledu",
+    "1230": "longipothey",
+    "1231": "mannalni",
+    "1232": "kachithamuga",
+    "1233": "indhulo",
+    "1234": "irrikistaaru...",
+    "1235": "GOVARDHAN",
+    "1236": "Aymaina",
+    "1237": "sare,longipodaam...ledante",
+    "1238": "ee",
+    "1239": "rowdylu",
+    "1240": "manalni",
+    "1241": "champesthaaru.",
+    "1242": "VEDA",
+    "1243": "longipothe",
+    "1244": "policelu",
+    "1245": "vadulthaarani",
+    "1246": "anukuntunnaavaa..",
+    "1247": "GOVARDHAN",
+    "1248": "Aydemaina",
+    "1249": "nenu",
+    "1250": "maathram",
+    "1251": "longipothaanu..ila",
+    "1252": "alavatuleni",
+    "1253": "anni",
+    "1254": "chotulaki",
+    "1255": "thirganu...navvalakaadhu...",
+    "1256": "VEDA",
+    "1257": "You",
+    "1258": "know",
+    "1259": "GOVARDHAN,",
+    "1260": "ee",
+    "1261": "roju",
+    "1262": "chaala",
+    "1263": "vintha",
+    "1264": "ga",
+    "1265": "undi",
+    "1266": "asalu",
+    "1267": "naaku",
+    "1268": "theleeni",
+    "1269": "manushulatho",
+    "1270": "godava",
+    "1271": "padi,",
+    "1272": "mukku",
+    "1273": "moham",
+    "1274": "theleeni",
+    "1275": "ninnu",
+    "1276": "andulo",
+    "1277": "irikichi,",
+    "1278": "malli",
+    "1279": "nuvvu",
+    "1280": "naa",
+    "1281": "tho",
+    "1282": "irukkupoyi,",
+    "1283": "manatho",
+    "1284": "SULOCHANA",
+    "1285": "irukku",
+    "1286": "poyi...",
+    "1287": "aa",
+    "1288": "tharavatha",
+    "1289": "aa",
+    "1290": "Baba",
+    "1291": "deggara",
+    "1292": "nuvvu...",
+    "1293": "you",
+    "1294": "know...",
+    "1295": "akkada",
+    "1296": "manalni",
+    "1297": "pattukundaam",
+    "1298": "ani",
+    "1299": "vaallu",
+    "1300": "chusi...",
+    "1301": "akkadanundi",
+    "1302": "thappichukuni",
+    "1303": "ikkada",
+    "1304": "ila",
+    "1305": "ee",
+    "1306": "gallillo",
+    "1307": "thirugutha...",
+    "1308": "GOVARDHAN",
+    "1309": "nods",
+    "1310": "his",
+    "1311": "head",
+    "1312": "thoughtfully.",
+    "1313": "VEDA",
+    "1314": "Em",
+    "1315": "jarigina",
+    "1316": "entha",
+    "1317": "jarigina",
+    "1318": "thattukune",
+    "1319": "shakthi",
+    "1320": "undi",
+    "1321": "devudi",
+    "1322": "daya",
+    "1323": "valla...",
+    "1324": "kaani",
+    "1325": "nee",
+    "1326": "nasa",
+    "1327": "bharincha",
+    "1328": "leka",
+    "1329": "pothunna...",
+    "1330": "etlago",
+    "1331": "cheekati",
+    "1332": "pada",
+    "1333": "bothundi",
+    "1334": "ninnu",
+    "1335": "ae",
+    "1336": "baavilono",
+    "1337": "thosesthe",
+    "1338": "peeda",
+    "1339": "pothademo",
+    "1340": "ani",
+    "1341": "anipisthundi",
+    "1342": "He",
+    "1343": "continues",
+    "1344": "walking",
+    "1345": "calmly,",
+    "1346": "letting",
+    "1347": "GOVARDHAN",
+    "1348": "sink",
+    "1349": "in",
+    "1350": "the",
+    "1351": "threat.",
+    "1352": "GOVARDHAN",
+    "1353": "(mutters",
+    "1354": "to",
+    "1355": "himself)",
+    "1356": "Andaru",
+    "1357": "naa",
+    "1358": "meeda",
+    "1359": "heroism",
+    "1360": "chupinche",
+    "1361": "vaalle.",
+    "1362": "CUT",
+    "1363": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "VEDA",
+        "GOVARDHAN",
+        "SULOCHANA"
+      ],
+      "SET": [
+        "EXT. UNDER-CONSTRUCTION BUILDING - DAY"
+      ],
+      "PROPS": [
+        "water bottle",
+        "hand sanitizer"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1006"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1051"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1059"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1063"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1079"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1083"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1105"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1123"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1132"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1139"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1173"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1185"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1196"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1228"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1242"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1256"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1313"
+            ]
+          },
+          {
+            "value": "VEDA,",
+            "ids": [
+              "1153"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1013"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1031"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1041"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1047"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1082"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1093"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1115"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1159"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1164"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1177"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1181"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1224"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1235"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1247"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1308"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1347"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1352"
+            ]
+          },
+          {
+            "value": "GOVARDHAN.",
+            "ids": [
+              "1030"
+            ]
+          },
+          {
+            "value": "GOVARDHAN,",
+            "ids": [
+              "1259"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1015"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1020"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1035"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1122"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1129"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1140"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1149"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1215"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1222"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1284"
+            ]
+          },
+          {
+            "value": "SULOCHANA!",
+            "ids": [
+              "1197"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. UNDER-CONSTRUCTION BUILDING - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "water bottle,",
+            "ids": [
+              "1010",
+              "1011"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "hand sanitizer.",
+            "ids": [
+              "1057",
+              "1058"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

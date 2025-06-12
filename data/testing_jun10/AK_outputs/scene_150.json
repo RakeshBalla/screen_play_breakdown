@@ -1,0 +1,130 @@
+{
+  "ALL_TEXT": "150 EXT. MODI'S PODIUM - DAY \nThe BUM, all cleaned up, is now in security gear, a gun in \nhand, wandering the space. He picks up the carton of bottled \nwater from MODI\u2019s personal effects, and continues wandering. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "150",
+    "1001": "EXT.",
+    "1002": "MODI'S",
+    "1003": "PODIUM",
+    "1004": "-",
+    "1005": "DAY",
+    "1006": "The",
+    "1007": "BUM,",
+    "1008": "all",
+    "1009": "cleaned",
+    "1010": "up,",
+    "1011": "is",
+    "1012": "now",
+    "1013": "in",
+    "1014": "security",
+    "1015": "gear,",
+    "1016": "a",
+    "1017": "gun",
+    "1018": "in",
+    "1019": "hand,",
+    "1020": "wandering",
+    "1021": "the",
+    "1022": "space.",
+    "1023": "He",
+    "1024": "picks",
+    "1025": "up",
+    "1026": "the",
+    "1027": "carton",
+    "1028": "of",
+    "1029": "bottled",
+    "1030": "water",
+    "1031": "from",
+    "1032": "MODI\u2019s",
+    "1033": "personal",
+    "1034": "effects,",
+    "1035": "and",
+    "1036": "continues",
+    "1037": "wandering.",
+    "1038": "CUT",
+    "1039": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "BUM"
+      ],
+      "SET": [
+        "EXT. MODI'S PODIUM - DAY"
+      ],
+      "PROPS": [
+        "security gear",
+        "gun",
+        "carton of bottled water"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "BUM,",
+            "ids": [
+              "1007"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. MODI'S PODIUM - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "security gear,",
+            "ids": [
+              "1014",
+              "1015"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "gun",
+            "ids": [
+              "1017"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "carton of bottled water",
+            "ids": [
+              "1027",
+              "1028",
+              "1029",
+              "1030"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

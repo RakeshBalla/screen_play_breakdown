@@ -1,0 +1,44 @@
+Reference: ref_4 (college) -> LLM: llm_5 (college), Similarity: 1.0000
+Reference: ref_16 (friend) -> LLM: llm_53 (friend), Similarity: 1.0000
+Reference: ref_30 (devastating) -> LLM: llm_58 (devastating), Similarity: 1.0000
+Reference: ref_35 (pregnancy) -> LLM: llm_30 (pregnancy), Similarity: 1.0000
+Reference: ref_3 (intermediate) -> LLM: llm_4 (intermediate), Similarity: 1.0000
+Reference: ref_11 (tragic) -> LLM: llm_46 (tragic), Similarity: 1.0000
+Reference: ref_47 (adolescence) -> LLM: llm_29 (teenage), Similarity: 0.9697
+Reference: ref_26 (teenagers) -> LLM: llm_16 (young), Similarity: 0.8899
+Reference: ref_34 (unplanned) -> LLM: llm_28 (unforeseen), Similarity: 0.8745
+Reference: ref_41 (parental) -> LLM: llm_39 (family), Similarity: 0.8206
+Reference: ref_44 (open) -> LLM: llm_56 (forward), Similarity: 0.8044
+Reference: ref_4 (college) -> LLM: llm_17 (man), Similarity: 0.8020
+Reference: ref_3 (intermediate) -> LLM: llm_12 (lesson), Similarity: 0.8016
+Reference: ref_11 (tragic) -> LLM: llm_10 (poignant), Similarity: 0.8000
+Reference: ref_15 (best) -> LLM: llm_22 (win), Similarity: 0.7879
+Reference: ref_30 (devastating) -> LLM: llm_32 (triggering), Similarity: 0.7858
+Reference: ref_44 (open) -> LLM: llm_3 (innocent), Similarity: 0.7827
+Reference: ref_11 (tragic) -> LLM: llm_48 (suicide), Similarity: 0.7621
+Reference: ref_44 (open) -> LLM: llm_50 (leaving), Similarity: 0.7580
+Reference: ref_12 (story) -> LLM: llm_6 (romance), Similarity: 0.7380
+Reference: ref_28 (faced) -> LLM: llm_7 (framed), Similarity: 0.7262
+Reference: ref_15 (best) -> LLM: llm_52 (loyal), Similarity: 0.7018
+Reference: ref_42 (guidance) -> LLM: llm_25 (lead), Similarity: 0.7006
+Reference: ref_12 (story) -> LLM: llm_11 (life), Similarity: 0.6930
+Reference: ref_2 (compassionate) -> LLM: llm_15 (spirited), Similarity: 0.6927
+Reference: ref_42 (guidance) -> LLM: llm_37 (choices), Similarity: 0.6917
+Reference: ref_31 (consequences) -> LLM: llm_55 (carry), Similarity: 0.6870
+Reference: ref_31 (consequences) -> LLM: llm_43 (ultimately), Similarity: 0.6855
+Reference: ref_21 (asha) -> LLM: llm_24 (beloved), Similarity: 0.6851
+Reference: ref_30 (devastating) -> LLM: llm_36 (desperate), Similarity: 0.6808
+Reference: ref_44 (open) -> LLM: llm_20 (attempts), Similarity: 0.6800
+Reference: ref_44 (open) -> LLM: llm_19 (lighthearted), Similarity: 0.6738
+Reference: ref_28 (faced) -> LLM: llm_47 (double), Similarity: 0.6501
+Reference: ref_31 (consequences) -> LLM: llm_40 (sacrifices), Similarity: 0.6373
+Reference: ref_28 (faced) -> LLM: llm_34 (cascade), Similarity: 0.6202
+Reference: ref_31 (consequences) -> LLM: llm_59 (legacy), Similarity: 0.6127
+Reference: ref_5 (teacher) -> No match, Similarity: 0.0000
+Reference: ref_7 (shiva) -> No match, Similarity: 0.0000
+Reference: ref_9 (recounts) -> No match, Similarity: 0.0000
+Reference: ref_17 (ramu) -> No match, Similarity: 0.0000
+Reference: ref_20 (girlfriend) -> No match, Similarity: 0.0000
+Reference: ref_37 (highlighting) -> No match, Similarity: 0.0000
+Reference: ref_39 (importance) -> No match, Similarity: 0.0000
+Reference: ref_45 (communication) -> No match, Similarity: 0.0000

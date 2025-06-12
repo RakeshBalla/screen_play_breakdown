@@ -1,0 +1,842 @@
+{
+  "ALL_TEXT": "96 INT. POLICE STATION - DAY \nThe station is empty, except for a few women to whom SUBBA \nRAJU is showing off his acting skills, a constable and \nVEERAYYA. ANTHONY rushes in, soon followed by VEDA, GOVARDHAN \nand SULOCHANA. SUBBA RAJU walks over to them. \nANTHONY \nVeelle saar podduna iddarini \nkaalchi champindhi \nThe three are shocked. \nVEDA \nSir abaddam Sir!!... Atlantidhi em \njaragaledu sir... Sir nenu software \nengineer sir... Poddunundi mammalni \nevaro irikisthunnaru sir. \nANTHONY \nLedu saar.. Aa iddarini champindi \nveelle saar. Nannu champali ani \nfollow chesthunaru saar \nSUBBA RAJU looks at the three intently. \nSUBBA RAJU \nNoru moosthaara iddaru! Rei ee \nmuggurni cell lo padenyandi ra... \n(Addressing ANTHONY) \nNuv raa raa \nSULOCHANA \nI am a journalist, nannu chaala \nlight gaa teeskuntunnaaru meeru \nSUBBA RAJU \nMee channel vaalle nee gurinchi TV \nlo aesaaru \nVEDA \nMaakem theleedu sir... idantha \npedda kutra!!! Nijanga sir... nenu \nsoftware employee sir.... \nSUBBA RAJU \nThelusu ra nuvvu software engineer \nvi, neeku aa ammayiki pelli \nkudiridhi,udhyogam udhindhi, pelli \nagipoyindhi...inka emanna \ncheppamantaava? \nGOVARDHAN feels cheated after learning this. \nGOVARDHAN \n(requesting a constable) \nNannu evvaru leni khali cell lo \npettandi. \nSUBBA RAJU does not pay attention to them and walks away with \nANTHONY. \nThe three are taken to a cell which has two more inmates \none of whom is the BUM. SULOCHANA is looking around very \nuncomfortably, and gets behind VEDA to feel a little secure. \nGOVARDHAN is pissed at being thrown into a cell with so many \npeople. He stands near the bars. VEDA takes SULOCHANA, and \nthe two dejectedly sit in a corner looking at GOVARDHAN, \nstaring at them. The fifth man in the other corner of the \ncell eyes SULOCHANA - this pisses her off. \nSULOCHANA \n(Addressing VEERAYYA) \nAmmayillani pettalsina cells vere \nuntaayi gaa... I am a journalist... \nnaaku rules telusu \nVEERAYYA \nIdi chinna station. Inko cell \nkhaaliga ledhu. Kaasepu aagithe \naadavaalla station ki maarusthaaru. \nGOVARDHAN \nAdi clean ga untada? \nVEERAYYA looks at him, confused. \nSULOCHANA \nAayananthe... pattichukovaddu! \nGOVARDHAN \n(Pissed) \nNuvvevaru cheppataaniki? \nSULOCHANA \nNenevarina... nenu repu court lo \nsaakshyam cheppedaanni... \nchampindhi meere ani, nannu kidnap \nchesaarani... \nGOVARDHAN \n(angry) \nChusaava? Ammayilni nammoddante \nvinaledu... nethi noru kottukunna!! \nVEDA \nBha! Meeru meeru kottukusaavandi... \nnannu laagaddhu madhyaloki. \nGOVARDHAN \nChi! Ammayiltho kotlaatalenti... \ncheap ga! \nSULOCHANA \nYe!.. Nee tho maatlaadatam naaku \ncheap kaanappudu, naa tho \nkotlaadatam etla avuthadi. \nGOVARDHAN \n(pointing his finger at \nher as a warning) \nIdigo!.. \nSULOCHANA \nYelu irichestha malli ala \nchupichaavante naaku. \nGOVARDHAN \n(A little afraid) \nAa nuvvu iricheyi, appudu gaani nee \nmeeda attempted murder case \npettakapothe chuudu... \nSULOCHANA \nAghorichinatte undi nee thelivi... \nAlready jail lo unte inka nuvvu \ncase pettedhenti?! \nVEERAYYA \nAe!.. Silence!.. Sigguledu \naadavaallatho kotlaadataaniki... \nGOVARDHAN \nAndaru nannanne vaalle... Aa pilla \nkuda arusthundi ga... thanani \nanochuga? \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "96",
+    "1001": "INT.",
+    "1002": "POLICE",
+    "1003": "STATION",
+    "1004": "-",
+    "1005": "DAY",
+    "1006": "The",
+    "1007": "station",
+    "1008": "is",
+    "1009": "empty,",
+    "1010": "except",
+    "1011": "for",
+    "1012": "a",
+    "1013": "few",
+    "1014": "women",
+    "1015": "to",
+    "1016": "whom",
+    "1017": "SUBBA",
+    "1018": "RAJU",
+    "1019": "is",
+    "1020": "showing",
+    "1021": "off",
+    "1022": "his",
+    "1023": "acting",
+    "1024": "skills,",
+    "1025": "a",
+    "1026": "constable",
+    "1027": "and",
+    "1028": "VEERAYYA.",
+    "1029": "ANTHONY",
+    "1030": "rushes",
+    "1031": "in,",
+    "1032": "soon",
+    "1033": "followed",
+    "1034": "by",
+    "1035": "VEDA,",
+    "1036": "GOVARDHAN",
+    "1037": "and",
+    "1038": "SULOCHANA.",
+    "1039": "SUBBA",
+    "1040": "RAJU",
+    "1041": "walks",
+    "1042": "over",
+    "1043": "to",
+    "1044": "them.",
+    "1045": "ANTHONY",
+    "1046": "Veelle",
+    "1047": "saar",
+    "1048": "podduna",
+    "1049": "iddarini",
+    "1050": "kaalchi",
+    "1051": "champindhi",
+    "1052": "The",
+    "1053": "three",
+    "1054": "are",
+    "1055": "shocked.",
+    "1056": "VEDA",
+    "1057": "Sir",
+    "1058": "abaddam",
+    "1059": "Sir!!...",
+    "1060": "Atlantidhi",
+    "1061": "em",
+    "1062": "jaragaledu",
+    "1063": "sir...",
+    "1064": "Sir",
+    "1065": "nenu",
+    "1066": "software",
+    "1067": "engineer",
+    "1068": "sir...",
+    "1069": "Poddunundi",
+    "1070": "mammalni",
+    "1071": "evaro",
+    "1072": "irikisthunnaru",
+    "1073": "sir.",
+    "1074": "ANTHONY",
+    "1075": "Ledu",
+    "1076": "saar..",
+    "1077": "Aa",
+    "1078": "iddarini",
+    "1079": "champindi",
+    "1080": "veelle",
+    "1081": "saar.",
+    "1082": "Nannu",
+    "1083": "champali",
+    "1084": "ani",
+    "1085": "follow",
+    "1086": "chesthunaru",
+    "1087": "saar",
+    "1088": "SUBBA",
+    "1089": "RAJU",
+    "1090": "looks",
+    "1091": "at",
+    "1092": "the",
+    "1093": "three",
+    "1094": "intently.",
+    "1095": "SUBBA",
+    "1096": "RAJU",
+    "1097": "Noru",
+    "1098": "moosthaara",
+    "1099": "iddaru!",
+    "1100": "Rei",
+    "1101": "ee",
+    "1102": "muggurni",
+    "1103": "cell",
+    "1104": "lo",
+    "1105": "padenyandi",
+    "1106": "ra...",
+    "1107": "(Addressing",
+    "1108": "ANTHONY)",
+    "1109": "Nuv",
+    "1110": "raa",
+    "1111": "raa",
+    "1112": "SULOCHANA",
+    "1113": "I",
+    "1114": "am",
+    "1115": "a",
+    "1116": "journalist,",
+    "1117": "nannu",
+    "1118": "chaala",
+    "1119": "light",
+    "1120": "gaa",
+    "1121": "teeskuntunnaaru",
+    "1122": "meeru",
+    "1123": "SUBBA",
+    "1124": "RAJU",
+    "1125": "Mee",
+    "1126": "channel",
+    "1127": "vaalle",
+    "1128": "nee",
+    "1129": "gurinchi",
+    "1130": "TV",
+    "1131": "lo",
+    "1132": "aesaaru",
+    "1133": "VEDA",
+    "1134": "Maakem",
+    "1135": "theleedu",
+    "1136": "sir...",
+    "1137": "idantha",
+    "1138": "pedda",
+    "1139": "kutra!!!",
+    "1140": "Nijanga",
+    "1141": "sir...",
+    "1142": "nenu",
+    "1143": "software",
+    "1144": "employee",
+    "1145": "sir....",
+    "1146": "SUBBA",
+    "1147": "RAJU",
+    "1148": "Thelusu",
+    "1149": "ra",
+    "1150": "nuvvu",
+    "1151": "software",
+    "1152": "engineer",
+    "1153": "vi,",
+    "1154": "neeku",
+    "1155": "aa",
+    "1156": "ammayiki",
+    "1157": "pelli",
+    "1158": "kudiridhi,udhyogam",
+    "1159": "udhindhi,",
+    "1160": "pelli",
+    "1161": "agipoyindhi...inka",
+    "1162": "emanna",
+    "1163": "cheppamantaava?",
+    "1164": "GOVARDHAN",
+    "1165": "feels",
+    "1166": "cheated",
+    "1167": "after",
+    "1168": "learning",
+    "1169": "this.",
+    "1170": "GOVARDHAN",
+    "1171": "(requesting",
+    "1172": "a",
+    "1173": "constable)",
+    "1174": "Nannu",
+    "1175": "evvaru",
+    "1176": "leni",
+    "1177": "khali",
+    "1178": "cell",
+    "1179": "lo",
+    "1180": "pettandi.",
+    "1181": "SUBBA",
+    "1182": "RAJU",
+    "1183": "does",
+    "1184": "not",
+    "1185": "pay",
+    "1186": "attention",
+    "1187": "to",
+    "1188": "them",
+    "1189": "and",
+    "1190": "walks",
+    "1191": "away",
+    "1192": "with",
+    "1193": "ANTHONY.",
+    "1194": "The",
+    "1195": "three",
+    "1196": "are",
+    "1197": "taken",
+    "1198": "to",
+    "1199": "a",
+    "1200": "cell",
+    "1201": "which",
+    "1202": "has",
+    "1203": "two",
+    "1204": "more",
+    "1205": "inmates",
+    "1206": "one",
+    "1207": "of",
+    "1208": "whom",
+    "1209": "is",
+    "1210": "the",
+    "1211": "BUM.",
+    "1212": "SULOCHANA",
+    "1213": "is",
+    "1214": "looking",
+    "1215": "around",
+    "1216": "very",
+    "1217": "uncomfortably,",
+    "1218": "and",
+    "1219": "gets",
+    "1220": "behind",
+    "1221": "VEDA",
+    "1222": "to",
+    "1223": "feel",
+    "1224": "a",
+    "1225": "little",
+    "1226": "secure.",
+    "1227": "GOVARDHAN",
+    "1228": "is",
+    "1229": "pissed",
+    "1230": "at",
+    "1231": "being",
+    "1232": "thrown",
+    "1233": "into",
+    "1234": "a",
+    "1235": "cell",
+    "1236": "with",
+    "1237": "so",
+    "1238": "many",
+    "1239": "people.",
+    "1240": "He",
+    "1241": "stands",
+    "1242": "near",
+    "1243": "the",
+    "1244": "bars.",
+    "1245": "VEDA",
+    "1246": "takes",
+    "1247": "SULOCHANA,",
+    "1248": "and",
+    "1249": "the",
+    "1250": "two",
+    "1251": "dejectedly",
+    "1252": "sit",
+    "1253": "in",
+    "1254": "a",
+    "1255": "corner",
+    "1256": "looking",
+    "1257": "at",
+    "1258": "GOVARDHAN,",
+    "1259": "staring",
+    "1260": "at",
+    "1261": "them.",
+    "1262": "The",
+    "1263": "fifth",
+    "1264": "man",
+    "1265": "in",
+    "1266": "the",
+    "1267": "other",
+    "1268": "corner",
+    "1269": "of",
+    "1270": "the",
+    "1271": "cell",
+    "1272": "eyes",
+    "1273": "SULOCHANA",
+    "1274": "-",
+    "1275": "this",
+    "1276": "pisses",
+    "1277": "her",
+    "1278": "off.",
+    "1279": "SULOCHANA",
+    "1280": "(Addressing",
+    "1281": "VEERAYYA)",
+    "1282": "Ammayillani",
+    "1283": "pettalsina",
+    "1284": "cells",
+    "1285": "vere",
+    "1286": "untaayi",
+    "1287": "gaa...",
+    "1288": "I",
+    "1289": "am",
+    "1290": "a",
+    "1291": "journalist...",
+    "1292": "naaku",
+    "1293": "rules",
+    "1294": "telusu",
+    "1295": "VEERAYYA",
+    "1296": "Idi",
+    "1297": "chinna",
+    "1298": "station.",
+    "1299": "Inko",
+    "1300": "cell",
+    "1301": "khaaliga",
+    "1302": "ledhu.",
+    "1303": "Kaasepu",
+    "1304": "aagithe",
+    "1305": "aadavaalla",
+    "1306": "station",
+    "1307": "ki",
+    "1308": "maarusthaaru.",
+    "1309": "GOVARDHAN",
+    "1310": "Adi",
+    "1311": "clean",
+    "1312": "ga",
+    "1313": "untada?",
+    "1314": "VEERAYYA",
+    "1315": "looks",
+    "1316": "at",
+    "1317": "him,",
+    "1318": "confused.",
+    "1319": "SULOCHANA",
+    "1320": "Aayananthe...",
+    "1321": "pattichukovaddu!",
+    "1322": "GOVARDHAN",
+    "1323": "(Pissed)",
+    "1324": "Nuvvevaru",
+    "1325": "cheppataaniki?",
+    "1326": "SULOCHANA",
+    "1327": "Nenevarina...",
+    "1328": "nenu",
+    "1329": "repu",
+    "1330": "court",
+    "1331": "lo",
+    "1332": "saakshyam",
+    "1333": "cheppedaanni...",
+    "1334": "champindhi",
+    "1335": "meere",
+    "1336": "ani,",
+    "1337": "nannu",
+    "1338": "kidnap",
+    "1339": "chesaarani...",
+    "1340": "GOVARDHAN",
+    "1341": "(angry)",
+    "1342": "Chusaava?",
+    "1343": "Ammayilni",
+    "1344": "nammoddante",
+    "1345": "vinaledu...",
+    "1346": "nethi",
+    "1347": "noru",
+    "1348": "kottukunna!!",
+    "1349": "VEDA",
+    "1350": "Bha!",
+    "1351": "Meeru",
+    "1352": "meeru",
+    "1353": "kottukusaavandi...",
+    "1354": "nannu",
+    "1355": "laagaddhu",
+    "1356": "madhyaloki.",
+    "1357": "GOVARDHAN",
+    "1358": "Chi!",
+    "1359": "Ammayiltho",
+    "1360": "kotlaatalenti...",
+    "1361": "cheap",
+    "1362": "ga!",
+    "1363": "SULOCHANA",
+    "1364": "Ye!..",
+    "1365": "Nee",
+    "1366": "tho",
+    "1367": "maatlaadatam",
+    "1368": "naaku",
+    "1369": "cheap",
+    "1370": "kaanappudu,",
+    "1371": "naa",
+    "1372": "tho",
+    "1373": "kotlaadatam",
+    "1374": "etla",
+    "1375": "avuthadi.",
+    "1376": "GOVARDHAN",
+    "1377": "(pointing",
+    "1378": "his",
+    "1379": "finger",
+    "1380": "at",
+    "1381": "her",
+    "1382": "as",
+    "1383": "a",
+    "1384": "warning)",
+    "1385": "Idigo!..",
+    "1386": "SULOCHANA",
+    "1387": "Yelu",
+    "1388": "irichestha",
+    "1389": "malli",
+    "1390": "ala",
+    "1391": "chupichaavante",
+    "1392": "naaku.",
+    "1393": "GOVARDHAN",
+    "1394": "(A",
+    "1395": "little",
+    "1396": "afraid)",
+    "1397": "Aa",
+    "1398": "nuvvu",
+    "1399": "iricheyi,",
+    "1400": "appudu",
+    "1401": "gaani",
+    "1402": "nee",
+    "1403": "meeda",
+    "1404": "attempted",
+    "1405": "murder",
+    "1406": "case",
+    "1407": "pettakapothe",
+    "1408": "chuudu...",
+    "1409": "SULOCHANA",
+    "1410": "Aghorichinatte",
+    "1411": "undi",
+    "1412": "nee",
+    "1413": "thelivi...",
+    "1414": "Already",
+    "1415": "jail",
+    "1416": "lo",
+    "1417": "unte",
+    "1418": "inka",
+    "1419": "nuvvu",
+    "1420": "case",
+    "1421": "pettedhenti?!",
+    "1422": "VEERAYYA",
+    "1423": "Ae!..",
+    "1424": "Silence!..",
+    "1425": "Sigguledu",
+    "1426": "aadavaallatho",
+    "1427": "kotlaadataaniki...",
+    "1428": "GOVARDHAN",
+    "1429": "Andaru",
+    "1430": "nannanne",
+    "1431": "vaalle...",
+    "1432": "Aa",
+    "1433": "pilla",
+    "1434": "kuda",
+    "1435": "arusthundi",
+    "1436": "ga...",
+    "1437": "thanani",
+    "1438": "anochuga?",
+    "1439": "CUT",
+    "1440": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "SUBBA RAJU",
+        "women",
+        "constable",
+        "VEERAYYA",
+        "ANTHONY",
+        "VEDA",
+        "GOVARDHAN",
+        "SULOCHANA",
+        "inmates",
+        "BUM",
+        "fifth man"
+      ],
+      "SET": [
+        "INT. POLICE STATION - DAY"
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1017",
+              "1018"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1039",
+              "1040"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1088",
+              "1089"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1095",
+              "1096"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1123",
+              "1124"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1146",
+              "1147"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1181",
+              "1182"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "women",
+            "ids": [
+              "1014"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "constable",
+            "ids": [
+              "1026"
+            ]
+          },
+          {
+            "value": "constable)",
+            "ids": [
+              "1173"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VEERAYYA",
+            "ids": [
+              "1295"
+            ]
+          },
+          {
+            "value": "VEERAYYA",
+            "ids": [
+              "1314"
+            ]
+          },
+          {
+            "value": "VEERAYYA",
+            "ids": [
+              "1422"
+            ]
+          },
+          {
+            "value": "VEERAYYA.",
+            "ids": [
+              "1028"
+            ]
+          },
+          {
+            "value": "VEERAYYA)",
+            "ids": [
+              "1281"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1029"
+            ]
+          },
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1045"
+            ]
+          },
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1074"
+            ]
+          },
+          {
+            "value": "ANTHONY)",
+            "ids": [
+              "1108"
+            ]
+          },
+          {
+            "value": "ANTHONY.",
+            "ids": [
+              "1193"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1056"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1133"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1221"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1245"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1349"
+            ]
+          },
+          {
+            "value": "VEDA,",
+            "ids": [
+              "1035"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1036"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1164"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1170"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1227"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1309"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1322"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1340"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1357"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1376"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1393"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1428"
+            ]
+          },
+          {
+            "value": "GOVARDHAN,",
+            "ids": [
+              "1258"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1112"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1212"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1273"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1279"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1319"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1326"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1363"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1386"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1409"
+            ]
+          },
+          {
+            "value": "SULOCHANA.",
+            "ids": [
+              "1038"
+            ]
+          },
+          {
+            "value": "SULOCHANA,",
+            "ids": [
+              "1247"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "inmates",
+            "ids": [
+              "1205"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "BUM.",
+            "ids": [
+              "1211"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "fifth man",
+            "ids": [
+              "1263",
+              "1264"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "INT. POLICE STATION - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

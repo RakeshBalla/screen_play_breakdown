@@ -1,0 +1,254 @@
+{
+  "ALL_TEXT": "29 INT. SULOCHANA\u2019S HOUSE - DAY \nSULOCHANA is leaving her house, when she finds her old \nGRANDMOTHER on the treadmill. \nSULOCHANA \nEnti Bhama em chestunaavu \nGRANDMOTHER \nAa uriki tinni kurchovadam enduku \nani idogo ee pani \nchestunna...tinnadi aragaali gaa \nSULOCHANA \nAppudu ila kaadu cheyalsindhi \nShe turns up the speed on the treadmill and leaves. The \nGRANDMOTHER can't keep up with the machine and collapses. \nFREEZE FRAME \nNARRATOR (V.O.) \nSulochana kashtaalu vethukkuni mari \nthechukune rakam. \nNARRATOR (V.O.) \nEvariko manchi cheeddhaam ani poyi \nthanu thittulu thine \nrakam..venakata ki peddhalu oka \nmaata cheppevaaru..ee prapancham lo \nmanchi cheddhaam ani chedu \nchesinavaare ekkuva ani. Aa kovaku \nchindindhe ee pilla. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "29",
+    "1001": "INT.",
+    "1002": "SULOCHANA\u2019S",
+    "1003": "HOUSE",
+    "1004": "-",
+    "1005": "DAY",
+    "1006": "SULOCHANA",
+    "1007": "is",
+    "1008": "leaving",
+    "1009": "her",
+    "1010": "house,",
+    "1011": "when",
+    "1012": "she",
+    "1013": "finds",
+    "1014": "her",
+    "1015": "old",
+    "1016": "GRANDMOTHER",
+    "1017": "on",
+    "1018": "the",
+    "1019": "treadmill.",
+    "1020": "SULOCHANA",
+    "1021": "Enti",
+    "1022": "Bhama",
+    "1023": "em",
+    "1024": "chestunaavu",
+    "1025": "GRANDMOTHER",
+    "1026": "Aa",
+    "1027": "uriki",
+    "1028": "tinni",
+    "1029": "kurchovadam",
+    "1030": "enduku",
+    "1031": "ani",
+    "1032": "idogo",
+    "1033": "ee",
+    "1034": "pani",
+    "1035": "chestunna...tinnadi",
+    "1036": "aragaali",
+    "1037": "gaa",
+    "1038": "SULOCHANA",
+    "1039": "Appudu",
+    "1040": "ila",
+    "1041": "kaadu",
+    "1042": "cheyalsindhi",
+    "1043": "She",
+    "1044": "turns",
+    "1045": "up",
+    "1046": "the",
+    "1047": "speed",
+    "1048": "on",
+    "1049": "the",
+    "1050": "treadmill",
+    "1051": "and",
+    "1052": "leaves.",
+    "1053": "The",
+    "1054": "GRANDMOTHER",
+    "1055": "can't",
+    "1056": "keep",
+    "1057": "up",
+    "1058": "with",
+    "1059": "the",
+    "1060": "machine",
+    "1061": "and",
+    "1062": "collapses.",
+    "1063": "FREEZE",
+    "1064": "FRAME",
+    "1065": "NARRATOR",
+    "1066": "(V.O.)",
+    "1067": "Sulochana",
+    "1068": "kashtaalu",
+    "1069": "vethukkuni",
+    "1070": "mari",
+    "1071": "thechukune",
+    "1072": "rakam.",
+    "1073": "NARRATOR",
+    "1074": "(V.O.)",
+    "1075": "Evariko",
+    "1076": "manchi",
+    "1077": "cheeddhaam",
+    "1078": "ani",
+    "1079": "poyi",
+    "1080": "thanu",
+    "1081": "thittulu",
+    "1082": "thine",
+    "1083": "rakam..venakata",
+    "1084": "ki",
+    "1085": "peddhalu",
+    "1086": "oka",
+    "1087": "maata",
+    "1088": "cheppevaaru..ee",
+    "1089": "prapancham",
+    "1090": "lo",
+    "1091": "manchi",
+    "1092": "cheddhaam",
+    "1093": "ani",
+    "1094": "chedu",
+    "1095": "chesinavaare",
+    "1096": "ekkuva",
+    "1097": "ani.",
+    "1098": "Aa",
+    "1099": "kovaku",
+    "1100": "chindindhe",
+    "1101": "ee",
+    "1102": "pilla.",
+    "1103": "CUT",
+    "1104": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "SULOCHANA",
+        "GRANDMOTHER",
+        "NARRATOR (V.O.)"
+      ],
+      "SET": [
+        "INT. SULOCHANA\u2019S HOUSE - DAY"
+      ],
+      "PROPS": [
+        "treadmill"
+      ],
+      "STUNTS": [
+        "GRANDMOTHER can't keep up with the machine and collapses."
+      ],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1006"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1020"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1038"
+            ]
+          },
+          {
+            "value": "Sulochana",
+            "ids": [
+              "1067"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "GRANDMOTHER",
+            "ids": [
+              "1016"
+            ]
+          },
+          {
+            "value": "GRANDMOTHER",
+            "ids": [
+              "1025"
+            ]
+          },
+          {
+            "value": "GRANDMOTHER",
+            "ids": [
+              "1054"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "NARRATOR (V.O.)",
+            "ids": [
+              "1065",
+              "1066"
+            ]
+          },
+          {
+            "value": "NARRATOR (V.O.)",
+            "ids": [
+              "1073",
+              "1074"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "INT. SULOCHANA\u2019S HOUSE - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "treadmill",
+            "ids": [
+              "1050"
+            ]
+          },
+          {
+            "value": "treadmill.",
+            "ids": [
+              "1019"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [
+        [
+          {
+            "value": "GRANDMOTHER can't keep up with the machine and collapses.",
+            "ids": [
+              "1054",
+              "1055",
+              "1056",
+              "1057",
+              "1058",
+              "1059",
+              "1060",
+              "1061",
+              "1062"
+            ]
+          }
+        ]
+      ],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

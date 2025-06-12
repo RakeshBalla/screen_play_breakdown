@@ -1,0 +1,219 @@
+{
+  "page_dict": {
+    "alltext": "82.\nSULOCHANA\nAsalu lopala em jarigindi???\nGOVARDHAN\nLopala jarigina daaniki deeniki em\nsambandham ledu... nannu adagaddhu\naa vishayam gurichi malli.\nVEDA takes SULOCHANA aside and tells her what happened.\nGOVARDHAN gets pissed that she now knows.\nGOVARDHAN\nOorantha cheppesi ra!...\nVEDA\nMari theliyaali kadha... lekapothe\nthanaki doubt untadi kadha...asalu\nactual ga emi jarigindhi lopala\nToo irritated, conscious and a little ashamed\nGOVARDHAN\nLedhu... Baba ni naalugu peeki\nvochanu anthey..inka emi\ncheyaledhu.\nVEDA\nMari anthalone emayyindhi...\nGOVARDHAN\nEmo!! Nakem thelusu!!!\nVEDA\nSare aravaddhu le...\nVEDA speaks to SULOCHANA\nVEDA\nEvaro manalni kaavaalani indulo\nirikisthunnaaru... asalu hathyaalu\nchesindi evaro thelisthe kaani\nmanam em cheyyalemu... Naakidhi\nchaala pedda kutra la anipisthundi.\nGOVARDHAN\nAa... Nuvvu PM, nenu governor, adho\naavidemo Rajasthan CM... andhuke\nmanameeda kutra... Manalni\nmaamuluga pattichukune vaade ledu,\naalochinchi irikkichevaallu kuda\nna!?",
+    "words_ids": {
+      "1861": "82.",
+      "5872": "SULOCHANA",
+      "3470": "Asalu",
+      "4941": "lopala",
+      "9171": "em",
+      "3951": "jarigindi???",
+      "8526": "GOVARDHAN",
+      "8200": "Lopala",
+      "1533": "jarigina",
+      "4583": "daaniki",
+      "6434": "deeniki",
+      "5800": "em",
+      "2723": "sambandham",
+      "2073": "ledu...",
+      "6375": "nannu",
+      "9363": "adagaddhu",
+      "9869": "aa",
+      "7792": "vishayam",
+      "2260": "gurichi",
+      "1290": "malli.",
+      "9638": "VEDA",
+      "1788": "takes",
+      "8707": "SULOCHANA",
+      "8347": "aside",
+      "7981": "and",
+      "5720": "tells",
+      "3946": "her",
+      "7182": "what",
+      "6621": "happened.",
+      "6179": "GOVARDHAN",
+      "6148": "gets",
+      "2835": "pissed",
+      "9271": "that",
+      "3732": "she",
+      "2209": "now",
+      "7524": "knows.",
+      "7476": "GOVARDHAN",
+      "1150": "Oorantha",
+      "8637": "cheppesi",
+      "2795": "ra!...",
+      "6722": "VEDA",
+      "1101": "Mari",
+      "9586": "theliyaali",
+      "9604": "kadha...",
+      "9217": "lekapothe",
+      "1625": "thanaki",
+      "1287": "doubt",
+      "2563": "untadi",
+      "7872": "kadha...asalu",
+      "4401": "actual",
+      "5153": "ga",
+      "8893": "emi",
+      "3603": "jarigindhi",
+      "9311": "lopala",
+      "1667": "Too",
+      "1163": "irritated,",
+      "1654": "conscious",
+      "1978": "and",
+      "1017": "a",
+      "8724": "little",
+      "3758": "ashamed",
+      "7509": "GOVARDHAN",
+      "3980": "Ledhu...",
+      "3011": "Baba",
+      "6222": "ni",
+      "2320": "naalugu",
+      "3940": "peeki",
+      "9192": "vochanu",
+      "9711": "anthey..inka",
+      "7005": "emi",
+      "4213": "cheyaledhu.",
+      "1105": "VEDA",
+      "7878": "Mari",
+      "2711": "anthalone",
+      "7771": "emayyindhi...",
+      "3448": "GOVARDHAN",
+      "5603": "Emo!!",
+      "9362": "Nakem",
+      "4690": "thelusu!!!",
+      "8841": "VEDA",
+      "5005": "Sare",
+      "5334": "aravaddhu",
+      "1942": "le...",
+      "7164": "VEDA",
+      "2199": "speaks",
+      "2058": "to",
+      "9635": "SULOCHANA",
+      "8909": "VEDA",
+      "8153": "Evaro",
+      "1960": "manalni",
+      "9495": "kaavaalani",
+      "9550": "indulo",
+      "5421": "irikisthunnaaru...",
+      "2330": "asalu",
+      "1377": "hathyaalu",
+      "4638": "chesindi",
+      "9812": "evaro",
+      "2674": "thelisthe",
+      "7406": "kaani",
+      "4111": "manam",
+      "4224": "em",
+      "1687": "cheyyalemu...",
+      "4326": "Naakidhi",
+      "1755": "chaala",
+      "2288": "pedda",
+      "2326": "kutra",
+      "3683": "la",
+      "4456": "anipisthundi.",
+      "6381": "GOVARDHAN",
+      "8516": "Aa...",
+      "8359": "Nuvvu",
+      "4716": "PM,",
+      "1284": "nenu",
+      "3236": "governor,",
+      "1631": "adho",
+      "7495": "aavidemo",
+      "3046": "Rajasthan",
+      "7167": "CM...",
+      "5924": "andhuke",
+      "1608": "manameeda",
+      "8406": "kutra...",
+      "2515": "Manalni",
+      "8537": "maamuluga",
+      "8024": "pattichukune",
+      "2712": "vaade",
+      "6637": "ledu,",
+      "6220": "aalochinchi",
+      "3555": "irikkichevaallu",
+      "5687": "kuda",
+      "9584": "na!?"
+    }
+  },
+  "sample_no": "smaple5",
+  "pdf_file_name": "page_83.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "SULOCHANA",
+        "GOVARDHAN",
+        "VEDA"
+      ],
+      "SET": [],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            5872,
+            8707
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            3448,
+            6179
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            6381,
+            7476
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            7509,
+            8526
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            1105,
+            6722
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            7164,
+            8841
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            8909,
+            9638
+          ]
+        }
+      ],
+      "SET": [],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

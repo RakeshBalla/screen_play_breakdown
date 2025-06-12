@@ -1,0 +1,101 @@
+{
+    "ALL_TEXT": "1 EXT. VAST GRASSLAND - NIGHT A man riding a horse looks at the stars. In his hand is KRISHNA\\u2019s box. NARRATOR Oka adbutam jarigey gadiyelo koni jeevithaalu aa kroddhipaati samayamlo taarumaarai, aa adhbuthaaniki margamu chuuputaaru CUT TO:",
+    "WORDS_ID": "{\n\"1000\": \"1\",\n\"1001\": \"EXT.\",\n\"1002\": \"VAST\",\n\"1003\": \"GRASSLAND\",\n\"1004\": \"-\",\n\"1005\": \"NIGHT\",\n\"1006\": \"A\",\n\"1007\": \"man\",\n\"1008\": \"riding\",\n\"1009\": \"a\",\n\"1010\": \"horse\",\n\"1011\": \"looks\",\n\"1012\": \"at\",\n\"1013\": \"the\",\n\"1014\": \"stars.\",\n\"1015\": \"In\",\n\"1016\": \"his\",\n\"1017\": \"hand\",\n\"1018\": \"is\",\n\"1019\": \"KRISHNA\\u2019s\",\n\"1020\": \"box.\",\n\"1021\": \"NARRATOR\",\n\"1022\": \"Oka\",\n\"1023\": \"adbutam\",\n\"1024\": \"jarigey\",\n\"1025\": \"gadiyelo\",\n\"1026\": \"koni\",\n\"1027\": \"jeevithaalu\",\n\"1028\": \"aa\",\n\"1029\": \"kroddhipaati\",\n\"1030\": \"samayamlo\",\n\"1031\": \"taarumaarai,\",\n\"1032\": \"aa\",\n\"1033\": \"adhbuthaaniki\",\n\"1034\": \"margamu\",\n\"1035\": \"chuuputaaru\",\n\"1036\": \"CUT\",\n\"1037\": \"TO:\"\n}",
+    "llm_result": {
+        "production_categories": {
+            "CAST": [
+                "A man",
+                "NARRATOR"
+            ],
+            "SET": [
+                "EXT. VAST GRASSLAND - NIGHT"
+            ],
+            "PROPS": [
+                "KRISHNA\u2019s box"
+            ],
+            "STUNTS": [],
+            "VEHICLES": [],
+            "ANIMALS": [
+                "horse"
+            ],
+            "NUDITY": [],
+            "GREENERY": [
+                "VAST GRASSLAND"
+            ],
+            "SOUND": []
+        }
+    },
+    "predicted_word_ids": {
+        "production_categories": {
+            "CAST": [
+                [
+                    {
+                        "value": "A man",
+                        "ids": [
+                            "1006",
+                            "1007"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "value": "NARRATOR",
+                        "ids": [
+                            "1021"
+                        ]
+                    }
+                ]
+            ],
+            "SET": [
+                [
+                    {
+                        "value": "EXT. VAST GRASSLAND - NIGHT",
+                        "ids": [
+                            "1001",
+                            "1002",
+                            "1003",
+                            "1004",
+                            "1005"
+                        ]
+                    }
+                ]
+            ],
+            "PROPS": [
+                [
+                    {
+                        "value": "KRISHNA\u2019s box.",
+                        "ids": [
+                            "1019",
+                            "1020"
+                        ]
+                    }
+                ]
+            ],
+            "STUNTS": [],
+            "VEHICLES": [],
+            "ANIMALS": [
+                [
+                    {
+                        "value": "horse",
+                        "ids": [
+                            "1010"
+                        ]
+                    }
+                ]
+            ],
+            "NUDITY": [],
+            "GREENERY": [
+                [
+                    {
+                        "value": "VAST GRASSLAND",
+                        "ids": [
+                            "1002",
+                            "1003"
+                        ]
+                    }
+                ]
+            ],
+            "SOUND": []
+        }
+    }
+}

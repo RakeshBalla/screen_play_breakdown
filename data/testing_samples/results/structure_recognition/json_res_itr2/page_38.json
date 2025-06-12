@@ -1,0 +1,1168 @@
+{
+  "sample_no": "sample4",
+  "pdf_file_name": "page_38.pdf",
+  "alltext": "37.\nVEDA\nNuvva???\nSULOCHANA\nNuvva???\nVEDA\nNuvvu ikkadem\nchesthunnaavu...pubulki veladdam\nmee inta vanta ledhu annavu?\nSULOCHANA\nPanee medha vochanu ikadaki...nenu\njournalist kadha...\nVEDA\nOhhh page 3 journalist\naa...haha...edho crime reporter\nlaga posukotaavu aroju.\nSULOCHANA\nNaa sangathi pakanapetu...Thagadam\nallavatuledhu annavu....ipudu nuvu\nthagadamay kaakunda ee noruleni\njeevini kudaa thagisthunnaavu...\nVEDA\nHello..matter telusukuni maatlaadu\nnenu vaddhannaa..ade vinakunda\nthaaguthundi..aina neeku naaku enti\nsambhandam urlovaalla sangathulu\nneekendukamma? Nee drink aedo nuvvu\ntheesukuni sammaga enjoy cheyi\npo...\nSULOCHANA\nNeeku aelaaga job udindhi kadaa,\nnuvvu dheenini chusukolevu\nVEDA\nPelli cancel chesi mali vochi pundu\nmeedha karam jallaala?\nSULOCHANA\nSare kukka ni naaku ichey\nVEDA\nNenu enduku istha...job vochey\nvaruku idhe naaku thindi\npedthundhi.\nVEDA regrets blurting that out.",
+  "words_ids": {
+    "1000": "37.",
+    "1001": "VEDA",
+    "1002": "Nuvva???",
+    "1003": "SULOCHANA",
+    "1004": "Nuvva???",
+    "1005": "VEDA",
+    "1006": "Nuvvu",
+    "1007": "ikkadem",
+    "1008": "chesthunnaavu...pubulki",
+    "1009": "veladdam",
+    "1010": "mee",
+    "1011": "inta",
+    "1012": "vanta",
+    "1013": "ledhu",
+    "1014": "annavu?",
+    "1015": "SULOCHANA",
+    "1016": "Panee",
+    "1017": "medha",
+    "1018": "vochanu",
+    "1019": "ikadaki...nenu",
+    "1020": "journalist",
+    "1021": "kadha...",
+    "1022": "VEDA",
+    "1023": "Ohhh",
+    "1024": "page",
+    "1025": "3",
+    "1026": "journalist",
+    "1027": "aa...haha...edho",
+    "1028": "crime",
+    "1029": "reporter",
+    "1030": "laga",
+    "1031": "posukotaavu",
+    "1032": "aroju.",
+    "1033": "SULOCHANA",
+    "1034": "Naa",
+    "1035": "sangathi",
+    "1036": "pakanapetu...Thagadam",
+    "1037": "allavatuledhu",
+    "1038": "annavu....ipudu",
+    "1039": "nuvu",
+    "1040": "thagadamay",
+    "1041": "kaakunda",
+    "1042": "ee",
+    "1043": "noruleni",
+    "1044": "jeevini",
+    "1045": "kudaa",
+    "1046": "thagisthunnaavu...",
+    "1047": "VEDA",
+    "1048": "Hello..matter",
+    "1049": "telusukuni",
+    "1050": "maatlaadu",
+    "1051": "nenu",
+    "1052": "vaddhannaa..ade",
+    "1053": "vinakunda",
+    "1054": "thaaguthundi..aina",
+    "1055": "neeku",
+    "1056": "naaku",
+    "1057": "enti",
+    "1058": "sambhandam",
+    "1059": "urlovaalla",
+    "1060": "sangathulu",
+    "1061": "neekendukamma?",
+    "1062": "Nee",
+    "1063": "drink",
+    "1064": "aedo",
+    "1065": "nuvvu",
+    "1066": "theesukuni",
+    "1067": "sammaga",
+    "1068": "enjoy",
+    "1069": "cheyi",
+    "1070": "po...",
+    "1071": "SULOCHANA",
+    "1072": "Neeku",
+    "1073": "aelaaga",
+    "1074": "job",
+    "1075": "udindhi",
+    "1076": "kadaa,",
+    "1077": "nuvvu",
+    "1078": "dheenini",
+    "1079": "chusukolevu",
+    "1080": "VEDA",
+    "1081": "Pelli",
+    "1082": "cancel",
+    "1083": "chesi",
+    "1084": "mali",
+    "1085": "vochi",
+    "1086": "pundu",
+    "1087": "meedha",
+    "1088": "karam",
+    "1089": "jallaala?",
+    "1090": "SULOCHANA",
+    "1091": "Sare",
+    "1092": "kukka",
+    "1093": "ni",
+    "1094": "naaku",
+    "1095": "ichey",
+    "1096": "VEDA",
+    "1097": "Nenu",
+    "1098": "enduku",
+    "1099": "istha...job",
+    "1100": "vochey",
+    "1101": "varuku",
+    "1102": "idhe",
+    "1103": "naaku",
+    "1104": "thindi",
+    "1105": "pedthundhi.",
+    "1106": "VEDA",
+    "1107": "regrets",
+    "1108": "blurting",
+    "1109": "that",
+    "1110": "out."
+  },
+  "llm_response": {
+    "scene_number": [
+      "37"
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      "VEDA regrets blurting that out."
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Nuvva???"
+        ]
+      },
+      {
+        "character": [
+          "SULOCHANA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Nuvva???"
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Nuvvu ikkadem\nchesthunnaavu...pubulki veladdam\nmee inta vanta ledhu annavu?"
+        ]
+      },
+      {
+        "character": [
+          "SULOCHANA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Panee medha vochanu ikadaki...nenu\njournalist kadha..."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Ohhh page 3 journalist\naa...haha...edho crime reporter\nlaga posukotaavu aroju."
+        ]
+      },
+      {
+        "character": [
+          "SULOCHANA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Naa sangathi pakanapetu...Thagadam\nallavatuledhu annavu....ipudu nuvu\nthagadamay kaakunda ee noruleni\njeevini kudaa thagisthunnaavu..."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Hello..matter telusukuni maatlaadu\nnenu vaddhannaa..ade vinakunda\nthaaguthundi..aina neeku naaku enti\nsambhandam urlovaalla sangathulu\nneekendukamma? Nee drink aedo nuvvu\ntheesukuni sammaga enjoy cheyi\npo..."
+        ]
+      },
+      {
+        "character": [
+          "SULOCHANA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Neeku aelaaga job udindhi kadaa,\nuvvu dheenini chusukolevu"
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Pelli cancel chesi mali vochi pundu\nmeedha karam jallaala?"
+        ]
+      },
+      {
+        "character": [
+          "SULOCHANA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Sare kukka ni naaku ichey"
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Nenu enduku istha...job vochey\nvaruku idhe naaku thindi\npedthundhi."
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      [
+        {
+          "value": "37.",
+          "ids": [
+            "1000"
+          ]
+        }
+      ]
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      [
+        {
+          "value": "VEDA regrets blurting that out.",
+          "ids": [
+            "1106",
+            "1107",
+            "1108",
+            "1109",
+            "1110"
+          ]
+        }
+      ]
+    ],
+    "dialogue": [
+      {
+        "character": [
+          [
+            {
+              "value": "VEDA",
+              "ids": [
+                "1001"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1005"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1022"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1047"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1080"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1096"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1106"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Nuvva???",
+              "ids": [
+                "1002"
+              ]
+            },
+            {
+              "value": "Nuvva???",
+              "ids": [
+                "1004"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1003"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1015"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1033"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1071"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1090"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Nuvva???",
+              "ids": [
+                "1002"
+              ]
+            },
+            {
+              "value": "Nuvva???",
+              "ids": [
+                "1004"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "VEDA",
+              "ids": [
+                "1001"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1005"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1022"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1047"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1080"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1096"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1106"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Nuvvu ikkadem chesthunnaavu...pubulki veladdam mee inta vanta ledhu annavu?",
+              "ids": [
+                "1006",
+                "1007",
+                "1008",
+                "1009",
+                "1010",
+                "1011",
+                "1012",
+                "1013",
+                "1014"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1003"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1015"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1033"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1071"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1090"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Panee medha vochanu ikadaki...nenu journalist kadha...",
+              "ids": [
+                "1016",
+                "1017",
+                "1018",
+                "1019",
+                "1020",
+                "1021"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "VEDA",
+              "ids": [
+                "1001"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1005"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1022"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1047"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1080"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1096"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1106"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Ohhh page 3 journalist aa...haha...edho crime reporter laga posukotaavu aroju.",
+              "ids": [
+                "1023",
+                "1024",
+                "1025",
+                "1026",
+                "1027",
+                "1028",
+                "1029",
+                "1030",
+                "1031",
+                "1032"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1003"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1015"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1033"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1071"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1090"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Naa sangathi pakanapetu...Thagadam allavatuledhu annavu....ipudu nuvu thagadamay kaakunda ee noruleni jeevini kudaa thagisthunnaavu...",
+              "ids": [
+                "1034",
+                "1035",
+                "1036",
+                "1037",
+                "1038",
+                "1039",
+                "1040",
+                "1041",
+                "1042",
+                "1043",
+                "1044",
+                "1045",
+                "1046"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "VEDA",
+              "ids": [
+                "1001"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1005"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1022"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1047"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1080"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1096"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1106"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Hello..matter telusukuni maatlaadu nenu vaddhannaa..ade vinakunda thaaguthundi..aina neeku naaku enti sambhandam urlovaalla sangathulu neekendukamma? Nee drink aedo nuvvu theesukuni sammaga enjoy cheyi po...",
+              "ids": [
+                "1048",
+                "1049",
+                "1050",
+                "1051",
+                "1052",
+                "1053",
+                "1054",
+                "1055",
+                "1056",
+                "1057",
+                "1058",
+                "1059",
+                "1060",
+                "1061",
+                "1062",
+                "1063",
+                "1064",
+                "1065",
+                "1066",
+                "1067",
+                "1068",
+                "1069",
+                "1070"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1003"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1015"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1033"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1071"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1090"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Neeku aelaaga job udindhi kadaa,\nuvvu dheenini chusukolevu",
+              "ids": [
+                "unable to find ids"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "VEDA",
+              "ids": [
+                "1001"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1005"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1022"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1047"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1080"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1096"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1106"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Pelli cancel chesi mali vochi pundu meedha karam jallaala?",
+              "ids": [
+                "1081",
+                "1082",
+                "1083",
+                "1084",
+                "1085",
+                "1086",
+                "1087",
+                "1088",
+                "1089"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1003"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1015"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1033"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1071"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1090"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Sare kukka ni naaku ichey",
+              "ids": [
+                "1091",
+                "1092",
+                "1093",
+                "1094",
+                "1095"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "VEDA",
+              "ids": [
+                "1001"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1005"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1022"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1047"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1080"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1096"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1106"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Nenu enduku istha...job vochey varuku idhe naaku thindi pedthundhi.",
+              "ids": [
+                "1097",
+                "1098",
+                "1099",
+                "1100",
+                "1101",
+                "1102",
+                "1103",
+                "1104",
+                "1105"
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

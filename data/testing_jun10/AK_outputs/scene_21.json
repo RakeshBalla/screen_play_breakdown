@@ -1,0 +1,176 @@
+{
+  "ALL_TEXT": "21 INT. GOVARDHAN\u2019S HOUSE-KITCHEN - DAY \nGOVARDHAN walks into the kitchen. Neatly and slowly, he \nplaces a tray on the dining table, cuts off the edges of the \nbanana, peels it, eats it with a fork and a knife, drinks the \nbuttermilk, wearing white surgical gloves the entire time. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "21",
+    "1001": "INT.",
+    "1002": "GOVARDHAN\u2019S",
+    "1003": "HOUSE-KITCHEN",
+    "1004": "-",
+    "1005": "DAY",
+    "1006": "GOVARDHAN",
+    "1007": "walks",
+    "1008": "into",
+    "1009": "the",
+    "1010": "kitchen.",
+    "1011": "Neatly",
+    "1012": "and",
+    "1013": "slowly,",
+    "1014": "he",
+    "1015": "places",
+    "1016": "a",
+    "1017": "tray",
+    "1018": "on",
+    "1019": "the",
+    "1020": "dining",
+    "1021": "table,",
+    "1022": "cuts",
+    "1023": "off",
+    "1024": "the",
+    "1025": "edges",
+    "1026": "of",
+    "1027": "the",
+    "1028": "banana,",
+    "1029": "peels",
+    "1030": "it,",
+    "1031": "eats",
+    "1032": "it",
+    "1033": "with",
+    "1034": "a",
+    "1035": "fork",
+    "1036": "and",
+    "1037": "a",
+    "1038": "knife,",
+    "1039": "drinks",
+    "1040": "the",
+    "1041": "buttermilk,",
+    "1042": "wearing",
+    "1043": "white",
+    "1044": "surgical",
+    "1045": "gloves",
+    "1046": "the",
+    "1047": "entire",
+    "1048": "time.",
+    "1049": "CUT",
+    "1050": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "GOVARDHAN"
+      ],
+      "SET": [
+        "INT. GOVARDHAN\u2019S HOUSE-KITCHEN - DAY"
+      ],
+      "PROPS": [
+        "tray",
+        "dining table",
+        "banana",
+        "fork",
+        "knife",
+        "buttermilk",
+        "white surgical gloves"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1006"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "INT. GOVARDHAN\u2019S HOUSE-KITCHEN - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "tray",
+            "ids": [
+              "1017"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "dining table,",
+            "ids": [
+              "1020",
+              "1021"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "banana,",
+            "ids": [
+              "1028"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "fork",
+            "ids": [
+              "1035"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "knife,",
+            "ids": [
+              "1038"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "buttermilk,",
+            "ids": [
+              "1041"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "white surgical gloves",
+            "ids": [
+              "1043",
+              "1044",
+              "1045"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

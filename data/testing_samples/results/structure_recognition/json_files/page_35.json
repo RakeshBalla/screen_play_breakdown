@@ -1,0 +1,249 @@
+{
+  "page_dict": {
+    "alltext": "42 EXT. PUB-BACKSIDE - NIGHT\nVASU swaps the number plates on a container truck parked. He\ntakes sticks the number plate on an identical container\ntruck.\nVASU\nNakko thokkani thokaddam antey\nidhey nemo...number plate marchadam\ntho laksha kotlu kottesaam\nRAJU is seated in this truck. VASU climbs on and the two\ndrive off.\nCUT TO:",
+    "words_ids": {
+      "7916": "a",
+      "6868": "EXT.",
+      "1810": "PUB-BACKSIDE",
+      "8503": "-",
+      "6948": "NIGHT",
+      "5973": "VASU",
+      "5014": "swaps",
+      "2851": "the",
+      "9181": "number",
+      "6787": "plates",
+      "7682": "on",
+      "2465": "container",
+      "3451": "truck",
+      "7837": "parked.",
+      "5662": "He",
+      "1760": "takes",
+      "7264": "sticks",
+      "2500": "the",
+      "7419": "number",
+      "6026": "plate",
+      "9539": "on",
+      "6827": "an",
+      "4317": "identical",
+      "7690": "container",
+      "6431": "truck.",
+      "7312": "VASU",
+      "6482": "Nakko",
+      "4588": "thokkani",
+      "3426": "thokaddam",
+      "1230": "antey",
+      "7441": "idhey",
+      "4562": "nemo...number",
+      "2350": "plate",
+      "9787": "marchadam",
+      "6053": "tho",
+      "9784": "laksha",
+      "8199": "kotlu",
+      "1251": "kottesaam",
+      "5425": "RAJU",
+      "2027": "is",
+      "1946": "seated",
+      "2042": "in",
+      "2417": "this",
+      "6272": "truck.",
+      "3167": "VASU",
+      "2677": "climbs",
+      "6494": "on",
+      "5573": "and",
+      "8647": "the",
+      "4265": "two",
+      "5519": "drive",
+      "3542": "off.",
+      "7150": "CUT",
+      "5004": "TO:"
+    }
+  },
+  "sample_no": "sample4",
+  "pdf_file_name": "page_35.pdf",
+  "llm_response": {
+    "scene_number": [
+      42
+    ],
+    "slugline": {
+      "type": [
+        "EXT."
+      ],
+      "location": [
+        "PUB-BACKSIDE"
+      ],
+      "time_of_day": [
+        "NIGHT"
+      ]
+    },
+    "action_lines": [
+      "VASU swaps the number plates on a container truck parked. He\ntakes sticks the number plate on an identical container\ntruck.",
+      "RAJU is seated in this truck. VASU climbs on and the two\ndrive off."
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "VASU"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Nakko thokkani thokaddam antey\nidhey nemo...number plate marchadam\ntho laksha kotlu kottesaam"
+        ]
+      }
+    ],
+    "transitions": [
+      "CUT TO:"
+    ],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      {
+        "value": 42,
+        "ids": []
+      }
+    ],
+    "slugline": {
+      "type": [
+        {
+          "value": "EXT.",
+          "ids": [
+            6868
+          ]
+        }
+      ],
+      "location": [
+        {
+          "value": "PUB-BACKSIDE",
+          "ids": [
+            1810
+          ]
+        }
+      ],
+      "time_of_day": [
+        {
+          "value": "NIGHT",
+          "ids": [
+            6948
+          ]
+        }
+      ]
+    },
+    "action_lines": [
+      {
+        "value": "VASU swaps the number plates on a container truck parked. He\ntakes sticks the number plate on an identical container\ntruck.",
+        "ids": [
+          7916,
+          5973,
+          5014,
+          2851,
+          9181,
+          6787,
+          7682,
+          2465,
+          3451,
+          5662,
+          1760,
+          7264,
+          2500,
+          7419,
+          6026,
+          9539,
+          6827,
+          4317,
+          7690,
+          7312,
+          2350,
+          3167,
+          6494,
+          8647
+        ]
+      },
+      {
+        "value": "RAJU is seated in this truck. VASU climbs on and the two\ndrive off.",
+        "ids": [
+          5973,
+          2851,
+          7682,
+          3451,
+          2500,
+          9539,
+          7312,
+          5425,
+          2027,
+          1946,
+          2042,
+          2417,
+          3167,
+          2677,
+          6494,
+          5573,
+          8647,
+          4265,
+          5519
+        ]
+      }
+    ],
+    "dialogue": [
+      {
+        "character": [
+          {
+            "value": "VASU",
+            "ids": [
+              3167,
+              5973
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Nakko thokkani thokaddam antey\nidhey nemo...number plate marchadam\ntho laksha kotlu kottesaam",
+            "ids": [
+              9181,
+              7419,
+              6026,
+              6482,
+              4588,
+              3426,
+              1230,
+              7441,
+              2350,
+              9787,
+              6053,
+              9784,
+              8199,
+              1251
+            ]
+          }
+        ]
+      }
+    ],
+    "transitions": [
+      {
+        "value": "CUT TO:",
+        "ids": [
+          7150
+        ]
+      }
+    ],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

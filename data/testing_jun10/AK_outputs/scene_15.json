@@ -1,0 +1,138 @@
+{
+  "ALL_TEXT": "15 EXT. RUINED TEMPLE - NIGHT \nThe mute BUM sees the accident and gestures wildly to SURESH. \nHe turns off the radio and continues gesturing, when SURESH \nhits him on the head in an attempt to calm him. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "15",
+    "1001": "EXT.",
+    "1002": "RUINED",
+    "1003": "TEMPLE",
+    "1004": "-",
+    "1005": "NIGHT",
+    "1006": "The",
+    "1007": "mute",
+    "1008": "BUM",
+    "1009": "sees",
+    "1010": "the",
+    "1011": "accident",
+    "1012": "and",
+    "1013": "gestures",
+    "1014": "wildly",
+    "1015": "to",
+    "1016": "SURESH.",
+    "1017": "He",
+    "1018": "turns",
+    "1019": "off",
+    "1020": "the",
+    "1021": "radio",
+    "1022": "and",
+    "1023": "continues",
+    "1024": "gesturing,",
+    "1025": "when",
+    "1026": "SURESH",
+    "1027": "hits",
+    "1028": "him",
+    "1029": "on",
+    "1030": "the",
+    "1031": "head",
+    "1032": "in",
+    "1033": "an",
+    "1034": "attempt",
+    "1035": "to",
+    "1036": "calm",
+    "1037": "him.",
+    "1038": "CUT",
+    "1039": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "BUM",
+        "SURESH"
+      ],
+      "SET": [
+        "EXT. RUINED TEMPLE - NIGHT"
+      ],
+      "PROPS": [
+        "radio"
+      ],
+      "STUNTS": [
+        "hits him on the head"
+      ],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "BUM",
+            "ids": [
+              "1008"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "SURESH",
+            "ids": [
+              "1026"
+            ]
+          },
+          {
+            "value": "SURESH.",
+            "ids": [
+              "1016"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. RUINED TEMPLE - NIGHT",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "radio",
+            "ids": [
+              "1021"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [
+        [
+          {
+            "value": "hits him on the head",
+            "ids": [
+              "1027",
+              "1028",
+              "1029",
+              "1030",
+              "1031"
+            ]
+          }
+        ]
+      ],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

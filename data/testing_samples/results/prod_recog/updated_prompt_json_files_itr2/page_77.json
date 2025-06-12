@@ -1,0 +1,126 @@
+{
+  "sample_no": "sample5",
+  "pdf_file_name": "page_77.pdf",
+  "alltext": "76.\nSULOCHANA\nNuvvu anni tingari tingari gaa\nmatladtunnaavu, Okkasaari Baba ni\nkalisi vastha...Aayana chaala\nmanchi vaaru... nenani theleedemo..\nAedo mis-understanding.\nVEDA\nAmaayakathvama, balupa?... Inka\nmanchi vaarantaav enti?...\nNot heeding VEDA, she briskly walks towards BABA's chambers.\nVEDA and GOVARDHAN soon follow.\nCUT TO:",
+  "words_ids": {
+    "1000": "76.",
+    "1001": "SULOCHANA",
+    "1002": "Nuvvu",
+    "1003": "anni",
+    "1004": "tingari",
+    "1005": "tingari",
+    "1006": "gaa",
+    "1007": "matladtunnaavu,",
+    "1008": "Okkasaari",
+    "1009": "Baba",
+    "1010": "ni",
+    "1011": "kalisi",
+    "1012": "vastha...Aayana",
+    "1013": "chaala",
+    "1014": "manchi",
+    "1015": "vaaru...",
+    "1016": "nenani",
+    "1017": "theleedemo..",
+    "1018": "Aedo",
+    "1019": "mis-understanding.",
+    "1020": "VEDA",
+    "1021": "Amaayakathvama,",
+    "1022": "balupa?...",
+    "1023": "Inka",
+    "1024": "manchi",
+    "1025": "vaarantaav",
+    "1026": "enti?...",
+    "1027": "Not",
+    "1028": "heeding",
+    "1029": "VEDA,",
+    "1030": "she",
+    "1031": "briskly",
+    "1032": "walks",
+    "1033": "towards",
+    "1034": "BABA's",
+    "1035": "chambers.",
+    "1036": "VEDA",
+    "1037": "and",
+    "1038": "GOVARDHAN",
+    "1039": "soon",
+    "1040": "follow.",
+    "1041": "CUT",
+    "1042": "TO:"
+  },
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "SULOCHANA",
+        "VEDA",
+        "GOVARDHAN",
+        "BABA"
+      ],
+      "SET": [],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1001"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1020"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1036"
+            ]
+          },
+          {
+            "value": "VEDA,",
+            "ids": [
+              "1029"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1038"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "Baba",
+            "ids": [
+              "1009"
+            ]
+          }
+        ]
+      ],
+      "SET": [],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

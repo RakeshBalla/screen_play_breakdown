@@ -1,0 +1,406 @@
+{
+  "page_dict": {
+    "alltext": "33.\nSHAM GOPAL VERMA\nEnti raa ee torture, entha weed\nkotti dorikesta ila kattestaavaa\nSUBBA RAJU\nSir, sir, aipoindi sir, inko oka\nrendu rasaalu\nSHAM GOPAL VERMA(V.O)\n(Frustrated)\nMari adhe aydho cheyyi raa, malli\ncheptaaventi raa geddam maasina\ngamma...\nWhile performing, SUBBA RAJU sees the COMMISSIONER, turns and\nstarts to runs away. He looks at SHAM GOPAL VERMA\nSUBBA RAJU\nMalli sayantram kalustaanu sir\nSHAM GOPAL VERMA\nRei, idem torture raa! Katlu ippi\nellu raa..\nCUT TO:",
+    "words_ids": {
+      "2901": "33.",
+      "7545": "SHAM",
+      "5538": "GOPAL",
+      "1190": "VERMA",
+      "5126": "Enti",
+      "2181": "raa",
+      "6166": "COMMISSIONER,",
+      "6612": "torture,",
+      "6183": "entha",
+      "5743": "weed",
+      "3633": "kotti",
+      "7791": "dorikesta",
+      "9837": "ila",
+      "4573": "kattestaavaa",
+      "3038": "SUBBA",
+      "5955": "RAJU",
+      "7002": "Sir,",
+      "3279": "sir,",
+      "2286": "aipoindi",
+      "2012": "sir,",
+      "2594": "inko",
+      "1000": "oka",
+      "5791": "rendu",
+      "3206": "rasaalu",
+      "9915": "SHAM",
+      "5080": "GOPAL",
+      "6519": "VERMA(V.O)",
+      "6309": "(Frustrated)",
+      "8470": "Mari",
+      "8269": "adhe",
+      "7657": "aydho",
+      "9205": "cheyyi",
+      "3110": "raa,",
+      "2086": "malli",
+      "3334": "cheptaaventi",
+      "8220": "raa",
+      "6173": "geddam",
+      "7860": "maasina",
+      "3298": "gamma...",
+      "2269": "While",
+      "8099": "performing,",
+      "4540": "SUBBA",
+      "2661": "RAJU",
+      "1886": "sees",
+      "4974": "the",
+      "2732": "turns",
+      "2609": "and",
+      "7349": "starts",
+      "9125": "to",
+      "5513": "runs",
+      "1424": "away.",
+      "1869": "He",
+      "9306": "looks",
+      "9663": "at",
+      "5821": "SHAM",
+      "3887": "GOPAL",
+      "8386": "VERMA",
+      "7953": "SUBBA",
+      "5758": "RAJU",
+      "8987": "Malli",
+      "9680": "sayantram",
+      "7530": "kalustaanu",
+      "1555": "sir",
+      "7204": "SHAM",
+      "2858": "GOPAL",
+      "8723": "VERMA",
+      "9803": "Rei,",
+      "6160": "idem",
+      "8855": "torture",
+      "1120": "raa!",
+      "6493": "Katlu",
+      "5727": "ippi",
+      "5582": "ellu",
+      "6994": "raa..",
+      "9328": "CUT",
+      "3867": "TO:"
+    }
+  },
+  "sample_no": "sample3",
+  "pdf_file_name": "page_34.pdf",
+  "llm_response": {
+    "scene_number": [
+      33
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      "While performing, SUBBA RAJU sees the COMMISSIONER, turns and\nstarts to runs away. He looks at SHAM GOPAL VERMA"
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "SHAM GOPAL VERMA"
+        ],
+        "extension": [],
+        "parenthetical": [],
+        "text": [
+          "Enti raa ee torture, entha weed\nkotti dorikesta ila kattestaavaa"
+        ]
+      },
+      {
+        "character": [
+          "SUBBA RAJU"
+        ],
+        "extension": [],
+        "parenthetical": [],
+        "text": [
+          "Sir, sir, aipoindi sir, inko oka\nrendu rasaalu"
+        ]
+      },
+      {
+        "character": [
+          "SHAM GOPAL VERMA"
+        ],
+        "extension": [
+          "(V.O)"
+        ],
+        "parenthetical": [
+          "(Frustrated)"
+        ],
+        "text": [
+          "Mari adhe aydho cheyyi raa, malli\ncheptaaventi raa geddam maasina\ngamma..."
+        ]
+      },
+      {
+        "character": [
+          "SUBBA RAJU"
+        ],
+        "extension": [],
+        "parenthetical": [],
+        "text": [
+          "Malli sayantram kalustaanu sir"
+        ]
+      },
+      {
+        "character": [
+          "SHAM GOPAL VERMA"
+        ],
+        "extension": [],
+        "parenthetical": [],
+        "text": [
+          "Rei, idem torture raa! Katlu ippi\nellu raa.."
+        ]
+      }
+    ],
+    "transitions": [
+      "CUT TO:"
+    ],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      {
+        "value": 33,
+        "ids": []
+      }
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      {
+        "value": "While performing, SUBBA RAJU sees the COMMISSIONER, turns and\nstarts to runs away. He looks at SHAM GOPAL VERMA",
+        "ids": [
+          7545,
+          5538,
+          1190,
+          3038,
+          5955,
+          9915,
+          5080,
+          2269,
+          4540,
+          2661,
+          1886,
+          4974,
+          2732,
+          2609,
+          7349,
+          9125,
+          5513,
+          1869,
+          9306,
+          9663,
+          5821,
+          3887,
+          8386,
+          7953,
+          5758,
+          7204,
+          2858,
+          8723
+        ]
+      }
+    ],
+    "dialogue": [
+      {
+        "character": [
+          {
+            "value": "SHAM GOPAL VERMA",
+            "ids": [
+              7545,
+              5538,
+              1190,
+              9915,
+              5080,
+              5821,
+              3887,
+              8386,
+              7204,
+              2858,
+              8723
+            ]
+          }
+        ],
+        "extension": [],
+        "parenthetical": [],
+        "text": [
+          {
+            "value": "Enti raa ee torture, entha weed\nkotti dorikesta ila kattestaavaa",
+            "ids": [
+              5126,
+              2181,
+              6183,
+              5743,
+              3633,
+              7791,
+              9837,
+              4573,
+              8220,
+              8855
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              3038,
+              5955,
+              4540,
+              2661,
+              7953,
+              5758
+            ]
+          }
+        ],
+        "extension": [],
+        "parenthetical": [],
+        "text": [
+          {
+            "value": "Sir, sir, aipoindi sir, inko oka\nrendu rasaalu",
+            "ids": [
+              2286,
+              2594,
+              1000,
+              5791,
+              3206,
+              1555
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "SHAM GOPAL VERMA",
+            "ids": [
+              7545,
+              5538,
+              1190,
+              9915,
+              5080,
+              5821,
+              3887,
+              8386,
+              7204,
+              2858,
+              8723
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": "(V.O)",
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "(Frustrated)",
+            "ids": [
+              6309
+            ]
+          }
+        ],
+        "text": [
+          {
+            "value": "Mari adhe aydho cheyyi raa, malli\ncheptaaventi raa geddam maasina\ngamma...",
+            "ids": [
+              2181,
+              8470,
+              8269,
+              7657,
+              9205,
+              2086,
+              3334,
+              8220,
+              6173,
+              7860,
+              8987
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              3038,
+              5955,
+              4540,
+              2661,
+              7953,
+              5758
+            ]
+          }
+        ],
+        "extension": [],
+        "parenthetical": [],
+        "text": [
+          {
+            "value": "Malli sayantram kalustaanu sir",
+            "ids": [
+              2086,
+              8987,
+              9680,
+              7530,
+              1555
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "SHAM GOPAL VERMA",
+            "ids": [
+              7545,
+              5538,
+              1190,
+              9915,
+              5080,
+              5821,
+              3887,
+              8386,
+              7204,
+              2858,
+              8723
+            ]
+          }
+        ],
+        "extension": [],
+        "parenthetical": [],
+        "text": [
+          {
+            "value": "Rei, idem torture raa! Katlu ippi\nellu raa..",
+            "ids": [
+              2181,
+              8220,
+              6160,
+              8855,
+              6493,
+              5727,
+              5582
+            ]
+          }
+        ]
+      }
+    ],
+    "transitions": [
+      {
+        "value": "CUT TO:",
+        "ids": [
+          9125,
+          9328
+        ]
+      }
+    ],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

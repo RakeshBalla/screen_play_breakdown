@@ -1,0 +1,460 @@
+{
+  "ALL_TEXT": "62 EXT. ROAD - DAY \nVEDA, tense, drives, PUG in tow, as a fidgety GOVARDHAN rides \npillion. \nVEDA \nAe! manam paaripothunte aa rendo \nvekthi mana venakaale parigethaadu, \ngurthuleda? Appatiki nenu rear view \nlo aa modati vekthi levatam kuda \nchusaanu. Iddaru brathike unnaaru \nmanam paaripoyetappatiki... Aina \nnenu emanna kathi tho podichaana, \nsteel rod tho kottaana? Thokkalo \noka dabba. Deentho maha ante oh \npedda bodipe vasthadi...manishi \nchache antha scene ledu.... \nGOVARDHAN \nSare ippudu logic lu cheppatam \nkaadu, Em cheddamo cheppu.... Naaku \ntension tho chematochesthundi.... \nVEDA stops his bike and calls SULOCHANA. \nSULOCHANA (O.S.) \n(groggy) \nBudhunda? Intha podduna chesthaada \nevadanna? \nA thought bubble appears over his head, which shows SULOCHANA \ntalking about waking up early in the past \nVEDA \nAmmayilante epaatiki lesi, pujchesi \ninti mundu muggesthundaali... aa \nlakshanaalemi lenattunnai! \nSULOCHANA (O.S.) \nEkkuva maatlaadaku... thommidintiki \nOlive Bistro ki ochi dabbu \ntheesukellu. Kukka baagunda? \nVEDA \nBaane undi le... \nThe phone call ends. \nEkkadiki? \nGOVARDHAN \nVEDA \nTabula Rasa ki. Aa ammaayiki kukka \nni ichi dabbu thesukovaali... \nGOVARDHAN \nAmmaaya??? Nenu raanu... \nVEDA \nPrathi daaniki addu veyaala? \nUndikkade. Nenelthunna. \nGOVARDHAN \nNannikade vadilesi pothaava... \nAfter all we've been through!! \nVEDA \nEnti all we've been through??? Em \nayyindi?? Rojuki lakshamandi \nkottukuntaaru road meeda... \nandarini patti jailo vesthaara?? \nNuvvu tension padi nannu tension \npettoddhu...evado chani pothe \nmanalni enduku pattukuntaaru... \nassalu chanipoindi inkevaro ayi \nuntaaru... mana vaallu \nvellintharavaatha inkevaro ochi edo \nthannukuni untaaru... \nGOVARDHAN \nAnthenantaava?? \nVEDA \nAnthe... nuvvu cinema story anni \nnannu saavagottadu. \nGOVARDHAN \nSare... ippudenti? \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "62",
+    "1001": "EXT.",
+    "1002": "ROAD",
+    "1003": "-",
+    "1004": "DAY",
+    "1005": "VEDA,",
+    "1006": "tense,",
+    "1007": "drives,",
+    "1008": "PUG",
+    "1009": "in",
+    "1010": "tow,",
+    "1011": "as",
+    "1012": "a",
+    "1013": "fidgety",
+    "1014": "GOVARDHAN",
+    "1015": "rides",
+    "1016": "pillion.",
+    "1017": "VEDA",
+    "1018": "Ae!",
+    "1019": "manam",
+    "1020": "paaripothunte",
+    "1021": "aa",
+    "1022": "rendo",
+    "1023": "vekthi",
+    "1024": "mana",
+    "1025": "venakaale",
+    "1026": "parigethaadu,",
+    "1027": "gurthuleda?",
+    "1028": "Appatiki",
+    "1029": "nenu",
+    "1030": "rear",
+    "1031": "view",
+    "1032": "lo",
+    "1033": "aa",
+    "1034": "modati",
+    "1035": "vekthi",
+    "1036": "levatam",
+    "1037": "kuda",
+    "1038": "chusaanu.",
+    "1039": "Iddaru",
+    "1040": "brathike",
+    "1041": "unnaaru",
+    "1042": "manam",
+    "1043": "paaripoyetappatiki...",
+    "1044": "Aina",
+    "1045": "nenu",
+    "1046": "emanna",
+    "1047": "kathi",
+    "1048": "tho",
+    "1049": "podichaana,",
+    "1050": "steel",
+    "1051": "rod",
+    "1052": "tho",
+    "1053": "kottaana?",
+    "1054": "Thokkalo",
+    "1055": "oka",
+    "1056": "dabba.",
+    "1057": "Deentho",
+    "1058": "maha",
+    "1059": "ante",
+    "1060": "oh",
+    "1061": "pedda",
+    "1062": "bodipe",
+    "1063": "vasthadi...manishi",
+    "1064": "chache",
+    "1065": "antha",
+    "1066": "scene",
+    "1067": "ledu....",
+    "1068": "GOVARDHAN",
+    "1069": "Sare",
+    "1070": "ippudu",
+    "1071": "logic",
+    "1072": "lu",
+    "1073": "cheppatam",
+    "1074": "kaadu,",
+    "1075": "Em",
+    "1076": "cheddamo",
+    "1077": "cheppu....",
+    "1078": "Naaku",
+    "1079": "tension",
+    "1080": "tho",
+    "1081": "chematochesthundi....",
+    "1082": "VEDA",
+    "1083": "stops",
+    "1084": "his",
+    "1085": "bike",
+    "1086": "and",
+    "1087": "calls",
+    "1088": "SULOCHANA.",
+    "1089": "SULOCHANA",
+    "1090": "(O.S.)",
+    "1091": "(groggy)",
+    "1092": "Budhunda?",
+    "1093": "Intha",
+    "1094": "podduna",
+    "1095": "chesthaada",
+    "1096": "evadanna?",
+    "1097": "A",
+    "1098": "thought",
+    "1099": "bubble",
+    "1100": "appears",
+    "1101": "over",
+    "1102": "his",
+    "1103": "head,",
+    "1104": "which",
+    "1105": "shows",
+    "1106": "SULOCHANA",
+    "1107": "talking",
+    "1108": "about",
+    "1109": "waking",
+    "1110": "up",
+    "1111": "early",
+    "1112": "in",
+    "1113": "the",
+    "1114": "past",
+    "1115": "VEDA",
+    "1116": "Ammayilante",
+    "1117": "epaatiki",
+    "1118": "lesi,",
+    "1119": "pujchesi",
+    "1120": "inti",
+    "1121": "mundu",
+    "1122": "muggesthundaali...",
+    "1123": "aa",
+    "1124": "lakshanaalemi",
+    "1125": "lenattunnai!",
+    "1126": "SULOCHANA",
+    "1127": "(O.S.)",
+    "1128": "Ekkuva",
+    "1129": "maatlaadaku...",
+    "1130": "thommidintiki",
+    "1131": "Olive",
+    "1132": "Bistro",
+    "1133": "ki",
+    "1134": "ochi",
+    "1135": "dabbu",
+    "1136": "theesukellu.",
+    "1137": "Kukka",
+    "1138": "baagunda?",
+    "1139": "VEDA",
+    "1140": "Baane",
+    "1141": "undi",
+    "1142": "le...",
+    "1143": "The",
+    "1144": "phone",
+    "1145": "call",
+    "1146": "ends.",
+    "1147": "Ekkadiki?",
+    "1148": "GOVARDHAN",
+    "1149": "VEDA",
+    "1150": "Tabula",
+    "1151": "Rasa",
+    "1152": "ki.",
+    "1153": "Aa",
+    "1154": "ammaayiki",
+    "1155": "kukka",
+    "1156": "ni",
+    "1157": "ichi",
+    "1158": "dabbu",
+    "1159": "thesukovaali...",
+    "1160": "GOVARDHAN",
+    "1161": "Ammaaya???",
+    "1162": "Nenu",
+    "1163": "raanu...",
+    "1164": "VEDA",
+    "1165": "Prathi",
+    "1166": "daaniki",
+    "1167": "addu",
+    "1168": "veyaala?",
+    "1169": "Undikkade.",
+    "1170": "Nenelthunna.",
+    "1171": "GOVARDHAN",
+    "1172": "Nannikade",
+    "1173": "vadilesi",
+    "1174": "pothaava...",
+    "1175": "After",
+    "1176": "all",
+    "1177": "we've",
+    "1178": "been",
+    "1179": "through!!",
+    "1180": "VEDA",
+    "1181": "Enti",
+    "1182": "all",
+    "1183": "we've",
+    "1184": "been",
+    "1185": "through???",
+    "1186": "Em",
+    "1187": "ayyindi??",
+    "1188": "Rojuki",
+    "1189": "lakshamandi",
+    "1190": "kottukuntaaru",
+    "1191": "road",
+    "1192": "meeda...",
+    "1193": "andarini",
+    "1194": "patti",
+    "1195": "jailo",
+    "1196": "vesthaara??",
+    "1197": "Nuvvu",
+    "1198": "tension",
+    "1199": "padi",
+    "1200": "nannu",
+    "1201": "tension",
+    "1202": "pettoddhu...evado",
+    "1203": "chani",
+    "1204": "pothe",
+    "1205": "manalni",
+    "1206": "enduku",
+    "1207": "pattukuntaaru...",
+    "1208": "assalu",
+    "1209": "chanipoindi",
+    "1210": "inkevaro",
+    "1211": "ayi",
+    "1212": "untaaru...",
+    "1213": "mana",
+    "1214": "vaallu",
+    "1215": "vellintharavaatha",
+    "1216": "inkevaro",
+    "1217": "ochi",
+    "1218": "edo",
+    "1219": "thannukuni",
+    "1220": "untaaru...",
+    "1221": "GOVARDHAN",
+    "1222": "Anthenantaava??",
+    "1223": "VEDA",
+    "1224": "Anthe...",
+    "1225": "nuvvu",
+    "1226": "cinema",
+    "1227": "story",
+    "1228": "anni",
+    "1229": "nannu",
+    "1230": "saavagottadu.",
+    "1231": "GOVARDHAN",
+    "1232": "Sare...",
+    "1233": "ippudenti?",
+    "1234": "CUT",
+    "1235": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "VEDA",
+        "GOVARDHAN",
+        "SULOCHANA"
+      ],
+      "SET": [
+        "EXT. ROAD - DAY"
+      ],
+      "PROPS": [
+        "phone"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        "bike"
+      ],
+      "ANIMALS": [
+        "PUG",
+        "Kukka"
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1017"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1082"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1115"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1139"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1149"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1164"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1180"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1223"
+            ]
+          },
+          {
+            "value": "VEDA,",
+            "ids": [
+              "1005"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1014"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1068"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1148"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1160"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1171"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1221"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1231"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1089"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1106"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1126"
+            ]
+          },
+          {
+            "value": "SULOCHANA.",
+            "ids": [
+              "1088"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. ROAD - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "phone",
+            "ids": [
+              "1144"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        [
+          {
+            "value": "bike",
+            "ids": [
+              "1085"
+            ]
+          }
+        ]
+      ],
+      "ANIMALS": [
+        [
+          {
+            "value": "PUG",
+            "ids": [
+              "1008"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "Kukka",
+            "ids": [
+              "1137"
+            ]
+          },
+          {
+            "value": "kukka",
+            "ids": [
+              "1155"
+            ]
+          }
+        ]
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

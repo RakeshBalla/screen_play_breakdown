@@ -1,0 +1,840 @@
+{
+  "page_dict": {
+    "alltext": "17.\nBHANU\nThesko..malli prodhunavaraku room\nki osthey adugu\nVEDA looks at the clock, which shows 5:00 a.m.\nVEDA\nRey idhi..idhi..naa card raa...nee\ndhaggarikela vachindhi?\nBHANU\n(pissed)\nMorning I borrowed it\nVEDA\nAdigi theskunte borrow\nraa..adakkunda thiskunte\ndhobbeyadam antaruu\nBHANU\nEdichav..bodi card. Okka party ke\nlimit challe.\nVEDA\nRey..limit 30 veluraa!!\nFREEZE FRAME\nNARRATOR (V.O.)\nIthanu oo pedda software\nengineer...\n(sarcastically)\nokappudu. Ippudu paedha software\nengineer. Yeppatiki bench meeda\nvundalanukunnaadu.. Kaani company\nbenche laagesindi..anthey. Aa\nbhadhalonchi therukune lopu\nkudhirina pelli cancel ayyindhi.\nNARRATOR (V.O.)\nPelli kudhirindhanna santhosham lo\npartylu, shoppinglu antu cardulu\nviparithanga geekadu..appula\nbaadha, recovery agents gola\nperigipoyindhi, dhaaniki thodu\nthagubothu roommate dorikina\ndabbulu dorikinattu\nethukelthaadu..ippudu karchulaki\ndabbulu levu, gikadaaniki cardulu\nlevu, by the way..peru Veda\nShankar.\nCUT TO:",
+    "words_ids": {
+      "8614": "17.",
+      "7734": "BHANU",
+      "9521": "Thesko..malli",
+      "6107": "prodhunavaraku",
+      "6552": "room",
+      "4679": "ki",
+      "2301": "osthey",
+      "8441": "adugu",
+      "2692": "VEDA",
+      "4162": "looks",
+      "4858": "at",
+      "5343": "the",
+      "8909": "clock,",
+      "4197": "which",
+      "9538": "shows",
+      "5357": "5:00",
+      "7637": "a.m.",
+      "6344": "VEDA",
+      "9176": "Rey",
+      "8121": "idhi..idhi..naa",
+      "1179": "card",
+      "8295": "raa...nee",
+      "8191": "dhaggarikela",
+      "2971": "vachindhi?",
+      "1075": "BHANU",
+      "9782": "(pissed)",
+      "2186": "Morning",
+      "2324": "I",
+      "3474": "borrowed",
+      "1988": "it",
+      "1427": "VEDA",
+      "4171": "Adigi",
+      "8566": "theskunte",
+      "8389": "borrow",
+      "8363": "raa..adakkunda",
+      "9909": "thiskunte",
+      "4107": "dhobbeyadam",
+      "2070": "antaruu",
+      "8038": "BHANU",
+      "3764": "Edichav..bodi",
+      "1321": "card.",
+      "7851": "Okka",
+      "6892": "party",
+      "8850": "ke",
+      "8413": "limit",
+      "8823": "challe.",
+      "5040": "VEDA",
+      "5593": "Rey..limit",
+      "4956": "30",
+      "2432": "veluraa!!",
+      "6223": "FREEZE",
+      "3470": "FRAME",
+      "8087": "NARRATOR",
+      "6391": "(V.O.)",
+      "9831": "Ithanu",
+      "3089": "oo",
+      "1477": "pedda",
+      "5360": "software",
+      "6923": "engineer...",
+      "7570": "(sarcastically)",
+      "6932": "okappudu.",
+      "6566": "Ippudu",
+      "3862": "paedha",
+      "9336": "software",
+      "9277": "engineer.",
+      "8114": "Yeppatiki",
+      "6032": "bench",
+      "1380": "meeda",
+      "8300": "vundalanukunnaadu..",
+      "5253": "Kaani",
+      "3965": "baadha,",
+      "9913": "benche",
+      "5445": "laagesindi..anthey.",
+      "7279": "Aa",
+      "6433": "bhadhalonchi",
+      "8260": "therukune",
+      "7968": "lopu",
+      "9685": "kudhirina",
+      "8364": "pelli",
+      "8485": "cancel",
+      "3514": "ayyindhi.",
+      "8750": "NARRATOR",
+      "1570": "(V.O.)",
+      "7205": "Pelli",
+      "8161": "kudhirindhanna",
+      "2087": "santhosham",
+      "7347": "lo",
+      "9542": "partylu,",
+      "3598": "shoppinglu",
+      "1936": "antu",
+      "3726": "cardulu",
+      "9718": "viparithanga",
+      "5645": "geekadu..appula",
+      "2018": "recovery",
+      "4921": "agents",
+      "7130": "gola",
+      "9919": "perigipoyindhi,",
+      "6478": "dhaaniki",
+      "7824": "thodu",
+      "4014": "thagubothu",
+      "5059": "roommate",
+      "8947": "dorikina",
+      "9486": "dabbulu",
+      "6949": "dorikinattu",
+      "1654": "ethukelthaadu..ippudu",
+      "5423": "karchulaki",
+      "6403": "dabbulu",
+      "8355": "levu,",
+      "7863": "gikadaaniki",
+      "1520": "cardulu",
+      "6850": "levu,",
+      "3937": "by",
+      "3130": "the",
+      "9375": "way..peru",
+      "1934": "Veda",
+      "2290": "Shankar.",
+      "5566": "CUT",
+      "5221": "TO:"
+    }
+  },
+  "sample_no": "sample1",
+  "pdf_file_name": "page_18.pdf",
+  "llm_response": {
+    "scene_number": [
+      "17"
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      "VEDA looks at the clock, which shows 5:00 a.m.",
+      "FREEZE FRAME"
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "BHANU"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Thesko..malli prodhunavaraku room",
+          "ki osthey adugu"
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Rey idhi..idhi..naa card raa...nee",
+          "dhaggarikela vachindhi?"
+        ]
+      },
+      {
+        "character": [
+          "BHANU"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          "(pissed)"
+        ],
+        "text": [
+          "Morning I borrowed it"
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Adigi theskunte borrow",
+          "raa..adakkunda thiskunte",
+          "dhobbeyadam antaruu"
+        ]
+      },
+      {
+        "character": [
+          "BHANU"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Edichav..bodi card. Okka party ke",
+          "limit challe."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Rey..limit 30 veluraa!!"
+        ]
+      },
+      {
+        "character": [
+          "NARRATOR"
+        ],
+        "extension": [
+          "(V.O.)"
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Ithanu oo pedda software",
+          "engineer..."
+        ]
+      },
+      {
+        "character": [
+          "NARRATOR"
+        ],
+        "extension": [
+          "(V.O.)"
+        ],
+        "parenthetical": [
+          "(sarcastically)"
+        ],
+        "text": [
+          "okappudu. Ippudu paedha software",
+          "engineer. Yeppatiki bench meeda",
+          "vundalanukunnaadu.. Kaani company",
+          "benche laagesindi..anthey. Aa",
+          "bhadhalonchi therukune lopu",
+          "kudhirina pelli cancel ayyindhi."
+        ]
+      },
+      {
+        "character": [
+          "NARRATOR"
+        ],
+        "extension": [
+          "(V.O.)"
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Pelli kudhirindhanna santhosham lo",
+          "partylu, shoppinglu antu cardulu",
+          "viparithanga geekadu..appula",
+          "baadha, recovery agents gola",
+          "perigipoyindhi, dhaaniki thodu",
+          "thagubothu roommate dorikina",
+          "dabbulu dorikinattu",
+          "ethukelthaadu..ippudu karchulaki",
+          "dabbulu levu, gikadaaniki cardulu",
+          "levu, by the way..peru Veda",
+          "Shankar."
+        ]
+      }
+    ],
+    "transitions": [
+      "CUT TO:"
+    ],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      {
+        "value": "17",
+        "ids": []
+      }
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      {
+        "value": "VEDA looks at the clock, which shows 5:00 a.m.",
+        "ids": [
+          2692,
+          4162,
+          4858,
+          5343,
+          4197,
+          9538,
+          6344,
+          1427,
+          5040,
+          3130,
+          1934
+        ]
+      },
+      {
+        "value": "FREEZE FRAME",
+        "ids": [
+          6223,
+          3470
+        ]
+      }
+    ],
+    "dialogue": [
+      {
+        "character": [
+          {
+            "value": "BHANU",
+            "ids": [
+              1075,
+              7734
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Thesko..malli prodhunavaraku room",
+            "ids": [
+              6107,
+              6552
+            ]
+          },
+          {
+            "value": "ki osthey adugu",
+            "ids": [
+              4679,
+              2301,
+              8441
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              1427,
+              1934
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              2692,
+              5040
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Rey idhi..idhi..naa card raa...nee",
+            "ids": [
+              9176,
+              1179
+            ]
+          },
+          {
+            "value": "dhaggarikela vachindhi?",
+            "ids": [
+              8191
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "BHANU",
+            "ids": [
+              1075,
+              7734
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "(pissed)",
+            "ids": [
+              9782
+            ]
+          }
+        ],
+        "text": [
+          {
+            "value": "Morning I borrowed it",
+            "ids": [
+              2186,
+              2324,
+              3474,
+              1988
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              1427,
+              1934
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              2692,
+              5040
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Adigi theskunte borrow",
+            "ids": [
+              4171,
+              8566,
+              8389
+            ]
+          },
+          {
+            "value": "raa..adakkunda thiskunte",
+            "ids": [
+              9909
+            ]
+          },
+          {
+            "value": "dhobbeyadam antaruu",
+            "ids": [
+              4107,
+              2070
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "BHANU",
+            "ids": [
+              1075,
+              7734
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Edichav..bodi card. Okka party ke",
+            "ids": [
+              1179,
+              7851,
+              6892,
+              8850
+            ]
+          },
+          {
+            "value": "limit challe.",
+            "ids": [
+              8413
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              1427,
+              1934
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              2692,
+              5040
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Rey..limit 30 veluraa!!",
+            "ids": [
+              9176,
+              8413,
+              4956
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "NARRATOR",
+            "ids": [
+              8087,
+              8750
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": "(V.O.)",
+            "ids": [
+              1570,
+              6391
+            ]
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Ithanu oo pedda software",
+            "ids": [
+              9831,
+              3089,
+              1477,
+              5360,
+              9336
+            ]
+          },
+          {
+            "value": "engineer...",
+            "ids": [
+              6923
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "NARRATOR",
+            "ids": [
+              8087,
+              8750
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": "(V.O.)",
+            "ids": [
+              1570,
+              6391
+            ]
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "(sarcastically)",
+            "ids": [
+              7570
+            ]
+          }
+        ],
+        "text": [
+          {
+            "value": "okappudu. Ippudu paedha software",
+            "ids": [
+              5360,
+              6566,
+              3862,
+              9336
+            ]
+          },
+          {
+            "value": "engineer. Yeppatiki bench meeda",
+            "ids": [
+              8114,
+              6032,
+              1380
+            ]
+          },
+          {
+            "value": "vundalanukunnaadu.. Kaani company",
+            "ids": [
+              5253
+            ]
+          },
+          {
+            "value": "benche laagesindi..anthey. Aa",
+            "ids": [
+              9913,
+              7279
+            ]
+          },
+          {
+            "value": "bhadhalonchi therukune lopu",
+            "ids": [
+              6433,
+              8260,
+              7968
+            ]
+          },
+          {
+            "value": "kudhirina pelli cancel ayyindhi.",
+            "ids": [
+              9685,
+              8364,
+              8485,
+              7205
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "NARRATOR",
+            "ids": [
+              8087,
+              8750
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": "(V.O.)",
+            "ids": [
+              1570,
+              6391
+            ]
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Pelli kudhirindhanna santhosham lo",
+            "ids": [
+              8364,
+              7205,
+              8161,
+              2087,
+              7347
+            ]
+          },
+          {
+            "value": "partylu, shoppinglu antu cardulu",
+            "ids": [
+              3598,
+              1936,
+              3726,
+              1520
+            ]
+          },
+          {
+            "value": "viparithanga geekadu..appula",
+            "ids": [
+              9718
+            ]
+          },
+          {
+            "value": "baadha, recovery agents gola",
+            "ids": [
+              2018,
+              4921,
+              7130
+            ]
+          },
+          {
+            "value": "perigipoyindhi, dhaaniki thodu",
+            "ids": [
+              6478,
+              7824
+            ]
+          },
+          {
+            "value": "thagubothu roommate dorikina",
+            "ids": [
+              4014,
+              5059,
+              8947
+            ]
+          },
+          {
+            "value": "dabbulu dorikinattu",
+            "ids": [
+              9486,
+              6949,
+              6403
+            ]
+          },
+          {
+            "value": "ethukelthaadu..ippudu karchulaki",
+            "ids": [
+              6566,
+              5423
+            ]
+          },
+          {
+            "value": "dabbulu levu, gikadaaniki cardulu",
+            "ids": [
+              3726,
+              9486,
+              6403,
+              7863,
+              1520
+            ]
+          },
+          {
+            "value": "levu, by the way..peru Veda",
+            "ids": [
+              2692,
+              5343,
+              6344,
+              1427,
+              5040,
+              3937,
+              3130,
+              1934
+            ]
+          },
+          {
+            "value": "Shankar.",
+            "ids": [
+              2290
+            ]
+          }
+        ]
+      }
+    ],
+    "transitions": [
+      {
+        "value": "CUT TO:",
+        "ids": [
+          5566
+        ]
+      }
+    ],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

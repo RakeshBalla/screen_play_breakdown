@@ -1,0 +1,16 @@
+generate_summary >>>>>>>>>>>
+[2025-06-03 01:27:26.358100] Time taken ==> 173.05 seconds.
+2025-06-03 01:27:26,358 - INFO - Generated summary for chunk 1
+2025-06-03 01:27:26,358 - INFO - Generating summary for chunk 2/2...
+generate_summary >>>>>>>>>>>
+[2025-06-03 01:29:21.275488] Time taken ==> 114.92 seconds.
+2025-06-03 01:29:21,275 - INFO - Generated summary for chunk 2
+2025-06-03 01:29:21,275 - INFO - Generating combined coverage report...
+generate_coverage_report >>>>>>>>>>>
+[2025-06-03 01:30:08.266919] Time taken ==> 46.99 seconds.
+2025-06-03 01:30:08,266 - INFO - Generating combined plot hole report...
+generate_plot_hole_report >>>>>>>>>>>
+[2025-06-03 01:31:35.577436] Time taken ==> 87.31 seconds.
+2025-06-03 01:31:35,577 - INFO - Final report saved to final_screenplay_coverage_report.txt
+2025-06-03 01:31:35,577 - INFO - Final report saved to final_screenplay_plot_hole_report.txt
+(myenv311) ntlpt19@NTLPT19:~/personal_projects/screen_play_breakdown/llm_screen_play/main/llms_control$ 

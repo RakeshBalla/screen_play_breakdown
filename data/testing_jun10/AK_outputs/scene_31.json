@@ -1,0 +1,643 @@
+{
+  "ALL_TEXT": "31 INT. BABA'S ASHRAM-POOL AREA - DAY \nCHINTHAN BABA sits cross legged on a raised platform in the \nmiddle of an exorbitant pool. His devotees greet him with \nwarm applause. A mic is passed around in the audience to a \nmiddle aged man. Before the man can say anything, CHINTHAN \nBABA nonchalantly interrupts him \nCHINTHAN BABA \nEmanna adagaala \nMAN \nLedhu andi \nCHINTHAN BABA \nMalli aalochinchu \nMAN \nAvunu andi..oka question adagaali \nThe MAN is about to say something when CHINTHAN BABA \ninterrupts again \nCHINTHAN BABA \nNaaku oka lighter \nkanaapduthundhi...cigarette \nthaaguthaava? \nMAN \n(anxiously) \nLedhu \nCHINTHAN BABA \nThagevaadivaa? \nMAN \nLedhu Baba \nCHINTHAN BABA \nLighter kanapaduthundhi...cigarette \nveliginche lighter... \nThe MAN is perplexed \nCHINTHAN BABA \nNee snehithula cigarette \nveligisthaava? \nMAN \nLedhu Baba \nCHINTHAN BABA \nAbbadham aadaku raa dooffer \nMAN \nEpudaina appudu appudu Baba \nCHINTHAN BABA \nEpudaina appudu appudu...appudu \nappudu \nMAN \n(ashamed) \nAvunu Baba \nCHINTHAN BABA \nEe Nikrushtamaina ee parikramam \nippude maaneyaali...oka \npancheyyi...ashram store ke velli \nnalabai \u201cdhumapaanam arikatte \npattilu\u201c konukko..leda yenabai \nteesukunte 20% discount... \nThe devotees start cheering and chanting his name. Meanwhile, \nthe FOREST MINISTER arrives. People start saluting him, as he \nheads right to CHINTHAN BABA. Over the pool, he greets him, \nbends over and touches CHINTHAN BABA\u2019s feet. \nCHINTHAN BABA \nDheergayushmanbhava \nFOREST MINISTER \nLopalaki raa maataddaali \nThe two of them walk along the platform connecting the pool \nto dry land. CHINTHAN BABA spots SULOCHANA in the crowd. \nCHINTHAN BABA \n(to SULOCHANA) \nNee kavalsina valla ki tvaralo \nproblem vosthundi...vachinappudu \nnaa daggariki raa \nFOREST MINISTER \nArey nuvvu rammante vaachestudha \nadhi \nCHINTHAN BABA \nPrati manishiki problem raavatam \nsahajame...ippudu kerchief veysedam \nvalla ae problem vachina naa \ndaggariki vastundi \nHe looks at his disciples. The masses are frenzied again. \nCHINTHAN BABA leaves to a rockstar exit. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "31",
+    "1001": "INT.",
+    "1002": "BABA'S",
+    "1003": "ASHRAM-POOL",
+    "1004": "AREA",
+    "1005": "-",
+    "1006": "DAY",
+    "1007": "CHINTHAN",
+    "1008": "BABA",
+    "1009": "sits",
+    "1010": "cross",
+    "1011": "legged",
+    "1012": "on",
+    "1013": "a",
+    "1014": "raised",
+    "1015": "platform",
+    "1016": "in",
+    "1017": "the",
+    "1018": "middle",
+    "1019": "of",
+    "1020": "an",
+    "1021": "exorbitant",
+    "1022": "pool.",
+    "1023": "His",
+    "1024": "devotees",
+    "1025": "greet",
+    "1026": "him",
+    "1027": "with",
+    "1028": "warm",
+    "1029": "applause.",
+    "1030": "A",
+    "1031": "mic",
+    "1032": "is",
+    "1033": "passed",
+    "1034": "around",
+    "1035": "in",
+    "1036": "the",
+    "1037": "audience",
+    "1038": "to",
+    "1039": "a",
+    "1040": "middle",
+    "1041": "aged",
+    "1042": "man.",
+    "1043": "Before",
+    "1044": "the",
+    "1045": "man",
+    "1046": "can",
+    "1047": "say",
+    "1048": "anything,",
+    "1049": "CHINTHAN",
+    "1050": "BABA",
+    "1051": "nonchalantly",
+    "1052": "interrupts",
+    "1053": "him",
+    "1054": "CHINTHAN",
+    "1055": "BABA",
+    "1056": "Emanna",
+    "1057": "adagaala",
+    "1058": "MAN",
+    "1059": "Ledhu",
+    "1060": "andi",
+    "1061": "CHINTHAN",
+    "1062": "BABA",
+    "1063": "Malli",
+    "1064": "aalochinchu",
+    "1065": "MAN",
+    "1066": "Avunu",
+    "1067": "andi..oka",
+    "1068": "question",
+    "1069": "adagaali",
+    "1070": "The",
+    "1071": "MAN",
+    "1072": "is",
+    "1073": "about",
+    "1074": "to",
+    "1075": "say",
+    "1076": "something",
+    "1077": "when",
+    "1078": "CHINTHAN",
+    "1079": "BABA",
+    "1080": "interrupts",
+    "1081": "again",
+    "1082": "CHINTHAN",
+    "1083": "BABA",
+    "1084": "Naaku",
+    "1085": "oka",
+    "1086": "lighter",
+    "1087": "kanaapduthundhi...cigarette",
+    "1088": "thaaguthaava?",
+    "1089": "MAN",
+    "1090": "(anxiously)",
+    "1091": "Ledhu",
+    "1092": "CHINTHAN",
+    "1093": "BABA",
+    "1094": "Thagevaadivaa?",
+    "1095": "MAN",
+    "1096": "Ledhu",
+    "1097": "Baba",
+    "1098": "CHINTHAN",
+    "1099": "BABA",
+    "1100": "Lighter",
+    "1101": "kanapaduthundhi...cigarette",
+    "1102": "veliginche",
+    "1103": "lighter...",
+    "1104": "The",
+    "1105": "MAN",
+    "1106": "is",
+    "1107": "perplexed",
+    "1108": "CHINTHAN",
+    "1109": "BABA",
+    "1110": "Nee",
+    "1111": "snehithula",
+    "1112": "cigarette",
+    "1113": "veligisthaava?",
+    "1114": "MAN",
+    "1115": "Ledhu",
+    "1116": "Baba",
+    "1117": "CHINTHAN",
+    "1118": "BABA",
+    "1119": "Abbadham",
+    "1120": "aadaku",
+    "1121": "raa",
+    "1122": "dooffer",
+    "1123": "MAN",
+    "1124": "Epudaina",
+    "1125": "appudu",
+    "1126": "appudu",
+    "1127": "Baba",
+    "1128": "CHINTHAN",
+    "1129": "BABA",
+    "1130": "Epudaina",
+    "1131": "appudu",
+    "1132": "appudu...appudu",
+    "1133": "appudu",
+    "1134": "MAN",
+    "1135": "(ashamed)",
+    "1136": "Avunu",
+    "1137": "Baba",
+    "1138": "CHINTHAN",
+    "1139": "BABA",
+    "1140": "Ee",
+    "1141": "Nikrushtamaina",
+    "1142": "ee",
+    "1143": "parikramam",
+    "1144": "ippude",
+    "1145": "maaneyaali...oka",
+    "1146": "pancheyyi...ashram",
+    "1147": "store",
+    "1148": "ke",
+    "1149": "velli",
+    "1150": "nalabai",
+    "1151": "\u201cdhumapaanam",
+    "1152": "arikatte",
+    "1153": "pattilu\u201c",
+    "1154": "konukko..leda",
+    "1155": "yenabai",
+    "1156": "teesukunte",
+    "1157": "20%",
+    "1158": "discount...",
+    "1159": "The",
+    "1160": "devotees",
+    "1161": "start",
+    "1162": "cheering",
+    "1163": "and",
+    "1164": "chanting",
+    "1165": "his",
+    "1166": "name.",
+    "1167": "Meanwhile,",
+    "1168": "the",
+    "1169": "FOREST",
+    "1170": "MINISTER",
+    "1171": "arrives.",
+    "1172": "People",
+    "1173": "start",
+    "1174": "saluting",
+    "1175": "him,",
+    "1176": "as",
+    "1177": "he",
+    "1178": "heads",
+    "1179": "right",
+    "1180": "to",
+    "1181": "CHINTHAN",
+    "1182": "BABA.",
+    "1183": "Over",
+    "1184": "the",
+    "1185": "pool,",
+    "1186": "he",
+    "1187": "greets",
+    "1188": "him,",
+    "1189": "bends",
+    "1190": "over",
+    "1191": "and",
+    "1192": "touches",
+    "1193": "CHINTHAN",
+    "1194": "BABA\u2019s",
+    "1195": "feet.",
+    "1196": "CHINTHAN",
+    "1197": "BABA",
+    "1198": "Dheergayushmanbhava",
+    "1199": "FOREST",
+    "1200": "MINISTER",
+    "1201": "Lopalaki",
+    "1202": "raa",
+    "1203": "maataddaali",
+    "1204": "The",
+    "1205": "two",
+    "1206": "of",
+    "1207": "them",
+    "1208": "walk",
+    "1209": "along",
+    "1210": "the",
+    "1211": "platform",
+    "1212": "connecting",
+    "1213": "the",
+    "1214": "pool",
+    "1215": "to",
+    "1216": "dry",
+    "1217": "land.",
+    "1218": "CHINTHAN",
+    "1219": "BABA",
+    "1220": "spots",
+    "1221": "SULOCHANA",
+    "1222": "in",
+    "1223": "the",
+    "1224": "crowd.",
+    "1225": "CHINTHAN",
+    "1226": "BABA",
+    "1227": "(to",
+    "1228": "SULOCHANA)",
+    "1229": "Nee",
+    "1230": "kavalsina",
+    "1231": "valla",
+    "1232": "ki",
+    "1233": "tvaralo",
+    "1234": "problem",
+    "1235": "vosthundi...vachinappudu",
+    "1236": "naa",
+    "1237": "daggariki",
+    "1238": "raa",
+    "1239": "FOREST",
+    "1240": "MINISTER",
+    "1241": "Arey",
+    "1242": "nuvvu",
+    "1243": "rammante",
+    "1244": "vaachestudha",
+    "1245": "adhi",
+    "1246": "CHINTHAN",
+    "1247": "BABA",
+    "1248": "Prati",
+    "1249": "manishiki",
+    "1250": "problem",
+    "1251": "raavatam",
+    "1252": "sahajame...ippudu",
+    "1253": "kerchief",
+    "1254": "veysedam",
+    "1255": "valla",
+    "1256": "ae",
+    "1257": "problem",
+    "1258": "vachina",
+    "1259": "naa",
+    "1260": "daggariki",
+    "1261": "vastundi",
+    "1262": "He",
+    "1263": "looks",
+    "1264": "at",
+    "1265": "his",
+    "1266": "disciples.",
+    "1267": "The",
+    "1268": "masses",
+    "1269": "are",
+    "1270": "frenzied",
+    "1271": "again.",
+    "1272": "CHINTHAN",
+    "1273": "BABA",
+    "1274": "leaves",
+    "1275": "to",
+    "1276": "a",
+    "1277": "rockstar",
+    "1278": "exit.",
+    "1279": "CUT",
+    "1280": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "CHINTHAN BABA",
+        "devotees",
+        "man",
+        "FOREST MINISTER",
+        "People",
+        "SULOCHANA",
+        "disciples",
+        "masses"
+      ],
+      "SET": [
+        "INT. BABA'S ASHRAM-POOL AREA - DAY"
+      ],
+      "PROPS": [
+        "mic"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        "warm applause",
+        "cheering and chanting"
+      ]
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1007",
+              "1008"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1049",
+              "1050"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1054",
+              "1055"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1061",
+              "1062"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1078",
+              "1079"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1082",
+              "1083"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1092",
+              "1093"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1098",
+              "1099"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1108",
+              "1109"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1117",
+              "1118"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1128",
+              "1129"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1138",
+              "1139"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1196",
+              "1197"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1218",
+              "1219"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1225",
+              "1226"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1246",
+              "1247"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              "1272",
+              "1273"
+            ]
+          },
+          {
+            "value": "CHINTHAN BABA.",
+            "ids": [
+              "1181",
+              "1182"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "devotees",
+            "ids": [
+              "1024"
+            ]
+          },
+          {
+            "value": "devotees",
+            "ids": [
+              "1160"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "man",
+            "ids": [
+              "1045"
+            ]
+          },
+          {
+            "value": "man.",
+            "ids": [
+              "1042"
+            ]
+          },
+          {
+            "value": "MAN",
+            "ids": [
+              "1058"
+            ]
+          },
+          {
+            "value": "MAN",
+            "ids": [
+              "1065"
+            ]
+          },
+          {
+            "value": "MAN",
+            "ids": [
+              "1071"
+            ]
+          },
+          {
+            "value": "MAN",
+            "ids": [
+              "1089"
+            ]
+          },
+          {
+            "value": "MAN",
+            "ids": [
+              "1095"
+            ]
+          },
+          {
+            "value": "MAN",
+            "ids": [
+              "1105"
+            ]
+          },
+          {
+            "value": "MAN",
+            "ids": [
+              "1114"
+            ]
+          },
+          {
+            "value": "MAN",
+            "ids": [
+              "1123"
+            ]
+          },
+          {
+            "value": "MAN",
+            "ids": [
+              "1134"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              "1169",
+              "1170"
+            ]
+          },
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              "1199",
+              "1200"
+            ]
+          },
+          {
+            "value": "FOREST MINISTER",
+            "ids": [
+              "1239",
+              "1240"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "People",
+            "ids": [
+              "1172"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1221"
+            ]
+          },
+          {
+            "value": "SULOCHANA)",
+            "ids": [
+              "1228"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "disciples.",
+            "ids": [
+              "1266"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "masses",
+            "ids": [
+              "1268"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "INT. BABA'S ASHRAM-POOL AREA - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005",
+              "1006"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "mic",
+            "ids": [
+              "1031"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        [
+          {
+            "value": "warm applause.",
+            "ids": [
+              "1028",
+              "1029"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "cheering and chanting",
+            "ids": [
+              "1162",
+              "1163",
+              "1164"
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,805 @@
+{
+  "page_dict": {
+    "alltext": "27.\n38 EXT. KENNEL - DAY\nTwo men, the KENNEL OWNER and the KENNEL ASSISTANT, are\nsitting across each other on easy chairs, reading the\nnewspaper.\nKENNEL OWNER\nJob poyindi ani pelli cancel\nchesina ammaayi...Moosi nadi lo\ntheleeni abbaayi\nKENNEL ASSISTANT\nAnthe mari...office lo denno goki\nuntaadu...aina kottaga drugs anta\nbaava...software vaallu andaaru\nmukku podum laaga vaadestunnaaranta\nKENNEL OWNER\nDrugs ante gurthuku vochindi\nemadhya drugs ni kukkala kadupulo\nkudaa petti surfara chesthunnaaru\nanta...\nKENNEL ASSISTANT\n(resigned)\nKali kalam\nVEDA enters the kennel with the PUG in the baby sling.\nKENNEL OWNER\nHello, sir randi.\nVEDA\nBaavundandhi. Anni kukkalu\nbaagunnayi.\nKENNEL OWNER\nThank you sir.\nVEDA points at a bulldog, tongue sticking out and drooling.\nVEDA\nAdhigo, akkada, entha beautiful ga\nundho...",
+    "words_ids": {
+      "3480": "27.",
+      "5880": "38",
+      "3925": "EXT.",
+      "5673": "KENNEL",
+      "2981": "-",
+      "5825": "DAY",
+      "8553": "Two",
+      "7659": "men,",
+      "4491": "the",
+      "6474": "KENNEL",
+      "6450": "OWNER",
+      "5895": "and",
+      "8483": "the",
+      "8233": "KENNEL",
+      "9301": "ASSISTANT,",
+      "4735": "are",
+      "6751": "sitting",
+      "9990": "across",
+      "9138": "each",
+      "8833": "other",
+      "1371": "on",
+      "2802": "easy",
+      "9109": "chairs,",
+      "7216": "reading",
+      "6758": "the",
+      "3390": "newspaper.",
+      "9666": "KENNEL",
+      "1340": "OWNER",
+      "9303": "Job",
+      "2290": "poyindi",
+      "1575": "ani",
+      "4720": "pelli",
+      "5179": "cancel",
+      "6951": "chesina",
+      "1804": "ammaayi...Moosi",
+      "5367": "nadi",
+      "1197": "lo",
+      "8054": "theleeni",
+      "4274": "abbaayi",
+      "6797": "KENNEL",
+      "2493": "ASSISTANT",
+      "7089": "Anthe",
+      "9940": "mari...office",
+      "5499": "lo",
+      "4637": "denno",
+      "7593": "sling.",
+      "5109": "untaadu...aina",
+      "9222": "kottaga",
+      "3266": "drugs",
+      "2743": "anta",
+      "2068": "baava...software",
+      "3225": "vaallu",
+      "2234": "andaaru",
+      "1782": "mukku",
+      "5113": "podum",
+      "4651": "laaga",
+      "3002": "vaadestunnaaranta",
+      "6167": "KENNEL",
+      "4601": "OWNER",
+      "4521": "Drugs",
+      "9951": "ante",
+      "5117": "gurthuku",
+      "8492": "vochindi",
+      "5614": "emadhya",
+      "4268": "drugs",
+      "9535": "ni",
+      "6606": "kukkala",
+      "5390": "kadupulo",
+      "2360": "kudaa",
+      "6297": "petti",
+      "1873": "surfara",
+      "3578": "chesthunnaaru",
+      "4011": "anta...",
+      "9312": "KENNEL",
+      "7970": "ASSISTANT",
+      "9591": "(resigned)",
+      "8251": "Kali",
+      "9660": "kalam",
+      "9345": "VEDA",
+      "7237": "enters",
+      "6111": "the",
+      "3992": "kennel",
+      "5631": "with",
+      "2957": "the",
+      "6639": "PUG",
+      "3071": "in",
+      "6741": "the",
+      "5022": "baby",
+      "2459": "KENNEL",
+      "7589": "OWNER",
+      "7125": "Hello,",
+      "4148": "sir",
+      "5923": "randi.",
+      "9819": "VEDA",
+      "3677": "Baavundandhi.",
+      "2172": "Anni",
+      "2596": "kukkalu",
+      "8004": "baagunnayi.",
+      "6434": "KENNEL",
+      "5592": "OWNER",
+      "2955": "Thank",
+      "8583": "you",
+      "7956": "sir.",
+      "9918": "VEDA",
+      "2324": "points",
+      "2475": "at",
+      "5119": "a",
+      "3620": "bulldog,",
+      "3860": "tongue",
+      "6491": "sticking",
+      "2703": "out",
+      "6623": "and",
+      "1177": "drooling.",
+      "6321": "VEDA",
+      "9455": "Adhigo,",
+      "5601": "akkada,",
+      "6345": "entha",
+      "9752": "beautiful",
+      "4516": "ga",
+      "7423": "undho..."
+    }
+  },
+  "sample_no": "sample3",
+  "pdf_file_name": "page_28.pdf",
+  "llm_response": {
+    "scene_number": [
+      "38"
+    ],
+    "slugline": {
+      "type": [
+        "EXT."
+      ],
+      "location": [
+        "KENNEL"
+      ],
+      "time_of_day": [
+        "DAY"
+      ]
+    },
+    "action_lines": [
+      "Two men, the KENNEL OWNER and the KENNEL ASSISTANT, are\nsitting across each other on easy chairs, reading the\nnewspaper.",
+      "VEDA enters the kennel with the PUG in the baby sling.",
+      "VEDA points at a bulldog, tongue sticking out and drooling."
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "KENNEL OWNER"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Job poyindi ani pelli cancel\nchesina ammaayi...Moosi nadi lo\ntheleeni abbaayi"
+        ]
+      },
+      {
+        "character": [
+          "KENNEL ASSISTANT"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Anthe mari...office lo denno goki\nuntaadu...aina kottaga drugs anta\nbaava...software vaallu andaaru\nmukku podum laaga vaadestunnaaranta"
+        ]
+      },
+      {
+        "character": [
+          "KENNEL OWNER"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Drugs ante gurthuku vochindi\nemadhya drugs ni kukkala kadupulo\nkudaa petti surfara chesthunnaaru\nanta..."
+        ]
+      },
+      {
+        "character": [
+          "KENNEL ASSISTANT"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          "(resigned)"
+        ],
+        "text": [
+          "Kali kalam"
+        ]
+      },
+      {
+        "character": [
+          "KENNEL OWNER"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Hello, sir randi."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Baavundandhi. Anni kukkalu\nbaagunnayi."
+        ]
+      },
+      {
+        "character": [
+          "KENNEL OWNER"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Thank you sir."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Adhigo, akkada, entha beautiful ga\nundho..."
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      {
+        "value": "38",
+        "ids": [
+          5880
+        ]
+      }
+    ],
+    "slugline": {
+      "type": [
+        {
+          "value": "EXT.",
+          "ids": [
+            3925
+          ]
+        }
+      ],
+      "location": [
+        {
+          "value": "KENNEL",
+          "ids": [
+            2459,
+            3992
+          ]
+        },
+        {
+          "value": "KENNEL",
+          "ids": [
+            5673,
+            6167
+          ]
+        },
+        {
+          "value": "KENNEL",
+          "ids": [
+            6434,
+            6474
+          ]
+        },
+        {
+          "value": "KENNEL",
+          "ids": [
+            6797,
+            8233
+          ]
+        },
+        {
+          "value": "KENNEL",
+          "ids": [
+            9312,
+            9666
+          ]
+        }
+      ],
+      "time_of_day": [
+        {
+          "value": "DAY",
+          "ids": [
+            5825
+          ]
+        }
+      ]
+    },
+    "action_lines": [
+      {
+        "value": "Two men, the KENNEL OWNER and the KENNEL ASSISTANT, are\nsitting across each other on easy chairs, reading the\nnewspaper.",
+        "ids": [
+          5673,
+          8553,
+          4491,
+          6474,
+          6450,
+          5895,
+          8483,
+          8233,
+          4735,
+          6751,
+          9990,
+          9138,
+          8833,
+          1371,
+          2802,
+          7216,
+          6758,
+          9666,
+          1340,
+          6797,
+          2493,
+          6167,
+          4601,
+          9312,
+          7970,
+          6111,
+          3992,
+          2957,
+          6741,
+          2459,
+          7589,
+          6434,
+          5592,
+          6623
+        ]
+      },
+      {
+        "value": "VEDA enters the kennel with the PUG in the baby sling.",
+        "ids": [
+          5673,
+          4491,
+          6474,
+          8483,
+          8233,
+          6758,
+          9666,
+          6797,
+          6167,
+          9312,
+          9345,
+          7237,
+          6111,
+          3992,
+          5631,
+          2957,
+          6639,
+          3071,
+          6741,
+          5022,
+          2459,
+          9819,
+          6434,
+          9918,
+          6321
+        ]
+      },
+      {
+        "value": "VEDA points at a bulldog, tongue sticking out and drooling.",
+        "ids": [
+          5895,
+          9345,
+          9819,
+          9918,
+          2324,
+          2475,
+          5119,
+          3860,
+          6491,
+          2703,
+          6623,
+          6321
+        ]
+      }
+    ],
+    "dialogue": [
+      {
+        "character": [
+          {
+            "value": "KENNEL OWNER",
+            "ids": [
+              5673,
+              6474,
+              6450,
+              8233,
+              9666,
+              1340,
+              6797,
+              6167,
+              4601,
+              9312,
+              3992,
+              2459,
+              7589,
+              6434,
+              5592
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Job poyindi ani pelli cancel\nchesina ammaayi...Moosi nadi lo\ntheleeni abbaayi",
+            "ids": [
+              9303,
+              2290,
+              1575,
+              4720,
+              5179,
+              6951,
+              5367,
+              1197,
+              8054,
+              4274,
+              5499
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "KENNEL ASSISTANT",
+            "ids": [
+              5673,
+              6474,
+              8233,
+              9666,
+              6797,
+              2493,
+              6167,
+              9312,
+              7970,
+              3992,
+              2459,
+              6434
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Anthe mari...office lo denno goki\nuntaadu...aina kottaga drugs anta\nbaava...software vaallu andaaru\nmukku podum laaga vaadestunnaaranta",
+            "ids": [
+              1197,
+              7089,
+              5499,
+              4637,
+              9222,
+              3266,
+              2743,
+              3225,
+              2234,
+              1782,
+              5113,
+              4651,
+              3002,
+              4521,
+              4268
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "KENNEL OWNER",
+            "ids": [
+              5673,
+              6474,
+              6450,
+              8233,
+              9666,
+              1340,
+              6797,
+              6167,
+              4601,
+              9312,
+              3992,
+              2459,
+              7589,
+              6434,
+              5592
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Drugs ante gurthuku vochindi\nemadhya drugs ni kukkala kadupulo\nkudaa petti surfara chesthunnaaru\nanta...",
+            "ids": [
+              3266,
+              2743,
+              4521,
+              9951,
+              5117,
+              8492,
+              5614,
+              4268,
+              9535,
+              6606,
+              5390,
+              2360,
+              6297,
+              1873,
+              3578
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "KENNEL ASSISTANT",
+            "ids": [
+              5673,
+              6474,
+              8233,
+              9666,
+              6797,
+              2493,
+              6167,
+              9312,
+              7970,
+              3992,
+              2459,
+              6434
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "(resigned)",
+            "ids": [
+              9591
+            ]
+          }
+        ],
+        "text": [
+          {
+            "value": "Kali kalam",
+            "ids": [
+              8251,
+              9660
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "KENNEL OWNER",
+            "ids": [
+              5673,
+              6474,
+              6450,
+              8233,
+              9666,
+              1340,
+              6797,
+              6167,
+              4601,
+              9312,
+              3992,
+              2459,
+              7589,
+              6434,
+              5592
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Hello, sir randi.",
+            "ids": [
+              4148
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              6321,
+              9345
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              9819,
+              9918
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Baavundandhi. Anni kukkalu\nbaagunnayi.",
+            "ids": [
+              2172,
+              2596
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "KENNEL OWNER",
+            "ids": [
+              5673,
+              6474,
+              6450,
+              8233,
+              9666,
+              1340,
+              6797,
+              6167,
+              4601,
+              9312,
+              3992,
+              2459,
+              7589,
+              6434,
+              5592
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Thank you sir.",
+            "ids": [
+              4148,
+              2955,
+              8583
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              6321,
+              9345
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              9819,
+              9918
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Adhigo, akkada, entha beautiful ga\nundho...",
+            "ids": [
+              6345,
+              9752,
+              4516
+            ]
+          }
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

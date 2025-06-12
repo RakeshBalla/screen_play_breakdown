@@ -1,0 +1,1035 @@
+{
+  "page_dict": {
+    "alltext": "38.\nSULOCHANA\nEnti?\nVEDA\nEmledhu.\nSULOCHANA\nSare enthakammuthav...\nVEDA\nAntey.. Nuvvu konttaavaa??\nSULOCHANA\nYes.\nVEDA\nAsalu maata meedha neelabadaleni\nfamily lo ki ee cute puppy ne\nammanu...\nSULOCHANA\nBha asalu daniki diniki emana\nsambhandam undha? Please neeku\nelago edhi bhaaram, ninna navala\nelantidhe maa pakainti kukka\npaaripoyindhi. vaala ki ee kukka ni\nreplacement kindha isthey\nsantoshitharu.\nFor a split second there is a wicked look on his face.\nVEDA\n(innocently)\nNalabai\nSULOCHANA\nWhat?? muppai kante ekkuva ivvanu.\nThe PUG barks. VEDA smirks.\nVEDA\nnee retu dhaanikkuda nachaledu.\nSarey final 35.\nSULOCHANA\nVEDA\nNalabhai ki konna nenu... aidhu\nthaggisthunna poni le ani...\nVaddante vadileyandi... daani\nkarmedo adi anubhavisthadi.\nSULOCHANA\nSarey numberistha repu kaluvu.",
+    "words_ids": {
+      "3301": "38.",
+      "8147": "SULOCHANA",
+      "2549": "Enti?",
+      "1580": "VEDA",
+      "6357": "Emledhu.",
+      "7584": "SULOCHANA",
+      "8423": "Sare",
+      "6756": "enthakammuthav...",
+      "7682": "VEDA",
+      "5976": "Antey..",
+      "7541": "Nuvvu",
+      "8424": "konttaavaa??",
+      "3510": "SULOCHANA",
+      "9530": "Yes.",
+      "5439": "VEDA",
+      "9626": "Asalu",
+      "7759": "maata",
+      "6723": "meedha",
+      "4082": "neelabadaleni",
+      "7549": "family",
+      "5714": "lo",
+      "4276": "ki",
+      "7826": "ee",
+      "2488": "cute",
+      "8493": "puppy",
+      "1486": "ne",
+      "8089": "ammanu...",
+      "3448": "SULOCHANA",
+      "1636": "Bha",
+      "7869": "asalu",
+      "1266": "daniki",
+      "9763": "diniki",
+      "9616": "emana",
+      "7364": "sambhandam",
+      "2365": "undha?",
+      "5106": "Please",
+      "5192": "neeku",
+      "8034": "elago",
+      "9114": "edhi",
+      "7312": "bhaaram,",
+      "2993": "ninna",
+      "3246": "navala",
+      "9433": "elantidhe",
+      "5854": "maa",
+      "2060": "pakainti",
+      "5701": "kukka",
+      "9427": "paaripoyindhi.",
+      "5317": "vaala",
+      "4682": "ki",
+      "3140": "ee",
+      "2175": "kukka",
+      "6465": "ni",
+      "9014": "replacement",
+      "9104": "kindha",
+      "5732": "isthey",
+      "6540": "santoshitharu.",
+      "2281": "For",
+      "1313": "a",
+      "3792": "split",
+      "2943": "second",
+      "4760": "there",
+      "8340": "is",
+      "1307": "a",
+      "1927": "wicked",
+      "8555": "look",
+      "1060": "on",
+      "9541": "his",
+      "5462": "face.",
+      "4301": "VEDA",
+      "4624": "(innocently)",
+      "6461": "Nalabai",
+      "5392": "SULOCHANA",
+      "5073": "What??",
+      "7468": "muppai",
+      "1087": "kante",
+      "6145": "ekkuva",
+      "5165": "ivvanu.",
+      "6203": "The",
+      "8742": "PUG",
+      "3676": "barks.",
+      "9179": "VEDA",
+      "5334": "smirks.",
+      "1156": "VEDA",
+      "7181": "nee",
+      "8679": "retu",
+      "4957": "dhaanikkuda",
+      "1666": "nachaledu.",
+      "9781": "Sarey",
+      "3660": "final",
+      "5675": "35.",
+      "3251": "SULOCHANA",
+      "7625": "VEDA",
+      "1483": "Nalabhai",
+      "3595": "ki",
+      "1856": "konna",
+      "2566": "nenu...",
+      "7744": "aidhu",
+      "2865": "thaggisthunna",
+      "2158": "poni",
+      "1523": "le",
+      "2802": "ani...",
+      "5006": "Vaddante",
+      "3190": "vadileyandi...",
+      "1488": "daani",
+      "8918": "karmedo",
+      "5394": "adi",
+      "7832": "anubhavisthadi.",
+      "3991": "SULOCHANA",
+      "6500": "Sarey",
+      "2570": "numberistha",
+      "3377": "repu",
+      "8716": "kaluvu."
+    }
+  },
+  "sample_no": "sample4",
+  "pdf_file_name": "page_39.pdf",
+  "llm_response": {
+    "scene_number": [
+      38
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      "For a split second there is a wicked look on his face.",
+      "The PUG barks. VEDA smirks."
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "SULOCHANA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Enti?"
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Emledhu."
+        ]
+      },
+      {
+        "character": [
+          "SULOCHANA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Sare enthakammuthav..."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Antey.. Nuvvu konttaavaa??"
+        ]
+      },
+      {
+        "character": [
+          "SULOCHANA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Yes."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Asalu maata meedha neelabadaleni\nfamily lo ki ee cute puppy ne\nammanu..."
+        ]
+      },
+      {
+        "character": [
+          "SULOCHANA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Bha asalu daniki diniki emana\nsambhandam undha? Please neeku\nelago edhi bhaaram, ninna navala\nelantidhe maa pakainti kukka\npaaripoyindhi. vaala ki ee kukka ni\nreplacement kindha isthey\nsantoshitharu."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          "innocently"
+        ],
+        "text": [
+          "Nalabai"
+        ]
+      },
+      {
+        "character": [
+          "SULOCHANA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "What?? muppai kante ekkuva ivvanu."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "nee retu dhaanikkuda nachaledu.\nSarey final 35."
+        ]
+      },
+      {
+        "character": [
+          "SULOCHANA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "VEDA"
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Nalabhai ki konna nenu... aidhu\nthaggisthunna poni le ani...\nVaddante vadileyandi... daani\nkarmedo adi anubhavisthadi."
+        ]
+      },
+      {
+        "character": [
+          "SULOCHANA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Sarey numberistha repu kaluvu."
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      {
+        "value": 38,
+        "ids": []
+      }
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      {
+        "value": "For a split second there is a wicked look on his face.",
+        "ids": [
+          2281,
+          1313,
+          3792,
+          2943,
+          4760,
+          8340,
+          1307,
+          1927,
+          8555,
+          1060,
+          9541
+        ]
+      },
+      {
+        "value": "The PUG barks. VEDA smirks.",
+        "ids": [
+          1580,
+          7682,
+          5439,
+          4301,
+          6203,
+          8742,
+          9179,
+          1156,
+          7625
+        ]
+      }
+    ],
+    "dialogue": [
+      {
+        "character": [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              3251,
+              3448
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              3510,
+              3991
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              5392,
+              7584
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Enti?",
+            "ids": [
+              2549
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              1156,
+              1580
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              4301,
+              5439
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              7625,
+              7682
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Emledhu.",
+            "ids": [
+              6357
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              3251,
+              3448
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              3510,
+              3991
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              5392,
+              7584
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Sare enthakammuthav...",
+            "ids": [
+              8423
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              1156,
+              1580
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              4301,
+              5439
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              7625,
+              7682
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Antey.. Nuvvu konttaavaa??",
+            "ids": [
+              7541
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              3251,
+              3448
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              3510,
+              3991
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              5392,
+              7584
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Yes.",
+            "ids": [
+              9530
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              1156,
+              1580
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              4301,
+              5439
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              7625,
+              7682
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Asalu maata meedha neelabadaleni\nfamily lo ki ee cute puppy ne\nammanu...",
+            "ids": [
+              9626,
+              7759,
+              6723,
+              4082,
+              7549,
+              5714,
+              4276,
+              7826,
+              2488,
+              8493,
+              1486,
+              7869,
+              4682,
+              3140,
+              3595
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              3251,
+              3448
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              3510,
+              3991
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              5392,
+              7584
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Bha asalu daniki diniki emana\nsambhandam undha? Please neeku\nelago edhi bhaaram, ninna navala\nelantidhe maa pakainti kukka\npaaripoyindhi. vaala ki ee kukka ni\nreplacement kindha isthey\nsantoshitharu.",
+            "ids": [
+              9626,
+              4276,
+              7826,
+              1636,
+              7869,
+              1266,
+              9763,
+              9616,
+              7364,
+              5106,
+              5192,
+              8034,
+              9114,
+              2993,
+              3246,
+              9433,
+              5854,
+              2060,
+              5701,
+              5317,
+              4682,
+              3140,
+              2175,
+              6465,
+              9014,
+              9104,
+              5732,
+              3595
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              1156,
+              1580
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              4301,
+              5439
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              7625,
+              7682
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "innocently",
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Nalabai",
+            "ids": [
+              6461
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              3251,
+              3448
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              3510,
+              3991
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              5392,
+              7584
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "What?? muppai kante ekkuva ivvanu.",
+            "ids": [
+              7468,
+              1087,
+              6145
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              1156,
+              1580
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              4301,
+              5439
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              7625,
+              7682
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "nee retu dhaanikkuda nachaledu.\nSarey final 35.",
+            "ids": [
+              7181,
+              8679,
+              4957,
+              9781,
+              3660,
+              6500
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              3251,
+              3448
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              3510,
+              3991
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              5392,
+              7584
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "VEDA",
+            "ids": [
+              1156,
+              1580
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              4301,
+              5439
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              7625,
+              7682
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              1156,
+              1580
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              4301,
+              5439
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              7625,
+              7682
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Nalabhai ki konna nenu... aidhu\nthaggisthunna poni le ani...\nVaddante vadileyandi... daani\nkarmedo adi anubhavisthadi.",
+            "ids": [
+              4276,
+              4682,
+              1483,
+              3595,
+              1856,
+              7744,
+              2865,
+              2158,
+              1523,
+              5006,
+              1488,
+              8918,
+              5394
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              3251,
+              3448
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              3510,
+              3991
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              5392,
+              7584
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Sarey numberistha repu kaluvu.",
+            "ids": [
+              9781,
+              6500,
+              2570,
+              3377
+            ]
+          }
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

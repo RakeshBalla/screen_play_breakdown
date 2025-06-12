@@ -1,0 +1,249 @@
+{
+  "ALL_TEXT": "139 EXT. GRAVEYARD - NIGHT \nGOVARDHAN is wiping himself off using his kerchief, and \ncleaning his hands with hand sanitizer. SULOCHANA is on the \nphone, VEDA listening on next to her, intently. \nVEDA \nTell him I\u2019ll give him 30,000 \nrupees if he shows up and \nbroadcasts this. \nSULOCHANA \nThe thirty G I gave you? \nVEDA \nYes, we\u2019ll have GOVARDHAN go fetch \nit \nSULOCHANA \nChampestha...naa dabbu \nVEDA \nVeri Vengalappa, ippuda needha \nnaadha kaadhu...ippudu pani \navvaledhu ante manalni \npaathesthaadu \nGOVARDHAN \nNaaku claustrophobia undhi \nVEDA \nInka moosthaava? \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "139",
+    "1001": "EXT.",
+    "1002": "GRAVEYARD",
+    "1003": "-",
+    "1004": "NIGHT",
+    "1005": "GOVARDHAN",
+    "1006": "is",
+    "1007": "wiping",
+    "1008": "himself",
+    "1009": "off",
+    "1010": "using",
+    "1011": "his",
+    "1012": "kerchief,",
+    "1013": "and",
+    "1014": "cleaning",
+    "1015": "his",
+    "1016": "hands",
+    "1017": "with",
+    "1018": "hand",
+    "1019": "sanitizer.",
+    "1020": "SULOCHANA",
+    "1021": "is",
+    "1022": "on",
+    "1023": "the",
+    "1024": "phone,",
+    "1025": "VEDA",
+    "1026": "listening",
+    "1027": "on",
+    "1028": "next",
+    "1029": "to",
+    "1030": "her,",
+    "1031": "intently.",
+    "1032": "VEDA",
+    "1033": "Tell",
+    "1034": "him",
+    "1035": "I\u2019ll",
+    "1036": "give",
+    "1037": "him",
+    "1038": "30,000",
+    "1039": "rupees",
+    "1040": "if",
+    "1041": "he",
+    "1042": "shows",
+    "1043": "up",
+    "1044": "and",
+    "1045": "broadcasts",
+    "1046": "this.",
+    "1047": "SULOCHANA",
+    "1048": "The",
+    "1049": "thirty",
+    "1050": "G",
+    "1051": "I",
+    "1052": "gave",
+    "1053": "you?",
+    "1054": "VEDA",
+    "1055": "Yes,",
+    "1056": "we\u2019ll",
+    "1057": "have",
+    "1058": "GOVARDHAN",
+    "1059": "go",
+    "1060": "fetch",
+    "1061": "it",
+    "1062": "SULOCHANA",
+    "1063": "Champestha...naa",
+    "1064": "dabbu",
+    "1065": "VEDA",
+    "1066": "Veri",
+    "1067": "Vengalappa,",
+    "1068": "ippuda",
+    "1069": "needha",
+    "1070": "naadha",
+    "1071": "kaadhu...ippudu",
+    "1072": "pani",
+    "1073": "avvaledhu",
+    "1074": "ante",
+    "1075": "manalni",
+    "1076": "paathesthaadu",
+    "1077": "GOVARDHAN",
+    "1078": "Naaku",
+    "1079": "claustrophobia",
+    "1080": "undhi",
+    "1081": "VEDA",
+    "1082": "Inka",
+    "1083": "moosthaava?",
+    "1084": "CUT",
+    "1085": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "GOVARDHAN",
+        "SULOCHANA",
+        "VEDA"
+      ],
+      "SET": [
+        "EXT. GRAVEYARD - NIGHT"
+      ],
+      "PROPS": [
+        "kerchief",
+        "hand sanitizer",
+        "phone"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        "GRAVEYARD"
+      ],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1005"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1058"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1077"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1020"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1047"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1062"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1025"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1032"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1054"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1065"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1081"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. GRAVEYARD - NIGHT",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "kerchief,",
+            "ids": [
+              "1012"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "hand sanitizer.",
+            "ids": [
+              "1018",
+              "1019"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "phone,",
+            "ids": [
+              "1024"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        [
+          {
+            "value": "GRAVEYARD",
+            "ids": [
+              "1002"
+            ]
+          }
+        ]
+      ],
+      "SOUND": []
+    }
+  }
+}

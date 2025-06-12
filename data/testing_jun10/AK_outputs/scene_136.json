@@ -1,0 +1,145 @@
+{
+  "ALL_TEXT": "136 INT. UNOFFICIAL INTERROGATION ROOM - NIGHT \nSUBBA RAJU has ANTHONY cornered. He points a gun at him \nSUBBA RAJU \nDabbu ekkada daachaav \nANTHONY \nJawahar Nagar dumpyard \nSUBBA RAJU handcuffs him and takes him away. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "136",
+    "1001": "INT.",
+    "1002": "UNOFFICIAL",
+    "1003": "INTERROGATION",
+    "1004": "ROOM",
+    "1005": "-",
+    "1006": "NIGHT",
+    "1007": "SUBBA",
+    "1008": "RAJU",
+    "1009": "has",
+    "1010": "ANTHONY",
+    "1011": "cornered.",
+    "1012": "He",
+    "1013": "points",
+    "1014": "a",
+    "1015": "gun",
+    "1016": "at",
+    "1017": "him",
+    "1018": "SUBBA",
+    "1019": "RAJU",
+    "1020": "Dabbu",
+    "1021": "ekkada",
+    "1022": "daachaav",
+    "1023": "ANTHONY",
+    "1024": "Jawahar",
+    "1025": "Nagar",
+    "1026": "dumpyard",
+    "1027": "SUBBA",
+    "1028": "RAJU",
+    "1029": "handcuffs",
+    "1030": "him",
+    "1031": "and",
+    "1032": "takes",
+    "1033": "him",
+    "1034": "away.",
+    "1035": "CUT",
+    "1036": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "SUBBA RAJU",
+        "ANTHONY"
+      ],
+      "SET": [
+        "INT. UNOFFICIAL INTERROGATION ROOM - NIGHT"
+      ],
+      "PROPS": [
+        "gun",
+        "handcuffs"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1007",
+              "1008"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1018",
+              "1019"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1027",
+              "1028"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1010"
+            ]
+          },
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "1023"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "INT. UNOFFICIAL INTERROGATION ROOM - NIGHT",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005",
+              "1006"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "gun",
+            "ids": [
+              "1015"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "handcuffs",
+            "ids": [
+              "1029"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

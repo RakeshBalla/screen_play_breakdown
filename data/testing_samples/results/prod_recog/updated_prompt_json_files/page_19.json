@@ -1,0 +1,271 @@
+{
+  "page_dict": {
+    "alltext": "18.\n31 INT. BABA'S ASHRAM-POOL AREA - DAY\nCHINTHAN BABA sits cross legged on a raised platform in the\nmiddle of an exorbitant pool. His devotees greet him with\nwarm applause. A mic is passed around in the audience to a\nmiddle aged man. Before the man can say anything, CHINTHAN\nBABA nonchalantly interrupts him\nCHINTHAN BABA\nEmanna adagaala\nMAN\nLedhu andi\nCHINTHAN BABA\nMalli aalochinchu\nMAN\nAvunu andi..oka question adagaali\nThe MAN is about to say something when CHINTHAN BABA\ninterrupts again\nCHINTHAN BABA\nNaaku oka lighter\nkanaapduthundhi...cigarette\nthaaguthaava?\nMAN\n(anxiously)\nLedhu\nCHINTHAN BABA\nThagevaadivaa?\nMAN\nLedhu Baba\nCHINTHAN BABA\nLighter kanapaduthundhi...cigarette\nveliginche lighter...\nThe MAN is perplexed\nCHINTHAN BABA\nNee snehithula cigarette\nveligisthaava?\nMAN\nLedhu Baba\nCHINTHAN BABA\nAbbadham aadaku raa dooffer",
+    "words_ids": {
+      "6845": "18.",
+      "3390": "31",
+      "6321": "INT.",
+      "8692": "BABA'S",
+      "5537": "ASHRAM-POOL",
+      "7868": "AREA",
+      "9035": "-",
+      "9913": "DAY",
+      "5769": "CHINTHAN",
+      "2907": "BABA",
+      "1891": "sits",
+      "1908": "cross",
+      "7503": "legged",
+      "6639": "on",
+      "2658": "a",
+      "7025": "raised",
+      "6012": "platform",
+      "3727": "in",
+      "2975": "the",
+      "5208": "middle",
+      "5378": "of",
+      "5358": "an",
+      "1708": "exorbitant",
+      "1064": "pool.",
+      "8217": "His",
+      "8669": "devotees",
+      "9602": "greet",
+      "6416": "him",
+      "3275": "with",
+      "5028": "warm",
+      "1325": "applause.",
+      "2212": "A",
+      "2164": "mic",
+      "7977": "is",
+      "2662": "passed",
+      "6518": "around",
+      "5991": "in",
+      "8976": "the",
+      "4117": "audience",
+      "1830": "to",
+      "1160": "a",
+      "5112": "middle",
+      "5154": "aged",
+      "4330": "man.",
+      "2478": "Before",
+      "8059": "the",
+      "3254": "man",
+      "7653": "can",
+      "8238": "say",
+      "7532": "anything,",
+      "9779": "CHINTHAN",
+      "7172": "BABA",
+      "3810": "nonchalantly",
+      "5429": "interrupts",
+      "9606": "him",
+      "6844": "CHINTHAN",
+      "1827": "BABA",
+      "6523": "Emanna",
+      "2026": "adagaala",
+      "9781": "MAN",
+      "7731": "Ledhu",
+      "4005": "andi",
+      "5880": "CHINTHAN",
+      "2799": "BABA",
+      "9549": "Malli",
+      "4170": "aalochinchu",
+      "3887": "MAN",
+      "2892": "Avunu",
+      "7512": "andi..oka",
+      "3060": "question",
+      "5949": "adagaali",
+      "6399": "The",
+      "1693": "MAN",
+      "2679": "is",
+      "6795": "about",
+      "5088": "to",
+      "7618": "say",
+      "4228": "something",
+      "8396": "when",
+      "3006": "CHINTHAN",
+      "5753": "BABA",
+      "9808": "interrupts",
+      "4894": "again",
+      "1499": "CHINTHAN",
+      "2361": "BABA",
+      "1991": "Naaku",
+      "4036": "oka",
+      "4056": "lighter",
+      "2225": "kanaapduthundhi...cigarette",
+      "9890": "thaaguthaava?",
+      "3228": "MAN",
+      "3024": "(anxiously)",
+      "4211": "Ledhu",
+      "9926": "CHINTHAN",
+      "1374": "BABA",
+      "8713": "Thagevaadivaa?",
+      "9369": "MAN",
+      "7824": "Ledhu",
+      "4530": "Baba",
+      "1019": "CHINTHAN",
+      "2814": "BABA",
+      "1963": "Lighter",
+      "5921": "kanapaduthundhi...cigarette",
+      "6237": "veliginche",
+      "4298": "lighter...",
+      "2715": "The",
+      "9995": "MAN",
+      "1998": "is",
+      "2449": "perplexed",
+      "2969": "CHINTHAN",
+      "4673": "BABA",
+      "5706": "Nee",
+      "4204": "snehithula",
+      "1832": "cigarette",
+      "3835": "veligisthaava?",
+      "9412": "MAN",
+      "7762": "Ledhu",
+      "3620": "Baba",
+      "5910": "CHINTHAN",
+      "6378": "BABA",
+      "1324": "Abbadham",
+      "1787": "aadaku",
+      "5932": "raa",
+      "1121": "dooffer"
+    }
+  },
+  "sample_no": "sample1",
+  "pdf_file_name": "page_19.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "CHINTHAN BABA",
+        "MAN"
+      ],
+      "SET": [
+        "INT. BABA'S ASHRAM-POOL AREA - DAY"
+      ],
+      "PROPS": [
+        "mic",
+        "lighter",
+        "cigarette"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        "APPLAUSE"
+      ]
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "CHINTHAN BABA",
+          "ids": [
+            5769,
+            2907,
+            9779,
+            7172,
+            6844,
+            1827,
+            5880,
+            2799,
+            3006,
+            5753,
+            1499,
+            2361,
+            9926,
+            1374,
+            4530,
+            1019,
+            2814,
+            2969,
+            4673,
+            3620,
+            5910,
+            6378
+          ]
+        },
+        {
+          "value": "MAN",
+          "ids": [
+            1693,
+            3228
+          ]
+        },
+        {
+          "value": "MAN",
+          "ids": [
+            3254,
+            3887
+          ]
+        },
+        {
+          "value": "MAN",
+          "ids": [
+            9369,
+            9412
+          ]
+        },
+        {
+          "value": "MAN",
+          "ids": [
+            9781,
+            9995
+          ]
+        }
+      ],
+      "SET": [
+        {
+          "value": "INT. BABA'S ASHRAM-POOL AREA - DAY",
+          "ids": [
+            7868,
+            9913,
+            2907,
+            7172,
+            1827,
+            2799,
+            5753,
+            2361,
+            1374,
+            4530,
+            2814,
+            4673,
+            3620,
+            6378
+          ]
+        }
+      ],
+      "PROPS": [
+        {
+          "value": "mic",
+          "ids": [
+            2164
+          ]
+        },
+        {
+          "value": "lighter",
+          "ids": [
+            1963,
+            4056
+          ]
+        },
+        {
+          "value": "cigarette",
+          "ids": [
+            1832
+          ]
+        }
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        {
+          "value": "APPLAUSE",
+          "ids": []
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "ALL_TEXT": "111 INT. KRISHNADEVARAYA\u2019S COURT - DAY \nANTHONY's point of view song. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "111",
+    "1001": "INT.",
+    "1002": "KRISHNADEVARAYA\u2019S",
+    "1003": "COURT",
+    "1004": "-",
+    "1005": "DAY",
+    "1006": "ANTHONY's",
+    "1007": "point",
+    "1008": "of",
+    "1009": "view",
+    "1010": "song.",
+    "1011": "CUT",
+    "1012": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "ANTHONY"
+      ],
+      "SET": [
+        "INT. KRISHNADEVARAYA\u2019S COURT - DAY"
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        "song"
+      ]
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "ANTHONY",
+            "ids": [
+              "unable to find ids"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "INT. KRISHNADEVARAYA\u2019S COURT - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        [
+          {
+            "value": "song.",
+            "ids": [
+              "1010"
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}

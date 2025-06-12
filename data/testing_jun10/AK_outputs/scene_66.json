@@ -1,0 +1,546 @@
+{
+  "ALL_TEXT": "66 EXT. TV CHANNEL OFFICE-PARKING - DAY \nGOVARDHAN and VEDA get to her office and wait for SULOCHANA \nat the parking lot. They\u2019ve parked next to a tree, and wait \nunder the shade. SULOCHANA comes out with GANAPATHI, who has \nthe PUG in his hands. She briskly walks up to meet VEDA, \nwhile GANAPATHI stays behind. \nVEDA \nEnti utti chethultho ochaavu... \nphotos evi? \nSULOCHANA \n(angry) \nEntha job pothay mathram, kukkalni \nkottesi ammuthaava. \nVEDA \nEm maatladuthunav? \nSULOCHANA \nNuvvu naaku ammina Terminator, \nTerminator kaadu adhi Whiskey. \nVEDA \n(confused) \nWhiskey ah? em matladuthunav? Burra \nemana dhobindha. \nSULOCHANA \n(frustrated) \nNavvalla maa pakkinti kukka \nparipoyindhi annaanu kadaa...adhe \nnuvvu kottesi naaku ammina kukka. \nMalli vaalla inti chaayaluku \nvosthey kaallu irakodtha annaaru. \nNaa dabbulu naaku ivvi. \nVEDA \nEm dabbulu endhakey bank lo deposit \nchesa \nSULOCHANA \nDraw chesi ivvu \nVEDA \nAy lokamlo bathukuthunnaavu? \nDemonitisation vinaledha? Ippudu \nbank queue lo ninchuntey naaku \nthella gaddam vosthadhi. Istha le \nmanalo manaki enti. Sare photos \nayvi? \nSULOCHANA \nLevu... inka raaledu... kaani case \nkoncham serious. \nVEDA \nSerious ante? \nSULOCHANA \nDouble murder. Police laki inka \nteleedu yevaru chesaaro. Kaani \nkanukkomani pressure chaala undi... \nchanipoindi FOREST MINISTER ki \ndeggara manushulanta. \nVEDA \nFOREST MINISTER ki deggara \nvaalla... \nSULOCHANA \nEye witnesses pakkane unde oka \nbuilding watchman... inka road \nmeeda aa time ki unna evaro manishi \nni batti Police investigate \nchesthunnaaru \nVEDA \nEm cheppaaru vaallu? \nSULOCHANA \nClear ga naaku theleedu... naaku \nthelisinantha varaku, chanipoindi \niddaru... champinidii iddaru, \nchusindi kuda iddare... \nVEDA is frowning now, thinking about all of what has been \ntold. \nSULOCHANA \nNijam cheppu VEDA... naa deggara em \ndaachatledhu gaa... \nVEDA \nAyooo!!!... Ledu SULOCHANA... \nchampinodinaithe ikkadikenduku \nvastha... I swear... \nVEDA \nI\u2019m sure chanipoina vaaru memu \nkotlaadina vaallu veru... \nKaavalante aa photos theppichi \nchudu. \nSULOCHANA \nSare... Ikkade wait chey. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "66",
+    "1001": "EXT.",
+    "1002": "TV",
+    "1003": "CHANNEL",
+    "1004": "OFFICE-PARKING",
+    "1005": "-",
+    "1006": "DAY",
+    "1007": "GOVARDHAN",
+    "1008": "and",
+    "1009": "VEDA",
+    "1010": "get",
+    "1011": "to",
+    "1012": "her",
+    "1013": "office",
+    "1014": "and",
+    "1015": "wait",
+    "1016": "for",
+    "1017": "SULOCHANA",
+    "1018": "at",
+    "1019": "the",
+    "1020": "parking",
+    "1021": "lot.",
+    "1022": "They\u2019ve",
+    "1023": "parked",
+    "1024": "next",
+    "1025": "to",
+    "1026": "a",
+    "1027": "tree,",
+    "1028": "and",
+    "1029": "wait",
+    "1030": "under",
+    "1031": "the",
+    "1032": "shade.",
+    "1033": "SULOCHANA",
+    "1034": "comes",
+    "1035": "out",
+    "1036": "with",
+    "1037": "GANAPATHI,",
+    "1038": "who",
+    "1039": "has",
+    "1040": "the",
+    "1041": "PUG",
+    "1042": "in",
+    "1043": "his",
+    "1044": "hands.",
+    "1045": "She",
+    "1046": "briskly",
+    "1047": "walks",
+    "1048": "up",
+    "1049": "to",
+    "1050": "meet",
+    "1051": "VEDA,",
+    "1052": "while",
+    "1053": "GANAPATHI",
+    "1054": "stays",
+    "1055": "behind.",
+    "1056": "VEDA",
+    "1057": "Enti",
+    "1058": "utti",
+    "1059": "chethultho",
+    "1060": "ochaavu...",
+    "1061": "photos",
+    "1062": "evi?",
+    "1063": "SULOCHANA",
+    "1064": "(angry)",
+    "1065": "Entha",
+    "1066": "job",
+    "1067": "pothay",
+    "1068": "mathram,",
+    "1069": "kukkalni",
+    "1070": "kottesi",
+    "1071": "ammuthaava.",
+    "1072": "VEDA",
+    "1073": "Em",
+    "1074": "maatladuthunav?",
+    "1075": "SULOCHANA",
+    "1076": "Nuvvu",
+    "1077": "naaku",
+    "1078": "ammina",
+    "1079": "Terminator,",
+    "1080": "Terminator",
+    "1081": "kaadu",
+    "1082": "adhi",
+    "1083": "Whiskey.",
+    "1084": "VEDA",
+    "1085": "(confused)",
+    "1086": "Whiskey",
+    "1087": "ah?",
+    "1088": "em",
+    "1089": "matladuthunav?",
+    "1090": "Burra",
+    "1091": "emana",
+    "1092": "dhobindha.",
+    "1093": "SULOCHANA",
+    "1094": "(frustrated)",
+    "1095": "Navvalla",
+    "1096": "maa",
+    "1097": "pakkinti",
+    "1098": "kukka",
+    "1099": "paripoyindhi",
+    "1100": "annaanu",
+    "1101": "kadaa...adhe",
+    "1102": "nuvvu",
+    "1103": "kottesi",
+    "1104": "naaku",
+    "1105": "ammina",
+    "1106": "kukka.",
+    "1107": "Malli",
+    "1108": "vaalla",
+    "1109": "inti",
+    "1110": "chaayaluku",
+    "1111": "vosthey",
+    "1112": "kaallu",
+    "1113": "irakodtha",
+    "1114": "annaaru.",
+    "1115": "Naa",
+    "1116": "dabbulu",
+    "1117": "naaku",
+    "1118": "ivvi.",
+    "1119": "VEDA",
+    "1120": "Em",
+    "1121": "dabbulu",
+    "1122": "endhakey",
+    "1123": "bank",
+    "1124": "lo",
+    "1125": "deposit",
+    "1126": "chesa",
+    "1127": "SULOCHANA",
+    "1128": "Draw",
+    "1129": "chesi",
+    "1130": "ivvu",
+    "1131": "VEDA",
+    "1132": "Ay",
+    "1133": "lokamlo",
+    "1134": "bathukuthunnaavu?",
+    "1135": "Demonitisation",
+    "1136": "vinaledha?",
+    "1137": "Ippudu",
+    "1138": "bank",
+    "1139": "queue",
+    "1140": "lo",
+    "1141": "ninchuntey",
+    "1142": "naaku",
+    "1143": "thella",
+    "1144": "gaddam",
+    "1145": "vosthadhi.",
+    "1146": "Istha",
+    "1147": "le",
+    "1148": "manalo",
+    "1149": "manaki",
+    "1150": "enti.",
+    "1151": "Sare",
+    "1152": "photos",
+    "1153": "ayvi?",
+    "1154": "SULOCHANA",
+    "1155": "Levu...",
+    "1156": "inka",
+    "1157": "raaledu...",
+    "1158": "kaani",
+    "1159": "case",
+    "1160": "koncham",
+    "1161": "serious.",
+    "1162": "VEDA",
+    "1163": "Serious",
+    "1164": "ante?",
+    "1165": "SULOCHANA",
+    "1166": "Double",
+    "1167": "murder.",
+    "1168": "Police",
+    "1169": "laki",
+    "1170": "inka",
+    "1171": "teleedu",
+    "1172": "yevaru",
+    "1173": "chesaaro.",
+    "1174": "Kaani",
+    "1175": "kanukkomani",
+    "1176": "pressure",
+    "1177": "chaala",
+    "1178": "undi...",
+    "1179": "chanipoindi",
+    "1180": "FOREST",
+    "1181": "MINISTER",
+    "1182": "ki",
+    "1183": "deggara",
+    "1184": "manushulanta.",
+    "1185": "VEDA",
+    "1186": "FOREST",
+    "1187": "MINISTER",
+    "1188": "ki",
+    "1189": "deggara",
+    "1190": "vaalla...",
+    "1191": "SULOCHANA",
+    "1192": "Eye",
+    "1193": "witnesses",
+    "1194": "pakkane",
+    "1195": "unde",
+    "1196": "oka",
+    "1197": "building",
+    "1198": "watchman...",
+    "1199": "inka",
+    "1200": "road",
+    "1201": "meeda",
+    "1202": "aa",
+    "1203": "time",
+    "1204": "ki",
+    "1205": "unna",
+    "1206": "evaro",
+    "1207": "manishi",
+    "1208": "ni",
+    "1209": "batti",
+    "1210": "Police",
+    "1211": "investigate",
+    "1212": "chesthunnaaru",
+    "1213": "VEDA",
+    "1214": "Em",
+    "1215": "cheppaaru",
+    "1216": "vaallu?",
+    "1217": "SULOCHANA",
+    "1218": "Clear",
+    "1219": "ga",
+    "1220": "naaku",
+    "1221": "theleedu...",
+    "1222": "naaku",
+    "1223": "thelisinantha",
+    "1224": "varaku,",
+    "1225": "chanipoindi",
+    "1226": "iddaru...",
+    "1227": "champinidii",
+    "1228": "iddaru,",
+    "1229": "chusindi",
+    "1230": "kuda",
+    "1231": "iddare...",
+    "1232": "VEDA",
+    "1233": "is",
+    "1234": "frowning",
+    "1235": "now,",
+    "1236": "thinking",
+    "1237": "about",
+    "1238": "all",
+    "1239": "of",
+    "1240": "what",
+    "1241": "has",
+    "1242": "been",
+    "1243": "told.",
+    "1244": "SULOCHANA",
+    "1245": "Nijam",
+    "1246": "cheppu",
+    "1247": "VEDA...",
+    "1248": "naa",
+    "1249": "deggara",
+    "1250": "em",
+    "1251": "daachatledhu",
+    "1252": "gaa...",
+    "1253": "VEDA",
+    "1254": "Ayooo!!!...",
+    "1255": "Ledu",
+    "1256": "SULOCHANA...",
+    "1257": "champinodinaithe",
+    "1258": "ikkadikenduku",
+    "1259": "vastha...",
+    "1260": "I",
+    "1261": "swear...",
+    "1262": "VEDA",
+    "1263": "I\u2019m",
+    "1264": "sure",
+    "1265": "chanipoina",
+    "1266": "vaaru",
+    "1267": "memu",
+    "1268": "kotlaadina",
+    "1269": "vaallu",
+    "1270": "veru...",
+    "1271": "Kaavalante",
+    "1272": "aa",
+    "1273": "photos",
+    "1274": "theppichi",
+    "1275": "chudu.",
+    "1276": "SULOCHANA",
+    "1277": "Sare...",
+    "1278": "Ikkade",
+    "1279": "wait",
+    "1280": "chey.",
+    "1281": "CUT",
+    "1282": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "GOVARDHAN",
+        "VEDA",
+        "SULOCHANA",
+        "GANAPATHI"
+      ],
+      "SET": [
+        "EXT. TV CHANNEL OFFICE-PARKING - DAY"
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [
+        "PUG"
+      ],
+      "NUDITY": [],
+      "GREENERY": [
+        "tree"
+      ],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1007"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1009"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1056"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1072"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1084"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1119"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1131"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1162"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1185"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1213"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1232"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1253"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1262"
+            ]
+          },
+          {
+            "value": "VEDA,",
+            "ids": [
+              "1051"
+            ]
+          },
+          {
+            "value": "VEDA...",
+            "ids": [
+              "1247"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1017"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1033"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1063"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1075"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1093"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1127"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1154"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1165"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1191"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1217"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1244"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1276"
+            ]
+          },
+          {
+            "value": "SULOCHANA...",
+            "ids": [
+              "1256"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "GANAPATHI",
+            "ids": [
+              "1053"
+            ]
+          },
+          {
+            "value": "GANAPATHI,",
+            "ids": [
+              "1037"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. TV CHANNEL OFFICE-PARKING - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005",
+              "1006"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [
+        [
+          {
+            "value": "PUG",
+            "ids": [
+              "1041"
+            ]
+          }
+        ]
+      ],
+      "NUDITY": [],
+      "GREENERY": [
+        [
+          {
+            "value": "tree,",
+            "ids": [
+              "1027"
+            ]
+          }
+        ]
+      ],
+      "SOUND": []
+    }
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "page_dict": {
+    "alltext": "72.\nCHINTHAN BABA\nPaapam intha pedda pramaadham lo\nchikkukunnaaru...\nCHINTHAN BABA\nSahaayam cheyaalani enduku undadhu,\naevariki undadu?\nVEDA smiles happily, relaxed.\nCHINTHAN BABA\nGOVARDHAN gaaru... maatho untaara\nikkada?\nGOVARDHAN is mortified. VEDA is surprised. GOVARDHAN looks at\nCHINTHAN BABA with intense hatred; this amuses CHINTHAN BABA.\nHe lowers his eyes and stares at CHINTHAN BABA's painted nail\n- his despise for CHINTHAN BABA turns into hatred and immense\nfear.\nCHINTHAN BABA\n..ha! ha!. enno rojulu kaadu! Ee\npoota ikkade maatho undi\nsaayanthraaniki bayaluderudu le!\nMaaku seva chesthe entho\npunyam....aashirvadam ichi prasadam\npadetha...\nGOVARDHAN turns to look at VEDA angrily.\nVEDA\n(Trying to impress\nCHINTHAN BABA)\nAvunu GOVARDHAN! Baba ki seva chese\npunyam adrushtam andariki\ndorakadhu. Endaru eduru chusthaaro\nthelusa ee avakaasaaniki?\nGOVARDHAN\n(With a cold stare)\nNuvvu cheyyi seva!\nVEDA\nAntha adrushtama naaku baba!\nCHINTHAN BABA ignores VEDA’s statement\nCHINTHAN BABA\nYe GOVARDHAN! Naa sahaayaniki\nkruthagnatha chuaavaa?.\nThe phone starts ringing - its screen flashes \"FOREST\nMINISTER\".",
+    "words_ids": {
+      "4126": "72.",
+      "6854": "CHINTHAN",
+      "2462": "BABA",
+      "8054": "Paapam",
+      "6661": "intha",
+      "9453": "pedda",
+      "3817": "pramaadham",
+      "4704": "lo",
+      "1421": "chikkukunnaaru...",
+      "4598": "CHINTHAN",
+      "9791": "BABA",
+      "6543": "Sahaayam",
+      "2021": "cheyaalani",
+      "6800": "enduku",
+      "6294": "undadhu,",
+      "6684": "aevariki",
+      "4253": "undadu?",
+      "9566": "VEDA",
+      "6451": "smiles",
+      "3034": "happily,",
+      "2090": "relaxed.",
+      "3397": "CHINTHAN",
+      "8187": "BABA",
+      "4703": "GOVARDHAN",
+      "9830": "gaaru...",
+      "5096": "maatho",
+      "9221": "untaara",
+      "2751": "ikkada?",
+      "2998": "GOVARDHAN",
+      "3576": "is",
+      "5444": "mortified.",
+      "3742": "avakaasaaniki?",
+      "3643": "is",
+      "7926": "surprised.",
+      "6678": "GOVARDHAN",
+      "1983": "looks",
+      "2284": "at",
+      "1785": "CHINTHAN",
+      "4375": "BABA",
+      "9275": "with",
+      "6181": "intense",
+      "3018": "hatred;",
+      "8694": "this",
+      "3756": "amuses",
+      "8459": "CHINTHAN",
+      "6902": "BABA.",
+      "1805": "He",
+      "9393": "lowers",
+      "8981": "his",
+      "6155": "eyes",
+      "1302": "and",
+      "1595": "stares",
+      "6662": "at",
+      "8391": "CHINTHAN",
+      "7538": "BABA's",
+      "3292": "painted",
+      "6875": "nail",
+      "4853": "-",
+      "3837": "his",
+      "8961": "despise",
+      "3481": "for",
+      "6582": "CHINTHAN",
+      "9265": "BABA",
+      "6579": "turns",
+      "5287": "into",
+      "8413": "hatred",
+      "6197": "and",
+      "3823": "immense",
+      "4450": "fear.",
+      "8931": "CHINTHAN",
+      "3793": "BABA",
+      "5515": "..ha!",
+      "1846": "ha!.",
+      "6699": "enno",
+      "6850": "rojulu",
+      "8630": "kaadu!",
+      "3640": "Ee",
+      "7129": "poota",
+      "3389": "ikkade",
+      "6730": "maatho",
+      "4020": "undi",
+      "6099": "saayanthraaniki",
+      "9410": "bayaluderudu",
+      "2385": "le!",
+      "9754": "Maaku",
+      "3601": "seva",
+      "4303": "chesthe",
+      "2919": "entho",
+      "9048": "punyam....aashirvadam",
+      "4677": "ichi",
+      "2465": "prasadam",
+      "4585": "padetha...",
+      "7569": "GOVARDHAN",
+      "1762": "turns",
+      "9278": "to",
+      "8963": "look",
+      "9926": "at",
+      "3749": "VEDA",
+      "1292": "angrily.",
+      "9218": "VEDA",
+      "4824": "(Trying",
+      "9568": "to",
+      "4664": "impress",
+      "3998": "CHINTHAN",
+      "2535": "BABA)",
+      "4113": "Avunu",
+      "5888": "GOVARDHAN!",
+      "5974": "Baba",
+      "2447": "ki",
+      "3157": "seva",
+      "2816": "chese",
+      "3507": "punyam",
+      "4940": "adrushtam",
+      "7990": "andariki",
+      "7494": "dorakadhu.",
+      "8608": "Endaru",
+      "6054": "eduru",
+      "9140": "chusthaaro",
+      "8964": "thelusa",
+      "6011": "ee",
+      "4840": "GOVARDHAN",
+      "6229": "(With",
+      "8018": "a",
+      "1081": "cold",
+      "9580": "stare)",
+      "1927": "Nuvvu",
+      "7592": "cheyyi",
+      "9382": "seva!",
+      "7995": "VEDA",
+      "6757": "Antha",
+      "5513": "adrushtama",
+      "7441": "naaku",
+      "1984": "baba!",
+      "5571": "CHINTHAN",
+      "5668": "BABA",
+      "7063": "ignores",
+      "8214": "VEDA’s",
+      "4635": "statement",
+      "6376": "CHINTHAN",
+      "1960": "BABA",
+      "2574": "Ye",
+      "4237": "GOVARDHAN!",
+      "5227": "Naa",
+      "2086": "sahaayaniki",
+      "2074": "kruthagnatha",
+      "3181": "chuaavaa?.",
+      "7250": "The",
+      "8244": "phone",
+      "9020": "starts",
+      "9027": "ringing",
+      "1476": "-",
+      "3908": "its",
+      "2202": "screen",
+      "5109": "flashes",
+      "1985": "\"FOREST",
+      "7303": "MINISTER\"."
+    }
+  },
+  "sample_no": "sample2",
+  "pdf_file_name": "page_73.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "CHINTHAN BABA",
+        "VEDA",
+        "GOVARDHAN"
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [],
+      "PROPS": [
+        "phone"
+      ],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [],
+      "CAMERA": [],
+      "SOUND": [
+        "phone starts ringing"
+      ],
+      "LIGHTS": [],
+      "ELECTRICS": [
+        "phone"
+      ],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "CHINTHAN BABA",
+          "ids": [
+            6854,
+            2462,
+            4598,
+            9791,
+            3397,
+            8187,
+            1785,
+            4375,
+            8459,
+            8391,
+            6582,
+            9265,
+            8931,
+            3793,
+            3998,
+            5974,
+            5571,
+            5668,
+            6376,
+            1960
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            3749,
+            7995
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            9218,
+            9566
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            2998,
+            4703
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            4840,
+            6678
+          ]
+        }
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [],
+      "PROPS": [
+        {
+          "value": "phone",
+          "ids": [
+            8244
+          ]
+        }
+      ],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [],
+      "CAMERA": [],
+      "SOUND": [
+        {
+          "value": "phone starts ringing",
+          "ids": [
+            8244,
+            9020,
+            9027
+          ]
+        }
+      ],
+      "LIGHTS": [],
+      "ELECTRICS": [
+        {
+          "value": "phone",
+          "ids": [
+            8244
+          ]
+        }
+      ],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  }
+}

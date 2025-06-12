@@ -1,0 +1,263 @@
+{
+  "page_dict": {
+    "alltext": "37.\nVEDA\nNuvva???\nSULOCHANA\nNuvva???\nVEDA\nNuvvu ikkadem\nchesthunnaavu...pubulki veladdam\nmee inta vanta ledhu annavu?\nSULOCHANA\nPanee medha vochanu ikadaki...nenu\njournalist kadha...\nVEDA\nOhhh page 3 journalist\naa...haha...edho crime reporter\nlaga posukotaavu aroju.\nSULOCHANA\nNaa sangathi pakanapetu...Thagadam\nallavatuledhu annavu....ipudu nuvu\nthagadamay kaakunda ee noruleni\njeevini kudaa thagisthunnaavu...\nVEDA\nHello..matter telusukuni maatlaadu\nnenu vaddhannaa..ade vinakunda\nthaaguthundi..aina neeku naaku enti\nsambhandam urlovaalla sangathulu\nneekendukamma? Nee drink aedo nuvvu\ntheesukuni sammaga enjoy cheyi\npo...\nSULOCHANA\nNeeku aelaaga job udindhi kadaa,\nnuvvu dheenini chusukolevu\nVEDA\nPelli cancel chesi mali vochi pundu\nmeedha karam jallaala?\nSULOCHANA\nSare kukka ni naaku ichey\nVEDA\nNenu enduku istha...job vochey\nvaruku idhe naaku thindi\npedthundhi.\nVEDA regrets blurting that out.",
+    "words_ids": {
+      "7977": "37.",
+      "3412": "VEDA",
+      "8682": "Nuvva???",
+      "5770": "SULOCHANA",
+      "8499": "Nuvva???",
+      "9159": "VEDA",
+      "5943": "Nuvvu",
+      "1087": "ikkadem",
+      "1442": "chesthunnaavu...pubulki",
+      "9107": "veladdam",
+      "1550": "mee",
+      "1223": "inta",
+      "5813": "vanta",
+      "7187": "ledhu",
+      "4305": "annavu?",
+      "6033": "SULOCHANA",
+      "9249": "Panee",
+      "8925": "medha",
+      "1179": "vochanu",
+      "4104": "ikadaki...nenu",
+      "5526": "journalist",
+      "7807": "kadha...",
+      "1756": "VEDA",
+      "8822": "Ohhh",
+      "6527": "page",
+      "8585": "3",
+      "4234": "journalist",
+      "6376": "aa...haha...edho",
+      "4937": "crime",
+      "5414": "reporter",
+      "4480": "laga",
+      "2485": "posukotaavu",
+      "4185": "aroju.",
+      "2402": "SULOCHANA",
+      "8185": "Naa",
+      "5319": "sangathi",
+      "8438": "pakanapetu...Thagadam",
+      "4298": "allavatuledhu",
+      "5177": "annavu....ipudu",
+      "2720": "nuvu",
+      "8105": "thagadamay",
+      "8799": "kaakunda",
+      "7179": "ee",
+      "6074": "noruleni",
+      "5565": "jeevini",
+      "9820": "kudaa",
+      "2912": "thagisthunnaavu...",
+      "4173": "VEDA",
+      "6381": "Hello..matter",
+      "4309": "telusukuni",
+      "5318": "maatlaadu",
+      "8586": "nenu",
+      "2751": "vaddhannaa..ade",
+      "7742": "vinakunda",
+      "9691": "thaaguthundi..aina",
+      "3874": "neeku",
+      "7571": "naaku",
+      "7296": "enti",
+      "3067": "sambhandam",
+      "8362": "urlovaalla",
+      "6154": "sangathulu",
+      "2124": "neekendukamma?",
+      "6963": "Nee",
+      "2046": "drink",
+      "2225": "aedo",
+      "3643": "nuvvu",
+      "3150": "theesukuni",
+      "7250": "sammaga",
+      "7492": "enjoy",
+      "1228": "cheyi",
+      "8338": "po...",
+      "2053": "SULOCHANA",
+      "5677": "Neeku",
+      "8331": "aelaaga",
+      "8357": "job",
+      "4588": "udindhi",
+      "6805": "kadaa,",
+      "3313": "nuvvu",
+      "6535": "dheenini",
+      "7646": "chusukolevu",
+      "5309": "VEDA",
+      "8960": "Pelli",
+      "1037": "cancel",
+      "3479": "chesi",
+      "9672": "mali",
+      "8238": "vochi",
+      "2251": "pundu",
+      "1210": "meedha",
+      "7404": "karam",
+      "9141": "jallaala?",
+      "4345": "SULOCHANA",
+      "3104": "Sare",
+      "6471": "kukka",
+      "3349": "ni",
+      "5831": "naaku",
+      "5006": "ichey",
+      "3929": "VEDA",
+      "7368": "Nenu",
+      "7451": "enduku",
+      "8005": "istha...job",
+      "2150": "vochey",
+      "5638": "varuku",
+      "1981": "idhe",
+      "9475": "naaku",
+      "9707": "thindi",
+      "2909": "pedthundhi.",
+      "7958": "VEDA",
+      "2769": "regrets",
+      "9791": "blurting",
+      "1282": "that",
+      "9559": "out."
+    }
+  },
+  "sample_no": "sample4",
+  "pdf_file_name": "page_38.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "VEDA",
+        "SULOCHANA"
+      ],
+      "CAST_INFO": [
+        "journalist",
+        "crime reporter"
+      ],
+      "EXTRAS": [],
+      "PROPS": [
+        "drink"
+      ],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [],
+      "CAMERA": [],
+      "SOUND": [],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [
+        "kukka (dog)"
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "VEDA",
+          "ids": [
+            1756,
+            3412
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            3929,
+            4173
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            5309,
+            7958
+          ]
+        },
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            2053,
+            2402
+          ]
+        },
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            4345,
+            5770
+          ]
+        }
+      ],
+      "CAST_INFO": [
+        {
+          "value": "journalist",
+          "ids": [
+            4234,
+            5526
+          ]
+        },
+        {
+          "value": "crime reporter",
+          "ids": [
+            4937,
+            5414
+          ]
+        }
+      ],
+      "EXTRAS": [],
+      "PROPS": [
+        {
+          "value": "drink",
+          "ids": [
+            2046
+          ]
+        }
+      ],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [],
+      "CAMERA": [],
+      "SOUND": [],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [
+        {
+          "value": "kukka (dog)",
+          "ids": [
+            6471
+          ]
+        }
+      ],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  }
+}

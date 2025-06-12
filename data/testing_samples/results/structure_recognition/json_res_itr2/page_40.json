@@ -1,0 +1,923 @@
+{
+  "sample_no": "sample4",
+  "pdf_file_name": "page_40.pdf",
+  "alltext": "39.\nVEDA\nNumber undhi le...nee laaga kaadhu\nneenu marchipodaaniki.\nSULOCHANA gives him a look and walks to the PUG, feeling\nsorry for him. She strokes its head.\nSULOCHANA\nJargindantlo na thappu emmi\nledhu...nanna chepindi chesa anthe.\nPerenti?\nVEDA looks up tries to get the conversation into a lighter\nvein.\nVEDA\nTerminator.\nThe PUG gets up and barks\nVEDA\nAbbo neekkuda nachchesindiraa..\nSULOCHANA\nAdhem peru!? Adhi kukka peru\nkaadhu.\nVEDA\n'Kukka perlu' ani specific gaa\nemanna untaaya???..\nDubbichintharvaatha nee\nishtamochina peru pettuko.\nSULOCHANA\nNeelaantodi chethilo idetla\npadindho asalu?\nShe takes her phone and walks away to her friends. The dog\nturns to look at him.\nVEDA\nEhi....repatnundi mandhu ledhu...\nakka perugannam, sorakaaya pedthadi\nthinu.\nCUT TO:",
+  "words_ids": {
+    "1000": "39.",
+    "1001": "VEDA",
+    "1002": "Number",
+    "1003": "undhi",
+    "1004": "le...nee",
+    "1005": "laaga",
+    "1006": "kaadhu",
+    "1007": "neenu",
+    "1008": "marchipodaaniki.",
+    "1009": "SULOCHANA",
+    "1010": "gives",
+    "1011": "him",
+    "1012": "a",
+    "1013": "look",
+    "1014": "and",
+    "1015": "walks",
+    "1016": "to",
+    "1017": "the",
+    "1018": "PUG,",
+    "1019": "feeling",
+    "1020": "sorry",
+    "1021": "for",
+    "1022": "him.",
+    "1023": "She",
+    "1024": "strokes",
+    "1025": "its",
+    "1026": "head.",
+    "1027": "SULOCHANA",
+    "1028": "Jargindantlo",
+    "1029": "na",
+    "1030": "thappu",
+    "1031": "emmi",
+    "1032": "ledhu...nanna",
+    "1033": "chepindi",
+    "1034": "chesa",
+    "1035": "anthe.",
+    "1036": "Perenti?",
+    "1037": "VEDA",
+    "1038": "looks",
+    "1039": "up",
+    "1040": "tries",
+    "1041": "to",
+    "1042": "get",
+    "1043": "the",
+    "1044": "conversation",
+    "1045": "into",
+    "1046": "a",
+    "1047": "lighter",
+    "1048": "vein.",
+    "1049": "VEDA",
+    "1050": "Terminator.",
+    "1051": "The",
+    "1052": "PUG",
+    "1053": "gets",
+    "1054": "up",
+    "1055": "and",
+    "1056": "barks",
+    "1057": "VEDA",
+    "1058": "Abbo",
+    "1059": "neekkuda",
+    "1060": "nachchesindiraa..",
+    "1061": "SULOCHANA",
+    "1062": "Adhem",
+    "1063": "peru!?",
+    "1064": "Adhi",
+    "1065": "kukka",
+    "1066": "peru",
+    "1067": "kaadhu.",
+    "1068": "VEDA",
+    "1069": "'Kukka",
+    "1070": "perlu'",
+    "1071": "ani",
+    "1072": "specific",
+    "1073": "gaa",
+    "1074": "emanna",
+    "1075": "untaaya???..",
+    "1076": "Dubbichintharvaatha",
+    "1077": "nee",
+    "1078": "ishtamochina",
+    "1079": "peru",
+    "1080": "pettuko.",
+    "1081": "SULOCHANA",
+    "1082": "Neelaantodi",
+    "1083": "chethilo",
+    "1084": "idetla",
+    "1085": "padindho",
+    "1086": "asalu?",
+    "1087": "She",
+    "1088": "takes",
+    "1089": "her",
+    "1090": "phone",
+    "1091": "and",
+    "1092": "walks",
+    "1093": "away",
+    "1094": "to",
+    "1095": "her",
+    "1096": "friends.",
+    "1097": "The",
+    "1098": "dog",
+    "1099": "turns",
+    "1100": "to",
+    "1101": "look",
+    "1102": "at",
+    "1103": "him.",
+    "1104": "VEDA",
+    "1105": "Ehi....repatnundi",
+    "1106": "mandhu",
+    "1107": "ledhu...",
+    "1108": "akka",
+    "1109": "perugannam,",
+    "1110": "sorakaaya",
+    "1111": "pedthadi",
+    "1112": "thinu.",
+    "1113": "CUT",
+    "1114": "TO:"
+  },
+  "llm_response": {
+    "scene_number": [
+      "39"
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      "SULOCHANA gives him a look and walks to the PUG, feeling\nsorry for him. She strokes its head.",
+      "VEDA looks up tries to get the conversation into a lighter\nvein.",
+      "The PUG gets up and barks",
+      "She takes her phone and walks away to her friends. The dog\nturns to look at him."
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Number undhi le...nee laaga kaadhu\nneenu marchipodaaniki."
+        ]
+      },
+      {
+        "character": [
+          "SULOCHANA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Jargindantlo na thappu emmi\nledhu...nanna chepindi chesa anthe.\nPerenti?"
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Terminator."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Abbo neekkuda nachchesindiraa.."
+        ]
+      },
+      {
+        "character": [
+          "SULOCHANA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Adhem peru!? Adhi kukka peru\nkaadhu."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "'Kukka perlu' ani specific gaa\nemanna untaaya???..\nDubbichintharvaatha nee\nishtamochina peru pettuko."
+        ]
+      },
+      {
+        "character": [
+          "SULOCHANA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Neelaantodi chethilo idetla\npadindho asalu?"
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Ehi....repatnundi mandhu ledhu...\nakka perugannam, sorakaaya pedthadi\nthinu."
+        ]
+      }
+    ],
+    "transitions": [
+      "CUT TO:"
+    ],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      [
+        {
+          "value": "39.",
+          "ids": [
+            "1000"
+          ]
+        }
+      ]
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      [
+        {
+          "value": "SULOCHANA gives him a look and walks to the PUG, feeling sorry for him. She strokes its head.",
+          "ids": [
+            "1009",
+            "1010",
+            "1011",
+            "1012",
+            "1013",
+            "1014",
+            "1015",
+            "1016",
+            "1017",
+            "1018",
+            "1019",
+            "1020",
+            "1021",
+            "1022",
+            "1023",
+            "1024",
+            "1025",
+            "1026"
+          ]
+        }
+      ],
+      [
+        {
+          "value": "VEDA looks up tries to get the conversation into a lighter vein.",
+          "ids": [
+            "1037",
+            "1038",
+            "1039",
+            "1040",
+            "1041",
+            "1042",
+            "1043",
+            "1044",
+            "1045",
+            "1046",
+            "1047",
+            "1048"
+          ]
+        }
+      ],
+      [
+        {
+          "value": "The PUG gets up and barks",
+          "ids": [
+            "1051",
+            "1052",
+            "1053",
+            "1054",
+            "1055",
+            "1056"
+          ]
+        }
+      ],
+      [
+        {
+          "value": "She takes her phone and walks away to her friends. The dog turns to look at him.",
+          "ids": [
+            "1087",
+            "1088",
+            "1089",
+            "1090",
+            "1091",
+            "1092",
+            "1093",
+            "1094",
+            "1095",
+            "1096",
+            "1097",
+            "1098",
+            "1099",
+            "1100",
+            "1101",
+            "1102",
+            "1103"
+          ]
+        }
+      ]
+    ],
+    "dialogue": [
+      {
+        "character": [
+          [
+            {
+              "value": "VEDA",
+              "ids": [
+                "1001"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1037"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1049"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1057"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1068"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1104"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Number undhi le...nee laaga kaadhu neenu marchipodaaniki.",
+              "ids": [
+                "1002",
+                "1003",
+                "1004",
+                "1005",
+                "1006",
+                "1007",
+                "1008"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1009"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1027"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1061"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1081"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Jargindantlo na thappu emmi ledhu...nanna chepindi chesa anthe. Perenti?",
+              "ids": [
+                "1028",
+                "1029",
+                "1030",
+                "1031",
+                "1032",
+                "1033",
+                "1034",
+                "1035",
+                "1036"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "VEDA",
+              "ids": [
+                "1001"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1037"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1049"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1057"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1068"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1104"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Terminator.",
+              "ids": [
+                "1050"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "VEDA",
+              "ids": [
+                "1001"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1037"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1049"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1057"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1068"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1104"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Abbo neekkuda nachchesindiraa..",
+              "ids": [
+                "1058",
+                "1059",
+                "1060"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1009"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1027"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1061"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1081"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Adhem peru!? Adhi kukka peru kaadhu.",
+              "ids": [
+                "1062",
+                "1063",
+                "1064",
+                "1065",
+                "1066",
+                "1067"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "VEDA",
+              "ids": [
+                "1001"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1037"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1049"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1057"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1068"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1104"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "'Kukka perlu' ani specific gaa emanna untaaya???.. Dubbichintharvaatha nee ishtamochina peru pettuko.",
+              "ids": [
+                "1069",
+                "1070",
+                "1071",
+                "1072",
+                "1073",
+                "1074",
+                "1075",
+                "1076",
+                "1077",
+                "1078",
+                "1079",
+                "1080"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1009"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1027"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1061"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1081"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Neelaantodi chethilo idetla padindho asalu?",
+              "ids": [
+                "1082",
+                "1083",
+                "1084",
+                "1085",
+                "1086"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "VEDA",
+              "ids": [
+                "1001"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1037"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1049"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1057"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1068"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1104"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Ehi....repatnundi mandhu ledhu... akka perugannam, sorakaaya pedthadi thinu.",
+              "ids": [
+                "1105",
+                "1106",
+                "1107",
+                "1108",
+                "1109",
+                "1110",
+                "1111",
+                "1112"
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "transitions": [
+      [
+        {
+          "value": "CUT TO:",
+          "ids": [
+            "1113",
+            "1114"
+          ]
+        }
+      ]
+    ],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

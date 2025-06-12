@@ -1,0 +1,494 @@
+{
+  "page_dict": {
+    "alltext": "34 INT. BANK-GENERAL AREA - DAY\nGOVARDHAN walks into the bank, to see his desk occupied by a\nMARILYN, a sharply dressed Caucasian woman, tall, early 30s.\nSeeing her occupying his desk, GOVARDHAN looses his shit. He\ncreates a big ruckus over it. The bank’s MANAGER, also a\nwoman, exits her cabin and walks up to them.\nMANAGER\nGOVARDHAN garu oka sari na cabin ki\nvosthaara?\nGOVARDHAN\nNenu raanu\nThe MANAGER stares him down, like talking to a child.\nMANAGER\nGOVARDHAN\nGOVARDHAN\nAa sarey vosthuna.\nCUT TO:",
+    "words_ids": {
+      "6405": "34",
+      "4077": "INT.",
+      "8215": "BANK-GENERAL",
+      "2487": "AREA",
+      "4577": "-",
+      "1437": "DAY",
+      "6171": "GOVARDHAN",
+      "8326": "walks",
+      "8685": "into",
+      "8014": "the",
+      "9652": "bank,",
+      "4506": "to",
+      "3878": "see",
+      "2740": "his",
+      "2795": "desk",
+      "7374": "occupied",
+      "6984": "by",
+      "1243": "a",
+      "8843": "MARILYN,",
+      "6645": "a",
+      "9444": "sharply",
+      "7571": "dressed",
+      "1702": "Caucasian",
+      "8900": "woman,",
+      "7085": "tall,",
+      "1091": "early",
+      "6170": "30s.",
+      "7077": "Seeing",
+      "6525": "her",
+      "7799": "occupying",
+      "4178": "his",
+      "3787": "desk,",
+      "6390": "GOVARDHAN",
+      "9727": "looses",
+      "8052": "his",
+      "7747": "shit.",
+      "3217": "He",
+      "9983": "creates",
+      "7108": "a",
+      "9888": "big",
+      "8931": "ruckus",
+      "2192": "over",
+      "1509": "it.",
+      "8939": "The",
+      "8577": "bank’s",
+      "8673": "MANAGER,",
+      "3601": "also",
+      "4762": "a",
+      "2462": "woman,",
+      "5714": "exits",
+      "8146": "her",
+      "9582": "cabin",
+      "9924": "and",
+      "9608": "walks",
+      "2068": "up",
+      "1145": "to",
+      "2719": "them.",
+      "6890": "MANAGER",
+      "1962": "GOVARDHAN",
+      "8961": "garu",
+      "6187": "oka",
+      "1444": "sari",
+      "1331": "na",
+      "4188": "cabin",
+      "6469": "ki",
+      "6303": "vosthaara?",
+      "4783": "GOVARDHAN",
+      "4237": "Nenu",
+      "2461": "raanu",
+      "7344": "The",
+      "6152": "MANAGER",
+      "5927": "stares",
+      "3752": "him",
+      "7587": "down,",
+      "3271": "like",
+      "2328": "talking",
+      "3895": "to",
+      "2013": "a",
+      "1400": "child.",
+      "7788": "MANAGER",
+      "1835": "GOVARDHAN",
+      "3929": "GOVARDHAN",
+      "1330": "Aa",
+      "1370": "sarey",
+      "5763": "vosthuna.",
+      "4729": "CUT",
+      "4024": "TO:"
+    }
+  },
+  "sample_no": "sample3",
+  "pdf_file_name": "page_24.pdf",
+  "llm_response": {
+    "scene_number": [
+      34
+    ],
+    "slugline": {
+      "type": [
+        "INT."
+      ],
+      "location": [
+        "BANK-GENERAL AREA"
+      ],
+      "time_of_day": [
+        "DAY"
+      ]
+    },
+    "action_lines": [
+      "GOVARDHAN walks into the bank, to see his desk occupied by a\nMARILYN, a sharply dressed Caucasian woman, tall, early 30s.",
+      "Seeing her occupying his desk, GOVARDHAN looses his shit. He\ncreates a big ruckus over it. The bank’s MANAGER, also a\nwoman, exits her cabin and walks up to them."
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "MANAGER"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "GOVARDHAN garu oka sari na cabin ki\nvosthaara?"
+        ]
+      },
+      {
+        "character": [
+          "GOVARDHAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Nenu raanu"
+        ]
+      },
+      {
+        "character": [
+          "MANAGER"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "GOVARDHAN"
+        ]
+      },
+      {
+        "character": [
+          "GOVARDHAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Aa sarey vosthuna."
+        ]
+      }
+    ],
+    "transitions": [
+      "CUT TO:"
+    ],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      {
+        "value": 34,
+        "ids": []
+      }
+    ],
+    "slugline": {
+      "type": [
+        {
+          "value": "INT.",
+          "ids": [
+            4077
+          ]
+        }
+      ],
+      "location": [
+        {
+          "value": "BANK-GENERAL AREA",
+          "ids": [
+            2487
+          ]
+        }
+      ],
+      "time_of_day": [
+        {
+          "value": "DAY",
+          "ids": [
+            1437
+          ]
+        }
+      ]
+    },
+    "action_lines": [
+      {
+        "value": "GOVARDHAN walks into the bank, to see his desk occupied by a\nMARILYN, a sharply dressed Caucasian woman, tall, early 30s.",
+        "ids": [
+          6171,
+          8326,
+          8685,
+          8014,
+          4506,
+          3878,
+          2740,
+          2795,
+          7374,
+          6984,
+          1243,
+          6645,
+          9444,
+          7571,
+          1702,
+          1091,
+          4178,
+          6390,
+          8052,
+          7108,
+          8939,
+          4762,
+          9608,
+          1145,
+          1962,
+          4783,
+          7344,
+          3895,
+          2013,
+          1835,
+          3929
+        ]
+      },
+      {
+        "value": "Seeing her occupying his desk, GOVARDHAN looses his shit. He\ncreates a big ruckus over it. The bank’s MANAGER, also a\nwoman, exits her cabin and walks up to them.",
+        "ids": [
+          6171,
+          8326,
+          8014,
+          4506,
+          2740,
+          2795,
+          1243,
+          6645,
+          7077,
+          6525,
+          7799,
+          4178,
+          6390,
+          9727,
+          8052,
+          3217,
+          9983,
+          7108,
+          9888,
+          8931,
+          2192,
+          8939,
+          3601,
+          4762,
+          5714,
+          8146,
+          9582,
+          9924,
+          9608,
+          2068,
+          1145,
+          6890,
+          1962,
+          4188,
+          4783,
+          7344,
+          6152,
+          3895,
+          2013,
+          7788,
+          1835,
+          3929
+        ]
+      }
+    ],
+    "dialogue": [
+      {
+        "character": [
+          {
+            "value": "MANAGER",
+            "ids": [
+              6152,
+              6890
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "GOVARDHAN garu oka sari na cabin ki\nvosthaara?",
+            "ids": [
+              6171,
+              6390,
+              9582,
+              1962,
+              8961,
+              6187,
+              1444,
+              1331,
+              4188,
+              6469,
+              4783,
+              1835,
+              3929
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              1835,
+              1962
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              3929,
+              4783
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              6171,
+              6390
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Nenu raanu",
+            "ids": [
+              4237,
+              2461
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "MANAGER",
+            "ids": [
+              6152,
+              6890
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              1835,
+              1962
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              3929,
+              4783
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              6171,
+              6390
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              1835,
+              1962
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              3929,
+              4783
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              6171,
+              6390
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Aa sarey vosthuna.",
+            "ids": [
+              1330,
+              1370
+            ]
+          }
+        ]
+      }
+    ],
+    "transitions": [
+      {
+        "value": "CUT TO:",
+        "ids": [
+          4506,
+          1145,
+          3895,
+          4729
+        ]
+      }
+    ],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

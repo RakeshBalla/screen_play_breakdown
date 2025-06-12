@@ -1,0 +1,773 @@
+{
+  "page_dict": {
+    "alltext": "60.\n66 EXT. TV CHANNEL OFFICE-PARKING - DAY\nGOVARDHAN and VEDA get to her office and wait for SULOCHANA\nat the parking lot. They’ve parked next to a tree, and wait\nunder the shade. SULOCHANA comes out with GANAPATHI, who has\nthe PUG in his hands. She briskly walks up to meet VEDA,\nwhile GANAPATHI stays behind.\nVEDA\nEnti utti chethultho ochaavu...\nphotos evi?\nSULOCHANA\n(angry)\nEntha job pothay mathram, kukkalni\nkottesi ammuthaava.\nVEDA\nEm maatladuthunav?\nSULOCHANA\nNuvvu naaku ammina Terminator,\nTerminator kaadu adhi Whiskey.\nVEDA\n(confused)\nWhiskey ah? em matladuthunav? Burra\nemana dhobindha.\nSULOCHANA\n(frustrated)\nNavvalla maa pakkinti kukka\nparipoyindhi annaanu kadaa...adhe\nnuvvu kottesi naaku ammina kukka.\nMalli vaalla inti chaayaluku\nvosthey kaallu irakodtha annaaru.\nNaa dabbulu naaku ivvi.\nVEDA\nEm dabbulu endhakey bank lo deposit\nchesa\nSULOCHANA\nDraw chesi ivvu",
+    "words_ids": {
+      "2254": "60.",
+      "7727": "66",
+      "6842": "EXT.",
+      "5092": "TV",
+      "8848": "CHANNEL",
+      "9285": "OFFICE-PARKING",
+      "5840": "-",
+      "5640": "DAY",
+      "9657": "GOVARDHAN",
+      "5174": "and",
+      "3055": "VEDA",
+      "8053": "get",
+      "2778": "to",
+      "9658": "her",
+      "7664": "office",
+      "9529": "and",
+      "6703": "wait",
+      "9993": "for",
+      "3028": "SULOCHANA",
+      "1753": "at",
+      "7966": "the",
+      "2186": "parking",
+      "6335": "lot.",
+      "1657": "They’ve",
+      "1805": "parked",
+      "4687": "next",
+      "5658": "to",
+      "4983": "a",
+      "4872": "tree,",
+      "3830": "and",
+      "8130": "wait",
+      "8719": "under",
+      "2825": "the",
+      "4670": "shade.",
+      "9297": "SULOCHANA",
+      "4309": "comes",
+      "5266": "out",
+      "7720": "with",
+      "1017": "GANAPATHI,",
+      "7404": "who",
+      "2085": "has",
+      "1358": "the",
+      "7878": "PUG",
+      "4094": "in",
+      "9111": "his",
+      "4718": "hands.",
+      "5714": "She",
+      "8664": "briskly",
+      "8990": "walks",
+      "5884": "up",
+      "5768": "to",
+      "4541": "meet",
+      "2148": "VEDA,",
+      "6910": "while",
+      "1900": "GANAPATHI",
+      "2352": "stays",
+      "3467": "behind.",
+      "2012": "VEDA",
+      "3428": "Enti",
+      "9973": "utti",
+      "3264": "chethultho",
+      "2707": "ochaavu...",
+      "3505": "photos",
+      "5049": "evi?",
+      "9575": "SULOCHANA",
+      "8571": "(angry)",
+      "7344": "Entha",
+      "5849": "job",
+      "5182": "pothay",
+      "4708": "mathram,",
+      "6784": "kukkalni",
+      "6772": "kottesi",
+      "2709": "ammuthaava.",
+      "6300": "VEDA",
+      "6967": "Em",
+      "6838": "maatladuthunav?",
+      "1148": "SULOCHANA",
+      "8681": "Nuvvu",
+      "1363": "naaku",
+      "2396": "ammina",
+      "7485": "Terminator,",
+      "4534": "Terminator",
+      "9623": "kaadu",
+      "4636": "adhi",
+      "7219": "Whiskey.",
+      "6631": "VEDA",
+      "6420": "(confused)",
+      "9582": "Whiskey",
+      "5945": "ah?",
+      "2559": "em",
+      "5915": "matladuthunav?",
+      "6976": "Burra",
+      "7238": "emana",
+      "8391": "dhobindha.",
+      "9299": "SULOCHANA",
+      "5048": "(frustrated)",
+      "2666": "Navvalla",
+      "4954": "maa",
+      "4207": "pakkinti",
+      "2565": "kukka",
+      "8779": "paripoyindhi",
+      "8470": "annaanu",
+      "6785": "kadaa...adhe",
+      "5419": "nuvvu",
+      "8044": "kottesi",
+      "9827": "naaku",
+      "5826": "ammina",
+      "8640": "kukka.",
+      "2714": "Malli",
+      "6123": "vaalla",
+      "9301": "inti",
+      "7608": "chaayaluku",
+      "9060": "vosthey",
+      "1421": "kaallu",
+      "8359": "irakodtha",
+      "4366": "annaaru.",
+      "5194": "Naa",
+      "5950": "dabbulu",
+      "2783": "naaku",
+      "1035": "ivvi.",
+      "6681": "VEDA",
+      "8349": "Em",
+      "5718": "dabbulu",
+      "7086": "endhakey",
+      "3630": "bank",
+      "5874": "lo",
+      "9009": "deposit",
+      "5948": "chesa",
+      "7968": "SULOCHANA",
+      "5565": "Draw",
+      "8671": "chesi",
+      "8575": "ivvu"
+    }
+  },
+  "sample_no": "sample8",
+  "pdf_file_name": "page_61.pdf",
+  "llm_response": {
+    "scene_number": [
+      "66"
+    ],
+    "slugline": {
+      "type": [
+        "EXT."
+      ],
+      "location": [
+        "TV CHANNEL OFFICE-PARKING"
+      ],
+      "time_of_day": [
+        "DAY"
+      ]
+    },
+    "action_lines": [
+      "GOVARDHAN and VEDA get to her office and wait for SULOCHANA\nat the parking lot. They’ve parked next to a tree, and wait\nunder the shade. SULOCHANA comes out with GANAPATHI, who has\nthe PUG in his hands. She briskly walks up to meet VEDA,\nwhile GANAPATHI stays behind."
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Enti utti chethultho ochaavu...\nphotos evi?"
+        ]
+      },
+      {
+        "character": [
+          "SULOCHANA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          "(angry)"
+        ],
+        "text": [
+          "Entha job pothay mathram, kukkalni\nkottesi ammuthaava."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Em maatladuthunav?"
+        ]
+      },
+      {
+        "character": [
+          "SULOCHANA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Nuvvu naaku ammina Terminator,\nTerminator kaadu adhi Whiskey."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          "(confused)"
+        ],
+        "text": [
+          "Whiskey ah? em matladuthunav? Burra\nemana dhobindha."
+        ]
+      },
+      {
+        "character": [
+          "SULOCHANA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          "(frustrated)"
+        ],
+        "text": [
+          "Navvalla maa pakkinti kukka\nparipoyindhi annaanu kadaa...adhe\nuvvu kottesi naaku ammina kukka.\nMalli vaalla inti chaayaluku\nvosthey kaallu irakodtha annaaru.\nNaa dabbulu naaku ivvi."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Em dabbulu endhakey bank lo deposit\nchesa"
+        ]
+      },
+      {
+        "character": [
+          "SULOCHANA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Draw chesi ivvu"
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      {
+        "value": "66",
+        "ids": [
+          7727
+        ]
+      }
+    ],
+    "slugline": {
+      "type": [
+        {
+          "value": "EXT.",
+          "ids": [
+            6842
+          ]
+        }
+      ],
+      "location": [
+        {
+          "value": "TV CHANNEL OFFICE-PARKING",
+          "ids": [
+            5092,
+            8848,
+            7664,
+            2186
+          ]
+        }
+      ],
+      "time_of_day": [
+        {
+          "value": "DAY",
+          "ids": [
+            5640
+          ]
+        }
+      ]
+    },
+    "action_lines": [
+      {
+        "value": "GOVARDHAN and VEDA get to her office and wait for SULOCHANA\nat the parking lot. They’ve parked next to a tree, and wait\nunder the shade. SULOCHANA comes out with GANAPATHI, who has\nthe PUG in his hands. She briskly walks up to meet VEDA,\nwhile GANAPATHI stays behind.",
+        "ids": [
+          9657,
+          5174,
+          3055,
+          8053,
+          2778,
+          9658,
+          7664,
+          9529,
+          6703,
+          9993,
+          3028,
+          1753,
+          7966,
+          2186,
+          1805,
+          4687,
+          5658,
+          4983,
+          3830,
+          8130,
+          8719,
+          2825,
+          9297,
+          4309,
+          5266,
+          7720,
+          7404,
+          2085,
+          1358,
+          7878,
+          4094,
+          9111,
+          5714,
+          8664,
+          8990,
+          5884,
+          5768,
+          4541,
+          6910,
+          1900,
+          2352,
+          2012,
+          9575,
+          6300,
+          1148,
+          6631,
+          9299,
+          6681,
+          7968
+        ]
+      }
+    ],
+    "dialogue": [
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              2012,
+              3055
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              6300,
+              6631
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Enti utti chethultho ochaavu...\nphotos evi?",
+            "ids": [
+              3428,
+              9973,
+              3264,
+              3505
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              1148,
+              3028
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              7968,
+              9297
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              9299,
+              9575
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "(angry)",
+            "ids": [
+              8571
+            ]
+          }
+        ],
+        "text": [
+          {
+            "value": "Entha job pothay mathram, kukkalni\nkottesi ammuthaava.",
+            "ids": [
+              7344,
+              5849,
+              5182,
+              6784,
+              6772,
+              8044
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              2012,
+              3055
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              6300,
+              6631
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Em maatladuthunav?",
+            "ids": [
+              6967,
+              2559,
+              8349
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              1148,
+              3028
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              7968,
+              9297
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              9299,
+              9575
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Nuvvu naaku ammina Terminator,\nTerminator kaadu adhi Whiskey.",
+            "ids": [
+              8681,
+              1363,
+              2396,
+              4534,
+              9623,
+              4636,
+              9582,
+              5419,
+              9827,
+              5826,
+              2783
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              2012,
+              3055
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              6300,
+              6631
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "(confused)",
+            "ids": [
+              6420
+            ]
+          }
+        ],
+        "text": [
+          {
+            "value": "Whiskey ah? em matladuthunav? Burra\nemana dhobindha.",
+            "ids": [
+              6967,
+              9582,
+              2559,
+              6976,
+              7238,
+              8349
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              1148,
+              3028
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              7968,
+              9297
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              9299,
+              9575
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "(frustrated)",
+            "ids": [
+              5048
+            ]
+          }
+        ],
+        "text": [
+          {
+            "value": "Navvalla maa pakkinti kukka\nparipoyindhi annaanu kadaa...adhe\nuvvu kottesi naaku ammina kukka.\nMalli vaalla inti chaayaluku\nvosthey kaallu irakodtha annaaru.\nNaa dabbulu naaku ivvi.",
+            "ids": [
+              6772,
+              1363,
+              2396,
+              2666,
+              4954,
+              4207,
+              2565,
+              8779,
+              8470,
+              8044,
+              9827,
+              5826,
+              2714,
+              6123,
+              9301,
+              7608,
+              9060,
+              1421,
+              8359,
+              5194,
+              5950,
+              2783,
+              5718
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              2012,
+              3055
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              6300,
+              6631
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Em dabbulu endhakey bank lo deposit\nchesa",
+            "ids": [
+              6967,
+              2559,
+              5950,
+              8349,
+              5718,
+              7086,
+              3630,
+              5874,
+              9009,
+              5948
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              1148,
+              3028
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              7968,
+              9297
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              9299,
+              9575
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Draw chesi ivvu",
+            "ids": [
+              5565,
+              8671,
+              8575
+            ]
+          }
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

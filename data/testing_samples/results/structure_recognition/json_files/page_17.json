@@ -1,0 +1,1163 @@
+{
+  "page_dict": {
+    "alltext": "16.\nBHANU looks at VEDA blankly, not realizing the farcical\nnature of the situation. VEDA rolls his eyes and looks at\nHARSHA, who is asleep on VEDA's floor, half sitting, half\nresting against the wall. BHANU pulls out a pastry with a\ncandle on it and looks at VEDA.\nBHANU\nAbba cake koye.\nBHANU blows the candle and holds VEDA's hand and makes him\ncut the pastry. The rest of them sing the birthday song.\nhalf-broken, half-slurring. Suddenly, VEDA lifts his leg from\nthe floor, seeing a PUG trying to lick his foot. BHANU looks\ndown at the PUG, picks it up and shoves it onto VEDA's hands.\nBHANU\nAa macha! Marchipoya idhigo ne\nbirthday gift.\nVEDA\nIdhentra?\nBHANU\n(matter of fact response)\nKukkara, bochhu leni hutch kukka.\nNeeke.\nVISHAL\nMaku peggu niku puggu.\nVEDA\nAedho thayda koduthundhi\nBHANU straps out the baby sling from VISHAL's chest and gives\nit to VEDA\nBHANU\nIdhigo unkoka gift...\nVEDA\n(irritated)\nGet out rascals. Pani paata ledhu.\nRathirlu janaalni disturb\ncheyadaaniki baildherutharu\noorimeeda ki.\nBHANU\n(pissed)\nAntavu ra antavu..friends ani kuda\nchudakundaa..potham ra\npotham..randra...\nBHANU pacifies the crying VISHAL, and throws a credit card at\nVEDA.",
+    "words_ids": {
+      "5076": "16.",
+      "2559": "BHANU",
+      "5665": "looks",
+      "9451": "at",
+      "8929": "VEDA",
+      "7072": "blankly,",
+      "9767": "not",
+      "1496": "realizing",
+      "7090": "the",
+      "2703": "farcical",
+      "1374": "nature",
+      "1968": "of",
+      "6612": "the",
+      "8175": "situation.",
+      "2698": "VEDA",
+      "4934": "rolls",
+      "2732": "his",
+      "2240": "eyes",
+      "6252": "and",
+      "2618": "looks",
+      "4415": "at",
+      "1112": "HARSHA,",
+      "8568": "who",
+      "8559": "is",
+      "6400": "asleep",
+      "1478": "on",
+      "9546": "VEDA's",
+      "4615": "floor,",
+      "1194": "half",
+      "3672": "sitting,",
+      "1803": "half",
+      "2411": "resting",
+      "3188": "against",
+      "2496": "the",
+      "6672": "wall.",
+      "7538": "BHANU",
+      "6330": "pulls",
+      "3258": "out",
+      "7949": "a",
+      "3022": "pastry",
+      "5457": "with",
+      "6076": "a",
+      "3518": "candle",
+      "5005": "on",
+      "1160": "it",
+      "5834": "and",
+      "3482": "looks",
+      "5135": "at",
+      "5343": "VEDA.",
+      "6894": "BHANU",
+      "7791": "Abba",
+      "6628": "cake",
+      "3900": "Maku",
+      "5817": "BHANU",
+      "3396": "blows",
+      "4461": "the",
+      "8791": "candle",
+      "1929": "and",
+      "9928": "holds",
+      "4256": "VEDA's",
+      "4795": "hand",
+      "4039": "and",
+      "8992": "makes",
+      "3724": "him",
+      "7684": "cut",
+      "1985": "the",
+      "4224": "pastry.",
+      "8316": "The",
+      "1930": "rest",
+      "9298": "of",
+      "5305": "them",
+      "6553": "sing",
+      "9670": "the",
+      "4299": "birthday",
+      "6912": "song.",
+      "8944": "half-broken,",
+      "4040": "half-slurring.",
+      "8994": "Suddenly,",
+      "7746": "VEDA",
+      "7260": "lifts",
+      "6837": "his",
+      "7676": "leg",
+      "5196": "from",
+      "3187": "the",
+      "9755": "floor,",
+      "2572": "seeing",
+      "7464": "a",
+      "1589": "PUG",
+      "8036": "trying",
+      "3253": "to",
+      "3105": "lick",
+      "7932": "his",
+      "2675": "foot.",
+      "2667": "BHANU",
+      "7864": "looks",
+      "5784": "down",
+      "3668": "at",
+      "9188": "the",
+      "6328": "PUG,",
+      "9497": "picks",
+      "7807": "it",
+      "8243": "up",
+      "9215": "and",
+      "2709": "shoves",
+      "4028": "it",
+      "6127": "onto",
+      "6695": "VEDA's",
+      "7561": "hands.",
+      "8442": "BHANU",
+      "6761": "Aa",
+      "3826": "macha!",
+      "3958": "Marchipoya",
+      "5649": "idhigo",
+      "3583": "ne",
+      "6904": "birthday",
+      "7725": "gift.",
+      "1650": "VEDA",
+      "9007": "Idhentra?",
+      "4153": "BHANU",
+      "3134": "(matter",
+      "9628": "of",
+      "5407": "fact",
+      "8579": "response)",
+      "1109": "Kukkara,",
+      "8144": "bochhu",
+      "4815": "leni",
+      "5718": "hutch",
+      "5251": "kukka.",
+      "7512": "Neeke.",
+      "4488": "VISHAL",
+      "5652": "peggu",
+      "5596": "niku",
+      "3702": "puggu.",
+      "4398": "VEDA",
+      "6514": "Aedho",
+      "8851": "thayda",
+      "6019": "koduthundhi",
+      "8725": "BHANU",
+      "5515": "straps",
+      "7552": "out",
+      "1429": "the",
+      "5222": "baby",
+      "2634": "sling",
+      "6130": "from",
+      "6071": "VISHAL's",
+      "3936": "chest",
+      "1890": "and",
+      "7127": "gives",
+      "5853": "it",
+      "1989": "to",
+      "4853": "VEDA",
+      "8796": "BHANU",
+      "4401": "Idhigo",
+      "4197": "unkoka",
+      "8630": "gift...",
+      "5893": "VEDA",
+      "6698": "(irritated)",
+      "3606": "Get",
+      "9856": "out",
+      "8935": "rascals.",
+      "6031": "Pani",
+      "1854": "paata",
+      "3435": "ledhu.",
+      "3864": "Rathirlu",
+      "6208": "janaalni",
+      "4065": "disturb",
+      "5507": "cheyadaaniki",
+      "5933": "baildherutharu",
+      "9669": "oorimeeda",
+      "7942": "ki.",
+      "2292": "BHANU",
+      "3813": "(pissed)",
+      "7263": "Antavu",
+      "9199": "ra",
+      "8252": "antavu..friends",
+      "7984": "ani",
+      "8383": "kuda",
+      "3058": "chudakundaa..potham",
+      "8510": "ra",
+      "5279": "potham..randra...",
+      "6270": "BHANU",
+      "8554": "pacifies",
+      "4447": "the",
+      "6832": "crying",
+      "4107": "VISHAL,",
+      "3470": "and",
+      "8283": "throws",
+      "4471": "a",
+      "6599": "credit",
+      "3137": "card",
+      "9656": "at",
+      "5597": "VEDA."
+    }
+  },
+  "sample_no": "sample1",
+  "pdf_file_name": "page_17.pdf",
+  "llm_response": {
+    "scene_number": [
+      16
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      "BHANU looks at VEDA blankly, not realizing the farcical\nnature of the situation. VEDA rolls his eyes and looks at\nHARSHA, who is asleep on VEDA's floor, half sitting, half\nresting against the wall. BHANU pulls out a pastry with a\ncandle on it and looks at VEDA.",
+      "BHANU blows the candle and holds VEDA's hand and makes him\ncut the pastry. The rest of them sing the birthday song.\nhalf-broken, half-slurring. Suddenly, VEDA lifts his leg from\nthe floor, seeing a PUG trying to lick his foot. BHANU looks\ndown at the PUG, picks it up and shoves it onto VEDA's hands.",
+      "BHANU straps out the baby sling from VISHAL's chest and gives\nit to VEDA",
+      "BHANU pacifies the crying VISHAL, and throws a credit card at\nVEDA."
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "BHANU"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Abba cake koye."
+        ]
+      },
+      {
+        "character": [
+          "BHANU"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Aa macha! Marchipoya idhigo ne\nbirthday gift."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Idhentra?"
+        ]
+      },
+      {
+        "character": [
+          "BHANU"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          "(matter of fact response)"
+        ],
+        "text": [
+          "Kukkara, bochhu leni hutch kukka.\nNeeke."
+        ]
+      },
+      {
+        "character": [
+          "VISHAL"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Maku peggu niku puggu."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Aedho thayda koduthundhi"
+        ]
+      },
+      {
+        "character": [
+          "BHANU"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Idhigo unkoka gift..."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          "(irritated)"
+        ],
+        "text": [
+          "Get out rascals. Pani paata ledhu.\nRathirlu janaalni disturb\ncheyadaaniki baildherutharu\noorimeeda ki."
+        ]
+      },
+      {
+        "character": [
+          "BHANU"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          "(pissed)"
+        ],
+        "text": [
+          "Antavu ra antavu..friends ani kuda\nchudakundaa..potham ra\npotham..randra..."
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      {
+        "value": 16,
+        "ids": []
+      }
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      {
+        "value": "BHANU looks at VEDA blankly, not realizing the farcical\nnature of the situation. VEDA rolls his eyes and looks at\nHARSHA, who is asleep on VEDA's floor, half sitting, half\nresting against the wall. BHANU pulls out a pastry with a\ncandle on it and looks at VEDA.",
+        "ids": [
+          2559,
+          5665,
+          9451,
+          8929,
+          9767,
+          1496,
+          7090,
+          2703,
+          1374,
+          1968,
+          6612,
+          2698,
+          4934,
+          2732,
+          2240,
+          6252,
+          2618,
+          4415,
+          8568,
+          8559,
+          6400,
+          1478,
+          1194,
+          1803,
+          2411,
+          3188,
+          2496,
+          7538,
+          6330,
+          3258,
+          7949,
+          3022,
+          5457,
+          6076,
+          3518,
+          5005,
+          1160,
+          5834,
+          3482,
+          5135,
+          6894,
+          5817,
+          4461,
+          8791,
+          1929,
+          4039,
+          1985,
+          8316,
+          9298,
+          9670,
+          7746,
+          6837,
+          3187,
+          7464,
+          7932,
+          2667,
+          7864,
+          3668,
+          9188,
+          7807,
+          9215,
+          4028,
+          8442,
+          1650,
+          4153,
+          9628,
+          4398,
+          8725,
+          7552,
+          1429,
+          1890,
+          5853,
+          4853,
+          8796,
+          5893,
+          9856,
+          2292,
+          6270,
+          4447,
+          3470,
+          4471,
+          9656
+        ]
+      },
+      {
+        "value": "BHANU blows the candle and holds VEDA's hand and makes him\ncut the pastry. The rest of them sing the birthday song.\nhalf-broken, half-slurring. Suddenly, VEDA lifts his leg from\nthe floor, seeing a PUG trying to lick his foot. BHANU looks\ndown at the PUG, picks it up and shoves it onto VEDA's hands.",
+        "ids": [
+          2559,
+          5665,
+          9451,
+          8929,
+          7090,
+          1968,
+          6612,
+          2698,
+          2732,
+          6252,
+          2618,
+          4415,
+          1194,
+          1803,
+          2496,
+          7538,
+          7949,
+          3022,
+          6076,
+          3518,
+          1160,
+          5834,
+          3482,
+          5135,
+          6894,
+          5817,
+          3396,
+          4461,
+          8791,
+          1929,
+          9928,
+          4795,
+          4039,
+          8992,
+          3724,
+          7684,
+          1985,
+          8316,
+          1930,
+          9298,
+          5305,
+          6553,
+          9670,
+          4299,
+          7746,
+          7260,
+          6837,
+          7676,
+          5196,
+          3187,
+          2572,
+          7464,
+          1589,
+          8036,
+          3253,
+          3105,
+          7932,
+          2667,
+          7864,
+          5784,
+          3668,
+          9188,
+          9497,
+          7807,
+          8243,
+          9215,
+          2709,
+          4028,
+          6127,
+          8442,
+          6904,
+          1650,
+          4153,
+          9628,
+          4398,
+          8725,
+          1429,
+          6130,
+          1890,
+          5853,
+          1989,
+          4853,
+          8796,
+          5893,
+          2292,
+          6270,
+          4447,
+          3470,
+          4471,
+          9656
+        ]
+      },
+      {
+        "value": "BHANU straps out the baby sling from VISHAL's chest and gives\nit to VEDA",
+        "ids": [
+          2559,
+          8929,
+          7090,
+          6612,
+          2698,
+          6252,
+          2496,
+          7538,
+          3258,
+          1160,
+          5834,
+          6894,
+          5817,
+          4461,
+          1929,
+          4039,
+          1985,
+          8316,
+          9670,
+          7746,
+          5196,
+          3187,
+          3253,
+          2667,
+          9188,
+          7807,
+          9215,
+          4028,
+          8442,
+          1650,
+          4153,
+          4488,
+          4398,
+          8725,
+          5515,
+          7552,
+          1429,
+          5222,
+          2634,
+          6130,
+          3936,
+          1890,
+          7127,
+          5853,
+          1989,
+          4853,
+          8796,
+          5893,
+          9856,
+          2292,
+          6270,
+          4447,
+          3470
+        ]
+      },
+      {
+        "value": "BHANU pacifies the crying VISHAL, and throws a credit card at\nVEDA.",
+        "ids": [
+          2559,
+          9451,
+          8929,
+          7090,
+          6612,
+          2698,
+          6252,
+          4415,
+          2496,
+          7538,
+          7949,
+          6076,
+          5834,
+          5135,
+          6894,
+          5817,
+          4461,
+          1929,
+          4039,
+          1985,
+          8316,
+          9670,
+          7746,
+          3187,
+          7464,
+          2667,
+          3668,
+          9188,
+          9215,
+          8442,
+          1650,
+          4153,
+          4488,
+          4398,
+          8725,
+          1429,
+          1890,
+          4853,
+          8796,
+          5893,
+          2292,
+          6270,
+          8554,
+          4447,
+          6832,
+          3470,
+          8283,
+          4471,
+          6599,
+          3137,
+          9656
+        ]
+      }
+    ],
+    "dialogue": [
+      {
+        "character": [
+          {
+            "value": "BHANU",
+            "ids": [
+              2292,
+              2559
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              2667,
+              4153
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              5817,
+              6270
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              6894,
+              7538
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              8442,
+              8725
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Abba cake koye.",
+            "ids": [
+              7791,
+              6628
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "BHANU",
+            "ids": [
+              2292,
+              2559
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              2667,
+              4153
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              5817,
+              6270
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              6894,
+              7538
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              8442,
+              8725
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Aa macha! Marchipoya idhigo ne\nbirthday gift.",
+            "ids": [
+              4299,
+              6761,
+              3958,
+              5649,
+              3583,
+              6904,
+              4401
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              1650,
+              2698
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              4398,
+              4853
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              5893,
+              7746
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Idhentra?",
+            "ids": [
+              9007
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "BHANU",
+            "ids": [
+              2292,
+              2559
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              2667,
+              4153
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              5817,
+              6270
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              6894,
+              7538
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              8442,
+              8725
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "(matter of fact response)",
+            "ids": [
+              1968,
+              9298,
+              9628,
+              5407
+            ]
+          }
+        ],
+        "text": [
+          {
+            "value": "Kukkara, bochhu leni hutch kukka.\nNeeke.",
+            "ids": [
+              8144,
+              4815,
+              5718
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VISHAL",
+            "ids": [
+              4488
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Maku peggu niku puggu.",
+            "ids": [
+              3900,
+              5652,
+              5596
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              1650,
+              2698
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              4398,
+              4853
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              5893,
+              7746
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Aedho thayda koduthundhi",
+            "ids": [
+              6514,
+              8851,
+              6019
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "BHANU",
+            "ids": [
+              2292,
+              2559
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              2667,
+              4153
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              5817,
+              6270
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              6894,
+              7538
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              8442,
+              8725
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Idhigo unkoka gift...",
+            "ids": [
+              5649,
+              4401,
+              4197
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "VEDA",
+            "ids": [
+              1650,
+              2698
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              4398,
+              4853
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              5893,
+              7746
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "(irritated)",
+            "ids": [
+              6698
+            ]
+          }
+        ],
+        "text": [
+          {
+            "value": "Get out rascals. Pani paata ledhu.\nRathirlu janaalni disturb\ncheyadaaniki baildherutharu\noorimeeda ki.",
+            "ids": [
+              3258,
+              7552,
+              3606,
+              9856,
+              6031,
+              1854,
+              3864,
+              6208,
+              4065,
+              5507,
+              5933,
+              9669
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "BHANU",
+            "ids": [
+              2292,
+              2559
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              2667,
+              4153
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              5817,
+              6270
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              6894,
+              7538
+            ]
+          },
+          {
+            "value": "BHANU",
+            "ids": [
+              8442,
+              8725
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "(pissed)",
+            "ids": [
+              3813
+            ]
+          }
+        ],
+        "text": [
+          {
+            "value": "Antavu ra antavu..friends ani kuda\nchudakundaa..potham ra\npotham..randra...",
+            "ids": [
+              7263,
+              9199,
+              7984,
+              8383,
+              8510
+            ]
+          }
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

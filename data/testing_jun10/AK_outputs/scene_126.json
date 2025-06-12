@@ -1,0 +1,478 @@
+{
+  "ALL_TEXT": "126 INT. MINISTER'S HOUSE - NIGHT \nSUBBA RAJU and SHAM GOPAL VERMA are discussing the scene, \nSHAM GOPAL VERMA far more passive, SUBBA RAJU pushing things. \nSUBBA RAJU, dressed as Raavan, is flanked by a constable. He \nsays a dialogue from bhookailash. SHAM GOPAL VERMA finally \ngives in, and says something. \nSHAM GOPAL VERMA \nRaavanudi tapassu tharastaayiki \ncherindhi. Athanu Shivuni gurinchi \nchestunna thapassu sloka rupamlo \nkailasanni kudhipestundhi \nSUBBA RAJU stops SHAM GOPAL VERMA and starts talking away \nSUBBA RAJU \nSwamy karuninchava? \nsakshathkarinchava? Nee \nanugrahaniki arahanikani e thanuvu \nvrudha. E jeevitham vrardham. neeka \nsamarpisthanu. Naadha murthiviyna \nnee divya ghanam chesthu nee lo \nekam ayipothanu. Jai Mahadeva. Om \nnamah shivaya. \nThe constable claps \nSUBBA RAJU \nThank you thank you \nLooking at the director \nSUBBA RAJU \nInthamandi audience mundhu e mono \nact cheyali antey koncham bhayam ga \nundhi sir \nSHAM GOPAL VERMA \nNeeku enthuku bhayam nuvve kada \nandharini navarasalu tho bhembaylu \npade la chesthav \nSUBBA RAJU \nUrukondi sir mee abhimaanam. \nSHAM GOPAL VERMA \nNeeku ala ardham ayindha? Asalu em \nanukuntunadu ra aa FOREST MINISTER? \nOka bhari budget cinema story \ndiscussion loninchi maddyalo \nethukocharu. \nSUBBA RAJU \nUrukondi sir, nenu kuda oka chala \nbhari panini vodhulukuni vocha. a \npani avanivande, meetho Bahubali \nkana bari budget cinema produce \nchestha. Acting is my passion you \nsee. \nSHAM GOPAL VERMA \nNee passion na pekaki poision laga \nchutukunadi. Ekkadiki velli na \nventaduthu mari champuthunav kada \nra \nSUBBA RAJU \nSarey padandi audience ni ekuva \nsaypu wait cheyincha kudadhu. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "126",
+    "1001": "INT.",
+    "1002": "MINISTER'S",
+    "1003": "HOUSE",
+    "1004": "-",
+    "1005": "NIGHT",
+    "1006": "SUBBA",
+    "1007": "RAJU",
+    "1008": "and",
+    "1009": "SHAM",
+    "1010": "GOPAL",
+    "1011": "VERMA",
+    "1012": "are",
+    "1013": "discussing",
+    "1014": "the",
+    "1015": "scene,",
+    "1016": "SHAM",
+    "1017": "GOPAL",
+    "1018": "VERMA",
+    "1019": "far",
+    "1020": "more",
+    "1021": "passive,",
+    "1022": "SUBBA",
+    "1023": "RAJU",
+    "1024": "pushing",
+    "1025": "things.",
+    "1026": "SUBBA",
+    "1027": "RAJU,",
+    "1028": "dressed",
+    "1029": "as",
+    "1030": "Raavan,",
+    "1031": "is",
+    "1032": "flanked",
+    "1033": "by",
+    "1034": "a",
+    "1035": "constable.",
+    "1036": "He",
+    "1037": "says",
+    "1038": "a",
+    "1039": "dialogue",
+    "1040": "from",
+    "1041": "bhookailash.",
+    "1042": "SHAM",
+    "1043": "GOPAL",
+    "1044": "VERMA",
+    "1045": "finally",
+    "1046": "gives",
+    "1047": "in,",
+    "1048": "and",
+    "1049": "says",
+    "1050": "something.",
+    "1051": "SHAM",
+    "1052": "GOPAL",
+    "1053": "VERMA",
+    "1054": "Raavanudi",
+    "1055": "tapassu",
+    "1056": "tharastaayiki",
+    "1057": "cherindhi.",
+    "1058": "Athanu",
+    "1059": "Shivuni",
+    "1060": "gurinchi",
+    "1061": "chestunna",
+    "1062": "thapassu",
+    "1063": "sloka",
+    "1064": "rupamlo",
+    "1065": "kailasanni",
+    "1066": "kudhipestundhi",
+    "1067": "SUBBA",
+    "1068": "RAJU",
+    "1069": "stops",
+    "1070": "SHAM",
+    "1071": "GOPAL",
+    "1072": "VERMA",
+    "1073": "and",
+    "1074": "starts",
+    "1075": "talking",
+    "1076": "away",
+    "1077": "SUBBA",
+    "1078": "RAJU",
+    "1079": "Swamy",
+    "1080": "karuninchava?",
+    "1081": "sakshathkarinchava?",
+    "1082": "Nee",
+    "1083": "anugrahaniki",
+    "1084": "arahanikani",
+    "1085": "e",
+    "1086": "thanuvu",
+    "1087": "vrudha.",
+    "1088": "E",
+    "1089": "jeevitham",
+    "1090": "vrardham.",
+    "1091": "neeka",
+    "1092": "samarpisthanu.",
+    "1093": "Naadha",
+    "1094": "murthiviyna",
+    "1095": "nee",
+    "1096": "divya",
+    "1097": "ghanam",
+    "1098": "chesthu",
+    "1099": "nee",
+    "1100": "lo",
+    "1101": "ekam",
+    "1102": "ayipothanu.",
+    "1103": "Jai",
+    "1104": "Mahadeva.",
+    "1105": "Om",
+    "1106": "namah",
+    "1107": "shivaya.",
+    "1108": "The",
+    "1109": "constable",
+    "1110": "claps",
+    "1111": "SUBBA",
+    "1112": "RAJU",
+    "1113": "Thank",
+    "1114": "you",
+    "1115": "thank",
+    "1116": "you",
+    "1117": "Looking",
+    "1118": "at",
+    "1119": "the",
+    "1120": "director",
+    "1121": "SUBBA",
+    "1122": "RAJU",
+    "1123": "Inthamandi",
+    "1124": "audience",
+    "1125": "mundhu",
+    "1126": "e",
+    "1127": "mono",
+    "1128": "act",
+    "1129": "cheyali",
+    "1130": "antey",
+    "1131": "koncham",
+    "1132": "bhayam",
+    "1133": "ga",
+    "1134": "undhi",
+    "1135": "sir",
+    "1136": "SHAM",
+    "1137": "GOPAL",
+    "1138": "VERMA",
+    "1139": "Neeku",
+    "1140": "enthuku",
+    "1141": "bhayam",
+    "1142": "nuvve",
+    "1143": "kada",
+    "1144": "andharini",
+    "1145": "navarasalu",
+    "1146": "tho",
+    "1147": "bhembaylu",
+    "1148": "pade",
+    "1149": "la",
+    "1150": "chesthav",
+    "1151": "SUBBA",
+    "1152": "RAJU",
+    "1153": "Urukondi",
+    "1154": "sir",
+    "1155": "mee",
+    "1156": "abhimaanam.",
+    "1157": "SHAM",
+    "1158": "GOPAL",
+    "1159": "VERMA",
+    "1160": "Neeku",
+    "1161": "ala",
+    "1162": "ardham",
+    "1163": "ayindha?",
+    "1164": "Asalu",
+    "1165": "em",
+    "1166": "anukuntunadu",
+    "1167": "ra",
+    "1168": "aa",
+    "1169": "FOREST",
+    "1170": "MINISTER?",
+    "1171": "Oka",
+    "1172": "bhari",
+    "1173": "budget",
+    "1174": "cinema",
+    "1175": "story",
+    "1176": "discussion",
+    "1177": "loninchi",
+    "1178": "maddyalo",
+    "1179": "ethukocharu.",
+    "1180": "SUBBA",
+    "1181": "RAJU",
+    "1182": "Urukondi",
+    "1183": "sir,",
+    "1184": "nenu",
+    "1185": "kuda",
+    "1186": "oka",
+    "1187": "chala",
+    "1188": "bhari",
+    "1189": "panini",
+    "1190": "vodhulukuni",
+    "1191": "vocha.",
+    "1192": "a",
+    "1193": "pani",
+    "1194": "avanivande,",
+    "1195": "meetho",
+    "1196": "Bahubali",
+    "1197": "kana",
+    "1198": "bari",
+    "1199": "budget",
+    "1200": "cinema",
+    "1201": "produce",
+    "1202": "chestha.",
+    "1203": "Acting",
+    "1204": "is",
+    "1205": "my",
+    "1206": "passion",
+    "1207": "you",
+    "1208": "see.",
+    "1209": "SHAM",
+    "1210": "GOPAL",
+    "1211": "VERMA",
+    "1212": "Nee",
+    "1213": "passion",
+    "1214": "na",
+    "1215": "pekaki",
+    "1216": "poision",
+    "1217": "laga",
+    "1218": "chutukunadi.",
+    "1219": "Ekkadiki",
+    "1220": "velli",
+    "1221": "na",
+    "1222": "ventaduthu",
+    "1223": "mari",
+    "1224": "champuthunav",
+    "1225": "kada",
+    "1226": "ra",
+    "1227": "SUBBA",
+    "1228": "RAJU",
+    "1229": "Sarey",
+    "1230": "padandi",
+    "1231": "audience",
+    "1232": "ni",
+    "1233": "ekuva",
+    "1234": "saypu",
+    "1235": "wait",
+    "1236": "cheyincha",
+    "1237": "kudadhu.",
+    "1238": "CUT",
+    "1239": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "SUBBA RAJU",
+        "SHAM GOPAL VERMA",
+        "constable",
+        "director",
+        "audience"
+      ],
+      "SET": [
+        "INT. MINISTER'S HOUSE - NIGHT"
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        "claps"
+      ]
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1006",
+              "1007"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1022",
+              "1023"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1067",
+              "1068"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1077",
+              "1078"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1111",
+              "1112"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1121",
+              "1122"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1151",
+              "1152"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1180",
+              "1181"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1227",
+              "1228"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU,",
+            "ids": [
+              "1026",
+              "1027"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "SHAM GOPAL VERMA",
+            "ids": [
+              "1009",
+              "1010",
+              "1011"
+            ]
+          },
+          {
+            "value": "SHAM GOPAL VERMA",
+            "ids": [
+              "1016",
+              "1017",
+              "1018"
+            ]
+          },
+          {
+            "value": "SHAM GOPAL VERMA",
+            "ids": [
+              "1042",
+              "1043",
+              "1044"
+            ]
+          },
+          {
+            "value": "SHAM GOPAL VERMA",
+            "ids": [
+              "1051",
+              "1052",
+              "1053"
+            ]
+          },
+          {
+            "value": "SHAM GOPAL VERMA",
+            "ids": [
+              "1070",
+              "1071",
+              "1072"
+            ]
+          },
+          {
+            "value": "SHAM GOPAL VERMA",
+            "ids": [
+              "1136",
+              "1137",
+              "1138"
+            ]
+          },
+          {
+            "value": "SHAM GOPAL VERMA",
+            "ids": [
+              "1157",
+              "1158",
+              "1159"
+            ]
+          },
+          {
+            "value": "SHAM GOPAL VERMA",
+            "ids": [
+              "1209",
+              "1210",
+              "1211"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "constable",
+            "ids": [
+              "1109"
+            ]
+          },
+          {
+            "value": "constable.",
+            "ids": [
+              "1035"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "director",
+            "ids": [
+              "1120"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "audience",
+            "ids": [
+              "1124"
+            ]
+          },
+          {
+            "value": "audience",
+            "ids": [
+              "1231"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "INT. MINISTER'S HOUSE - NIGHT",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        [
+          {
+            "value": "claps",
+            "ids": [
+              "1110"
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}

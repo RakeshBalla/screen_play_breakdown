@@ -1,0 +1,220 @@
+{
+  "page_dict": {
+    "alltext": "73.\nCHINTHAN BABA\nAayane chesthunnaaru...\nethamantaava GOVARDHAN?\nVEDA nudges GOVARDHAN. Tension mounts. VEDA is annoyed at\nGOVARDHAN refusing such a simple request.\nVEDA\n(whispers)\nNee sommemanna pothada oh ghanta\nseva chesthe!? Paiga entha punyam!\nGOVARDHAN\n(whispers)\nAasthi raasi istha ani cheppu\nkaavaalante. Naakee punyam oddu.\nVEDA\n(whispers)\nNee abba! Okka saari... okka saari\nco-operate cheyi GOVARDHAN . Inka\nidi last. Aa tharavaatha nijanga\nokari mohaalu okaram chudaalsina\navasaram undadu.\nGOVARDHAN\nSare.\nVEDA\n(to CHINTHAN BABA)\nBaba aayanaki phone chesi chepthara\nippdudu?\nCHINTHAN BABA\nMundu aashirvadam ichi prasadam\npettani...\nCUT TO:",
+    "words_ids": {
+      "6268": "73.",
+      "8151": "CHINTHAN",
+      "5668": "BABA",
+      "3558": "Aayane",
+      "7770": "chesthunnaaru...",
+      "2520": "ethamantaava",
+      "4956": "GOVARDHAN?",
+      "8055": "VEDA",
+      "3952": "nudges",
+      "3657": "GOVARDHAN.",
+      "5168": "Tension",
+      "9198": "mounts.",
+      "7941": "VEDA",
+      "9465": "is",
+      "7835": "annoyed",
+      "1882": "at",
+      "9850": "GOVARDHAN",
+      "3219": "refusing",
+      "4888": "such",
+      "5690": "a",
+      "4116": "simple",
+      "7250": "request.",
+      "1261": "VEDA",
+      "8504": "(whispers)",
+      "7269": "Nee",
+      "1008": "sommemanna",
+      "9953": "pothada",
+      "8493": "oh",
+      "5021": "ghanta",
+      "4221": "seva",
+      "2111": "chesthe!?",
+      "3205": "Paiga",
+      "4639": "entha",
+      "4436": "punyam!",
+      "6959": "GOVARDHAN",
+      "9801": "(whispers)",
+      "8527": "Aasthi",
+      "7678": "raasi",
+      "1124": "istha",
+      "9176": "ani",
+      "6671": "cheppu",
+      "9274": "kaavaalante.",
+      "7374": "Naakee",
+      "4463": "punyam",
+      "9423": "oddu.",
+      "8733": "VEDA",
+      "8047": "(whispers)",
+      "4509": "Nee",
+      "7701": "abba!",
+      "2746": "Okka",
+      "8671": "saari...",
+      "7326": "okka",
+      "7716": "saari",
+      "9647": "co-operate",
+      "4504": "cheyi",
+      "3629": "GOVARDHAN",
+      "8783": ".",
+      "8729": "Inka",
+      "5794": "idi",
+      "7141": "last.",
+      "7934": "Aa",
+      "8596": "tharavaatha",
+      "8577": "nijanga",
+      "5878": "okari",
+      "3484": "mohaalu",
+      "7965": "okaram",
+      "1243": "chudaalsina",
+      "4867": "avasaram",
+      "9333": "undadu.",
+      "5342": "GOVARDHAN",
+      "2798": "Sare.",
+      "6312": "VEDA",
+      "3223": "(to",
+      "1226": "CHINTHAN",
+      "2918": "BABA)",
+      "3564": "Baba",
+      "9371": "aayanaki",
+      "5125": "phone",
+      "4395": "chesi",
+      "4269": "chepthara",
+      "3857": "ippdudu?",
+      "4963": "CHINTHAN",
+      "9907": "BABA",
+      "2433": "Mundu",
+      "4506": "aashirvadam",
+      "6617": "ichi",
+      "8359": "prasadam",
+      "4883": "pettani...",
+      "8564": "CUT",
+      "3251": "TO:"
+    }
+  },
+  "sample_no": "sample2",
+  "pdf_file_name": "page_74.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "CHINTHAN BABA",
+        "VEDA",
+        "GOVARDHAN"
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [],
+      "PROPS": [],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [],
+      "CAMERA": [
+        "CUT TO:"
+      ],
+      "SOUND": [],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "CHINTHAN BABA",
+          "ids": [
+            8151,
+            5668,
+            1226,
+            3564,
+            4963,
+            9907
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            1261,
+            6312
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            7941,
+            8055
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            3629,
+            5342
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            6959,
+            9850
+          ]
+        }
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [],
+      "PROPS": [],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [],
+      "CAMERA": [
+        {
+          "value": "CUT TO:",
+          "ids": [
+            8564
+          ]
+        }
+      ],
+      "SOUND": [],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "ALL_TEXT": "127 INT. MINISTER'S HOUSE-GREEN ROOM - NIGHT \nThe trio are taken to a green room and made to wear \nmythological costumes and make up. The BUM is already there, \ndressed as Karthikeya. GOVARDHAN is not pleased with any of \nthe makeup, and actively avoids it. SULOCHANA is having the \ntime of her life, getting dressed up and being pampered by \nmake-up people. VEDA is smitten by her. SUBBA RAJU, who is \nalready in full costume, enters , and looks at the trio. \nSUBBA RAJU \nMeerenti ikkada? \nVEDA \nEthukokkachaaru \nSUBBA RAJU \nActing ante passion aa? \nVEDA \nEnti, em telinattu \nnatistunnaaru...mammalni enduku \nirikistunnaaru deentlo \nSUBBA RAJU \nOoohhh...telispoinda...entavaraku \ntelusu? \nA stage hand comes into the green room, and pulls everyone to \nthe stage. \nSTAGE HAND \nGanesh ekkada? \nGREEN ROOM HELPER \nGante sepu ninchi bathroom lo \nunnaadu. Loose motions anta. \nSTAGE HAND \nSare, Karthikeya, nuvvu raa... \nSUBBA RAJU \nRei, idi naa mono act raa.. \nSTAGE HAND \nTime ledu, rendu dramaalani \nkalipesaam \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "127",
+    "1001": "INT.",
+    "1002": "MINISTER'S",
+    "1003": "HOUSE-GREEN",
+    "1004": "ROOM",
+    "1005": "-",
+    "1006": "NIGHT",
+    "1007": "The",
+    "1008": "trio",
+    "1009": "are",
+    "1010": "taken",
+    "1011": "to",
+    "1012": "a",
+    "1013": "green",
+    "1014": "room",
+    "1015": "and",
+    "1016": "made",
+    "1017": "to",
+    "1018": "wear",
+    "1019": "mythological",
+    "1020": "costumes",
+    "1021": "and",
+    "1022": "make",
+    "1023": "up.",
+    "1024": "The",
+    "1025": "BUM",
+    "1026": "is",
+    "1027": "already",
+    "1028": "there,",
+    "1029": "dressed",
+    "1030": "as",
+    "1031": "Karthikeya.",
+    "1032": "GOVARDHAN",
+    "1033": "is",
+    "1034": "not",
+    "1035": "pleased",
+    "1036": "with",
+    "1037": "any",
+    "1038": "of",
+    "1039": "the",
+    "1040": "makeup,",
+    "1041": "and",
+    "1042": "actively",
+    "1043": "avoids",
+    "1044": "it.",
+    "1045": "SULOCHANA",
+    "1046": "is",
+    "1047": "having",
+    "1048": "the",
+    "1049": "time",
+    "1050": "of",
+    "1051": "her",
+    "1052": "life,",
+    "1053": "getting",
+    "1054": "dressed",
+    "1055": "up",
+    "1056": "and",
+    "1057": "being",
+    "1058": "pampered",
+    "1059": "by",
+    "1060": "make-up",
+    "1061": "people.",
+    "1062": "VEDA",
+    "1063": "is",
+    "1064": "smitten",
+    "1065": "by",
+    "1066": "her.",
+    "1067": "SUBBA",
+    "1068": "RAJU,",
+    "1069": "who",
+    "1070": "is",
+    "1071": "already",
+    "1072": "in",
+    "1073": "full",
+    "1074": "costume,",
+    "1075": "enters",
+    "1076": ",",
+    "1077": "and",
+    "1078": "looks",
+    "1079": "at",
+    "1080": "the",
+    "1081": "trio.",
+    "1082": "SUBBA",
+    "1083": "RAJU",
+    "1084": "Meerenti",
+    "1085": "ikkada?",
+    "1086": "VEDA",
+    "1087": "Ethukokkachaaru",
+    "1088": "SUBBA",
+    "1089": "RAJU",
+    "1090": "Acting",
+    "1091": "ante",
+    "1092": "passion",
+    "1093": "aa?",
+    "1094": "VEDA",
+    "1095": "Enti,",
+    "1096": "em",
+    "1097": "telinattu",
+    "1098": "natistunnaaru...mammalni",
+    "1099": "enduku",
+    "1100": "irikistunnaaru",
+    "1101": "deentlo",
+    "1102": "SUBBA",
+    "1103": "RAJU",
+    "1104": "Ooohhh...telispoinda...entavaraku",
+    "1105": "telusu?",
+    "1106": "A",
+    "1107": "stage",
+    "1108": "hand",
+    "1109": "comes",
+    "1110": "into",
+    "1111": "the",
+    "1112": "green",
+    "1113": "room,",
+    "1114": "and",
+    "1115": "pulls",
+    "1116": "everyone",
+    "1117": "to",
+    "1118": "the",
+    "1119": "stage.",
+    "1120": "STAGE",
+    "1121": "HAND",
+    "1122": "Ganesh",
+    "1123": "ekkada?",
+    "1124": "GREEN",
+    "1125": "ROOM",
+    "1126": "HELPER",
+    "1127": "Gante",
+    "1128": "sepu",
+    "1129": "ninchi",
+    "1130": "bathroom",
+    "1131": "lo",
+    "1132": "unnaadu.",
+    "1133": "Loose",
+    "1134": "motions",
+    "1135": "anta.",
+    "1136": "STAGE",
+    "1137": "HAND",
+    "1138": "Sare,",
+    "1139": "Karthikeya,",
+    "1140": "nuvvu",
+    "1141": "raa...",
+    "1142": "SUBBA",
+    "1143": "RAJU",
+    "1144": "Rei,",
+    "1145": "idi",
+    "1146": "naa",
+    "1147": "mono",
+    "1148": "act",
+    "1149": "raa..",
+    "1150": "STAGE",
+    "1151": "HAND",
+    "1152": "Time",
+    "1153": "ledu,",
+    "1154": "rendu",
+    "1155": "dramaalani",
+    "1156": "kalipesaam",
+    "1157": "CUT",
+    "1158": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "GOVARDHAN",
+        "SULOCHANA",
+        "VEDA",
+        "BUM",
+        "make-up people",
+        "SUBBA RAJU",
+        "stage hand",
+        "GREEN ROOM HELPER"
+      ],
+      "SET": [
+        "INT. MINISTER'S HOUSE-GREEN ROOM - NIGHT"
+      ],
+      "PROPS": [
+        "mythological costumes",
+        "make up",
+        "costume"
+      ],
+      "STUNTS": [
+        "pulls everyone to the stage"
+      ],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1032"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1045"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1062"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1086"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1094"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "BUM",
+            "ids": [
+              "1025"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "make-up people.",
+            "ids": [
+              "1060",
+              "1061"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1082",
+              "1083"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1088",
+              "1089"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1102",
+              "1103"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU",
+            "ids": [
+              "1142",
+              "1143"
+            ]
+          },
+          {
+            "value": "SUBBA RAJU,",
+            "ids": [
+              "1067",
+              "1068"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "stage hand",
+            "ids": [
+              "1107",
+              "1108"
+            ]
+          },
+          {
+            "value": "STAGE HAND",
+            "ids": [
+              "1120",
+              "1121"
+            ]
+          },
+          {
+            "value": "STAGE HAND",
+            "ids": [
+              "1136",
+              "1137"
+            ]
+          },
+          {
+            "value": "STAGE HAND",
+            "ids": [
+              "1150",
+              "1151"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "GREEN ROOM HELPER",
+            "ids": [
+              "1124",
+              "1125",
+              "1126"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "INT. MINISTER'S HOUSE-GREEN ROOM - NIGHT",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005",
+              "1006"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "mythological costumes",
+            "ids": [
+              "1019",
+              "1020"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "make up.",
+            "ids": [
+              "1022",
+              "1023"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "costume,",
+            "ids": [
+              "1074"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [
+        [
+          {
+            "value": "pulls everyone to the stage.",
+            "ids": [
+              "1115",
+              "1116",
+              "1117",
+              "1118",
+              "1119"
+            ]
+          }
+        ]
+      ],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

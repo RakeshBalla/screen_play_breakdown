@@ -1,0 +1,140 @@
+{
+    "ALL_TEXT": "29 NT. SULOCHANA\u2019S HOUSE - DAY\nSULOCHANA is leaving her house, when she finds her old\nGRANDMOTHER on the treadmill.\nSULOCHANA\nEnti Bhama em chestunaavu\nGRANDMOTHER\nAa uriki tinni kurchovadam enduku\nani idogo ee pani\nchestunna...tinnadi aragaali gaa\nSULOCHANA\nAppudu ila kaadu cheyalsindhi\nShe turns up the speed on the treadmill and leaves. The\nGRANDMOTHER can't keep up with the machine and collapses.\nFREEZE FRAME\nNARRATOR (V.O.)\nSulochana kashtaalu vethukkuni mari\nthechukune rakam.\nNARRATOR (V.O.)\nEvariko manchi cheeddhaam ani poyi\nthanu thittulu thine\nrakam..venakata ki peddhalu oka\nmaata cheppevaaru..ee prapancham lo\nmanchi cheddhaam ani chedu\nchesinavaare ekkuva ani. Aa kovaku\nchindindhe ee pilla.\nCUT TO:",
+    "WORDS_ID": "{\n\"1000\": \"29\",\n\"1001\": \"NT.\",\n\"1002\": \"SULOCHANA\\u2019S\",\n\"1003\": \"HOUSE\",\n\"1004\": \"-\",\n\"1005\": \"DAY\",\n\"1006\": \"SULOCHANA\",\n\"1007\": \"is\",\n\"1008\": \"leaving\",\n\"1009\": \"her\",\n\"1010\": \"house,\",\n\"1011\": \"when\",\n\"1012\": \"she\",\n\"1013\": \"finds\",\n\"1014\": \"her\",\n\"1015\": \"old\",\n\"1016\": \"GRANDMOTHER\",\n\"1017\": \"on\",\n\"1018\": \"the\",\n\"1019\": \"treadmill.\",\n\"1020\": \"SULOCHANA\",\n\"1021\": \"Enti\",\n\"1022\": \"Bhama\",\n\"1023\": \"em\",\n\"1024\": \"chestunaavu\",\n\"1025\": \"GRANDMOTHER\",\n\"1026\": \"Aa\",\n\"1027\": \"uriki\",\n\"1028\": \"tinni\",\n\"1029\": \"kurchovadam\",\n\"1030\": \"enduku\",\n\"1031\": \"ani\",\n\"1032\": \"idogo\",\n\"1033\": \"ee\",\n\"1034\": \"pani\",\n\"1035\": \"chestunna...tinnadi\",\n\"1036\": \"aragaali\",\n\"1037\": \"gaa\",\n\"1038\": \"SULOCHANA\",\n\"1039\": \"Appudu\",\n\"1040\": \"ila\",\n\"1041\": \"kaadu\",\n\"1042\": \"cheyalsindhi\",\n\"1043\": \"She\",\n\"1044\": \"turns\",\n\"1045\": \"up\",\n\"1046\": \"the\",\n\"1047\": \"speed\",\n\"1048\": \"on\",\n\"1049\": \"the\",\n\"1050\": \"treadmill\",\n\"1051\": \"and\",\n\"1052\": \"leaves.\",\n\"1053\": \"The\",\n\"1054\": \"GRANDMOTHER\",\n\"1055\": \"can't\",\n\"1056\": \"keep\",\n\"1057\": \"up\",\n\"1058\": \"with\",\n\"1059\": \"the\",\n\"1060\": \"machine\",\n\"1061\": \"and\",\n\"1062\": \"collapses.\",\n\"1063\": \"FREEZE\",\n\"1064\": \"FRAME\",\n\"1065\": \"NARRATOR\",\n\"1066\": \"(V.O.)\",\n\"1067\": \"Sulochana\",\n\"1068\": \"kashtaalu\",\n\"1069\": \"vethukkuni\",\n\"1070\": \"mari\",\n\"1071\": \"thechukune\",\n\"1072\": \"rakam.\",\n\"1073\": \"NARRATOR\",\n\"1074\": \"(V.O.)\",\n\"1075\": \"Evariko\",\n\"1076\": \"manchi\",\n\"1077\": \"cheeddhaam\",\n\"1078\": \"ani\",\n\"1079\": \"poyi\",\n\"1080\": \"thanu\",\n\"1081\": \"thittulu\",\n\"1082\": \"thine\",\n\"1083\": \"rakam..venakata\",\n\"1084\": \"ki\",\n\"1085\": \"peddhalu\",\n\"1086\": \"oka\",\n\"1087\": \"maata\",\n\"1088\": \"cheppevaaru..ee\",\n\"1089\": \"prapancham\",\n\"1090\": \"lo\",\n\"1091\": \"manchi\",\n\"1092\": \"cheddhaam\",\n\"1093\": \"ani\",\n\"1094\": \"chedu\",\n\"1095\": \"chesinavaare\",\n\"1096\": \"ekkuva\",\n\"1097\": \"ani.\",\n\"1098\": \"Aa\",\n\"1099\": \"kovaku\",\n\"1100\": \"chindindhe\",\n\"1101\": \"ee\",\n\"1102\": \"pilla.\",\n\"1103\": \"CUT\",\n\"1104\": \"TO:\"\n}",
+    "llm_result": {
+        "production_categories": {
+            "CAST": [
+                "SULOCHANA",
+                "GRANDMOTHER",
+                "NARRATOR (V.O.)"
+            ],
+            "SET": [
+                "NT. SULOCHANA\u2019S HOUSE - DAY"
+            ],
+            "PROPS": [
+                "treadmill"
+            ],
+            "STUNTS": [
+                "GRANDMOTHER collapses"
+            ],
+            "VEHICLES": [],
+            "ANIMALS": [],
+            "NUDITY": [],
+            "GREENERY": [],
+            "SOUND": []
+        }
+    },
+    "predicted_word_ids": {
+        "production_categories": {
+            "CAST": [
+                [
+                    {
+                        "value": "SULOCHANA",
+                        "ids": [
+                            "1006"
+                        ]
+                    },
+                    {
+                        "value": "SULOCHANA",
+                        "ids": [
+                            "1020"
+                        ]
+                    },
+                    {
+                        "value": "SULOCHANA",
+                        "ids": [
+                            "1038"
+                        ]
+                    },
+                    {
+                        "value": "Sulochana",
+                        "ids": [
+                            "1067"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "value": "GRANDMOTHER",
+                        "ids": [
+                            "1016"
+                        ]
+                    },
+                    {
+                        "value": "GRANDMOTHER",
+                        "ids": [
+                            "1025"
+                        ]
+                    },
+                    {
+                        "value": "GRANDMOTHER",
+                        "ids": [
+                            "1054"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "value": "NARRATOR (V.O.)",
+                        "ids": [
+                            "1065",
+                            "1066"
+                        ]
+                    },
+                    {
+                        "value": "NARRATOR (V.O.)",
+                        "ids": [
+                            "1073",
+                            "1074"
+                        ]
+                    }
+                ]
+            ],
+            "SET": [
+                [
+                    {
+                        "value": "NT. SULOCHANA\u2019S HOUSE - DAY",
+                        "ids": [
+                            "1001",
+                            "1002",
+                            "1003",
+                            "1004",
+                            "1005"
+                        ]
+                    }
+                ]
+            ],
+            "PROPS": [
+                [
+                    {
+                        "value": "treadmill",
+                        "ids": [
+                            "1050"
+                        ]
+                    },
+                    {
+                        "value": "treadmill.",
+                        "ids": [
+                            "1019"
+                        ]
+                    }
+                ]
+            ],
+            "STUNTS": [
+                [
+                    {
+                        "value": "GRANDMOTHER collapses",
+                        "ids": [
+                            "unable to find ids"
+                        ]
+                    }
+                ]
+            ],
+            "VEHICLES": [],
+            "ANIMALS": [],
+            "NUDITY": [],
+            "GREENERY": [],
+            "SOUND": []
+        }
+    }
+}

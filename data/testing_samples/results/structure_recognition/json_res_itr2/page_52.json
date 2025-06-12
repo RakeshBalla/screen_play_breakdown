@@ -1,0 +1,1064 @@
+{
+  "sample_no": "sample7",
+  "pdf_file_name": "page_52.pdf",
+  "alltext": "51.\n60 EXT. ACCIDENT SPOT - DAY\nVEDA walks from the crowd. ANTHONY is being interrogated by\nthe police. He observes VEDA passing by. INUMAYYA walks into\nthe crowd and brushes past VEDA, taking note of VEDA. VEDA\nreaches GOVARDHAN, who is fidgeting uncontrollably.\nGOVARDHAN\nYe raa, dabba enduku tayledu!\nVEDA\nBhaiyya, nee dabba ...\nGOVARDHAN\nEnduku tayledu raa!!! Dani meeda\nnaa peru, full address, information\nanta complete ga untudi pakkaaga\nekkada poyina naa dabba naa\ndaggariki vastundi\nVEDA\npassport size photo\nantichalsindi....vaalu aa rendu\nmurderlu nuvve chesaru\nanukuntunaaru\nGOVARDHAN\n(Flustered)\nAdenti passport size pedite nannu\nenduku murderer anukuntunaaru...\nVEDA\nVaallu alaage anukuntaaru\nbhaiyya...\nGOVARDHAN\nNenelli chepta cigarette nuvve\nkalchaavu ani...\nVEDA\nAla aita ninnu first teeskelli,\nbaaga kummesi, appude report\nrayinchkuntaaru...\nGOVARDHAN is baffled. He pauses for a beat.",
+  "words_ids": {
+    "1000": "51.",
+    "1001": "60",
+    "1002": "EXT.",
+    "1003": "ACCIDENT",
+    "1004": "SPOT",
+    "1005": "-",
+    "1006": "DAY",
+    "1007": "VEDA",
+    "1008": "walks",
+    "1009": "from",
+    "1010": "the",
+    "1011": "crowd.",
+    "1012": "ANTHONY",
+    "1013": "is",
+    "1014": "being",
+    "1015": "interrogated",
+    "1016": "by",
+    "1017": "the",
+    "1018": "police.",
+    "1019": "He",
+    "1020": "observes",
+    "1021": "VEDA",
+    "1022": "passing",
+    "1023": "by.",
+    "1024": "INUMAYYA",
+    "1025": "walks",
+    "1026": "into",
+    "1027": "the",
+    "1028": "crowd",
+    "1029": "and",
+    "1030": "brushes",
+    "1031": "past",
+    "1032": "VEDA,",
+    "1033": "taking",
+    "1034": "note",
+    "1035": "of",
+    "1036": "VEDA.",
+    "1037": "VEDA",
+    "1038": "reaches",
+    "1039": "GOVARDHAN,",
+    "1040": "who",
+    "1041": "is",
+    "1042": "fidgeting",
+    "1043": "uncontrollably.",
+    "1044": "GOVARDHAN",
+    "1045": "Ye",
+    "1046": "raa,",
+    "1047": "dabba",
+    "1048": "enduku",
+    "1049": "tayledu!",
+    "1050": "VEDA",
+    "1051": "Bhaiyya,",
+    "1052": "nee",
+    "1053": "dabba",
+    "1054": "...",
+    "1055": "GOVARDHAN",
+    "1056": "Enduku",
+    "1057": "tayledu",
+    "1058": "raa!!!",
+    "1059": "Dani",
+    "1060": "meeda",
+    "1061": "naa",
+    "1062": "peru,",
+    "1063": "full",
+    "1064": "address,",
+    "1065": "information",
+    "1066": "anta",
+    "1067": "complete",
+    "1068": "ga",
+    "1069": "untudi",
+    "1070": "pakkaaga",
+    "1071": "ekkada",
+    "1072": "poyina",
+    "1073": "naa",
+    "1074": "dabba",
+    "1075": "naa",
+    "1076": "daggariki",
+    "1077": "vastundi",
+    "1078": "VEDA",
+    "1079": "passport",
+    "1080": "size",
+    "1081": "photo",
+    "1082": "antichalsindi....vaalu",
+    "1083": "aa",
+    "1084": "rendu",
+    "1085": "murderlu",
+    "1086": "nuvve",
+    "1087": "chesaru",
+    "1088": "anukuntunaaru",
+    "1089": "GOVARDHAN",
+    "1090": "(Flustered)",
+    "1091": "Adenti",
+    "1092": "passport",
+    "1093": "size",
+    "1094": "pedite",
+    "1095": "nannu",
+    "1096": "enduku",
+    "1097": "murderer",
+    "1098": "anukuntunaaru...",
+    "1099": "VEDA",
+    "1100": "Vaallu",
+    "1101": "alaage",
+    "1102": "anukuntaaru",
+    "1103": "bhaiyya...",
+    "1104": "GOVARDHAN",
+    "1105": "Nenelli",
+    "1106": "chepta",
+    "1107": "cigarette",
+    "1108": "nuvve",
+    "1109": "kalchaavu",
+    "1110": "ani...",
+    "1111": "VEDA",
+    "1112": "Ala",
+    "1113": "aita",
+    "1114": "ninnu",
+    "1115": "first",
+    "1116": "teeskelli,",
+    "1117": "baaga",
+    "1118": "kummesi,",
+    "1119": "appude",
+    "1120": "report",
+    "1121": "rayinchkuntaaru...",
+    "1122": "GOVARDHAN",
+    "1123": "is",
+    "1124": "baffled.",
+    "1125": "He",
+    "1126": "pauses",
+    "1127": "for",
+    "1128": "a",
+    "1129": "beat."
+  },
+  "llm_response": {
+    "scene_number": [
+      "60"
+    ],
+    "slugline": {
+      "type": [
+        "EXT."
+      ],
+      "location": [
+        "ACCIDENT SPOT"
+      ],
+      "time_of_day": [
+        "DAY"
+      ]
+    },
+    "action_lines": [
+      "VEDA walks from the crowd. ANTHONY is being interrogated by\nthe police. He observes VEDA passing by. INUMAYYA walks into\nthe crowd and brushes past VEDA, taking note of VEDA. VEDA\nreaches GOVARDHAN, who is fidgeting uncontrollably.",
+      "GOVARDHAN is baffled. He pauses for a beat."
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "GOVARDHAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Ye raa, dabba enduku tayledu!"
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Bhaiyya, nee dabba ..."
+        ]
+      },
+      {
+        "character": [
+          "GOVARDHAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Enduku tayledu raa!!! Dani meeda\nnaa peru, full address, information\nanta complete ga untudi pakkaaga\nekkada poyina naa dabba naa\ndaggariki vastundi"
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "passport size photo\nantichalsindi....vaalu aa rendu\nmurderlu nuvve chesaru\nanukuntunaaru"
+        ]
+      },
+      {
+        "character": [
+          "GOVARDHAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          "(Flustered)"
+        ],
+        "text": [
+          "Adenti passport size pedite nannu\nenduku murderer anukuntunaaru..."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Vaallu alaage anukuntaaru\nbhaiyya..."
+        ]
+      },
+      {
+        "character": [
+          "GOVARDHAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Nenelli chepta cigarette nuvve\nkalchaavu ani..."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Ala aita ninnu first teeskelli,\nbaaga kummesi, appude report\nrayinchkuntaaru..."
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      [
+        {
+          "value": "60",
+          "ids": [
+            "1001"
+          ]
+        }
+      ]
+    ],
+    "slugline": {
+      "type": [
+        [
+          {
+            "value": "EXT.",
+            "ids": [
+              "1002"
+            ]
+          }
+        ]
+      ],
+      "location": [
+        [
+          {
+            "value": "ACCIDENT SPOT",
+            "ids": [
+              "1003",
+              "1004"
+            ]
+          }
+        ]
+      ],
+      "time_of_day": [
+        [
+          {
+            "value": "DAY",
+            "ids": [
+              "1006"
+            ]
+          }
+        ]
+      ]
+    },
+    "action_lines": [
+      [
+        {
+          "value": "VEDA walks from the crowd. ANTHONY is being interrogated by the police. He observes VEDA passing by. INUMAYYA walks into the crowd and brushes past VEDA, taking note of VEDA. VEDA reaches GOVARDHAN, who is fidgeting uncontrollably.",
+          "ids": [
+            "1007",
+            "1008",
+            "1009",
+            "1010",
+            "1011",
+            "1012",
+            "1013",
+            "1014",
+            "1015",
+            "1016",
+            "1017",
+            "1018",
+            "1019",
+            "1020",
+            "1021",
+            "1022",
+            "1023",
+            "1024",
+            "1025",
+            "1026",
+            "1027",
+            "1028",
+            "1029",
+            "1030",
+            "1031",
+            "1032",
+            "1033",
+            "1034",
+            "1035",
+            "1036",
+            "1037",
+            "1038",
+            "1039",
+            "1040",
+            "1041",
+            "1042",
+            "1043"
+          ]
+        }
+      ],
+      [
+        {
+          "value": "GOVARDHAN is baffled. He pauses for a beat.",
+          "ids": [
+            "1122",
+            "1123",
+            "1124",
+            "1125",
+            "1126",
+            "1127",
+            "1128",
+            "1129"
+          ]
+        }
+      ]
+    ],
+    "dialogue": [
+      {
+        "character": [
+          [
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1044"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1055"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1089"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1104"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1122"
+              ]
+            },
+            {
+              "value": "GOVARDHAN,",
+              "ids": [
+                "1039"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Ye raa, dabba enduku tayledu!",
+              "ids": [
+                "1045",
+                "1046",
+                "1047",
+                "1048",
+                "1049"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "VEDA",
+              "ids": [
+                "1007"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1021"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1037"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1050"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1078"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1099"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1111"
+              ]
+            },
+            {
+              "value": "VEDA,",
+              "ids": [
+                "1032"
+              ]
+            },
+            {
+              "value": "VEDA.",
+              "ids": [
+                "1036"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Bhaiyya, nee dabba ...",
+              "ids": [
+                "1051",
+                "1052",
+                "1053",
+                "1054"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1044"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1055"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1089"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1104"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1122"
+              ]
+            },
+            {
+              "value": "GOVARDHAN,",
+              "ids": [
+                "1039"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Enduku tayledu raa!!! Dani meeda naa peru, full address, information anta complete ga untudi pakkaaga ekkada poyina naa dabba naa daggariki vastundi",
+              "ids": [
+                "1056",
+                "1057",
+                "1058",
+                "1059",
+                "1060",
+                "1061",
+                "1062",
+                "1063",
+                "1064",
+                "1065",
+                "1066",
+                "1067",
+                "1068",
+                "1069",
+                "1070",
+                "1071",
+                "1072",
+                "1073",
+                "1074",
+                "1075",
+                "1076",
+                "1077"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "VEDA",
+              "ids": [
+                "1007"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1021"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1037"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1050"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1078"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1099"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1111"
+              ]
+            },
+            {
+              "value": "VEDA,",
+              "ids": [
+                "1032"
+              ]
+            },
+            {
+              "value": "VEDA.",
+              "ids": [
+                "1036"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "passport size photo antichalsindi....vaalu aa rendu murderlu nuvve chesaru anukuntunaaru",
+              "ids": [
+                "1079",
+                "1080",
+                "1081",
+                "1082",
+                "1083",
+                "1084",
+                "1085",
+                "1086",
+                "1087",
+                "1088"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1044"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1055"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1089"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1104"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1122"
+              ]
+            },
+            {
+              "value": "GOVARDHAN,",
+              "ids": [
+                "1039"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "(Flustered)",
+              "ids": [
+                "1090"
+              ]
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Adenti passport size pedite nannu enduku murderer anukuntunaaru...",
+              "ids": [
+                "1091",
+                "1092",
+                "1093",
+                "1094",
+                "1095",
+                "1096",
+                "1097",
+                "1098"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "VEDA",
+              "ids": [
+                "1007"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1021"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1037"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1050"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1078"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1099"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1111"
+              ]
+            },
+            {
+              "value": "VEDA,",
+              "ids": [
+                "1032"
+              ]
+            },
+            {
+              "value": "VEDA.",
+              "ids": [
+                "1036"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Vaallu alaage anukuntaaru bhaiyya...",
+              "ids": [
+                "1100",
+                "1101",
+                "1102",
+                "1103"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1044"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1055"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1089"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1104"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1122"
+              ]
+            },
+            {
+              "value": "GOVARDHAN,",
+              "ids": [
+                "1039"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Nenelli chepta cigarette nuvve kalchaavu ani...",
+              "ids": [
+                "1105",
+                "1106",
+                "1107",
+                "1108",
+                "1109",
+                "1110"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "VEDA",
+              "ids": [
+                "1007"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1021"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1037"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1050"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1078"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1099"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1111"
+              ]
+            },
+            {
+              "value": "VEDA,",
+              "ids": [
+                "1032"
+              ]
+            },
+            {
+              "value": "VEDA.",
+              "ids": [
+                "1036"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Ala aita ninnu first teeskelli, baaga kummesi, appude report rayinchkuntaaru...",
+              "ids": [
+                "1112",
+                "1113",
+                "1114",
+                "1115",
+                "1116",
+                "1117",
+                "1118",
+                "1119",
+                "1120",
+                "1121"
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

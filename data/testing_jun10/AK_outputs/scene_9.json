@@ -1,0 +1,107 @@
+{
+  "ALL_TEXT": "9 INT. CIA OFFICE, USA - DAY \nA folder is slammed on a desk. On the folder is written \n\u201cKalpa Vigraha\u201d and scribbled next to it is \u201c27000 years old\u201d \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "9",
+    "1001": "INT.",
+    "1002": "CIA",
+    "1003": "OFFICE,",
+    "1004": "USA",
+    "1005": "-",
+    "1006": "DAY",
+    "1007": "A",
+    "1008": "folder",
+    "1009": "is",
+    "1010": "slammed",
+    "1011": "on",
+    "1012": "a",
+    "1013": "desk.",
+    "1014": "On",
+    "1015": "the",
+    "1016": "folder",
+    "1017": "is",
+    "1018": "written",
+    "1019": "\u201cKalpa",
+    "1020": "Vigraha\u201d",
+    "1021": "and",
+    "1022": "scribbled",
+    "1023": "next",
+    "1024": "to",
+    "1025": "it",
+    "1026": "is",
+    "1027": "\u201c27000",
+    "1028": "years",
+    "1029": "old\u201d",
+    "1030": "CUT",
+    "1031": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [],
+      "SET": [
+        "INT. CIA OFFICE, USA - DAY"
+      ],
+      "PROPS": [
+        "folder"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        "slam"
+      ]
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [],
+      "SET": [
+        [
+          {
+            "value": "INT. CIA OFFICE, USA - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005",
+              "1006"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "folder",
+            "ids": [
+              "1008"
+            ]
+          },
+          {
+            "value": "folder",
+            "ids": [
+              "1016"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        [
+          {
+            "value": "slam",
+            "ids": [
+              "unable to find ids"
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}

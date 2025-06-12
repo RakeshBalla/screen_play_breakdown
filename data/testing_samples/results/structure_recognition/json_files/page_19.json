@@ -1,0 +1,1212 @@
+{
+  "page_dict": {
+    "alltext": "18.\n31 INT. BABA'S ASHRAM-POOL AREA - DAY\nCHINTHAN BABA sits cross legged on a raised platform in the\nmiddle of an exorbitant pool. His devotees greet him with\nwarm applause. A mic is passed around in the audience to a\nmiddle aged man. Before the man can say anything, CHINTHAN\nBABA nonchalantly interrupts him\nCHINTHAN BABA\nEmanna adagaala\nMAN\nLedhu andi\nCHINTHAN BABA\nMalli aalochinchu\nMAN\nAvunu andi..oka question adagaali\nThe MAN is about to say something when CHINTHAN BABA\ninterrupts again\nCHINTHAN BABA\nNaaku oka lighter\nkanaapduthundhi...cigarette\nthaaguthaava?\nMAN\n(anxiously)\nLedhu\nCHINTHAN BABA\nThagevaadivaa?\nMAN\nLedhu Baba\nCHINTHAN BABA\nLighter kanapaduthundhi...cigarette\nveliginche lighter...\nThe MAN is perplexed\nCHINTHAN BABA\nNee snehithula cigarette\nveligisthaava?\nMAN\nLedhu Baba\nCHINTHAN BABA\nAbbadham aadaku raa dooffer",
+    "words_ids": {
+      "2494": "18.",
+      "3218": "31",
+      "3012": "INT.",
+      "5817": "BABA'S",
+      "8211": "ASHRAM-POOL",
+      "1049": "AREA",
+      "2025": "-",
+      "6704": "DAY",
+      "6921": "CHINTHAN",
+      "2444": "BABA",
+      "5603": "sits",
+      "7149": "cross",
+      "2669": "legged",
+      "1603": "on",
+      "2089": "a",
+      "5388": "raised",
+      "8103": "platform",
+      "3142": "in",
+      "6158": "the",
+      "9178": "middle",
+      "7376": "of",
+      "2412": "an",
+      "4431": "exorbitant",
+      "8557": "pool.",
+      "2846": "MAN",
+      "8888": "devotees",
+      "9181": "greet",
+      "1745": "him",
+      "6168": "with",
+      "7481": "warm",
+      "5090": "applause.",
+      "3834": "A",
+      "8430": "mic",
+      "4392": "is",
+      "7881": "passed",
+      "3800": "around",
+      "4832": "in",
+      "5044": "the",
+      "5338": "audience",
+      "9899": "to",
+      "2164": "a",
+      "4140": "middle",
+      "4943": "aged",
+      "2465": "man.",
+      "2382": "Before",
+      "7206": "the",
+      "5311": "man",
+      "8739": "can",
+      "9856": "say",
+      "7349": "anything,",
+      "5864": "CHINTHAN",
+      "3895": "BABA",
+      "8931": "nonchalantly",
+      "2984": "interrupts",
+      "8679": "him",
+      "6787": "CHINTHAN",
+      "4533": "BABA",
+      "1270": "Emanna",
+      "8784": "adagaala",
+      "5306": "MAN",
+      "7417": "Ledhu",
+      "4366": "andi",
+      "5184": "CHINTHAN",
+      "5123": "BABA",
+      "8574": "Malli",
+      "3831": "aalochinchu",
+      "4621": "MAN",
+      "1664": "Avunu",
+      "3129": "andi..oka",
+      "4916": "question",
+      "9310": "adagaali",
+      "9415": "The",
+      "2230": "is",
+      "6946": "about",
+      "7896": "to",
+      "8676": "say",
+      "4422": "something",
+      "6866": "when",
+      "6421": "CHINTHAN",
+      "1593": "BABA",
+      "6738": "interrupts",
+      "9551": "again",
+      "7389": "CHINTHAN",
+      "6508": "BABA",
+      "1595": "Naaku",
+      "7151": "oka",
+      "4939": "lighter",
+      "4476": "kanaapduthundhi...cigarette",
+      "3280": "thaaguthaava?",
+      "2835": "MAN",
+      "3580": "(anxiously)",
+      "8918": "Ledhu",
+      "9233": "CHINTHAN",
+      "3167": "BABA",
+      "9940": "Thagevaadivaa?",
+      "5568": "MAN",
+      "3933": "Ledhu",
+      "3004": "Baba",
+      "1313": "CHINTHAN",
+      "5430": "BABA",
+      "2240": "Lighter",
+      "3867": "kanapaduthundhi...cigarette",
+      "9339": "veliginche",
+      "1505": "lighter...",
+      "3874": "The",
+      "5324": "MAN",
+      "6397": "is",
+      "9692": "perplexed",
+      "7970": "CHINTHAN",
+      "8183": "BABA",
+      "3041": "Nee",
+      "7143": "snehithula",
+      "8450": "cigarette",
+      "4409": "veligisthaava?",
+      "5904": "MAN",
+      "3809": "Ledhu",
+      "1348": "Baba",
+      "8979": "CHINTHAN",
+      "2677": "BABA",
+      "4107": "Abbadham",
+      "5527": "aadaku",
+      "6376": "raa",
+      "9317": "dooffer"
+    }
+  },
+  "sample_no": "sample1",
+  "pdf_file_name": "page_19.pdf",
+  "llm_response": {
+    "scene_number": [
+      "18"
+    ],
+    "slugline": {
+      "type": [
+        "INT."
+      ],
+      "location": [
+        "BABA'S ASHRAM-POOL AREA"
+      ],
+      "time_of_day": [
+        "DAY"
+      ]
+    },
+    "action_lines": [
+      "CHINTHAN BABA sits cross legged on a raised platform in the\nmiddle of an exorbitant pool. His devotees greet him with\nwarm applause. A mic is passed around in the audience to a\nmiddle aged man. Before the man can say anything, CHINTHAN\nBABA nonchalantly interrupts him",
+      "The MAN is about to say something when CHINTHAN BABA\ninterrupts again",
+      "The MAN is perplexed"
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "CHINTHAN BABA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Emanna adagaala"
+        ]
+      },
+      {
+        "character": [
+          "MAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Ledhu andi"
+        ]
+      },
+      {
+        "character": [
+          "CHINTHAN BABA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Malli aalochinchu"
+        ]
+      },
+      {
+        "character": [
+          "MAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Avunu andi..oka question adagaali"
+        ]
+      },
+      {
+        "character": [
+          "CHINTHAN BABA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Naaku oka lighter\nkanaapduthundhi...cigarette\nthaaguthaava?"
+        ]
+      },
+      {
+        "character": [
+          "MAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          "(anxiously)"
+        ],
+        "text": [
+          "Ledhu"
+        ]
+      },
+      {
+        "character": [
+          "CHINTHAN BABA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Thagevaadivaa?"
+        ]
+      },
+      {
+        "character": [
+          "MAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Ledhu Baba"
+        ]
+      },
+      {
+        "character": [
+          "CHINTHAN BABA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Lighter kanapaduthundhi...cigarette\nveliginche lighter..."
+        ]
+      },
+      {
+        "character": [
+          "CHINTHAN BABA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Nee snehithula cigarette\nveligisthaava?"
+        ]
+      },
+      {
+        "character": [
+          "MAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Ledhu Baba"
+        ]
+      },
+      {
+        "character": [
+          "CHINTHAN BABA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Abbadham aadaku raa dooffer"
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      {
+        "value": "18",
+        "ids": []
+      }
+    ],
+    "slugline": {
+      "type": [
+        {
+          "value": "INT.",
+          "ids": [
+            3012
+          ]
+        }
+      ],
+      "location": [
+        {
+          "value": "BABA'S ASHRAM-POOL AREA",
+          "ids": [
+            1049,
+            2444,
+            3895,
+            4533,
+            5123,
+            1593,
+            6508,
+            3167,
+            3004,
+            5430,
+            8183,
+            1348,
+            2677
+          ]
+        }
+      ],
+      "time_of_day": [
+        {
+          "value": "DAY",
+          "ids": [
+            6704
+          ]
+        }
+      ]
+    },
+    "action_lines": [
+      {
+        "value": "CHINTHAN BABA sits cross legged on a raised platform in the\nmiddle of an exorbitant pool. His devotees greet him with\nwarm applause. A mic is passed around in the audience to a\nmiddle aged man. Before the man can say anything, CHINTHAN\nBABA nonchalantly interrupts him",
+        "ids": [
+          6921,
+          2444,
+          5603,
+          7149,
+          2669,
+          1603,
+          2089,
+          5388,
+          8103,
+          3142,
+          6158,
+          9178,
+          7376,
+          2412,
+          4431,
+          2846,
+          8888,
+          9181,
+          1745,
+          6168,
+          7481,
+          3834,
+          8430,
+          4392,
+          7881,
+          3800,
+          4832,
+          5044,
+          5338,
+          9899,
+          2164,
+          4140,
+          4943,
+          2382,
+          7206,
+          5311,
+          8739,
+          9856,
+          5864,
+          3895,
+          8931,
+          2984,
+          8679,
+          6787,
+          4533,
+          5306,
+          5184,
+          5123,
+          4621,
+          9415,
+          2230,
+          7896,
+          8676,
+          6421,
+          1593,
+          6738,
+          7389,
+          6508,
+          2835,
+          9233,
+          3167,
+          5568,
+          3004,
+          1313,
+          5430,
+          3874,
+          5324,
+          6397,
+          7970,
+          8183,
+          5904,
+          1348,
+          8979,
+          2677
+        ]
+      },
+      {
+        "value": "The MAN is about to say something when CHINTHAN BABA\ninterrupts again",
+        "ids": [
+          6921,
+          2444,
+          6158,
+          2846,
+          4392,
+          5044,
+          9899,
+          7206,
+          5311,
+          9856,
+          5864,
+          3895,
+          2984,
+          6787,
+          4533,
+          5306,
+          5184,
+          5123,
+          4621,
+          9415,
+          2230,
+          6946,
+          7896,
+          8676,
+          4422,
+          6866,
+          6421,
+          1593,
+          6738,
+          9551,
+          7389,
+          6508,
+          2835,
+          9233,
+          3167,
+          5568,
+          3004,
+          1313,
+          5430,
+          3874,
+          5324,
+          6397,
+          7970,
+          8183,
+          5904,
+          1348,
+          8979,
+          2677
+        ]
+      },
+      {
+        "value": "The MAN is perplexed",
+        "ids": [
+          6158,
+          2846,
+          4392,
+          5044,
+          7206,
+          5311,
+          5306,
+          4621,
+          9415,
+          2230,
+          2835,
+          5568,
+          3874,
+          5324,
+          6397,
+          9692,
+          5904
+        ]
+      }
+    ],
+    "dialogue": [
+      {
+        "character": [
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              6921,
+              2444,
+              5864,
+              3895,
+              6787,
+              4533,
+              5184,
+              5123,
+              6421,
+              1593,
+              7389,
+              6508,
+              9233,
+              3167,
+              3004,
+              1313,
+              5430,
+              7970,
+              8183,
+              1348,
+              8979,
+              2677
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Emanna adagaala",
+            "ids": [
+              1270,
+              8784
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "MAN",
+            "ids": [
+              2835,
+              2846
+            ]
+          },
+          {
+            "value": "MAN",
+            "ids": [
+              4621,
+              5306
+            ]
+          },
+          {
+            "value": "MAN",
+            "ids": [
+              5311,
+              5324
+            ]
+          },
+          {
+            "value": "MAN",
+            "ids": [
+              5568,
+              5904
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Ledhu andi",
+            "ids": [
+              7417,
+              4366,
+              8918,
+              3933,
+              3809
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              6921,
+              2444,
+              5864,
+              3895,
+              6787,
+              4533,
+              5184,
+              5123,
+              6421,
+              1593,
+              7389,
+              6508,
+              9233,
+              3167,
+              3004,
+              1313,
+              5430,
+              7970,
+              8183,
+              1348,
+              8979,
+              2677
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Malli aalochinchu",
+            "ids": [
+              8574,
+              3831
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "MAN",
+            "ids": [
+              2835,
+              2846
+            ]
+          },
+          {
+            "value": "MAN",
+            "ids": [
+              4621,
+              5306
+            ]
+          },
+          {
+            "value": "MAN",
+            "ids": [
+              5311,
+              5324
+            ]
+          },
+          {
+            "value": "MAN",
+            "ids": [
+              5568,
+              5904
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Avunu andi..oka question adagaali",
+            "ids": [
+              4366,
+              1664,
+              4916,
+              9310,
+              7151
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              6921,
+              2444,
+              5864,
+              3895,
+              6787,
+              4533,
+              5184,
+              5123,
+              6421,
+              1593,
+              7389,
+              6508,
+              9233,
+              3167,
+              3004,
+              1313,
+              5430,
+              7970,
+              8183,
+              1348,
+              8979,
+              2677
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Naaku oka lighter\nkanaapduthundhi...cigarette\nthaaguthaava?",
+            "ids": [
+              1595,
+              7151,
+              4939,
+              2240,
+              8450
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "MAN",
+            "ids": [
+              2835,
+              2846
+            ]
+          },
+          {
+            "value": "MAN",
+            "ids": [
+              4621,
+              5306
+            ]
+          },
+          {
+            "value": "MAN",
+            "ids": [
+              5311,
+              5324
+            ]
+          },
+          {
+            "value": "MAN",
+            "ids": [
+              5568,
+              5904
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": "(anxiously)",
+            "ids": [
+              3580
+            ]
+          }
+        ],
+        "text": [
+          {
+            "value": "Ledhu",
+            "ids": [
+              3809,
+              3933
+            ]
+          },
+          {
+            "value": "Ledhu",
+            "ids": [
+              7417,
+              8918
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              6921,
+              2444,
+              5864,
+              3895,
+              6787,
+              4533,
+              5184,
+              5123,
+              6421,
+              1593,
+              7389,
+              6508,
+              9233,
+              3167,
+              3004,
+              1313,
+              5430,
+              7970,
+              8183,
+              1348,
+              8979,
+              2677
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Thagevaadivaa?",
+            "ids": [
+              9940
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "MAN",
+            "ids": [
+              2835,
+              2846
+            ]
+          },
+          {
+            "value": "MAN",
+            "ids": [
+              4621,
+              5306
+            ]
+          },
+          {
+            "value": "MAN",
+            "ids": [
+              5311,
+              5324
+            ]
+          },
+          {
+            "value": "MAN",
+            "ids": [
+              5568,
+              5904
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Ledhu Baba",
+            "ids": [
+              2444,
+              3895,
+              4533,
+              7417,
+              5123,
+              1593,
+              6508,
+              8918,
+              3167,
+              3933,
+              3004,
+              5430,
+              8183,
+              3809,
+              1348,
+              2677
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              6921,
+              2444,
+              5864,
+              3895,
+              6787,
+              4533,
+              5184,
+              5123,
+              6421,
+              1593,
+              7389,
+              6508,
+              9233,
+              3167,
+              3004,
+              1313,
+              5430,
+              7970,
+              8183,
+              1348,
+              8979,
+              2677
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Lighter kanapaduthundhi...cigarette\nveliginche lighter...",
+            "ids": [
+              4939,
+              2240,
+              9339,
+              8450
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              6921,
+              2444,
+              5864,
+              3895,
+              6787,
+              4533,
+              5184,
+              5123,
+              6421,
+              1593,
+              7389,
+              6508,
+              9233,
+              3167,
+              3004,
+              1313,
+              5430,
+              7970,
+              8183,
+              1348,
+              8979,
+              2677
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Nee snehithula cigarette\nveligisthaava?",
+            "ids": [
+              3041,
+              7143,
+              8450
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "MAN",
+            "ids": [
+              2835,
+              2846
+            ]
+          },
+          {
+            "value": "MAN",
+            "ids": [
+              4621,
+              5306
+            ]
+          },
+          {
+            "value": "MAN",
+            "ids": [
+              5311,
+              5324
+            ]
+          },
+          {
+            "value": "MAN",
+            "ids": [
+              5568,
+              5904
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Ledhu Baba",
+            "ids": [
+              2444,
+              3895,
+              4533,
+              7417,
+              5123,
+              1593,
+              6508,
+              8918,
+              3167,
+              3933,
+              3004,
+              5430,
+              8183,
+              3809,
+              1348,
+              2677
+            ]
+          }
+        ]
+      },
+      {
+        "character": [
+          {
+            "value": "CHINTHAN BABA",
+            "ids": [
+              6921,
+              2444,
+              5864,
+              3895,
+              6787,
+              4533,
+              5184,
+              5123,
+              6421,
+              1593,
+              7389,
+              6508,
+              9233,
+              3167,
+              3004,
+              1313,
+              5430,
+              7970,
+              8183,
+              1348,
+              8979,
+              2677
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "parenthetical": [
+          {
+            "value": null,
+            "ids": []
+          }
+        ],
+        "text": [
+          {
+            "value": "Abbadham aadaku raa dooffer",
+            "ids": [
+              4107,
+              5527,
+              6376,
+              9317
+            ]
+          }
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

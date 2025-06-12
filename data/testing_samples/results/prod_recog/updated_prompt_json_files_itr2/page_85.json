@@ -1,0 +1,147 @@
+{
+  "sample_no": "smaple5",
+  "pdf_file_name": "page_85.pdf",
+  "alltext": "84.\nGOVARDHAN\nLedhu ledhu, nenu fruits unte ne\nthintaanu, fruits levante nenu\nvandukuntaanu\nVEDA\nNee abba, adi emi kudaradu,\ntinakapote chaavu\nFood is served to VEDA and SULOCHANA. They begin digging in.\nGOVARDHAN\nMeere thintu chusthe naaku kuda\naakalesthundi\nVEDA\nSare thintaava edi?\nGOVARDHAN nods and helps himself.\nCUT TO:",
+  "words_ids": {
+    "1000": "84.",
+    "1001": "GOVARDHAN",
+    "1002": "Ledhu",
+    "1003": "ledhu,",
+    "1004": "nenu",
+    "1005": "fruits",
+    "1006": "unte",
+    "1007": "ne",
+    "1008": "thintaanu,",
+    "1009": "fruits",
+    "1010": "levante",
+    "1011": "nenu",
+    "1012": "vandukuntaanu",
+    "1013": "VEDA",
+    "1014": "Nee",
+    "1015": "abba,",
+    "1016": "adi",
+    "1017": "emi",
+    "1018": "kudaradu,",
+    "1019": "tinakapote",
+    "1020": "chaavu",
+    "1021": "Food",
+    "1022": "is",
+    "1023": "served",
+    "1024": "to",
+    "1025": "VEDA",
+    "1026": "and",
+    "1027": "SULOCHANA.",
+    "1028": "They",
+    "1029": "begin",
+    "1030": "digging",
+    "1031": "in.",
+    "1032": "GOVARDHAN",
+    "1033": "Meere",
+    "1034": "thintu",
+    "1035": "chusthe",
+    "1036": "naaku",
+    "1037": "kuda",
+    "1038": "aakalesthundi",
+    "1039": "VEDA",
+    "1040": "Sare",
+    "1041": "thintaava",
+    "1042": "edi?",
+    "1043": "GOVARDHAN",
+    "1044": "nods",
+    "1045": "and",
+    "1046": "helps",
+    "1047": "himself.",
+    "1048": "CUT",
+    "1049": "TO:"
+  },
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "GOVARDHAN",
+        "VEDA",
+        "SULOCHANA"
+      ],
+      "SET": [],
+      "PROPS": [
+        "Food"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1001"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1032"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1043"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1013"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1025"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1039"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "SULOCHANA.",
+            "ids": [
+              "1027"
+            ]
+          }
+        ]
+      ],
+      "SET": [],
+      "PROPS": [
+        [
+          {
+            "value": "Food",
+            "ids": [
+              "1021"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

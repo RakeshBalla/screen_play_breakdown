@@ -1,0 +1,1179 @@
+{
+  "sample_no": "smaple5",
+  "pdf_file_name": "page_84.pdf",
+  "alltext": "83.\nVEDA\nAaputhaava nee satirelu.\nSULOCHANA\nAnduke manameeda kutra.\nVEDA\nEnti?\nSULOCHANA\nManalni pattichukune vaallu evvaru\nlerane manalni\nirikkisthunnaaremo...\nSULOCHANA\nmugguram maamulu middle class\nfamily vaallam... manevvariki pedda\ncontacts levu help cheyataaniki...\nanduke manalni plan ga\nirikisthunnaaremo!\nThe three absorb this for a while.\nVEDA\nAssalevarantav??\nSULOCHANA\nEmo...\nSULOCHANA thinks for a while\nSULOCHANA\nSare alochiddham kaani, mundhu food\norder chesi thindham naaku aakali\nvesthundhi.\nVEDA orders some food.\nGOVARDHAN\nNaako kumpatti pettandi\nVEDA\nKumpatti enti raa\nGOVARDHAN\nNenu clean gaa unte ne thinta\nledante nenu tinanu\nVEDA\nOrei nee abba idi hotel raa,ikkada\naydhi dorikithe adhi tinaali",
+  "words_ids": {
+    "1000": "83.",
+    "1001": "VEDA",
+    "1002": "Aaputhaava",
+    "1003": "nee",
+    "1004": "satirelu.",
+    "1005": "SULOCHANA",
+    "1006": "Anduke",
+    "1007": "manameeda",
+    "1008": "kutra.",
+    "1009": "VEDA",
+    "1010": "Enti?",
+    "1011": "SULOCHANA",
+    "1012": "Manalni",
+    "1013": "pattichukune",
+    "1014": "vaallu",
+    "1015": "evvaru",
+    "1016": "lerane",
+    "1017": "manalni",
+    "1018": "irikkisthunnaaremo...",
+    "1019": "SULOCHANA",
+    "1020": "mugguram",
+    "1021": "maamulu",
+    "1022": "middle",
+    "1023": "class",
+    "1024": "family",
+    "1025": "vaallam...",
+    "1026": "manevvariki",
+    "1027": "pedda",
+    "1028": "contacts",
+    "1029": "levu",
+    "1030": "help",
+    "1031": "cheyataaniki...",
+    "1032": "anduke",
+    "1033": "manalni",
+    "1034": "plan",
+    "1035": "ga",
+    "1036": "irikisthunnaaremo!",
+    "1037": "The",
+    "1038": "three",
+    "1039": "absorb",
+    "1040": "this",
+    "1041": "for",
+    "1042": "a",
+    "1043": "while.",
+    "1044": "VEDA",
+    "1045": "Assalevarantav??",
+    "1046": "SULOCHANA",
+    "1047": "Emo...",
+    "1048": "SULOCHANA",
+    "1049": "thinks",
+    "1050": "for",
+    "1051": "a",
+    "1052": "while",
+    "1053": "SULOCHANA",
+    "1054": "Sare",
+    "1055": "alochiddham",
+    "1056": "kaani,",
+    "1057": "mundhu",
+    "1058": "food",
+    "1059": "order",
+    "1060": "chesi",
+    "1061": "thindham",
+    "1062": "naaku",
+    "1063": "aakali",
+    "1064": "vesthundhi.",
+    "1065": "VEDA",
+    "1066": "orders",
+    "1067": "some",
+    "1068": "food.",
+    "1069": "GOVARDHAN",
+    "1070": "Naako",
+    "1071": "kumpatti",
+    "1072": "pettandi",
+    "1073": "VEDA",
+    "1074": "Kumpatti",
+    "1075": "enti",
+    "1076": "raa",
+    "1077": "GOVARDHAN",
+    "1078": "Nenu",
+    "1079": "clean",
+    "1080": "gaa",
+    "1081": "unte",
+    "1082": "ne",
+    "1083": "thinta",
+    "1084": "ledante",
+    "1085": "nenu",
+    "1086": "tinanu",
+    "1087": "VEDA",
+    "1088": "Orei",
+    "1089": "nee",
+    "1090": "abba",
+    "1091": "idi",
+    "1092": "hotel",
+    "1093": "raa,ikkada",
+    "1094": "aydhi",
+    "1095": "dorikithe",
+    "1096": "adhi",
+    "1097": "tinaali"
+  },
+  "llm_response": {
+    "scene_number": [
+      "83"
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      "The three absorb this for a while.",
+      "SULOCHANA thinks for a while",
+      "VEDA orders some food."
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Aaputhaava nee satirelu."
+        ]
+      },
+      {
+        "character": [
+          "SULOCHANA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Anduke manameeda kutra."
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Enti?"
+        ]
+      },
+      {
+        "character": [
+          "SULOCHANA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Manalni pattichukune vaallu evvaru\nlerane manalni\nirikkisthunnaaremo..."
+        ]
+      },
+      {
+        "character": [
+          "SULOCHANA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "mugguram maamulu middle class\nfamily vaallam... manevvariki pedda\ncontacts levu help cheyataaniki...\nanduke manalni plan ga\nirikisthunnaaremo!"
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Assalevarantav??"
+        ]
+      },
+      {
+        "character": [
+          "SULOCHANA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Emo..."
+        ]
+      },
+      {
+        "character": [
+          "SULOCHANA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Sare alochiddham kaani, mundhu food\norder chesi thindham naaku aakali\nvesthundhi."
+        ]
+      },
+      {
+        "character": [
+          "GOVARDHAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Naako kumpatti pettandi"
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Kumpatti enti raa"
+        ]
+      },
+      {
+        "character": [
+          "GOVARDHAN"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Nenu clean gaa unte ne thinta\nledante nenu tinanu"
+        ]
+      },
+      {
+        "character": [
+          "VEDA"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Orei nee abba idi hotel raa,ikkada\naydhi dorikithe adhi tinaali"
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      [
+        {
+          "value": "83.",
+          "ids": [
+            "1000"
+          ]
+        }
+      ]
+    ],
+    "slugline": {
+      "type": [],
+      "location": [],
+      "time_of_day": []
+    },
+    "action_lines": [
+      [
+        {
+          "value": "The three absorb this for a while.",
+          "ids": [
+            "1037",
+            "1038",
+            "1039",
+            "1040",
+            "1041",
+            "1042",
+            "1043"
+          ]
+        }
+      ],
+      [
+        {
+          "value": "SULOCHANA thinks for a while",
+          "ids": [
+            "1048",
+            "1049",
+            "1050",
+            "1051",
+            "1052"
+          ]
+        }
+      ],
+      [
+        {
+          "value": "VEDA orders some food.",
+          "ids": [
+            "1065",
+            "1066",
+            "1067",
+            "1068"
+          ]
+        }
+      ]
+    ],
+    "dialogue": [
+      {
+        "character": [
+          [
+            {
+              "value": "VEDA",
+              "ids": [
+                "1001"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1009"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1044"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1065"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1073"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1087"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Aaputhaava nee satirelu.",
+              "ids": [
+                "1002",
+                "1003",
+                "1004"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1005"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1011"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1019"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1046"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1048"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1053"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Anduke manameeda kutra.",
+              "ids": [
+                "1006",
+                "1007",
+                "1008"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "VEDA",
+              "ids": [
+                "1001"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1009"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1044"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1065"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1073"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1087"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Enti?",
+              "ids": [
+                "1010"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1005"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1011"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1019"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1046"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1048"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1053"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Manalni pattichukune vaallu evvaru lerane manalni irikkisthunnaaremo...",
+              "ids": [
+                "1012",
+                "1013",
+                "1014",
+                "1015",
+                "1016",
+                "1017",
+                "1018"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1005"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1011"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1019"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1046"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1048"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1053"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "mugguram maamulu middle class family vaallam... manevvariki pedda contacts levu help cheyataaniki... anduke manalni plan ga irikisthunnaaremo!",
+              "ids": [
+                "1020",
+                "1021",
+                "1022",
+                "1023",
+                "1024",
+                "1025",
+                "1026",
+                "1027",
+                "1028",
+                "1029",
+                "1030",
+                "1031",
+                "1032",
+                "1033",
+                "1034",
+                "1035",
+                "1036"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "VEDA",
+              "ids": [
+                "1001"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1009"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1044"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1065"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1073"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1087"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Assalevarantav??",
+              "ids": [
+                "1045"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1005"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1011"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1019"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1046"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1048"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1053"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Emo...",
+              "ids": [
+                "1047"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1005"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1011"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1019"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1046"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1048"
+              ]
+            },
+            {
+              "value": "SULOCHANA",
+              "ids": [
+                "1053"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Sare alochiddham kaani, mundhu food order chesi thindham naaku aakali vesthundhi.",
+              "ids": [
+                "1054",
+                "1055",
+                "1056",
+                "1057",
+                "1058",
+                "1059",
+                "1060",
+                "1061",
+                "1062",
+                "1063",
+                "1064"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1069"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1077"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Naako kumpatti pettandi",
+              "ids": [
+                "1070",
+                "1071",
+                "1072"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "VEDA",
+              "ids": [
+                "1001"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1009"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1044"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1065"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1073"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1087"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Kumpatti enti raa",
+              "ids": [
+                "1074",
+                "1075",
+                "1076"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1069"
+              ]
+            },
+            {
+              "value": "GOVARDHAN",
+              "ids": [
+                "1077"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Nenu clean gaa unte ne thinta ledante nenu tinanu",
+              "ids": [
+                "1078",
+                "1079",
+                "1080",
+                "1081",
+                "1082",
+                "1083",
+                "1084",
+                "1085",
+                "1086"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "character": [
+          [
+            {
+              "value": "VEDA",
+              "ids": [
+                "1001"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1009"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1044"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1065"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1073"
+              ]
+            },
+            {
+              "value": "VEDA",
+              "ids": [
+                "1087"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Orei nee abba idi hotel raa,ikkada aydhi dorikithe adhi tinaali",
+              "ids": [
+                "1088",
+                "1089",
+                "1090",
+                "1091",
+                "1092",
+                "1093",
+                "1094",
+                "1095",
+                "1096",
+                "1097"
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "transitions": [],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

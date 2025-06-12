@@ -1,0 +1,386 @@
+{
+  "sample_no": "sample2",
+  "pdf_file_name": "page_4.pdf",
+  "alltext": "3.\n13 EXT. RUINED TEMPLE - NIGHTFADE IN.\nSUPERIMPOSE: 2009. On the edge of a platform in tattered,\ndishevelled rags, two bums, SURESH and a mute BUM, are\nsmoking up using chillams and listening to the Gita on the\nradio. The mute BUM is slow-dancing against a female\nmannequin torso stuck in the middle of a tree.\nRADIO (V.O.)\nJaatasya hi dhruvo martyurdhruvaam\njanma martasya cha\ntasmaadaparihaaryerthe na tvam\nsochitumarhasi. Puttina vaaniki\nmaranamu tappadhu. Maraninchina\nvaaniki janmamu tappadhu.\nAnivaaryamagu ee vishayamunu\ngoorchi Sokimpa tagadhu.\nSURESH takes the radio and opens a compartment in the back.\nHe takes out some weed from it, puts it in his chillam, and\ncontinues smoking up.\nCUT TO:",
+  "words_ids": {
+    "1000": "3.",
+    "1001": "13",
+    "1002": "EXT.",
+    "1003": "RUINED",
+    "1004": "TEMPLE",
+    "1005": "-",
+    "1006": "NIGHTFADE",
+    "1007": "IN.",
+    "1008": "SUPERIMPOSE:",
+    "1009": "2009.",
+    "1010": "On",
+    "1011": "the",
+    "1012": "edge",
+    "1013": "of",
+    "1014": "a",
+    "1015": "platform",
+    "1016": "in",
+    "1017": "tattered,",
+    "1018": "dishevelled",
+    "1019": "rags,",
+    "1020": "two",
+    "1021": "bums,",
+    "1022": "SURESH",
+    "1023": "and",
+    "1024": "a",
+    "1025": "mute",
+    "1026": "BUM,",
+    "1027": "are",
+    "1028": "smoking",
+    "1029": "up",
+    "1030": "using",
+    "1031": "chillams",
+    "1032": "and",
+    "1033": "listening",
+    "1034": "to",
+    "1035": "the",
+    "1036": "Gita",
+    "1037": "on",
+    "1038": "the",
+    "1039": "radio.",
+    "1040": "The",
+    "1041": "mute",
+    "1042": "BUM",
+    "1043": "is",
+    "1044": "slow-dancing",
+    "1045": "against",
+    "1046": "a",
+    "1047": "female",
+    "1048": "mannequin",
+    "1049": "torso",
+    "1050": "stuck",
+    "1051": "in",
+    "1052": "the",
+    "1053": "middle",
+    "1054": "of",
+    "1055": "a",
+    "1056": "tree.",
+    "1057": "RADIO",
+    "1058": "(V.O.)",
+    "1059": "Jaatasya",
+    "1060": "hi",
+    "1061": "dhruvo",
+    "1062": "martyurdhruvaam",
+    "1063": "janma",
+    "1064": "martasya",
+    "1065": "cha",
+    "1066": "tasmaadaparihaaryerthe",
+    "1067": "na",
+    "1068": "tvam",
+    "1069": "sochitumarhasi.",
+    "1070": "Puttina",
+    "1071": "vaaniki",
+    "1072": "maranamu",
+    "1073": "tappadhu.",
+    "1074": "Maraninchina",
+    "1075": "vaaniki",
+    "1076": "janmamu",
+    "1077": "tappadhu.",
+    "1078": "Anivaaryamagu",
+    "1079": "ee",
+    "1080": "vishayamunu",
+    "1081": "goorchi",
+    "1082": "Sokimpa",
+    "1083": "tagadhu.",
+    "1084": "SURESH",
+    "1085": "takes",
+    "1086": "the",
+    "1087": "radio",
+    "1088": "and",
+    "1089": "opens",
+    "1090": "a",
+    "1091": "compartment",
+    "1092": "in",
+    "1093": "the",
+    "1094": "back.",
+    "1095": "He",
+    "1096": "takes",
+    "1097": "out",
+    "1098": "some",
+    "1099": "weed",
+    "1100": "from",
+    "1101": "it,",
+    "1102": "puts",
+    "1103": "it",
+    "1104": "in",
+    "1105": "his",
+    "1106": "chillam,",
+    "1107": "and",
+    "1108": "continues",
+    "1109": "smoking",
+    "1110": "up.",
+    "1111": "CUT",
+    "1112": "TO:"
+  },
+  "llm_response": {
+    "scene_number": [
+      "3"
+    ],
+    "slugline": {
+      "type": [
+        "EXT."
+      ],
+      "location": [
+        "RUINED TEMPLE"
+      ],
+      "time_of_day": [
+        "NIGHT"
+      ]
+    },
+    "action_lines": [
+      "On the edge of a platform in tattered,\ndishevelled rags, two bums, SURESH and a mute BUM, are\nsmoking up using chillams and listening to the Gita on the\nradio. The mute BUM is slow-dancing against a female\nmannequin torso stuck in the middle of a tree.",
+      "SURESH takes the radio and opens a compartment in the back.\nHe takes out some weed from it, puts it in his chillam, and\ncontinues smoking up."
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "RADIO"
+        ],
+        "extension": [
+          "(V.O.)"
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Jaatasya hi dhruvo martyurdhruvaam\njanma martasya cha\ntasmaadaparihaaryerthe na tvam\nsochitumarhasi. Puttina vaaniki\nmaranamu tappadhu. Maraninchina\nvaaniki janmamu tappadhu.\nAnivaaryamagu ee vishayamunu\ngoorchi Sokimpa tagadhu."
+        ]
+      }
+    ],
+    "transitions": [
+      "CUT TO:"
+    ],
+    "shot_directions": [],
+    "superimpose": [
+      "2009."
+    ]
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      [
+        {
+          "value": "3.",
+          "ids": [
+            "1000"
+          ]
+        }
+      ]
+    ],
+    "slugline": {
+      "type": [
+        [
+          {
+            "value": "EXT.",
+            "ids": [
+              "1002"
+            ]
+          }
+        ]
+      ],
+      "location": [
+        [
+          {
+            "value": "RUINED TEMPLE",
+            "ids": [
+              "1003",
+              "1004"
+            ]
+          }
+        ]
+      ],
+      "time_of_day": [
+        [
+          {
+            "value": "NIGHT",
+            "ids": [
+              "unable to find ids"
+            ]
+          }
+        ]
+      ]
+    },
+    "action_lines": [
+      [
+        {
+          "value": "On the edge of a platform in tattered, dishevelled rags, two bums, SURESH and a mute BUM, are smoking up using chillams and listening to the Gita on the radio. The mute BUM is slow-dancing against a female mannequin torso stuck in the middle of a tree.",
+          "ids": [
+            "1010",
+            "1011",
+            "1012",
+            "1013",
+            "1014",
+            "1015",
+            "1016",
+            "1017",
+            "1018",
+            "1019",
+            "1020",
+            "1021",
+            "1022",
+            "1023",
+            "1024",
+            "1025",
+            "1026",
+            "1027",
+            "1028",
+            "1029",
+            "1030",
+            "1031",
+            "1032",
+            "1033",
+            "1034",
+            "1035",
+            "1036",
+            "1037",
+            "1038",
+            "1039",
+            "1040",
+            "1041",
+            "1042",
+            "1043",
+            "1044",
+            "1045",
+            "1046",
+            "1047",
+            "1048",
+            "1049",
+            "1050",
+            "1051",
+            "1052",
+            "1053",
+            "1054",
+            "1055",
+            "1056"
+          ]
+        }
+      ],
+      [
+        {
+          "value": "SURESH takes the radio and opens a compartment in the back. He takes out some weed from it, puts it in his chillam, and continues smoking up.",
+          "ids": [
+            "1084",
+            "1085",
+            "1086",
+            "1087",
+            "1088",
+            "1089",
+            "1090",
+            "1091",
+            "1092",
+            "1093",
+            "1094",
+            "1095",
+            "1096",
+            "1097",
+            "1098",
+            "1099",
+            "1100",
+            "1101",
+            "1102",
+            "1103",
+            "1104",
+            "1105",
+            "1106",
+            "1107",
+            "1108",
+            "1109",
+            "1110"
+          ]
+        }
+      ]
+    ],
+    "dialogue": [
+      {
+        "character": [
+          [
+            {
+              "value": "RADIO",
+              "ids": [
+                "1057"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "(V.O.)",
+              "ids": [
+                "1058"
+              ]
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Jaatasya hi dhruvo martyurdhruvaam janma martasya cha tasmaadaparihaaryerthe na tvam sochitumarhasi. Puttina vaaniki maranamu tappadhu. Maraninchina vaaniki janmamu tappadhu. Anivaaryamagu ee vishayamunu goorchi Sokimpa tagadhu.",
+              "ids": [
+                "1059",
+                "1060",
+                "1061",
+                "1062",
+                "1063",
+                "1064",
+                "1065",
+                "1066",
+                "1067",
+                "1068",
+                "1069",
+                "1070",
+                "1071",
+                "1072",
+                "1073",
+                "1074",
+                "1075",
+                "1076",
+                "1077",
+                "1078",
+                "1079",
+                "1080",
+                "1081",
+                "1082",
+                "1083"
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "transitions": [
+      [
+        {
+          "value": "CUT TO:",
+          "ids": [
+            "1111",
+            "1112"
+          ]
+        }
+      ]
+    ],
+    "shot_directions": [],
+    "superimpose": [
+      [
+        {
+          "value": "2009.",
+          "ids": [
+            "1009"
+          ]
+        }
+      ]
+    ]
+  }
+}

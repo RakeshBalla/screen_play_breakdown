@@ -1,0 +1,67 @@
+{
+  "ALL_TEXT": "5 EXT. SHIPPING YARD - NIGHT \nA trader. \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "5",
+    "1001": "EXT.",
+    "1002": "SHIPPING",
+    "1003": "YARD",
+    "1004": "-",
+    "1005": "NIGHT",
+    "1006": "A",
+    "1007": "trader.",
+    "1008": "CUT",
+    "1009": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "trader"
+      ],
+      "SET": [
+        "EXT. SHIPPING YARD - NIGHT"
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "trader.",
+            "ids": [
+              "1007"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. SHIPPING YARD - NIGHT",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

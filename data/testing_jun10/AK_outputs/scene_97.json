@@ -1,0 +1,92 @@
+{
+  "ALL_TEXT": "97 EXT. UNDERWATER - DAY \nA song behind bars abusing each other \nCUT TO:",
+  "WORDS_ID": {
+    "1000": "97",
+    "1001": "EXT.",
+    "1002": "UNDERWATER",
+    "1003": "-",
+    "1004": "DAY",
+    "1005": "A",
+    "1006": "song",
+    "1007": "behind",
+    "1008": "bars",
+    "1009": "abusing",
+    "1010": "each",
+    "1011": "other",
+    "1012": "CUT",
+    "1013": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "people"
+      ],
+      "SET": [
+        "EXT. UNDERWATER - DAY"
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        "UNDERWATER"
+      ],
+      "SOUND": [
+        "song"
+      ]
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "people",
+            "ids": [
+              "unable to find ids"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. UNDERWATER - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [
+        [
+          {
+            "value": "UNDERWATER",
+            "ids": [
+              "1002"
+            ]
+          }
+        ]
+      ],
+      "SOUND": [
+        [
+          {
+            "value": "song",
+            "ids": [
+              "1006"
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "sample_no": "sample1",
+  "pdf_file_name": "page_2.pdf",
+  "alltext": "CREDITS START.\n1 EXT. VAST GRASSLAND - NIGHT\nA man riding a horse looks at the stars. In his hand is\nKRISHNA\u2019s box.\nNARRATOR\nOka adbutam jarigey gadiyelo koni\njeevithaalu aa kroddhipaati\nsamayamlo taarumaarai, aa\nadhbuthaaniki margamu chuuputaaru\nCUT TO:",
+  "words_ids": {
+    "1000": "CREDITS",
+    "1001": "START.",
+    "1002": "1",
+    "1003": "EXT.",
+    "1004": "VAST",
+    "1005": "GRASSLAND",
+    "1006": "-",
+    "1007": "NIGHT",
+    "1008": "A",
+    "1009": "man",
+    "1010": "riding",
+    "1011": "a",
+    "1012": "horse",
+    "1013": "looks",
+    "1014": "at",
+    "1015": "the",
+    "1016": "stars.",
+    "1017": "In",
+    "1018": "his",
+    "1019": "hand",
+    "1020": "is",
+    "1021": "KRISHNA\u2019s",
+    "1022": "box.",
+    "1023": "NARRATOR",
+    "1024": "Oka",
+    "1025": "adbutam",
+    "1026": "jarigey",
+    "1027": "gadiyelo",
+    "1028": "koni",
+    "1029": "jeevithaalu",
+    "1030": "aa",
+    "1031": "kroddhipaati",
+    "1032": "samayamlo",
+    "1033": "taarumaarai,",
+    "1034": "aa",
+    "1035": "adhbuthaaniki",
+    "1036": "margamu",
+    "1037": "chuuputaaru",
+    "1038": "CUT",
+    "1039": "TO:"
+  },
+  "llm_response": {
+    "scene_number": [
+      "1"
+    ],
+    "slugline": {
+      "type": [
+        "EXT."
+      ],
+      "location": [
+        "VAST GRASSLAND"
+      ],
+      "time_of_day": [
+        "NIGHT"
+      ]
+    },
+    "action_lines": [
+      "A man riding a horse looks at the stars. In his hand is\nKRISHNA\u2019s box."
+    ],
+    "dialogue": [
+      {
+        "character": [
+          "NARRATOR"
+        ],
+        "extension": [
+          null
+        ],
+        "parenthetical": [
+          null
+        ],
+        "text": [
+          "Oka adbutam jarigey gadiyelo koni\njeevithaalu aa kroddhipaati\nsamayamlo taarumaarai, aa\nadhbuthaaniki margamu chuuputaaru"
+        ]
+      }
+    ],
+    "transitions": [
+      "CUT TO:"
+    ],
+    "shot_directions": [],
+    "superimpose": []
+  },
+  "response_mapping_wordIds": {
+    "scene_number": [
+      [
+        {
+          "value": "1",
+          "ids": [
+            "1002"
+          ]
+        }
+      ]
+    ],
+    "slugline": {
+      "type": [
+        [
+          {
+            "value": "EXT.",
+            "ids": [
+              "1003"
+            ]
+          }
+        ]
+      ],
+      "location": [
+        [
+          {
+            "value": "VAST GRASSLAND",
+            "ids": [
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "time_of_day": [
+        [
+          {
+            "value": "NIGHT",
+            "ids": [
+              "1007"
+            ]
+          }
+        ]
+      ]
+    },
+    "action_lines": [
+      [
+        {
+          "value": "A man riding a horse looks at the stars. In his hand is KRISHNA\u2019s box.",
+          "ids": [
+            "1008",
+            "1009",
+            "1010",
+            "1011",
+            "1012",
+            "1013",
+            "1014",
+            "1015",
+            "1016",
+            "1017",
+            "1018",
+            "1019",
+            "1020",
+            "1021",
+            "1022"
+          ]
+        }
+      ]
+    ],
+    "dialogue": [
+      {
+        "character": [
+          [
+            {
+              "value": "NARRATOR",
+              "ids": [
+                "1023"
+              ]
+            }
+          ]
+        ],
+        "extension": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "parenthetical": [
+          [
+            {
+              "value": "empty",
+              "ids": []
+            }
+          ]
+        ],
+        "text": [
+          [
+            {
+              "value": "Oka adbutam jarigey gadiyelo koni jeevithaalu aa kroddhipaati samayamlo taarumaarai, aa adhbuthaaniki margamu chuuputaaru",
+              "ids": [
+                "1024",
+                "1025",
+                "1026",
+                "1027",
+                "1028",
+                "1029",
+                "1030",
+                "1031",
+                "1032",
+                "1033",
+                "1034",
+                "1035",
+                "1036",
+                "1037"
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "transitions": [
+      [
+        {
+          "value": "CUT TO:",
+          "ids": [
+            "1038",
+            "1039"
+          ]
+        }
+      ]
+    ],
+    "shot_directions": [],
+    "superimpose": []
+  }
+}

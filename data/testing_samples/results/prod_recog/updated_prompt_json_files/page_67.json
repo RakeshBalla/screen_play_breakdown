@@ -1,0 +1,225 @@
+{
+  "page_dict": {
+    "alltext": "66.\n71 EXT. POLICE STATION - DAY\nGOVARDHAN walks up to VEDA, who is smoking. He stubs the\ncigarette he has been smoking on seeing GOVARDHAN. GOVARDHAN\nenters the car\nGOVARDHAN\nNeeko visheyam thelusaa?\nVEDA\nEnti complaint ichesaava?\nGOVARDHAN\nLedhu, lopala okkadu unnaadu oka\nwitness, mottham cheppesaadu mana\niddari gurinchi\nVEDA\nEm cheppaadu?\nGOVARDHAN\nNaa peru ae telisindi akkada, nee\ngurinchi full details cheppadu,\nkukkundhi ani, anni cheppadu\nVEDA is shocked. He can't quite grasp what to do. They get in\nthe car, SULOCHANA already in the driver's seat. She gives\nthe photos to VEDA and starts the car.\nSULOCHANA\nIdhigo photos\nCUT TO:",
+    "words_ids": {
+      "5551": "66.",
+      "9419": "71",
+      "3010": "EXT.",
+      "2841": "POLICE",
+      "4643": "STATION",
+      "8747": "-",
+      "2453": "DAY",
+      "7561": "GOVARDHAN",
+      "1405": "walks",
+      "5264": "up",
+      "3651": "to",
+      "9270": "VEDA,",
+      "2163": "who",
+      "4180": "is",
+      "1679": "smoking.",
+      "3761": "He",
+      "5127": "stubs",
+      "3614": "the",
+      "1230": "cigarette",
+      "5418": "he",
+      "5486": "has",
+      "5456": "been",
+      "6062": "smoking",
+      "4960": "on",
+      "8899": "seeing",
+      "2475": "GOVARDHAN.",
+      "6673": "GOVARDHAN",
+      "7501": "VEDA",
+      "2851": "the",
+      "6721": "car",
+      "6078": "GOVARDHAN",
+      "4894": "Neeko",
+      "7081": "visheyam",
+      "9635": "thelusaa?",
+      "3802": "VEDA",
+      "4470": "Enti",
+      "7059": "complaint",
+      "4876": "ichesaava?",
+      "1309": "GOVARDHAN",
+      "7267": "Ledhu,",
+      "5374": "lopala",
+      "8061": "okkadu",
+      "8044": "unnaadu",
+      "4693": "oka",
+      "5056": "witness,",
+      "9930": "mottham",
+      "6051": "cheppesaadu",
+      "8621": "mana",
+      "5399": "iddari",
+      "9820": "gurinchi",
+      "2162": "Em",
+      "6508": "cheppaadu?",
+      "9780": "GOVARDHAN",
+      "5541": "Naa",
+      "2847": "peru",
+      "6737": "ae",
+      "1832": "telisindi",
+      "5117": "akkada,",
+      "3188": "nee",
+      "8590": "gurinchi",
+      "1910": "full",
+      "8794": "details",
+      "7127": "cheppadu,",
+      "6892": "kukkundhi",
+      "1365": "ani,",
+      "6916": "anni",
+      "7074": "cheppadu",
+      "9949": "VEDA",
+      "6513": "is",
+      "6662": "shocked.",
+      "1919": "He",
+      "6067": "can't",
+      "3995": "quite",
+      "1184": "grasp",
+      "3533": "what",
+      "8124": "to",
+      "9783": "do.",
+      "6497": "They",
+      "5770": "get",
+      "9967": "in",
+      "5512": "the",
+      "1048": "car,",
+      "7340": "SULOCHANA",
+      "8086": "already",
+      "9178": "in",
+      "5004": "the",
+      "3706": "driver's",
+      "7505": "seat.",
+      "9082": "She",
+      "9041": "gives",
+      "7520": "the",
+      "4241": "photos",
+      "8908": "to",
+      "9595": "VEDA",
+      "4060": "and",
+      "8650": "starts",
+      "4480": "the",
+      "8041": "car.",
+      "1207": "SULOCHANA",
+      "2508": "Idhigo",
+      "3902": "photos",
+      "6159": "CUT",
+      "4050": "TO:"
+    }
+  },
+  "sample_no": "sample10",
+  "pdf_file_name": "page_67.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "GOVARDHAN",
+        "VEDA",
+        "SULOCHANA"
+      ],
+      "SET": [
+        "EXT. POLICE STATION - DAY"
+      ],
+      "PROPS": [
+        "cigarette",
+        "photos"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        "car"
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        "CAR STARTS"
+      ]
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            1309,
+            6078
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            6673,
+            7561
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            3802,
+            7501
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            9595,
+            9949
+          ]
+        },
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            1207,
+            7340
+          ]
+        }
+      ],
+      "SET": [
+        {
+          "value": "EXT. POLICE STATION - DAY",
+          "ids": [
+            2841,
+            4643,
+            2453
+          ]
+        }
+      ],
+      "PROPS": [
+        {
+          "value": "cigarette",
+          "ids": [
+            1230
+          ]
+        },
+        {
+          "value": "photos",
+          "ids": [
+            3902,
+            4241
+          ]
+        }
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        {
+          "value": "car",
+          "ids": [
+            6721
+          ]
+        }
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        {
+          "value": "CAR STARTS",
+          "ids": [
+            6721,
+            8650
+          ]
+        }
+      ]
+    }
+  }
+}

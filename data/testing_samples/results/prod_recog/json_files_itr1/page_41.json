@@ -1,0 +1,210 @@
+{
+  "page_dict": {
+    "alltext": "40.\n46 INT. PUB-LOUNGE AREA - NIGHT\nGOVARDHAN finds a corner seat to tuck himself in. A WAITER\nwalks up to him.\nGOVARDHAN\nikkada paallu dhorukuthaaya\nWAITER\n(laughs)\nLedu sir\nGOVARDHAN\nNee daggara em undi cheppu\nWAITER\nWhisky milkshake, Brandy milkshake\nGOVARDHAN\nOrei, utti milkshake ee raa, whisky\noddhu raa\nWAITER\nSir, first akkadaninche start\nchestam. Em kaavali sir meeku?\nGOVARDHAN\n(to himself)\nPeace of mind kaavali\nWAITER\nadi ammatledu sir ikkada",
+    "words_ids": {
+      "2129": "40.",
+      "3329": "46",
+      "5470": "INT.",
+      "5636": "PUB-LOUNGE",
+      "3370": "AREA",
+      "2960": "-",
+      "2536": "NIGHT",
+      "2386": "GOVARDHAN",
+      "6474": "finds",
+      "7868": "a",
+      "4707": "corner",
+      "9191": "seat",
+      "6238": "to",
+      "9388": "tuck",
+      "9704": "himself",
+      "9126": "in.",
+      "6335": "A",
+      "6034": "WAITER",
+      "5980": "walks",
+      "3279": "up",
+      "8881": "to",
+      "4545": "him.",
+      "6351": "GOVARDHAN",
+      "9242": "ikkada",
+      "9277": "paallu",
+      "3677": "dhorukuthaaya",
+      "5220": "WAITER",
+      "7845": "(laughs)",
+      "6037": "Ledu",
+      "6500": "sir",
+      "3501": "GOVARDHAN",
+      "5505": "Nee",
+      "1718": "daggara",
+      "2439": "em",
+      "4719": "undi",
+      "1620": "cheppu",
+      "1268": "WAITER",
+      "5409": "Whisky",
+      "8775": "milkshake,",
+      "1730": "Brandy",
+      "8121": "milkshake",
+      "2733": "GOVARDHAN",
+      "7849": "Orei,",
+      "9229": "utti",
+      "6119": "milkshake",
+      "4747": "ee",
+      "3201": "raa,",
+      "1654": "whisky",
+      "6744": "oddhu",
+      "9845": "raa",
+      "8378": "WAITER",
+      "7584": "Sir,",
+      "7687": "first",
+      "1623": "akkadaninche",
+      "4632": "start",
+      "1711": "chestam.",
+      "7657": "Em",
+      "9923": "kaavali",
+      "7863": "sir",
+      "7622": "meeku?",
+      "5886": "GOVARDHAN",
+      "7601": "(to",
+      "3125": "himself)",
+      "1127": "Peace",
+      "4440": "of",
+      "6323": "mind",
+      "2616": "kaavali",
+      "5893": "WAITER",
+      "2376": "adi",
+      "3770": "ammatledu",
+      "3543": "sir",
+      "3047": "ikkada"
+    }
+  },
+  "sample_no": "sample4",
+  "pdf_file_name": "page_41.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "GOVARDHAN",
+        "WAITER"
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [],
+      "PROPS": [],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [
+        "INT. PUB-LOUNGE AREA - NIGHT"
+      ],
+      "CAMERA": [],
+      "SOUND": [],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [
+        "PUB-LOUNGE AREA"
+      ],
+      "SET_DRESSING": [
+        "corner seat"
+      ],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            2386,
+            2733
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            3501,
+            5886
+          ]
+        },
+        {
+          "value": "WAITER",
+          "ids": [
+            1268,
+            5220
+          ]
+        },
+        {
+          "value": "WAITER",
+          "ids": [
+            5893,
+            6034
+          ]
+        }
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [],
+      "PROPS": [],
+      "LOCATION_DETAILS": [],
+      "SCREEN_TITLES": [
+        {
+          "value": "INT. PUB-LOUNGE AREA - NIGHT",
+          "ids": [
+            3370,
+            2536
+          ]
+        }
+      ],
+      "CAMERA": [],
+      "SOUND": [],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [
+        {
+          "value": "PUB-LOUNGE AREA",
+          "ids": [
+            3370
+          ]
+        }
+      ],
+      "SET_DRESSING": [
+        {
+          "value": "corner seat",
+          "ids": [
+            4707,
+            9191
+          ]
+        }
+      ],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  }
+}

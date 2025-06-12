@@ -1,0 +1,1 @@
+python -m validation.gen_report.py

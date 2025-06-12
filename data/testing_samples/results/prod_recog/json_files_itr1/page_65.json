@@ -1,0 +1,391 @@
+{
+  "page_dict": {
+    "alltext": "64.\nGOVARDHAN is visibly flattered and falls for it. The trio\nwalk towards SULOCHANA’s car, which is parked nearby in the\nlot. GOVARDHAN opens the passenger door and gets inside.\nSULOCHANA\nDigu, meemu ekkaali\nGOVARDHAN\nAtu vaipu oka door undi kadhaa\nSULOCHANA\nBha! Digu, adhi open avvadhu\nGOVARDHAN\nAnduke puraavasthu shaaka nunchi\ncar konnnaru\nSULOCHANA stares down GOVARDHAN, after which GOVARDHAN climbs\noff. SULOCHANA gets in; VEDA and GOVARDHAN stand, waiting for\nthe other to get in.\nGOVARDHAN\nEkku\nVEDA\nNenekkute nuvvu ela ekkutaavu\nGOVARDHAN\nEkki lopala kurcho. Mundu nenu\nkurchuntaanu.\nVEDA\nNuvvu lopala elli kurcho, nenu\nmundu kurchuntaanu\nGOVARDHAN\nRei, nee gurinchi naaku telusu\nkaani, poi lopala kurcho, ellu.\nVEDA reluctantly gets in the back. The trio leaves.\nCUT TO:",
+    "words_ids": {
+      "5436": "and",
+      "1400": "GOVARDHAN",
+      "1439": "is",
+      "1879": "visibly",
+      "7368": "flattered",
+      "4463": "falls",
+      "7654": "for",
+      "5592": "it.",
+      "5613": "The",
+      "3955": "trio",
+      "8260": "walk",
+      "8599": "towards",
+      "7284": "SULOCHANA’s",
+      "9720": "car,",
+      "6879": "which",
+      "3745": "is",
+      "1323": "parked",
+      "4816": "nearby",
+      "9255": "in",
+      "3763": "the",
+      "2976": "lot.",
+      "9319": "GOVARDHAN",
+      "3301": "opens",
+      "7230": "the",
+      "9034": "passenger",
+      "9980": "door",
+      "1606": "and",
+      "2385": "gets",
+      "3432": "inside.",
+      "9725": "SULOCHANA",
+      "8565": "Digu,",
+      "4638": "meemu",
+      "2641": "ekkaali",
+      "4702": "GOVARDHAN",
+      "1887": "Atu",
+      "7812": "vaipu",
+      "2441": "oka",
+      "6256": "door",
+      "3658": "undi",
+      "8509": "kadhaa",
+      "8633": "SULOCHANA",
+      "8869": "Bha!",
+      "2820": "Digu,",
+      "9620": "adhi",
+      "9007": "open",
+      "9904": "avvadhu",
+      "4760": "GOVARDHAN",
+      "2198": "Anduke",
+      "2215": "puraavasthu",
+      "8576": "shaaka",
+      "4877": "nunchi",
+      "4010": "car",
+      "3966": "konnnaru",
+      "2466": "SULOCHANA",
+      "5621": "stares",
+      "8696": "down",
+      "4438": "GOVARDHAN,",
+      "8513": "after",
+      "3074": "which",
+      "2738": "GOVARDHAN",
+      "7583": "climbs",
+      "8070": "off.",
+      "4294": "SULOCHANA",
+      "2048": "gets",
+      "9757": "in;",
+      "4041": "VEDA",
+      "1739": "and",
+      "4883": "GOVARDHAN",
+      "2368": "stand,",
+      "5416": "waiting",
+      "2380": "for",
+      "1286": "the",
+      "8296": "other",
+      "1430": "to",
+      "7539": "get",
+      "3989": "in.",
+      "4923": "GOVARDHAN",
+      "7159": "Ekku",
+      "5418": "VEDA",
+      "9953": "Nenekkute",
+      "8149": "nuvvu",
+      "5103": "ela",
+      "1273": "ekkutaavu",
+      "6528": "GOVARDHAN",
+      "1883": "Ekki",
+      "4627": "lopala",
+      "1975": "kurcho.",
+      "3419": "Mundu",
+      "8282": "nenu",
+      "9394": "kurchuntaanu.",
+      "6983": "VEDA",
+      "1332": "Nuvvu",
+      "1785": "lopala",
+      "6656": "elli",
+      "8586": "kurcho,",
+      "7986": "nenu",
+      "5830": "mundu",
+      "5983": "kurchuntaanu",
+      "8211": "GOVARDHAN",
+      "4692": "Rei,",
+      "2880": "nee",
+      "9096": "gurinchi",
+      "9372": "naaku",
+      "1898": "telusu",
+      "8814": "kaani,",
+      "7549": "poi",
+      "4675": "lopala",
+      "5976": "kurcho,",
+      "7584": "ellu.",
+      "7343": "VEDA",
+      "5778": "reluctantly",
+      "6257": "gets",
+      "9804": "in",
+      "5718": "the",
+      "9369": "back.",
+      "1264": "The",
+      "7983": "trio",
+      "6849": "leaves.",
+      "5506": "CUT",
+      "7529": "TO:"
+    }
+  },
+  "sample_no": "sample6",
+  "pdf_file_name": "page_65.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "GOVARDHAN",
+        "SULOCHANA",
+        "VEDA"
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [],
+      "PROPS": [
+        "car"
+      ],
+      "LOCATION_DETAILS": [
+        "lot"
+      ],
+      "SCREEN_TITLES": [],
+      "CAMERA": [],
+      "SOUND": [
+        "Digu, meemu ekkaali",
+        "Atu vaipu oka door undi kadhaa",
+        "Bha! Digu, adhi open avvadhu",
+        "Anduke puraavasthu shaaka nunchi car konnnaru",
+        "Ekku",
+        "Nenekkute nuvvu ela ekkutaavu",
+        "Ekki lopala kurcho. Mundu nenu kurchuntaanu.",
+        "Nuvvu lopala elli kurcho, nenu mundu kurchuntaanu",
+        "Rei, nee gurinchi naaku telusu kaani, poi lopala kurcho, ellu."
+      ],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [
+        "car"
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            1400,
+            2738
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            4702,
+            4760
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            4883,
+            4923
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            6528,
+            8211
+          ]
+        },
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            2466,
+            4294
+          ]
+        },
+        {
+          "value": "SULOCHANA",
+          "ids": [
+            8633,
+            9725
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            4041,
+            5418
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            6983,
+            7343
+          ]
+        }
+      ],
+      "CAST_INFO": [],
+      "EXTRAS": [],
+      "PROPS": [
+        {
+          "value": "car",
+          "ids": [
+            4010
+          ]
+        }
+      ],
+      "LOCATION_DETAILS": [
+        {
+          "value": "lot",
+          "ids": []
+        }
+      ],
+      "SCREEN_TITLES": [],
+      "CAMERA": [],
+      "SOUND": [
+        {
+          "value": "Digu, meemu ekkaali",
+          "ids": [
+            4638,
+            2641
+          ]
+        },
+        {
+          "value": "Atu vaipu oka door undi kadhaa",
+          "ids": [
+            9980,
+            1887,
+            7812,
+            2441,
+            6256,
+            3658,
+            8509
+          ]
+        },
+        {
+          "value": "Bha! Digu, adhi open avvadhu",
+          "ids": [
+            9620,
+            9007,
+            9904
+          ]
+        },
+        {
+          "value": "Anduke puraavasthu shaaka nunchi car konnnaru",
+          "ids": [
+            2198,
+            2215,
+            8576,
+            4877,
+            4010,
+            3966
+          ]
+        },
+        {
+          "value": "Ekku",
+          "ids": [
+            7159
+          ]
+        },
+        {
+          "value": "Nenekkute nuvvu ela ekkutaavu",
+          "ids": [
+            9953,
+            8149,
+            5103,
+            1273,
+            1332
+          ]
+        },
+        {
+          "value": "Ekki lopala kurcho. Mundu nenu kurchuntaanu.",
+          "ids": [
+            1883,
+            4627,
+            3419,
+            8282,
+            1785,
+            7986,
+            5830,
+            5983,
+            4675
+          ]
+        },
+        {
+          "value": "Nuvvu lopala elli kurcho, nenu mundu kurchuntaanu",
+          "ids": [
+            8149,
+            4627,
+            3419,
+            8282,
+            1332,
+            1785,
+            6656,
+            7986,
+            5830,
+            5983,
+            4675
+          ]
+        },
+        {
+          "value": "Rei, nee gurinchi naaku telusu kaani, poi lopala kurcho, ellu.",
+          "ids": [
+            4627,
+            1785,
+            2880,
+            9096,
+            9372,
+            1898,
+            7549,
+            4675
+          ]
+        }
+      ],
+      "LIGHTS": [],
+      "ELECTRICS": [],
+      "STUNTS": [],
+      "MUSIC": [],
+      "COSTUMES": [],
+      "MAKEUP": [],
+      "HAIR": [],
+      "VEHICLES": [
+        {
+          "value": "car",
+          "ids": [
+            4010
+          ]
+        }
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SET": [],
+      "SET_DRESSING": [],
+      "CONSTRUCTION": [],
+      "SCENE_DETAILS": [],
+      "MECHANICAL_FX": [],
+      "OPTICAL_FX": [],
+      "VISUAL_FX": [],
+      "SOUND_FX": [],
+      "SPECIAL_FX": [],
+      "SPECIAL_EQUIPMENT": [],
+      "MISC": []
+    }
+  }
+}

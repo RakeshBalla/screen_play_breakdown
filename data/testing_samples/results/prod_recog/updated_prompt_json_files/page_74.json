@@ -1,0 +1,183 @@
+{
+  "page_dict": {
+    "alltext": "73.\nCHINTHAN BABA\nAayane chesthunnaaru...\nethamantaava GOVARDHAN?\nVEDA nudges GOVARDHAN. Tension mounts. VEDA is annoyed at\nGOVARDHAN refusing such a simple request.\nVEDA\n(whispers)\nNee sommemanna pothada oh ghanta\nseva chesthe!? Paiga entha punyam!\nGOVARDHAN\n(whispers)\nAasthi raasi istha ani cheppu\nkaavaalante. Naakee punyam oddu.\nVEDA\n(whispers)\nNee abba! Okka saari... okka saari\nco-operate cheyi GOVARDHAN . Inka\nidi last. Aa tharavaatha nijanga\nokari mohaalu okaram chudaalsina\navasaram undadu.\nGOVARDHAN\nSare.\nVEDA\n(to CHINTHAN BABA)\nBaba aayanaki phone chesi chepthara\nippdudu?\nCHINTHAN BABA\nMundu aashirvadam ichi prasadam\npettani...\nCUT TO:",
+    "words_ids": {
+      "7597": "73.",
+      "5788": "CHINTHAN",
+      "6312": "BABA",
+      "1174": "Aayane",
+      "2060": "chesthunnaaru...",
+      "1732": "ethamantaava",
+      "8327": "GOVARDHAN?",
+      "1569": "VEDA",
+      "1711": "nudges",
+      "1575": "GOVARDHAN.",
+      "3290": "Tension",
+      "1755": "mounts.",
+      "5656": "VEDA",
+      "3915": "is",
+      "3302": "ghanta",
+      "7050": "at",
+      "1595": "GOVARDHAN",
+      "7234": "refusing",
+      "1158": "such",
+      "6564": ".",
+      "4632": "simple",
+      "3934": "request.",
+      "5622": "VEDA",
+      "9319": "(whispers)",
+      "8569": "Nee",
+      "2414": "sommemanna",
+      "5039": "pothada",
+      "7159": "oh",
+      "3667": "seva",
+      "7446": "chesthe!?",
+      "6554": "Paiga",
+      "6477": "entha",
+      "4482": "punyam!",
+      "5334": "GOVARDHAN",
+      "6382": "(whispers)",
+      "8978": "Aasthi",
+      "4850": "raasi",
+      "9953": "istha",
+      "5840": "ani",
+      "8652": "cheppu",
+      "8601": "kaavaalante.",
+      "6769": "Naakee",
+      "2448": "punyam",
+      "5022": "oddu.",
+      "9379": "VEDA",
+      "3635": "(whispers)",
+      "9516": "Nee",
+      "5842": "abba!",
+      "3062": "Okka",
+      "3911": "saari...",
+      "8222": "okka",
+      "3585": "saari",
+      "7318": "co-operate",
+      "1937": "cheyi",
+      "8279": "GOVARDHAN",
+      "9145": "Inka",
+      "1930": "idi",
+      "2256": "last.",
+      "5473": "Aa",
+      "6568": "tharavaatha",
+      "6479": "nijanga",
+      "8834": "okari",
+      "7334": "mohaalu",
+      "3055": "okaram",
+      "3662": "chudaalsina",
+      "5174": "avasaram",
+      "8755": "undadu.",
+      "4511": "GOVARDHAN",
+      "8415": "Sare.",
+      "7672": "VEDA",
+      "2802": "(to",
+      "7186": "CHINTHAN",
+      "6351": "BABA)",
+      "4168": "Baba",
+      "8928": "aayanaki",
+      "4193": "phone",
+      "7742": "chesi",
+      "6543": "chepthara",
+      "5274": "ippdudu?",
+      "4845": "CHINTHAN",
+      "7231": "BABA",
+      "3394": "Mundu",
+      "5162": "aashirvadam",
+      "1386": "ichi",
+      "2310": "prasadam",
+      "8932": "pettani...",
+      "1117": "CUT",
+      "8680": "TO:"
+    }
+  },
+  "sample_no": "sample2",
+  "pdf_file_name": "page_74.pdf",
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "CHINTHAN BABA",
+        "GOVARDHAN",
+        "VEDA"
+      ],
+      "SET": [],
+      "PROPS": [
+        "phone",
+        "prasadam"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        {
+          "value": "CHINTHAN BABA",
+          "ids": [
+            5788,
+            6312,
+            7186,
+            4168,
+            4845,
+            7231
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            1595,
+            4511
+          ]
+        },
+        {
+          "value": "GOVARDHAN",
+          "ids": [
+            5334,
+            8279
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            1569,
+            5622
+          ]
+        },
+        {
+          "value": "VEDA",
+          "ids": [
+            5656,
+            7672
+          ]
+        }
+      ],
+      "SET": [],
+      "PROPS": [
+        {
+          "value": "phone",
+          "ids": [
+            4193
+          ]
+        },
+        {
+          "value": "prasadam",
+          "ids": [
+            2310
+          ]
+        }
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

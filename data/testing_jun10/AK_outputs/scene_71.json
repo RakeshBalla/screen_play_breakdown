@@ -1,0 +1,287 @@
+{
+  "ALL_TEXT": "71 EXT. POLICE STATION - DAY\nGOVARDHAN walks up to VEDA, who is smoking. He stubs the\ncigarette he has been smoking on seeing GOVARDHAN. GOVARDHAN\nenters the car\nGOVARDHAN\nNeeko visheyam thelusaa?\nVEDA\nEnti complaint ichesaava?\nGOVARDHAN\nLedhu, lopala okkadu unnaadu oka\nwitness, mottham cheppesaadu mana\niddari gurinchi\nVEDA\nEm cheppaadu?\nGOVARDHAN\nNaa peru ae telisindi akkada, nee\ngurinchi full details cheppadu,\nkukkundhi ani, anni cheppadu\nVEDA is shocked. He can't quite grasp what to do. They get in\nthe car, SULOCHANA already in the driver's seat. She gives\nthe photos to VEDA and starts the car.\nSULOCHANA\nIdhigo photos\nCUT TO:",
+  "WORDS_ID": {
+    "1000": "71",
+    "1001": "EXT.",
+    "1002": "POLICE",
+    "1003": "STATION",
+    "1004": "-",
+    "1005": "DAY",
+    "1006": "GOVARDHAN",
+    "1007": "walks",
+    "1008": "up",
+    "1009": "to",
+    "1010": "VEDA,",
+    "1011": "who",
+    "1012": "is",
+    "1013": "smoking.",
+    "1014": "He",
+    "1015": "stubs",
+    "1016": "the",
+    "1017": "cigarette",
+    "1018": "he",
+    "1019": "has",
+    "1020": "been",
+    "1021": "smoking",
+    "1022": "on",
+    "1023": "seeing",
+    "1024": "GOVARDHAN.",
+    "1025": "GOVARDHAN",
+    "1026": "enters",
+    "1027": "the",
+    "1028": "car",
+    "1029": "GOVARDHAN",
+    "1030": "Neeko",
+    "1031": "visheyam",
+    "1032": "thelusaa?",
+    "1033": "VEDA",
+    "1034": "Enti",
+    "1035": "complaint",
+    "1036": "ichesaava?",
+    "1037": "GOVARDHAN",
+    "1038": "Ledhu,",
+    "1039": "lopala",
+    "1040": "okkadu",
+    "1041": "unnaadu",
+    "1042": "oka",
+    "1043": "witness,",
+    "1044": "mottham",
+    "1045": "cheppesaadu",
+    "1046": "mana",
+    "1047": "iddari",
+    "1048": "gurinchi",
+    "1049": "VEDA",
+    "1050": "Em",
+    "1051": "cheppaadu?",
+    "1052": "GOVARDHAN",
+    "1053": "Naa",
+    "1054": "peru",
+    "1055": "ae",
+    "1056": "telisindi",
+    "1057": "akkada,",
+    "1058": "nee",
+    "1059": "gurinchi",
+    "1060": "full",
+    "1061": "details",
+    "1062": "cheppadu,",
+    "1063": "kukkundhi",
+    "1064": "ani,",
+    "1065": "anni",
+    "1066": "cheppadu",
+    "1067": "VEDA",
+    "1068": "is",
+    "1069": "shocked.",
+    "1070": "He",
+    "1071": "can't",
+    "1072": "quite",
+    "1073": "grasp",
+    "1074": "what",
+    "1075": "to",
+    "1076": "do.",
+    "1077": "They",
+    "1078": "get",
+    "1079": "in",
+    "1080": "the",
+    "1081": "car,",
+    "1082": "SULOCHANA",
+    "1083": "already",
+    "1084": "in",
+    "1085": "the",
+    "1086": "driver's",
+    "1087": "seat.",
+    "1088": "She",
+    "1089": "gives",
+    "1090": "the",
+    "1091": "photos",
+    "1092": "to",
+    "1093": "VEDA",
+    "1094": "and",
+    "1095": "starts",
+    "1096": "the",
+    "1097": "car.",
+    "1098": "SULOCHANA",
+    "1099": "Idhigo",
+    "1100": "photos",
+    "1101": "CUT",
+    "1102": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "GOVARDHAN",
+        "VEDA",
+        "SULOCHANA"
+      ],
+      "SET": [
+        "EXT. POLICE STATION - DAY"
+      ],
+      "PROPS": [
+        "cigarette",
+        "photos"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        "car"
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1006"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1025"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1029"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1037"
+            ]
+          },
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1052"
+            ]
+          },
+          {
+            "value": "GOVARDHAN.",
+            "ids": [
+              "1024"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1033"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1049"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1067"
+            ]
+          },
+          {
+            "value": "VEDA",
+            "ids": [
+              "1093"
+            ]
+          },
+          {
+            "value": "VEDA,",
+            "ids": [
+              "1010"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1082"
+            ]
+          },
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1098"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "EXT. POLICE STATION - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "cigarette",
+            "ids": [
+              "1017"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "photos",
+            "ids": [
+              "1091"
+            ]
+          },
+          {
+            "value": "photos",
+            "ids": [
+              "1100"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [
+        [
+          {
+            "value": "car",
+            "ids": [
+              "1028"
+            ]
+          },
+          {
+            "value": "car,",
+            "ids": [
+              "1081"
+            ]
+          },
+          {
+            "value": "car.",
+            "ids": [
+              "1097"
+            ]
+          }
+        ]
+      ],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

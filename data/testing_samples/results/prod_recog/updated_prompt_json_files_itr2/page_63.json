@@ -1,0 +1,86 @@
+{
+  "sample_no": "sample8",
+  "pdf_file_name": "page_63.pdf",
+  "alltext": "62.\nVEDA\nI\u2019m sure chanipoina vaaru memu\nkotlaadina vaallu veru...\nKaavalante aa photos theppichi\nchudu.\nSULOCHANA\nSare... Ikkade wait chey.\nCUT TO:",
+  "words_ids": {
+    "1000": "62.",
+    "1001": "VEDA",
+    "1002": "I\u2019m",
+    "1003": "sure",
+    "1004": "chanipoina",
+    "1005": "vaaru",
+    "1006": "memu",
+    "1007": "kotlaadina",
+    "1008": "vaallu",
+    "1009": "veru...",
+    "1010": "Kaavalante",
+    "1011": "aa",
+    "1012": "photos",
+    "1013": "theppichi",
+    "1014": "chudu.",
+    "1015": "SULOCHANA",
+    "1016": "Sare...",
+    "1017": "Ikkade",
+    "1018": "wait",
+    "1019": "chey.",
+    "1020": "CUT",
+    "1021": "TO:"
+  },
+  "llm_response": {
+    "production_categories": {
+      "CAST": [
+        "VEDA",
+        "SULOCHANA"
+      ],
+      "SET": [],
+      "PROPS": [
+        "photos"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  },
+  "response_mapping_wordIds": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "VEDA",
+            "ids": [
+              "1001"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "SULOCHANA",
+            "ids": [
+              "1015"
+            ]
+          }
+        ]
+      ],
+      "SET": [],
+      "PROPS": [
+        [
+          {
+            "value": "photos",
+            "ids": [
+              "1012"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": []
+    }
+  }
+}

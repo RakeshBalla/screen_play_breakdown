@@ -1,0 +1,183 @@
+{
+  "ALL_TEXT": "149 INT. GOVARDHAN'S HOUSE-KITCHEN - DAY \nANJI has finished packing GOVARDHAN\u2019s tiffin box. He opens \nthe Milton water flask to replace the water, when he hears a \nscream.. \nGOVARDHAN (O.S.) \nAkkada vachi rendu peekuta! \nTvaraga! \nANJI visually sighs, and looks at the open Milton water flask \nCUT TO: ",
+  "WORDS_ID": {
+    "1000": "149",
+    "1001": "INT.",
+    "1002": "GOVARDHAN'S",
+    "1003": "HOUSE-KITCHEN",
+    "1004": "-",
+    "1005": "DAY",
+    "1006": "ANJI",
+    "1007": "has",
+    "1008": "finished",
+    "1009": "packing",
+    "1010": "GOVARDHAN\u2019s",
+    "1011": "tiffin",
+    "1012": "box.",
+    "1013": "He",
+    "1014": "opens",
+    "1015": "the",
+    "1016": "Milton",
+    "1017": "water",
+    "1018": "flask",
+    "1019": "to",
+    "1020": "replace",
+    "1021": "the",
+    "1022": "water,",
+    "1023": "when",
+    "1024": "he",
+    "1025": "hears",
+    "1026": "a",
+    "1027": "scream..",
+    "1028": "GOVARDHAN",
+    "1029": "(O.S.)",
+    "1030": "Akkada",
+    "1031": "vachi",
+    "1032": "rendu",
+    "1033": "peekuta!",
+    "1034": "Tvaraga!",
+    "1035": "ANJI",
+    "1036": "visually",
+    "1037": "sighs,",
+    "1038": "and",
+    "1039": "looks",
+    "1040": "at",
+    "1041": "the",
+    "1042": "open",
+    "1043": "Milton",
+    "1044": "water",
+    "1045": "flask",
+    "1046": "CUT",
+    "1047": "TO:"
+  },
+  "llm_result": {
+    "production_categories": {
+      "CAST": [
+        "ANJI",
+        "GOVARDHAN"
+      ],
+      "SET": [
+        "INT. GOVARDHAN'S HOUSE-KITCHEN - DAY"
+      ],
+      "PROPS": [
+        "tiffin box",
+        "Milton water flask",
+        "water"
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        "scream"
+      ]
+    }
+  },
+  "predicted_word_ids": {
+    "production_categories": {
+      "CAST": [
+        [
+          {
+            "value": "ANJI",
+            "ids": [
+              "1006"
+            ]
+          },
+          {
+            "value": "ANJI",
+            "ids": [
+              "1035"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "GOVARDHAN",
+            "ids": [
+              "1028"
+            ]
+          }
+        ]
+      ],
+      "SET": [
+        [
+          {
+            "value": "INT. GOVARDHAN'S HOUSE-KITCHEN - DAY",
+            "ids": [
+              "1001",
+              "1002",
+              "1003",
+              "1004",
+              "1005"
+            ]
+          }
+        ]
+      ],
+      "PROPS": [
+        [
+          {
+            "value": "tiffin box.",
+            "ids": [
+              "1011",
+              "1012"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "Milton water flask",
+            "ids": [
+              "1016",
+              "1017",
+              "1018"
+            ]
+          },
+          {
+            "value": "Milton water flask",
+            "ids": [
+              "1043",
+              "1044",
+              "1045"
+            ]
+          }
+        ],
+        [
+          {
+            "value": "water",
+            "ids": [
+              "1017"
+            ]
+          },
+          {
+            "value": "water",
+            "ids": [
+              "1044"
+            ]
+          },
+          {
+            "value": "water,",
+            "ids": [
+              "1022"
+            ]
+          }
+        ]
+      ],
+      "STUNTS": [],
+      "VEHICLES": [],
+      "ANIMALS": [],
+      "NUDITY": [],
+      "GREENERY": [],
+      "SOUND": [
+        [
+          {
+            "value": "scream..",
+            "ids": [
+              "1027"
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}
