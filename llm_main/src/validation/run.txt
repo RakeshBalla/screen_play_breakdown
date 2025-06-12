@@ -1,0 +1,2 @@
+python -m validation.gen_report
+python -m validation.test_scenes
