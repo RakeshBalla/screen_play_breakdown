@@ -13,3 +13,6 @@ pip-log.txt
 .venv
 env/
 venv/
+ui_main/node_modules
+*ui_main/node_modules
+*ui_main/node_modules/
