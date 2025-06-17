@@ -4,9 +4,26 @@ import os
 import json
 from collections import defaultdict
 from screenplay_breakdown.src.final_text_id_mappings import enrich_with_ids
-from screenplay_breakdown.src.utility import get_prompt_structure_recognition, llm_response, get_prompt_production_categories, enrich_with_ids_struct_recog, get_prompt_production_categories_revised
+from screenplay_breakdown.src.utility import get_prompt_structure_recognition, get_prompt_production_categories, enrich_with_ids_struct_recog, get_prompt_production_categories_revised
+from common_utilities.src.main.llm_calling import LLMFactory
+import fitz
+import json
+import dotenv
+from constants import task_name, model_name
+
+llm_client = LLMFactory.get_client(model_name)
 
 
+def get_pairs(data):
+    pairs = []
+    for sublist in data:
+        for item in sublist:
+            cleaned_value = item["value"].strip('''"',:;!?.()[]{}<>-''')
+            if "id" in item:
+                pairs.append((cleaned_value, tuple(item["id"])))
+            elif "ids" in item:
+                pairs.append((cleaned_value, tuple(item["ids"])))   
+    return pairs
 
 
 def split_list(lst, length):
@@ -66,43 +83,35 @@ def extract_value_id_pairs(data):
     return pairs
 
 def calculate_metrics(actual_pairs, predicted_pairs):
-    if not actual_pairs and not predicted_pairs:
-        return 0.0, 0.0
-    
-    # Count exact matches where both value and ids are identical
-    correctly_predicted = 0
-    finised_pairs = []
-    
-    for actual in actual_pairs:
-        found_flag = False
-        for pred in predicted_pairs:
-            if pred['value'] == actual['value'] and pred['ids'] == actual['ids'] and pred['ids'] not in finised_pairs:
-                correctly_predicted += 1
-                finised_pairs.append(pred['ids'])
-                found_flag = True
-        if not found_flag:
-            print(f"Not found: {actual['value']} with ids {actual['ids']}")
-    # Calculate precision and recall
-    predicted_count = len(predicted_pairs)
-    actual_count = len(actual_pairs)
-    precision = correctly_predicted / predicted_count if predicted_count > 0 else 0.0
-    recall = correctly_predicted / actual_count if actual_count > 0 else 0.0
-    
+    actual_set = set(actual_pairs)
+    predicted_set = set(predicted_pairs)
+
+    true_positives = actual_set & predicted_set  # Intersection
+    print(f"True Positives: {true_positives}")
+    precision = len(true_positives) / len(predicted_set) if predicted_set else 0.0
+    recall = len(true_positives) / len(actual_set) if actual_set else 0.0
+
+    # Optional: Print missed predictions
+    false_negatives = actual_set - predicted_set
+    for value, id_ in false_negatives:
+        print(f"Not found: {value} with id {id_}")
+
     return precision, recall
 
 
+
 # Categories to evaluate
-categories = ["ANIMALS", "SET", "PROPERTIES", "STUNTS", "VEHICLES", "CAST", "NUDITY", "GREENERY", "SOUND"]
+categories = ["ANIMALS", "SET", "PROPS", "STUNTS", "VEHICLES", "CAST", "NUDITY", "GREENERY", "SOUND"]
 # categories = ["CAST"]
 
 # Initialize metrics and row-level results
-metrics = defaultdict(lambda: {"precision": [], "recall": []})
+metrics = defaultdict(lambda: {"precision": [], "recall": [], "is_available": []})
 row_results = []
 
 # Read input CSV
-csv_path = "/home/ntlpt19/personal_projects/screen_play_breakdown/data/testing_jun10/prod_reco_gt.csv"
-output_json_dir = "/home/ntlpt19/personal_projects/screen_play_breakdown/data/testing_jun10/outputs"
-output_csv_path = "/home/ntlpt19/personal_projects/screen_play_breakdown/data/testing_jun10/metrics_output.csv"
+csv_path = "/home/ntlpt19/personal_projects/screen_play_breakdown_project/screen_data/testing_jun10/prod_reco_gt.csv"
+output_json_dir = "/home/ntlpt19/personal_projects/screen_play_breakdown_project/screen_data/testing_jun10/outputs"
+output_csv_path = "metrics.csv"
 
 # Ensure output directory exists
 os.makedirs(output_json_dir, exist_ok=True)
@@ -130,7 +139,7 @@ for index, row in df.iterrows():
         try:
             with open(scene_json_path, 'r') as f:
                 json_data = json.load(f)
-                scene_data = json_data.get("scene_data", {})
+                scene_data = json_data.get("llm_result", {})
                 predicted_word_ids = json_data.get("predicted_word_ids", {})
         except (json.JSONDecodeError, IOError):
             print(f"Error reading {scene_json_path}. Regenerating data.")
@@ -138,7 +147,9 @@ for index, row in df.iterrows():
     # If JSON file doesn't exist or failed to load, generate data
     if scene_data is None or predicted_word_ids is None:
         prompt, sys_prompt = get_prompt_production_categories_revised(ALL_TEXT)
-        scene_data = llm_response(prompt, sys_prompt)
+        # scene_data = llm_response(prompt, sys_prompt)
+        scene_data = llm_client.generate_response(prompt, sys_prompt)
+        
         predicted_word_ids = enrich_with_ids(scene_data, WORDS_ID)
         
         # Save to JSON
@@ -173,23 +184,28 @@ for index, row in df.iterrows():
 
         # Get predicted value-id pairs
         predicted_pairs = predicted_word_ids.get("production_categories", {}).get(category, [])
-
-        actual_pairs = gt_convert(ground_truth)
-        predicted_pairs = [item for sublist in predicted_pairs for item in sublist]
-        actual_pairs = [item for sublist in actual_pairs for item in sublist]
+        actual_pairs = get_pairs(ground_truth)
+        predicted_pairs = get_pairs(predicted_pairs)
+        # actual_pairs = gt_convert(ground_truth)
+        # predicted_pairs = [item for sublist in predicted_pairs for item in sublist]
+        # actual_pairs = [item for sublist in actual_pairs for item in sublist]
         print('$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$')
         print('actual_pairs', actual_pairs)
         print('###########')
         print('predicted_pairs', predicted_pairs)
         print('$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$')
-
         # Calculate precision and recall
         precision, recall = calculate_metrics(actual_pairs, predicted_pairs)
         print(f"Category: {category}, Precision: {precision:.4f}, Recall: {recall:.4f}")
+        
         # Store metrics
         metrics[category]["precision"].append(precision)
         metrics[category]["recall"].append(recall)
-
+        if len(actual_pairs) > 0 or len(predicted_pairs) > 0:
+            metrics[category]["is_available"].append(True)
+        else:
+            metrics[category]["is_available"].append(False)
+            
         # Store actual and predicted pairs, precision, and recall for this row
         row_result[f"ACTUAL_{category}_ID"] = str(actual_pairs)
         row_result[f"PREDICTED_{category}_ID"] = str(predicted_pairs)
@@ -207,8 +223,12 @@ agg_metrics = {"Row_Index": ["Average_Precision", "Average_Recall"]}
 for category in categories:
     precisions = metrics[category]["precision"]
     recalls = metrics[category]["recall"]
-    avg_precision = sum(precisions) / len(precisions) if precisions else 0.0
-    avg_recall = sum(recalls) / len(recalls) if recalls else 0.0
+    is_available = metrics[category]["is_available"]
+    filtered_precisions = [p for p, available in zip(precisions, is_available) if available]
+    filtered_recalls = [r for r, available in zip(recalls, is_available) if available]
+    
+    avg_precision = sum(filtered_precisions) / len(filtered_precisions) if filtered_precisions else 0.0
+    avg_recall = sum(filtered_recalls) / len(filtered_recalls) if filtered_recalls else 0.0
     agg_metrics[f"ACTUAL_{category}_ID"] = ["", ""]
     agg_metrics[f"PREDICTED_{category}_ID"] = ["", ""]
     agg_metrics[f"{category}_PRECISION"] = [avg_precision, ""]
@@ -225,6 +245,7 @@ results_df.to_csv(output_csv_path, index=False)
 print("Category-wise Precision and Recall:")
 for category in categories:
     precisions = metrics[category]["precision"]
+    recalls = metrics[category]["recall"]
     recalls = metrics[category]["recall"]
     avg_precision = sum(precisions) / len(precisions) if precisions else 0.0
     avg_recall = sum(recalls) / len(recalls) if recalls else 0.0

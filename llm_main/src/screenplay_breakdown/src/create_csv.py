@@ -2,7 +2,7 @@ import os
 import json
 import csv
 
-from llm_main.src.constants import task_name, sigregate_folder
+from constants import task_name, sigregate_folder
 
 def extract_data_from_json_folder(folder_path, output_csv_path):
     rows = []
@@ -73,8 +73,8 @@ def extract_data_from_json_folder(folder_path, output_csv_path):
 
 
 if __name__ == "__main__":
-    folder_path = '/home/ntlpt19/personal_projects/screen_play_breakdown/data/testing_jun10/AK_outputs'
-    output_csv_path = '/home/ntlpt19/personal_projects/screen_play_breakdown/data/testing_jun10'
+    folder_path = '/home/ntlpt19/personal_projects/screen_play_breakdown_project/screen_data/testing_jun10/Nava_output'
+    output_csv_path = '/home/ntlpt19/personal_projects/screen_play_breakdown_project/screen_data/testing_jun10'
     output_csv_path = f'{output_csv_path}/{task_name}.csv'
     
     

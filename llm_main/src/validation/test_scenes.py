@@ -14,11 +14,6 @@ from constants import task_name, model_name
 
 llm_client = LLMFactory.get_client(model_name)
 
-
-categories = ["ANIMALS", "SET", "PROPERTIES", "STUNTS", "VEHICLES", "CAST", "NUDITY", "GREENERY", "SOUND"]
-# categories = ["CAST"]
-
-
 def process_scenes(output_json_dir, csv_path):
 
     row_results = []
@@ -79,6 +74,6 @@ def process_scenes(output_json_dir, csv_path):
 
 if __name__ == "__main__":
     # Read input CSV
-    csv_path = "/home/ntlpt19/personal_projects/screen_play_breakdown_project/screen_data/testing_jun10/AK_all_scenes.csv"
-    output_json_dir = "/home/ntlpt19/personal_projects/screen_play_breakdown_project/screen_data/testing_jun10/ak_outputs_deepseek"
+    csv_path = "/home/ntlpt19/personal_projects/screen_play_breakdown_project/screen_data/testing_jun10/Nava_draft_all_scenes.csv"
+    output_json_dir = "/home/ntlpt19/personal_projects/screen_play_breakdown_project/screen_data/testing_jun10/Nava_output"
     process_scenes(output_json_dir, csv_path)

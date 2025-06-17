@@ -215,7 +215,7 @@ class LLMFactory:
 
 if __name__ == "__main__":
     llm_client = LLMFactory.get_client(model_name)
-    prompt="Explain how AI works in a few words",
+    prompt="Explain how AI works in a few words in 200 words?",
     sys_prompt="You are a helpful assistant providing concise answers"
     response = llm_client.generate_response(str(sys_prompt), str(prompt))
     print(response)
