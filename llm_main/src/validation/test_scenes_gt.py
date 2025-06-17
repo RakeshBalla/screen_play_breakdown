@@ -65,6 +65,7 @@ def process_scenes(output_json_dir, csv_path, metrics):
         scene_data = None
         llm_result = None
         
+        
         # Check if JSON file exists
         if os.path.exists(scene_json_path):
             try:
