@@ -1,0 +1,2 @@
+python -m sample_llm_calling.open_ai
+python -m common_utilities.src.main.llm_calling

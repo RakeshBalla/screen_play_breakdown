@@ -1,0 +1,1 @@
+python -m screenplay_breakdown.src.main --master_folder "/home/ntlpt19/personal_projects/screen_play_breakdown_project/screen_data/data/testing_samples/data/medium" --output_folder "/home/ntlpt19/personal_projects/screen_play_breakdown_project/screen_data/large_small_me_out"
